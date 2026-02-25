@@ -4,8 +4,10 @@ import { use } from 'react';
 import { useRouter } from 'next/navigation';
 import { useSurahData } from '@/lib/hooks/useSurahData';
 import { useWordData } from '@/lib/hooks/useWordData';
+import { useSurahNuzul } from '@/lib/hooks/useNuzul';
 import { getNextInRevelation, getPrevInRevelation } from '@/lib/data/revelation-order';
 import AyahCard from '@/components/reading/AyahCard';
+import SurahNuzulBanner from '@/components/reading/SurahNuzulBanner';
 
 export default function SurahPage({ params }: { params: Promise<{ number: string }> }) {
   const { number } = use(params);
@@ -13,6 +15,7 @@ export default function SurahPage({ params }: { params: Promise<{ number: string
   const router = useRouter();
   const { data, loading, error } = useSurahData(surahNumber);
   const { data: wordData } = useWordData(surahNumber);
+  const { surahNuzul, verseNuzulMap, loading: nuzulLoading } = useSurahNuzul(surahNumber);
 
   const prev = getPrevInRevelation(surahNumber);
   const next = getNextInRevelation(surahNumber);
@@ -86,6 +89,15 @@ export default function SurahPage({ params }: { params: Promise<{ number: string
         </div>
       </header>
 
+      {/* Surah nuzul banner */}
+      <div className="max-w-2xl mx-auto px-4 pt-4">
+        <SurahNuzulBanner
+          surahName={surah.turkishName}
+          nuzulText={surahNuzul}
+          loading={nuzulLoading}
+        />
+      </div>
+
       {/* Ayah list */}
       <main className="max-w-2xl mx-auto px-4 pt-4 space-y-4">
         {ayahs.map((ayah) => {
@@ -97,6 +109,7 @@ export default function SurahPage({ params }: { params: Promise<{ number: string
               wordData={verseWordData}
               surahNumber={surahNumber}
               surahName={surah.turkishName}
+              verseNuzul={verseNuzulMap[ayah.numberInSurah] || null}
             />
           );
         })}

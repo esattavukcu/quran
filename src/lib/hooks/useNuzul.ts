@@ -1,10 +1,15 @@
 'use client';
 
-import { useState, useCallback } from 'react';
+import { useState, useEffect } from 'react';
 
 interface NuzulData {
   surah: string;
   verses: Record<string, string>;
+}
+
+/** Ayet -> nuzul text eslesmesi (pre-computed) */
+export interface VerseNuzulMap {
+  [verseNumber: number]: string;
 }
 
 const nuzulCache = new Map<number, NuzulData>();
@@ -19,76 +24,54 @@ async function loadSurahNuzul(surahNumber: number): Promise<NuzulData> {
 }
 
 /**
- * Ayet numarasina gore nuzul bilgisi arar.
- * Oncelik sirasi:
- * 1. Tam eslesme: "5"
- * 2. Aralik eslesme: "1-5" - sadece araligin ILK ayetinde gosterir
- *    (ornegin "1-5" araliği sadece ayet 1'de gosterilir, 2-5'te tekrar edilmez)
- * 3. Bulunamazsa null doner
+ * Tum ayet nuzul bilgilerini onceden hesaplar.
+ * Aralik anahtarlari (orn. "1-5") sadece ilk ayete atanir.
  */
-function findVerseNuzul(verses: Record<string, string>, verseNumber: number): string | null {
-  // Tam eslesme
-  const exact = verses[String(verseNumber)];
-  if (exact) return exact;
-
-  // Aralik eslesme - sadece araligin ilk ayetinde goster
-  for (const key of Object.keys(verses)) {
+function buildVerseNuzulMap(verses: Record<string, string>): VerseNuzulMap {
+  const map: VerseNuzulMap = {};
+  for (const [key, value] of Object.entries(verses)) {
     if (key.includes('-')) {
       const [start] = key.split('-').map(Number);
-      if (verseNumber === start) {
-        return verses[key];
-      }
+      map[start] = value;
+    } else {
+      map[Number(key)] = value;
     }
   }
-
-  return null;
+  return map;
 }
 
-export function useNuzul() {
-  const [loading, setLoading] = useState(false);
-  const [surahResult, setSurahResult] = useState<string | null>(null);
-  const [verseResult, setVerseResult] = useState<string | null>(null);
+/**
+ * Sure bazinda nuzul verisini bir kez yukler.
+ * surahNuzul: sure genel bilgisi (ust banner icin)
+ * verseNuzulMap: ayet -> nuzul text (her AyahCard icin)
+ */
+export function useSurahNuzul(surahNumber: number) {
+  const [loading, setLoading] = useState(true);
+  const [surahNuzul, setSurahNuzul] = useState<string | null>(null);
+  const [verseNuzulMap, setVerseNuzulMap] = useState<VerseNuzulMap>({});
   const [error, setError] = useState<string | null>(null);
 
-  const fetchNuzul = useCallback(
-    async (params: {
-      surahNumber: number;
-      surahName: string;
-      verseNumber: number;
-    }) => {
-      setLoading(true);
-      setError(null);
-
-      try {
-        const data = await loadSurahNuzul(params.surahNumber);
-
-        // Ayet bazli nuzul ara
-        const verseContent = findVerseNuzul(data.verses, params.verseNumber);
-        setVerseResult(verseContent);
-
-        // Sure bazli nuzul
-        if (data.surah) {
-          setSurahResult(data.surah);
-        } else {
-          setSurahResult(null);
-          if (!verseContent) {
-            setError('Bu ayet icin nuzul bilgisi bulunamadi');
-          }
-        }
-      } catch (err) {
-        setError(err instanceof Error ? err.message : 'Bir hata olustu');
-      } finally {
-        setLoading(false);
-      }
-    },
-    []
-  );
-
-  const reset = useCallback(() => {
-    setSurahResult(null);
-    setVerseResult(null);
+  useEffect(() => {
+    let cancelled = false;
+    setLoading(true);
     setError(null);
-  }, []);
 
-  return { fetchNuzul, loading, surahResult, verseResult, error, reset };
+    loadSurahNuzul(surahNumber)
+      .then((data) => {
+        if (cancelled) return;
+        setSurahNuzul(data.surah || null);
+        setVerseNuzulMap(buildVerseNuzulMap(data.verses));
+      })
+      .catch((err) => {
+        if (cancelled) return;
+        setError(err instanceof Error ? err.message : 'Bir hata olustu');
+      })
+      .finally(() => {
+        if (!cancelled) setLoading(false);
+      });
+
+    return () => { cancelled = true; };
+  }, [surahNumber]);
+
+  return { surahNuzul, verseNuzulMap, loading, error };
 }

@@ -12,14 +12,14 @@ interface AyahCardProps {
   wordData: WordDataVerse | null;
   surahNumber: number;
   surahName: string;
+  verseNuzul: string | null;
 }
 
-export default function AyahCard({ ayah, wordData, surahNumber, surahName }: AyahCardProps) {
+export default function AyahCard({ ayah, wordData, surahNumber, surahName, verseNuzul }: AyahCardProps) {
   const [selectedWord, setSelectedWord] = useState<{
     word: WordInfo;
     index: number;
   } | null>(null);
-  const [nuzulOpen, setNuzulOpen] = useState(false);
 
   const handleWordClick = useCallback((word: WordInfo, index: number) => {
     setSelectedWord((prev) =>
@@ -56,14 +56,13 @@ export default function AyahCard({ ayah, wordData, surahNumber, surahName }: Aya
       {/* Translations */}
       <TranslationPair diyanet={ayah.diyanet} ozturk={ayah.ozturk} />
 
-      {/* Nuzul Panel */}
-      <NuzulPanel
-        surahNumber={surahNumber}
-        surahName={surahName}
-        verseNumber={ayah.numberInSurah}
-        isOpen={nuzulOpen}
-        onToggle={() => setNuzulOpen(!nuzulOpen)}
-      />
+      {/* Nuzul Panel - sadece ayet bazli veri varsa goster */}
+      {verseNuzul && (
+        <NuzulPanel
+          verseNumber={ayah.numberInSurah}
+          nuzulText={verseNuzul}
+        />
+      )}
 
       {/* Word Popover (inline) */}
       {selectedWord && (
