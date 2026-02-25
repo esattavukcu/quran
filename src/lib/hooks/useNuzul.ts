@@ -2,7 +2,15 @@
 
 import { useState, useCallback } from 'react';
 
-const nuzulCache = new Map<string, string>();
+let nuzulData: Record<string, string> | null = null;
+
+async function loadNuzulData(): Promise<Record<string, string>> {
+  if (nuzulData) return nuzulData;
+  const res = await fetch('/data/nuzul.json');
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  nuzulData = await res.json();
+  return nuzulData!;
+}
 
 export function useNuzul() {
   const [loading, setLoading] = useState(false);
@@ -17,30 +25,19 @@ export function useNuzul() {
       verseEnd: number;
       verseText: string;
     }) => {
-      const key = `${params.surahNumber}:${params.verseStart}-${params.verseEnd}`;
-
-      if (nuzulCache.has(key)) {
-        setResult(nuzulCache.get(key)!);
-        return;
-      }
-
       setLoading(true);
       setError(null);
 
       try {
-        const res = await fetch('/api/nuzul', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(params),
-        });
-
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-
-        const data = await res.json();
-        nuzulCache.set(key, data.nuzul);
-        setResult(data.nuzul);
+        const data = await loadNuzulData();
+        const content = data[String(params.surahNumber)];
+        if (content) {
+          setResult(content);
+        } else {
+          setError('Bu sure icin nuzul bilgisi bulunamadi');
+        }
       } catch (err) {
-        setError(err instanceof Error ? err.message : 'Bir hata oluştu');
+        setError(err instanceof Error ? err.message : 'Bir hata olustu');
       } finally {
         setLoading(false);
       }

@@ -2,7 +2,22 @@
 
 import { useState, useCallback } from 'react';
 
-const etymologyCache = new Map<string, string>();
+const etymologyCache = new Map<number, Record<string, string>>();
+
+async function loadSurahEtymology(surahNumber: number): Promise<Record<string, string>> {
+  if (etymologyCache.has(surahNumber)) return etymologyCache.get(surahNumber)!;
+
+  try {
+    const res = await fetch(`/data/etymology/${surahNumber}.json`);
+    if (!res.ok) return {};
+    const data = await res.json();
+    const words = data.words || {};
+    etymologyCache.set(surahNumber, words);
+    return words;
+  } catch {
+    return {};
+  }
+}
 
 export function useEtymology() {
   const [loading, setLoading] = useState(false);
@@ -17,30 +32,19 @@ export function useEtymology() {
       surahNumber: number;
       verseNumber: number;
     }) => {
-      const key = `${params.surahNumber}:${params.verseNumber}:${params.word}`;
-
-      if (etymologyCache.has(key)) {
-        setResult(etymologyCache.get(key)!);
-        return;
-      }
-
       setLoading(true);
       setError(null);
 
       try {
-        const res = await fetch('/api/etymology', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(params),
-        });
-
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-
-        const data = await res.json();
-        etymologyCache.set(key, data.etymology);
-        setResult(data.etymology);
+        const words = await loadSurahEtymology(params.surahNumber);
+        const content = words[params.word];
+        if (content) {
+          setResult(content);
+        } else {
+          setError('Bu kelime icin etimoloji bilgisi henuz eklenmedi');
+        }
       } catch (err) {
-        setError(err instanceof Error ? err.message : 'Bir hata oluştu');
+        setError(err instanceof Error ? err.message : 'Bir hata olustu');
       } finally {
         setLoading(false);
       }

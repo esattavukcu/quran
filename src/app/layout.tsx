@@ -30,7 +30,8 @@ export default function RootLayout({
   return (
     <html lang="tr">
       <head>
-        <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+        <link rel="manifest" href="/quran/manifest.json" />
+        <link rel="apple-touch-icon" href="/quran/icons/apple-touch-icon.png" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
       </head>
