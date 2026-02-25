@@ -22,7 +22,8 @@ async function loadSurahNuzul(surahNumber: number): Promise<NuzulData> {
  * Ayet numarasina gore nuzul bilgisi arar.
  * Oncelik sirasi:
  * 1. Tam eslesme: "5"
- * 2. Aralik eslesme: "1-5" (ayet 3 icin "1-5" eslenir)
+ * 2. Aralik eslesme: "1-5" - sadece araligin ILK ayetinde gosterir
+ *    (ornegin "1-5" araliği sadece ayet 1'de gosterilir, 2-5'te tekrar edilmez)
  * 3. Bulunamazsa null doner
  */
 function findVerseNuzul(verses: Record<string, string>, verseNumber: number): string | null {
@@ -30,11 +31,11 @@ function findVerseNuzul(verses: Record<string, string>, verseNumber: number): st
   const exact = verses[String(verseNumber)];
   if (exact) return exact;
 
-  // Aralik eslesme
+  // Aralik eslesme - sadece araligin ilk ayetinde goster
   for (const key of Object.keys(verses)) {
     if (key.includes('-')) {
-      const [start, end] = key.split('-').map(Number);
-      if (verseNumber >= start && verseNumber <= end) {
+      const [start] = key.split('-').map(Number);
+      if (verseNumber === start) {
         return verses[key];
       }
     }
