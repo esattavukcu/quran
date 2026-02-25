@@ -163,8 +163,18 @@ export default function WordPopover({
         )}
 
         {aiResult && (
-          <div className="text-sm text-foreground/80 leading-relaxed whitespace-pre-wrap max-h-[200px] overflow-y-auto">
-            {aiResult}
+          <div className="text-sm text-foreground/80 leading-relaxed max-h-[200px] overflow-y-auto space-y-1">
+            {aiResult.split('\n').map((line, i) => {
+              // Bold: **text**
+              const rendered = line.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+              return (
+                <p
+                  key={i}
+                  className={line.startsWith('-') ? 'pl-2' : line.match(/^\d+\./) ? 'font-semibold text-accent mt-2' : ''}
+                  dangerouslySetInnerHTML={{ __html: rendered || '&nbsp;' }}
+                />
+              );
+            })}
           </div>
         )}
       </div>
