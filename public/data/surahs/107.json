@@ -24,7 +24,17 @@
       "bulac": "Dini yalanlayanı gördün mü?",
       "esed": "Hiç bütün bir ahlaki değerler sistemini yalanlayan (birini) tasavvur edebilir misin?",
       "suleymaniye": "Bu din hakkında yalan söyleyip duranı gördün mü?[1]",
-      "ates": "Din (ahiret cezasın)ı yalanlayan(adam)ı gördün mü?"
+      "ates": "Din (ahiret cezasın)ı yalanlayan(adam)ı gördün mü?",
+      "hulusi": "Gördün mü dinini (Sünnetullah'ı) yalanlayan şu kimseyi?",
+      "bayrakli": "Dini yalanlayanı gördün mü?",
+      "elmali_sade": "Gördün mü o dine yalan diyeni?",
+      "cantay": "Dini yalan sayanı gördün mü?",
+      "piris": "Hüküm gününü yalanlayanı gördün mü?",
+      "yildirim": "Baksana şu dini, mahşer ve hesabı yalan sayana!",
+      "safa": "Dini yalanlayanı görüyor musun?",
+      "yuksel": "Dini yalanlayanı gördün mü?",
+      "aktas": "Dini[1] yalanlayanı görüyorsun değil mi?",
+      "okuyan": "Dini (hesap gününü) yalanlayanı gördün mü?"
     },
     {
       "number": 6199,
@@ -40,7 +50,17 @@
       "bulac": "İşte yetimi itip kakan,",
       "esed": "İşte böyle biridir, yetimi itip kakan,",
       "suleymaniye": "İşte o; yetimi itip kakan,[1]",
-      "ates": "İşte o, öksüzü iter, kakar;"
+      "ates": "İşte o, öksüzü iter, kakar;",
+      "hulusi": "İşte o, yetimi azarlayıp iter - kakar,",
+      "bayrakli": "İşte o, yetimi itip kakar.",
+      "elmali_sade": "İşte yetimi itip kakan odur!",
+      "cantay": "İşte yetimi unf-ü şiddetle iten,",
+      "piris": "Yetimi itip kakan işte odur.",
+      "yildirim": "O, yetimi şiddetle itip kakar.",
+      "safa": "Yetimi örseleyen, işte böylesidir.",
+      "yuksel": "İşte,  öksüze kötü davranan odur.",
+      "aktas": "İşte o, yetimi itip kakar.",
+      "okuyan": "İşte o, yetimi itip kakandır. "
     },
     {
       "number": 6200,
@@ -56,7 +76,17 @@
       "bulac": "Yoksulu doyurmayı teşvik etmeyen odur.",
       "esed": "yoksulu doyurma arzusu/gayreti duymayan.",
       "suleymaniye": "çaresizlerin yiyeceği için teşvikte bile bulunmayandır.[1]",
-      "ates": "Yoksulu doyurmağa önayak olmaz."
+      "ates": "Yoksulu doyurmağa önayak olmaz.",
+      "hulusi": "Yoksulları doyurmaya teşvik etmez (cimri, bencil)!",
+      "bayrakli": "Yoksulu doyurmaya teşvik etmez.",
+      "elmali_sade": "Yoksulu doyurmaya teşvik etmez.",
+      "cantay": "yoksulu doyurmayı teşvik etmeyen odur.",
+      "piris": "Düşkünü doyurmaktan hoşlanmaz.",
+      "yildirim": "Muhtacı doyurmayı hiç teşvik etmez.",
+      "safa": "Ve yoksulu doyurmayı özendirmez.",
+      "yuksel": "Yoksulları doyurmaya da yanaşmaz.",
+      "aktas": "Miskini doyurmaya teşvik etmez.[1]",
+      "okuyan": "Yoksulu doyurmaya teşvik etmez."
     },
     {
       "number": 6201,
@@ -72,7 +102,17 @@
       "bulac": "İşte (şu) namaz kılanların vay haline,",
       "esed": "Yazıklar olsun şu namaz kılıp duranlara,",
       "suleymaniye": "(Müslüman görünmek için) kulluk görevlerini de yapan o kimselerin vay haline ki",
-      "ates": "Şu namaz kılanların vay haline,"
+      "ates": "Şu namaz kılanların vay haline,",
+      "hulusi": "Vay haline o (adet diye) namaz kılanlara ki;",
+      "bayrakli": "- Namazlarından gaflette olarak namaz kılanların vay haline!",
+      "elmali_sade": "Fakat veyl o namaz kılanlara ki,",
+      "cantay": "İşte (bu vasıflarla beraber) namaz kılan (münafık) ların vay haaline ki,",
+      "piris": "Öyleyse yazıklar olsun o namaz kılanlara.",
+      "yildirim": "Vay haline şöyle namaz kılanların:",
+      "safa": "Böyle namaz kılanların; artık, vay başlarına gelene!",
+      "yuksel": "Yazıklar olsun o salat edenlere,[1]",
+      "aktas": "Vay haline salat edenlerin![1]",
+      "okuyan": "Yazıklar olsun o salât (ibadet) edenlere.[1]"
     },
     {
       "number": 6202,
@@ -88,7 +128,17 @@
       "bulac": "Ki onlar, namazlarında yanılgıdadırlar,",
       "esed": "onlar ki kalpleri namazlarına yabancıdır,",
       "suleymaniye": "onlar kulluk görevlerini önemsemeyenlerdir.",
-      "ates": "Ki, onlar namazlarından gaflet ederler (kıldıkları namazın değerini bilmez, ona önem vermezler)."
+      "ates": "Ki, onlar namazlarından gaflet ederler (kıldıkları namazın değerini bilmez, ona önem vermezler).",
+      "hulusi": "Onlar, (iman edenin mi'racı olan) salatlarından (okunanların manasını yaşamaktan) kozalıdırlar (gafildirler)!",
+      "bayrakli": "- Namazlarından gaflette olarak namaz kılanların vay haline!",
+      "elmali_sade": "namazlarında yanılmaktadırlar.",
+      "cantay": "onlar namazlarından gaafildirler,",
+      "piris": "Kıldıkları namazdan gafil olanlara.",
+      "yildirim": "(5-7) Ki onlar namazlarından gafildirler (Kıldıkları namazın değerini bilmez, namaza gereken ihtimamı göstermezler). İbadetlerini gösteriş için yapar, zekat ve diğer yardımlarını esirger, vermezler.",
+      "safa": "Onlar, namazlarından aymazlık içindedir.",
+      "yuksel": "Onlar ki salatlarından tümüyle habersizdirler.",
+      "aktas": "Onlar ki salatlarından[1] gafletteler.",
+      "okuyan": "Ki onlar (yaptıklarını sandığı) salâtlarından (ibadetlerinden) habersizdir. "
     },
     {
       "number": 6203,
@@ -104,7 +154,17 @@
       "bulac": "Onlar gösteriş yapmaktadırlar,",
       "esed": "onlar ki niyetleri yalnızca görülüp takdir edilmektir,",
       "suleymaniye": "Onlar gösteriş yaparlar.[1]",
-      "ates": "Onlar gösteriş (için ibadet) yaparlar."
+      "ates": "Onlar gösteriş (için ibadet) yaparlar.",
+      "hulusi": "Onlar gösteriş yapanların ta kendileridirler!",
+      "bayrakli": "Onlar gösteriş yapanlardır.",
+      "elmali_sade": "Onlar ki, gösteriş yaparlar.",
+      "cantay": "onlar riyakarların ta kendileridir.",
+      "piris": "Gösteriş yapanlara.",
+      "yildirim": "(5-7) Ki onlar namazlarından gafildirler (Kıldıkları namazın değerini bilmez, namaza gereken ihtimamı göstermezler). İbadetlerini gösteriş için yapar, zekat ve diğer yardımlarını esirger, vermezler.",
+      "safa": "Gösteriş yaparlar.",
+      "yuksel": "Onlar ki gösteriş yaparlar.",
+      "aktas": "Onlar gösteriş yapanlardır.",
+      "okuyan": "Onlar gösteriş yaparlar.[1]"
     },
     {
       "number": 6204,
@@ -120,7 +180,17 @@
       "bulac": "Ve 'ufacık bir yardımı (veya zekatı) da' engellemektedirler.",
       "esed": "ve üstelik onlar, (insanlara) en ufak bir yardımı bile reddederler!",
       "suleymaniye": "Onlar, ufak tefek şeyleri bile (başkalarından) esirgerler.[1]",
-      "ates": "En ufak bir yardımı esirgerler."
+      "ates": "En ufak bir yardımı esirgerler.",
+      "hulusi": "Hayrı da engellerler!",
+      "bayrakli": "Hayra da mani olurlar.",
+      "elmali_sade": "Ve yardımlığı sakınır (zekatı yemezler).",
+      "cantay": "Zekatı da men'ederler onlar.",
+      "piris": "Ufak tefek yardıma bile engel olanlara..",
+      "yildirim": "(5-7) Ki onlar namazlarından gafildirler (Kıldıkları namazın değerini bilmez, namaza gereken ihtimamı göstermezler). İbadetlerini gösteriş için yapar, zekat ve diğer yardımlarını esirger, vermezler.",
+      "safa": "Kamu Haklarına da engel olurlar.[621]",
+      "yuksel": "Ve yardımı da engellerler.",
+      "aktas": "Ve küçük, basit, sıradan yardımı bile esirgerler.",
+      "okuyan": "(En ufak) yardıma (bile) engel olurlar. "
     }
   ]
 }

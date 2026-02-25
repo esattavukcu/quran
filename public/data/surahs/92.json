@@ -24,7 +24,17 @@
       "bulac": "Sarıp örttüğü zaman geceye andolsun,",
       "esed": "Düşün (yeryüzünü) karanlığa boğan geceyi,",
       "suleymaniye": "(Gündüzü) Kapladığı zaman geceye,[1]",
-      "ates": "Örttüğü zaman geceye andolsun,"
+      "ates": "Örttüğü zaman geceye andolsun,",
+      "hulusi": "Kasem ederim örttüğü vakit geceye,",
+      "bayrakli": "- Örttüğü zaman geceye, göründüğü zaman gündüze, erkeği ve dişiyi yaratana yemin olsun ki,",
+      "elmali_sade": "Andolsun bürürken o geceye,",
+      "cantay": "Andolsun: Bürüyüb örtdüğü zaman geceye,",
+      "piris": "Bürüdüğü zaman geceye and olsun.",
+      "yildirim": "Karanlığı ile ortalığı bürüdüğü zaman gece hakkı için!",
+      "safa": "Yemin olsun; örttüğünde Geceye!",
+      "yuksel": "Ant olsun bürüdüğü zaman geceye, [1]",
+      "aktas": "Örttüğü zaman geceye ant olsun.",
+      "okuyan": "Yemin olsun: (Karanlığı)yla kapladığında geceye,"
     },
     {
       "number": 6060,
@@ -40,7 +50,17 @@
       "bulac": "Parıldayıp aydınlandığı zaman gündüze,",
       "esed": "ve aydınlığı yükselten gündüzü!",
       "suleymaniye": "açığa çıktığında gündüze,[1]",
-      "ates": "Göründüğü zaman gündüze andolsun,"
+      "ates": "Göründüğü zaman gündüze andolsun,",
+      "hulusi": "Parlayıp açığa çıktığında gündüze,",
+      "bayrakli": "- Örttüğü zaman geceye, göründüğü zaman gündüze, erkeği ve dişiyi yaratana yemin olsun ki,",
+      "elmali_sade": "açıldığı zaman o gündüze,",
+      "cantay": "açıl (ıb ağar) dığı zaman gündüze,",
+      "piris": "Ortaya çıktığı zaman gündüze.",
+      "yildirim": "Açılıp parladığı zaman gündüz,",
+      "safa": "Ve aydınlandığında gündüze!",
+      "yuksel": "Ortaya çıktığı zaman gündüze, ",
+      "aktas": "Ortaya çıktığı zaman gündüze,",
+      "okuyan": "Ortaya çıktığında gündüze,"
     },
     {
       "number": 6061,
@@ -56,7 +76,17 @@
       "bulac": "Erkeği ve dişiyi yaratana;",
       "esed": "Erkeğin ve dişinin yaratılışını düşün!",
       "suleymaniye": "erkeği ve dişiyi yaratana yemin olsun ki[1]",
-      "ates": "Erkeği ve dişiyi yaratana andolsun ki,"
+      "ates": "Erkeği ve dişiyi yaratana andolsun ki,",
+      "hulusi": "Erkeği ve dişiyi (etken ve edilgeni) yaratana ki,",
+      "bayrakli": "- Örttüğü zaman geceye, göründüğü zaman gündüze, erkeği ve dişiyi yaratana yemin olsun ki,",
+      "elmali_sade": "erkeği ve dişiyi yaratana ki,",
+      "cantay": "erkeği ve dişiyi yaradana,",
+      "piris": "Erkeği ve dişiyi yaratana..",
+      "yildirim": "Erkeği de, dişiyi de yaratan kudret hakkı için ki:",
+      "safa": "Erkeği ve dişiyi yaratana!",
+      "yuksel": "Erkeği ve dişiyi yaratana ant olsun ki, ",
+      "aktas": "Erkeği ve dişiyi yaratana,",
+      "okuyan": "Erkeği ve dişiyi yaratana ki "
     },
     {
       "number": 6062,
@@ -72,7 +102,17 @@
       "bulac": "Gerçekten sizin çabalarınız (çelişkili, parça parça) darmadağınıktır.",
       "esed": "Gerçekte, (ey insanlar,) siz çok çeşitli hedefler peşindesiniz!",
       "suleymaniye": "sizin çalışmalarınız elbette farklı farklıdır.[1]",
-      "ates": "Sizin işiniz çeşit çeşittir:"
+      "ates": "Sizin işiniz çeşit çeşittir:",
+      "hulusi": "Muhakkak ki çalışmanız, elbette farklı amaçlara dönüktür.",
+      "bayrakli": "Doğrusu sizin çalışmalarınız çeşitlidir.",
+      "elmali_sade": "sizin çabanız dağınıktır",
+      "cantay": "ki hakıykaten sizin sa'y (-ü amel) iniz bölüm bölüm (çeşid çeşid) dir.",
+      "piris": "Doğrusu sizin çalışmalarınız çeşit çeşittir.",
+      "yildirim": "Sizin işleriniz çeşit çeşittir.",
+      "safa": "Aslında, sizin çalışmanız, gerçekten türlü türlüdür.",
+      "yuksel": "İşleriniz çeşit çeşittir.",
+      "aktas": "Çabalarınız çeşit çeşittir.",
+      "okuyan": "İşleriniz çeşit çeşittir."
     },
     {
       "number": 6063,
@@ -88,7 +128,17 @@
       "bulac": "Fakat kim verir ve korkup sakınırsa,",
       "esed": "Her kim (başkaları için) harcar ve Allah'a karşı sorumluluk bilinci taşırsa,",
       "suleymaniye": "Her kim (elinde olandan) verir ve yanlış yapmaktan sakınır,[1]",
-      "ates": "Kim (hayır için) verir, korunursa,"
+      "ates": "Kim (hayır için) verir, korunursa,",
+      "hulusi": "Kim verir ve korunursa,",
+      "bayrakli": "- Ancak verenin, saygı duyanın ve en güzeli tasdik edenin işlerini kolaylaştırırız.",
+      "elmali_sade": "Ama bundan böyle her kim vergi verir korunursa",
+      "cantay": "(Bundan sonra) kim verir ve sakınırsa,",
+      "piris": "Kim (malından) verir ve korunursa..",
+      "yildirim": "Malını Allah yolunda harcayıp O'na saygı duyarak haramdan sakınan,",
+      "safa": "Kim verir ve sorumluluk bilincine erişirse.",
+      "yuksel": "Kim verir ve erdemli davranır, ",
+      "aktas": "Fakat kim verir ve takva sahibi olursa,",
+      "okuyan": "Kim (malını) verirse, takvâlı (duyarlı) davranırsa,"
     },
     {
       "number": 6064,
@@ -104,7 +154,17 @@
       "bulac": "Ve en güzel olanı doğrularsa,",
       "esed": "ve nihai güzelliğin/iyiliğin gerçekliğine inanırsa,",
       "suleymaniye": "bir de en güzel olanı (ayetlerimizi) kabul ederse,[1]",
-      "ates": "Ve en güzel (söz)ü doğrularsa,"
+      "ates": "Ve en güzel (söz)ü doğrularsa,",
+      "hulusi": "El Hüsna'yı (en güzelini hakikati olarak) tasdik ederse,",
+      "bayrakli": "- Ancak verenin, saygı duyanın ve en güzeli tasdik edenin işlerini kolaylaştırırız.",
+      "elmali_sade": "ve en güzeli doğrularsa",
+      "cantay": "o en güzeli de tasdıyk ederse,",
+      "piris": "En güzeli tasdik ederse.",
+      "yildirim": "O en güzel kelimeyi (kelime-i tevhidi) tasdik eden kimseyi.",
+      "safa": "Ve en güzeli doğrularsa.[602]",
+      "yuksel": "Ve iyiyi,  güzeli doğrularsa, ",
+      "aktas": "En iyiyi doğrularsa,",
+      "okuyan": "En güzeli (Kur'an'ı) doğrularsa,"
     },
     {
       "number": 6065,
@@ -120,7 +180,17 @@
       "bulac": "Biz de onu kolay olan için başarılı kılacağız.",
       "esed": "işte onun için (nihai) huzur ve rahatlığa giden yolu kolaylaştıracağız.",
       "suleymaniye": "onun en kolay olana yönelmesini kolaylaştıracağız.[1]",
-      "ates": "Ona en kolay (yolda gitmey)i kolaylaştırırız."
+      "ates": "Ona en kolay (yolda gitmey)i kolaylaştırırız.",
+      "hulusi": "Böylece ona en kolayı kolaylaştırırız!",
+      "bayrakli": "- Ancak verenin, saygı duyanın ve en güzeli tasdik edenin işlerini kolaylaştırırız.",
+      "elmali_sade": "Biz onu en kolayına kolaylayacağız.",
+      "cantay": "biz de onu en kolaya hazırlarız.",
+      "piris": "Biz de ona kolay olması için başarı vereceğiz.",
+      "yildirim": "Biz de en kolay yola muvaffak ederiz.",
+      "safa": "Onu, en kolay olana kolayca iletiriz.",
+      "yuksel": "Ona iyice kolaylaştırırız.",
+      "aktas": "Ona en kolayı[1] kolaylaştıracağız.",
+      "okuyan": "Kolay olanı (cennete gitmeyi) ona kolaylaştıracağız. "
     },
     {
       "number": 6066,
@@ -136,7 +206,17 @@
       "bulac": "Kim de cimrilik eder, kendini müstağni görürse,",
       "esed": "Cimrilik yapana ve kendi kendine yeterli olduğunu zannedene,",
       "suleymaniye": "Kim de cimrilik eder ve (yanlışlardan sakınmaya) ihtiyaç duymaz,[1]",
-      "ates": "Kim de cimrilik eder, kendini zengin (ve kendine yeterli) görürse,"
+      "ates": "Kim de cimrilik eder, kendini zengin (ve kendine yeterli) görürse,",
+      "hulusi": "Ama kim de cimrilik eder ve müstağni olursa (arınmaya, korunmaya ihtiyaç duymazsa);",
+      "bayrakli": "- Ama cimrilik edip kendini ihtiyaçsız, yeterli gören ve güzeli yalanlayana da, zorluklara uğramasını kolaylaştırırız. Cehenneme yuvarlandığı zaman malı ona hiçbir yarar sağlamaz.",
+      "elmali_sade": "Her kim de cimrilik eder, kendisini müstağni sayar",
+      "cantay": "Amma kim cimrilik eder, kendisini müstağni görür,",
+      "piris": "Kim de cimrilik eder ve kendini ihtiyaçsız görürse..",
+      "yildirim": "Cimri davranan, bir de kendini güçlü sanıp Allah'tan müstağni gören,",
+      "safa": "Kim cimrilik yapar ve kendisinin kendisine yeterli olduğunu sanırsa.",
+      "yuksel": "Fakat,  kim cimrilik edip zenginlik taslar, ",
+      "aktas": "Fakat kim cimrilik eder de kendisini müstağni[1] görürse,",
+      "okuyan": "Kim de cimrilik ederse, (kendini) zengin (yeterli) görürse, "
     },
     {
       "number": 6067,
@@ -152,7 +232,17 @@
       "bulac": "Ve en güzel olanı yalan sayarsa,",
       "esed": "ve nihai güzelliği/iyiliği yalanlayana gelince,",
       "suleymaniye": "en güzel olanı (ayetlerimizi) yalan sayarsa[1]",
-      "ates": "Ve en güzel (söz)ü de yalanlarsa,"
+      "ates": "Ve en güzel (söz)ü de yalanlarsa,",
+      "hulusi": "El Hüsna'yı (en güzelini hakikati olarak) yalanlarsa;",
+      "bayrakli": "- Ama cimrilik edip kendini ihtiyaçsız, yeterli gören ve güzeli yalanlayana da, zorluklara uğramasını kolaylaştırırız. Cehenneme yuvarlandığı zaman malı ona hiçbir yarar sağlamaz.",
+      "elmali_sade": "ve en güzeli yalanlarsa;",
+      "cantay": "ve o en güzeli yalanlarsa,",
+      "piris": "En güzeli yalanlarsa..",
+      "yildirim": "(9-10) O en güzel kelimeyi (kelime-i tevhidi) yalan sayanı ise, en güç yola sardırırız.",
+      "safa": "Ve en güzeli yalanlarsa.",
+      "yuksel": "Ve iyiyi,  güzeli yalanlarsa, ",
+      "aktas": "En iyiyi yalanlarsa,",
+      "okuyan": "En güzeli (Kur'an'ı) yalanlarsa,"
     },
     {
       "number": 6068,
@@ -168,7 +258,17 @@
       "bulac": "Biz de ona en zorlu olanı (azaba uğramasını) kolaylaştıracağız.",
       "esed": "onun için zorluğa ve sıkıntıya giden yolu kolaylaştırırız:",
       "suleymaniye": "onun da en zor olana yönelmesini kolaylaştıracağız.[1]",
-      "ates": "Ona da en güç (yolda gitmey)i kolaylaştırırız."
+      "ates": "Ona da en güç (yolda gitmey)i kolaylaştırırız.",
+      "hulusi": "Ona en zoru (hakikatten ve Sünnetullah'tan perdeli yaşamayı) kolaylaştırırız!",
+      "bayrakli": "- Ama cimrilik edip kendini ihtiyaçsız, yeterli gören ve güzeli yalanlayana da, zorluklara uğramasını kolaylaştırırız. Cehenneme yuvarlandığı zaman malı ona hiçbir yarar sağlamaz.",
+      "elmali_sade": "onu da en zor olana hazırlayacağız.",
+      "cantay": "biz de ona en güc olanı kolaylaşdırırız.",
+      "piris": "Biz de ona zorluğu kolaylaştırırız.",
+      "yildirim": "(9-10) O en güzel kelimeyi (kelime-i tevhidi) yalan sayanı ise, en güç yola sardırırız.",
+      "safa": "Onu, en zor olana kolayca iletiriz.",
+      "yuksel": "Onu da zora yöneltiriz.",
+      "aktas": "Ona en zoru[1] kolaylaştıracağız.",
+      "okuyan": "Ona da zor olanı (cehenneme gitmeyi) kolaylaştıracağız. "
     },
     {
       "number": 6069,
@@ -184,7 +284,17 @@
       "bulac": "Tereddi edeceği (başaşağı düşüşe uğrayacağı) zaman, malı ona hiç yarar sağlamaz.",
       "esed": "bakalım serveti onu koruyacak mı (mezarına) girdiği zaman?",
       "suleymaniye": "(Cehenneme) yuvarlandığı zaman malı bir işine yaramayacak.[1]",
-      "ates": "Çukura düştüğü zaman malı ona hiçbir fayda sağlamaz."
+      "ates": "Çukura düştüğü zaman malı ona hiçbir fayda sağlamaz.",
+      "hulusi": "(Cehenneme) yuvarlandığında, malı (zenginliği) ona hiçbir fayda sağlamaz.",
+      "bayrakli": "- Ama cimrilik edip kendini ihtiyaçsız, yeterli gören ve güzeli yalanlayana da, zorluklara uğramasını kolaylaştırırız. Cehenneme yuvarlandığı zaman malı ona hiçbir yarar sağlamaz.",
+      "elmali_sade": "Ve yuvarlandığı zaman onu malı kurtaramayacak!",
+      "cantay": "O, helak olduğu zaman malı kendisine asla faide vermez.",
+      "piris": "Baş aşağı düştüğü zaman malı ona bir yarar sağlamaz.",
+      "yildirim": "O, aşağıya doğru yuvarlanırken malı kendisine hiç fayda etmez.",
+      "safa": "Aşağı yuvarlandığında, malı ona yarar sağlamaz.",
+      "yuksel": "Düştüğü vakit kurtaramaz parası/malı onu.",
+      "aktas": "Düştüğü[1] zaman malı ona yarar sağlamaz.",
+      "okuyan": "Düştüğü zaman da malı kendisine yarar sağlamayacaktır."
     },
     {
       "number": 6070,
@@ -200,7 +310,17 @@
       "bulac": "Şüphesiz, bize ait olan, yol göstermektir.",
       "esed": "Bakın, Bize düşen doğru yolu göstermektir;",
       "suleymaniye": "Doğru yola kabul etmek, kesinlikle bizim işimizdir.[1]",
-      "ates": "Doğru yola iletmek bize aittir."
+      "ates": "Doğru yola iletmek bize aittir.",
+      "hulusi": "Muhakkak ki hakikate erdirmek bize aittir.",
+      "bayrakli": "Doğru yolu göstermek bize aittir.",
+      "elmali_sade": "Kesinlikle doğru yolu göstermek Bize aittir.",
+      "cantay": "Şübhesiz bize aid olan, her halde doğru yol (u göstermekdir).",
+      "piris": "Doğru yolu göstermek bize düşer.",
+      "yildirim": "Doğru yolu göstermek elbette Bizim işimizdir.",
+      "safa": "Kuşkusuz, doğru yolu göstermek, kesinlikle Bize özgüdür.",
+      "yuksel": "Doğruya biz iletiriz;",
+      "aktas": "Kuşkusuz doğru yolu göstermek Biz'e aittir.",
+      "okuyan": "Şüphesiz ki doğru yola ulaştırmak yalnızca bize aittir.[1]"
     },
     {
       "number": 6071,
@@ -216,7 +336,17 @@
       "bulac": "Gerçekten, son da, ilk de (ahiret ve dünya) bizimdir.",
       "esed": "ve hem öteki dünya, hem de (hayatınızın) bu ilk bölümü (üzerindeki hakimiyet) Bize aittir:",
       "suleymaniye": "Şüphesiz Ahiret de bizimdir, dünya da...[1]",
-      "ates": "Son da ilk de (ahiret de dünya da) bizimdir."
+      "ates": "Son da ilk de (ahiret de dünya da) bizimdir.",
+      "hulusi": "Muhakkak ki bizimdir gelecek sonsuz yaşam da şu anki de!",
+      "bayrakli": "Şüphesiz, ahiret de dünya da bizimdir.",
+      "elmali_sade": "Kuşkusuz sonu da Bizim önü de Bizim (ahiret de Bizimdir dünya da)!",
+      "cantay": "Elbet ahiret de, dünya da bizimdir.",
+      "piris": "Şüphesiz ahiret de dünya da bize aittir.",
+      "yildirim": "Ahiret gibi dünya da elbette Bize aittir.",
+      "safa": "Ve kuşkusuz, sonrası da öncesi de Bizimdir.",
+      "yuksel": "Sonu da ilki de biz kontrol ederiz.",
+      "aktas": "Kuşkusuz ilk[1] de son[1] da Bizimdir.",
+      "okuyan": "Şüphesiz ki ilk de son da (dünya da ahiret de) bizimdir."
     },
     {
       "number": 6072,
@@ -232,7 +362,17 @@
       "bulac": "Artık sizi, 'alevleri kabardıkça kabaran' bir ateşle uyardım.",
       "esed": "İşte, sizi alevler saçan ateşe karşı uyarıyorum;",
       "suleymaniye": "Bu sebeple ben sizi, alevler saçan ateşe karşı uyardım.[1]",
-      "ates": "Ben sizi alev saçan bir ateşe karşı uyardım."
+      "ates": "Ben sizi alev saçan bir ateşe karşı uyardım.",
+      "hulusi": "Sizi, çok alevlenen ateşe karşı uyardım.",
+      "bayrakli": "Alev alev yanan bir ateşle sizi uyarıyorum.",
+      "elmali_sade": "Ben sizi köpürdükçe köpüren bir ateşe karşı uyardım.",
+      "cantay": "İşte ben size alevlendikce alevlenen bir ateş (in tehlikesin) i haber verdim.",
+      "piris": "Sizi, alev saçan ateşe karşı uyardım.",
+      "yildirim": "İşte Ben, sizi alev saçan bir ateşe karşı uyarıyorum.",
+      "safa": "Artık, alevler saçan ateşle sizi uyardım.",
+      "yuksel": "Ben sizi alevli bir ateşe karşı uyardım.[1]",
+      "aktas": "Alev saçan bir ateşe karşı sizi uyardım.",
+      "okuyan": "Ben sizi alevli bir ateşe karşı uyardım."
     },
     {
       "number": 6073,
@@ -248,7 +388,17 @@
       "bulac": "Ona, ancak en bedbaht olandan başkası yollanmaz;",
       "esed": "(öyle bir ateş ki) kimse girmez, en onulmaz azgınlar dışında,",
       "suleymaniye": "Ona sadece en hayırsız olan kişi girip kalacak;[1]",
-      "ates": "Ona ancak haydut olan girer."
+      "ates": "Ona ancak haydut olan girer.",
+      "hulusi": "Ona sadece en şaki maruz kalır.",
+      "bayrakli": "- O ateşe, yalanlayıp yüz çeviren bedbahtan başkası girmez.",
+      "elmali_sade": "Ona ancak en bedbaht olan yaslanır.",
+      "cantay": "Ki ona en bedbaht olandan başkası girmez.",
+      "piris": "Ona ancak isyankar olanlar girecektir.",
+      "yildirim": "(15-16) O ateş ki dini yalan sayan ve ona sırtını dönenden başkası oraya girmez.",
+      "safa": "En azgın olandan başkası ona atılmaz.",
+      "yuksel": "Oraya talihsiz olandan başkası girmez.",
+      "aktas": "Ona şaki[1] olandan başkası girmez.",
+      "okuyan": "Ona en azgın olandan başkası girmeyecektir."
     },
     {
       "number": 6074,
@@ -264,7 +414,17 @@
       "bulac": "Ki o, yalanlamış ve yüz çevirmişti.",
       "esed": "hakikati yalanlayan ve (ondan) yüz çeviren (azgınlar).",
       "suleymaniye": "yalana sarılan ve doğrulara sırt çeviren kişi.[1]",
-      "ates": "O ki, yalanlandı ve sırtını döndü."
+      "ates": "O ki, yalanlandı ve sırtını döndü.",
+      "hulusi": "O ki, yalanlamış ve (hakikatinden) yüz çevirmişti!",
+      "bayrakli": "- O ateşe, yalanlayıp yüz çeviren bedbahtan başkası girmez.",
+      "elmali_sade": "O ki, yalanlamış ve tersine gitmiştir.",
+      "cantay": "(öyle bedbaht ki) o, hakkı yalanlamış, (imandan) yüz çevirmişdir.",
+      "piris": "Yalanlayan, yüz çeviren..",
+      "yildirim": "(15-16) O ateş ki dini yalan sayan ve ona sırtını dönenden başkası oraya girmez.",
+      "safa": "O ki, yalanladı ve yüz çevirdi.",
+      "yuksel": "O ki yalanladı ve sırtını döndü.",
+      "aktas": "O ki yalanladı ve yüz çevirdi.",
+      "okuyan": "O ki yalanladı ve sırtını döndü.[1]"
     },
     {
       "number": 6075,
@@ -280,7 +440,17 @@
       "bulac": "Sakınan ise, ondan uzak tutulacaktır.",
       "esed": "Ama, Allah'a karşı sorumluluğunun bilincinde olanlar (ateşten) uzak kalacak:",
       "suleymaniye": "Kendini yanlışlardan en iyi koruyan kişi[1] ise ondan uzak tutulacaktır;[2]",
-      "ates": "En çok korunan da ondan uzak tutulur."
+      "ates": "En çok korunan da ondan uzak tutulur.",
+      "hulusi": "En çok korunan ise ondan uzaklaştırılacaktır.",
+      "bayrakli": "- Arınmak uğruna malını hayra harcayan takva sahipleri, o ateşten uzak tutulacaktır.",
+      "elmali_sade": "O en çok takva sahibi olan ise ondan çok uzaklaştırılacaktır!",
+      "cantay": "(17-18) Halbuki çok sakınan, malını (Allah nezdinde sırf) temizlenmek için veren ondan uzaklaşdırılacakdır.",
+      "piris": "Takva sahibi ondan uzak tutulacaktır.",
+      "yildirim": "(17-18) Ama Allah'a karşı gelmekten çok sakınan ve gönlünü arındırmak için Allah yolunda mal harcayan ise ondan uzak tutulur.",
+      "safa": "Oysa sorumluluk bilinci taşıyan, ondan uzaklaştırılacaktır.",
+      "yuksel": "Erdemli ise ondan uzak tutulacaktır.",
+      "aktas": "Takva sahibi olan, ondan uzak tutulacak.",
+      "okuyan": "En muttakî (duyarlı) olan ondan uzak tutulacaktır.[1]"
     },
     {
       "number": 6076,
@@ -296,7 +466,17 @@
       "bulac": "Ki o, malını vererek temizlenip arınır.",
       "esed": "arınmak için servetini (başkalarına) harcayanlar,",
       "suleymaniye": "kendini geliştirmek için malını veren kişi.[1]",
-      "ates": "O ki malını hayra vererek arınır, yücelir."
+      "ates": "O ki malını hayra vererek arınır, yücelir.",
+      "hulusi": "O ki, arınmak için zenginliğini başkalarına harcar (yığmaz). . .",
+      "bayrakli": "- Arınmak uğruna malını hayra harcayan takva sahipleri, o ateşten uzak tutulacaktır.",
+      "elmali_sade": "O ki, malını verir, temizlenir.",
+      "cantay": "(17-18) Halbuki çok sakınan, malını (Allah nezdinde sırf) temizlenmek için veren ondan uzaklaşdırılacakdır.",
+      "piris": "Malını veren ve arınan..",
+      "yildirim": "(17-18) Ama Allah'a karşı gelmekten çok sakınan ve gönlünü arındırmak için Allah yolunda mal harcayan ise ondan uzak tutulur.",
+      "safa": "O ki, arınmak için malını verir.",
+      "yuksel": "O ki malını vererek temizlenir;",
+      "aktas": "O ki malını vererek arınır.",
+      "okuyan": "O ki (malını) vererek arınır."
     },
     {
       "number": 6077,
@@ -312,7 +492,17 @@
       "bulac": "Onun yanında hiç kimsenin karşılığı verilecek bir nimeti (borcu) yoktur.",
       "esed": "gördüğü bir iyiliğin karşılığı olarak değil,",
       "suleymaniye": "O, kendisine yapılan bir iyiliğin karşılığı olsun diye değil,",
-      "ates": "Ve onun yanında, hiç kimsenin karşılık verilecek bir ni'meti yoktur (o, verdiğini kendisine yapılan bir iyiliğin karşılığı olarak değil),"
+      "ates": "Ve onun yanında, hiç kimsenin karşılık verilecek bir ni'meti yoktur (o, verdiğini kendisine yapılan bir iyiliğin karşılığı olarak değil),",
+      "hulusi": "Bunu ne karşılık bekleyerek yapar (ne de kendisine yapılanların karşılığı olarak)!",
+      "bayrakli": "- Yüce Rabbinin rızasını elde etmekten başka, hiç kimseden beklediği herhangi bir karşılık da yoktur.",
+      "elmali_sade": "Ve onda hiç kimsenin mükafat edilecek bir nimeti yoktur.",
+      "cantay": "Onun nezdinde bir kimsenin (Allah tarafından) mükafat edilecek — hiçbir ni'met (ve minnet) i yokdur,",
+      "piris": "Hiç kimseden bir karşılık, nimet beklemez.",
+      "yildirim": "O, verdiğini kendisine yapılan bir iyiliğin karşılığı olarak vermez. Verdiğinden ötürü hiç kimseden mükafat da beklemez.",
+      "safa": "Ve O'nun katında, hiç kimseye karşılık olsun diye verilecek bir nimet yoktur.[603]",
+      "yuksel": "Hiç kimseden de buna karşılık bir iyilik beklemez.",
+      "aktas": "Bunu kimseden karşılık beklemeden yapar.",
+      "okuyan": "(19, 20) Yüce Rabbinin rızasını kazanmaktan başka, kimseden beklediği bir karşılık da yoktur."
     },
     {
       "number": 6078,
@@ -328,7 +518,17 @@
       "bulac": "Ancak yüce Rabbinin rızasını aramak için (verir).",
       "esed": "ama yalnızca yüce Rabbinin rızasını kazanmak için:",
       "suleymaniye": "sadece yüce Rabbinin rızasını kazanmak için verir.[1]",
-      "ates": "Yalnız yüce Rabbinin rızası için verir."
+      "ates": "Yalnız yüce Rabbinin rızası için verir.",
+      "hulusi": "Yalnızca Ala olan Rabbinin vechini arzuladığı için!",
+      "bayrakli": "- Yüce Rabbinin rızasını elde etmekten başka, hiç kimseden beklediği herhangi bir karşılık da yoktur.",
+      "elmali_sade": "Ancak yüceler yücesi Rabbinin rızasını aramak için verir.",
+      "cantay": "O, (bunu) sırf O çok yüce Rabbinin rızaasını aramak (için yapmışdır).",
+      "piris": "Sadece yüce Rabbi'nin hoşnutluğunu kazanmak için..",
+      "yildirim": "Sadece ve sadece yüce Rabbini razı etmek ister.",
+      "safa": "Efendisinin hoşnutluğunu kazanmak isteyen başkadır.",
+      "yuksel": "Sadece En Yüce olan Efendisinin rızasını gözetir.",
+      "aktas": "İsteği yalnızca Yüce Rabb'inin rızasını kazanmaktır.",
+      "okuyan": "(19, 20) Yüce Rabbinin rızasını kazanmaktan başka, kimseden beklediği bir karşılık da yoktur."
     },
     {
       "number": 6079,
@@ -344,7 +544,17 @@
       "bulac": "Muhakkak kendisi de ileride razı olacaktır.",
       "esed": "işte böyleleri de, zamanı geldiğinde sevinci tadacaklar.",
       "suleymaniye": "İleride, o da kesinlikle hoşnut olacaktır.[1]",
-      "ates": "Yakında kendisi de (Allah'ın verceği ni'metle) razı olacaktır."
+      "ates": "Yakında kendisi de (Allah'ın verceği ni'metle) razı olacaktır.",
+      "hulusi": "Elbette rızaya erecektir!",
+      "bayrakli": "O kesinlikle ileride memnun olacaktır.",
+      "elmali_sade": "Ve mutlaka o hoşnutluğa erecektir.",
+      "cantay": "Her halde kendisi de ileride hoşnuud olacakdır.",
+      "piris": "Elbette o da hoşnut olacaktır.",
+      "yildirim": "Kendisi de ukbada elbet hoşnut olur.",
+      "safa": "Ve yakında, kesinlikle hoşnut olacaktır.",
+      "yuksel": "Kendisi de yakında mutlu olacaktır.",
+      "aktas": "Yakında mutlaka hoşnut olacaktır.",
+      "okuyan": "Kendisi de ileride memnun olacaktır."
     }
   ]
 }

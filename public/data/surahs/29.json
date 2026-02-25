@@ -24,7 +24,17 @@
       "bulac": "Elif, Lam, Mim.",
       "esed": "Elif-Lam-Mim.",
       "suleymaniye": "Elif-Lam-Mim[1]!",
-      "ates": "Elif lam mim."
+      "ates": "Elif lam mim.",
+      "hulusi": "Elif, Lam, Mim! (İlmini ilminde ilmiyle!)",
+      "bayrakli": "Elif, lam, mim.",
+      "elmali_sade": "Elif, Lam, Mim.",
+      "cantay": "Elif, lam, mim.",
+      "piris": "Elif Lam Mim.",
+      "yildirim": "Elif, Lam, Mim",
+      "safa": "A. L. M.",
+      "yuksel": "A1 L30 M40[1]",
+      "aktas": "Elif. Lam. Mim.[1]",
+      "okuyan": "Elif. Lâm. Mîm.[1]"
     },
     {
       "number": 3342,
@@ -40,7 +50,17 @@
       "bulac": "İnsanlar, (sadece) \"İman ettik\" diyerek, sınanmadan bırakılacaklarını mı sandılar?",
       "esed": "İnsanlar, (sadece) \"İnandık!\" demeleriyle bırakılacaklarını ve sınava çekilmeyeceklerini mi sanıyorlar?",
       "suleymaniye": "İnsanlar, sadece \"inanıp güvendik\" dediler diye zorlu imtihanlardan geçirilmeden[1] kendi hallerine bırakılacaklarını mı sanıyorlar[2]?",
-      "ates": "İnsanlar yalnız \"inandık\" demekle, hiç sınanmadan bırakılacaklarını mı sandılar?"
+      "ates": "İnsanlar yalnız \"inandık\" demekle, hiç sınanmadan bırakılacaklarını mı sandılar?",
+      "hulusi": "İnsanlar denenip (kendilerince) ne olduklarının sonucu görülmeden \"İman ettik\" lafıyla kurtulacaklarını mı sandılar!",
+      "bayrakli": "İnsanlar, imtihandan geçirilmeden, sadece \"İman ettik\" demeleriyle bırakılacaklarını mı sanıyorlar?",
+      "elmali_sade": "İnsanlar: \"İnandık! demeleriyle bırakılıp da imtihan edilmeyeceklerini mi sandılar?",
+      "cantay": "İnsanlar (yalınız) inandık demeleriyle bırakılıvereceklerini, kendilerinin imtihaana çekilmiyeceklerini mi sandı (lar)?",
+      "piris": "İnsanlar \"iman ettik\" demekle, bir imtihana tabi tutulmadan bırakılacaklarını mı sanıyorlar.",
+      "yildirim": "Müminler sadece \"İman ettik\" demeleri sebebiyle kendi hallerine bırakılıvereceklerini, imtihana tabi tutulmayacaklarını mı zannettiler?",
+      "safa": "İnsanlar, \"İnandık!\" demeleriyle bırakılacaklarını ve sınanmayacaklarını mı sandılar?",
+      "yuksel": "İnsanlar,  sadece \"Gerçeği onayladık\" demeleriyle,  hiç sınanmadan bırakılacaklarını mı sanıyor?",
+      "aktas": "İnsanlar, iman ettik demekle fitnelendirilmeden[1] bırakılacaklarını mı sanıyorlar.",
+      "okuyan": "İnsanlar, imtihan edilmeden sadece \"İman ettik!\" demeleriyle bırakılacaklarını mı sandılar![1]"
     },
     {
       "number": 3343,
@@ -56,7 +76,17 @@
       "bulac": "Andolsun, onlardan öncekileri sınadık; Allah, gerçekten doğruları da bilmekte ve gerçekten yalancıları da bilmektedir.",
       "esed": "Evet, andolsun ki, Biz kendilerinden öncekileri de sınadık; o halde (bugün yaşayanlar da sınanacak ve) elbette Allah, doğru davrananları ortaya çıkaracak ve yalancıların da kimler olduğunu gösterecektir.",
       "suleymaniye": "Biz kendilerinden öncekilerini de zorlu imtihanlardan geçirdik. Allah (imtihanlar sonucunda), doğru sözlü olanları elbette bilecektir. Elbette yalancı olanları da bilecektir.",
-      "ates": "Andolsun biz, onlardan öncekilerini sınadık. Elbette Allah (sınayıp) doğruları bilecek, yalancıları bilecektir."
+      "ates": "Andolsun biz, onlardan öncekilerini sınadık. Elbette Allah (sınayıp) doğruları bilecek, yalancıları bilecektir.",
+      "hulusi": "Andolsun ki onlardan öncekileri de sınav objeleriyle denemişizdir. . . Allah (dışarıdan bir tanrı gibi değil - hakikatleri olarak) elbette (sözlerinde) sadıkları açığa çıkarıp bilecek ve elbette yalancıları da açığa çıkarıp bilecek.",
+      "bayrakli": "Andolsun ki biz onlardan öncekileri de imtihandan geçirmişizdir. Elbette Allah, doğruları ortaya çıkaracak, yalancıları da mutlaka ortaya koyacaktır.",
+      "elmali_sade": "Andolsun ki, Biz onlardan öncekileri ne fitnelerle imtihan ettik. Yine Allah, elbette doğruluk gösterenleri bilecek ve elbette yalancıları da bilecektir.",
+      "cantay": "Andolsun, biz onlardan evvelkileri de imtihan etmişizdir. Allah elbette saadık olanları da bilir, elbette yalancı olanları da bilir.",
+      "piris": "Biz, onlardan öncekilerini de imtihan ettik. Allah, elbette doğruları bilir. Ve elbette yalancıları da bilir.",
+      "yildirim": "Biz elbette kendilerinden önce yaşamış olanları denedik. Allah elbette şimdiki müminleri de imtihan edip iman iddiasında sadık olanlarla, samimiyetsiz olanları elbette bilecektir.",
+      "safa": "Gerçek şu ki, onlardan öncekileri de sınamıştık. Allah, doğruyu söyleyenleri kesinlikle bilir; yalancıları da kesinlikle bilir.",
+      "yuksel": "Kendilerinden öncekileri sınadık. Elbette ALLAH doğrucuları ile yalancıları birbirinden ayıracaktır.",
+      "aktas": "Ant olsun ki onlardan öncekilerini de fitnelendirmiştik. Böylece Allah, kimin samimi kimin de yalancı olduğunu ortaya çıkarmaktadır.",
+      "okuyan": "Yemin olsun ki biz onlardan öncekileri de imtihan etmiştik. Elbette Allah doğruları bil(dir)ip (ortaya çıkaracak)tır; yalancıları da mutlaka bil(dir)ip (ortaya çıkaracaktır).[1]"
     },
     {
       "number": 3344,
@@ -72,7 +102,17 @@
       "bulac": "Yoksa kötülükleri yapanlar, bizi (aşıp) geçeceklerini mi sandılar? Ne kötü hükmediyorlar?",
       "esed": "Yoksa onlar -(inandıklarını iddia ettikleri halde) kötülük işleyenler- Bizden kurtulabileceklerini mi sanırlar? Ne tuhaf bir düşünce bu!",
       "suleymaniye": "Yoksa kötü işler yapanlar bizden kaçıp kurtulacaklarını mı sanıyorlar[1]? Vardıkları kanaat ne kötüdür!",
-      "ates": "Yoksa kötülükleri yapanlar, bizi geçeceklerini (bizim, kendilerine yetişip onları cezalandıramayacağımızı) mı sandılar? Ne kötü hüküm veriyorlar."
+      "ates": "Yoksa kötülükleri yapanlar, bizi geçeceklerini (bizim, kendilerine yetişip onları cezalandıramayacağımızı) mı sandılar? Ne kötü hüküm veriyorlar.",
+      "hulusi": "Yoksa o kötülükleri yapanlar bizi geçip gideceklerini mi sandılar. . . Ne kötü hüküm veriyorlar!",
+      "bayrakli": "Yoksa, kötülükleri yapanlar bizden kaçabileceklerini mi sanıyorlar? Ne kadar yanlış hüküm veriyorlar!",
+      "elmali_sade": "Yoksa kötülük yapanlar, bizden savuşup kurtulacaklarını mı sandılar? Ne fena hüküm veriyorlar!",
+      "cantay": "Yoksa kötülükler yapanlar bizden (kaçıb) savuşacaklarını mı sandı (lar)? Ne fena hükmediyorlar!",
+      "piris": "Yoksa kötülük yapanlar bizden kaçabileceklerini mi sanıyorlar. Ne kötü hüküm veriyorlar.",
+      "yildirim": "Kötülükleri işleyenler hükmümüzden kaçıp kurtulacaklarını mı zannettiler? Ne fena hükmediyorlar!",
+      "safa": "Yoksa kötülük yapanlar, Bizden kaçabileceklerini mi sandılar? Ne kötü yargı veriyorlar.",
+      "yuksel": "Kötülükleri işleyenler,  bizi atlatacaklarını mı sanıyorlar? Ne kötü bir yargıda bulunuyorlar.",
+      "aktas": "Yoksa kötülük yapanlar, Biz'den[1] kurtulacaklarını mı sanıyorlar? Ne kötü bir yargıda bulunuyorlar!",
+      "okuyan": "Yoksa kötülükleri yapanlar, bizi geçebileceklerini (bizden kaçabileceklerini) mi sandılar? Ne kadar kötü hüküm veriyorlar!"
     },
     {
       "number": 3345,
@@ -88,7 +128,17 @@
       "bulac": "Kim Allah'a kavuşmayı umuyorsa hiç şüphesiz Allah'ın (tesbit ettiği) süresi yaklaşarak gelmektedir. O, işitendir, bilendir.",
       "esed": "Kim (Kıyamet Günü) Allah'a kavuşmayı (ümit ve korku ile) beklerse (o Gün'e hazırlıklı olsun): çünkü Allah'ın (her insan ömrü için) takdir ettiği vade mutlaka gelip çatacaktır ve O her şeyi bilen, her şeyi işitendir!",
       "suleymaniye": "Kim Allah'ın huzuruna çıkmayı bekliyorsa (bilsin ki) Allah'ın belirlediği vakit elbette gelecektir[1]. O daima dinleyen ve bilendir.",
-      "ates": "Kim Allah ile buluşmayı umarsa; Allah'ın (buluşma) süresi gelmektedir. O, işitendir, bilendir."
+      "ates": "Kim Allah ile buluşmayı umarsa; Allah'ın (buluşma) süresi gelmektedir. O, işitendir, bilendir.",
+      "hulusi": "Kim Allah'ın likasını (ismi Allah olanın, şuurunda Esma'sıyla açığa çıkışını fıtratınca yaşamayı) umuyorsa, (bilsin ki) muhakkak ki Allah'ın takdiri olan bedenli yaşam sürecinin sonu elbette gelir! \"HU\"; Es Semi'dir, El Aliym'dir. (Ayet sonundaki bu tanımlama daima \"HU\" denerek Allah adıyla işaret edilenin tenzih yönüne; Esma adıyla da teşbih yönüne işaret ederek OKUyanda tevhid bakışını oluşturmak amacını gütmektedir Allahu alem. A. H. )",
+      "bayrakli": "Allah'a kavuşmayı uman bilsin ki, Allah'ın belirlediği vakit gelecektir. Allah her şeyi işitir; her şeyi bilir.",
+      "elmali_sade": "Her kim Allah'a kavuşmayı arzu ederse, elbette Allah'ın belirlediği ecel muhakkak gelecektir ve O, işitir, bilir.",
+      "cantay": "Kim Allaha kavuşmayı umarsa şübhe yok ki Allahın ta'yin etdiği (o) vakit her halde gelecekdir. O, hakkıyle işiden, kemaliyle bilendir.",
+      "piris": "Kim Allah'a kavuşmayı umarsa, şüphesiz Allah'ın belirlediği süre gelecektir. O işitendir bilendir.",
+      "yildirim": "Kim Allah'a kavuşmayı ümid ediyorsa bilsin ki Allah'ın tayin ettiği vade mutlaka gelecektir. O her şeyi hakkıyla işitir ve bilir.",
+      "safa": "Allah'a kavuşmayı kim bekliyorsa, kuşkusuz, Allah'ın belirlediği gün kesinlikle gelecektir. Çünkü O, Duyandır; Bilendir.",
+      "yuksel": "Kim ALLAH ile karşılaşmayı umuyorsa,  (şunu bilsin ki) ALLAH'la randevu mutlaka gerçekleşecektir. O,  İşitendir,  Bilendir.",
+      "aktas": "Allah'a kavuşacaklarını[1] umanlar bilsinler ki, Allah'ın belirlediği zaman mutlaka gelecektir. O, Her Şeyi Duyan'dır, Her Şeyi Bilen'dir.",
+      "okuyan": "Kim Allah'a kavuşmayı umuyorsa, bilsin ki Allah'ın (belirlediği) zaman elbette gelecektir. O duyandır, bilendir."
     },
     {
       "number": 3346,
@@ -104,7 +154,17 @@
       "bulac": "Kim cihad ederse, yalnızca kendi nefsi için cihad etmiş olur. Şüphesiz Allah, alemlerden müstağnidir.",
       "esed": "O halde, kim (Allah yolunda) üstün gayret gösterirse bunu yalnız kendi iyiliği için yapmış olur: çünkü Allah, her türlü ihtiyaçtan uzaktır!",
       "suleymaniye": "Kim cihad ederse /elinden geleni yaparsa[1] ancak kendisi için cihad eder[2]. Yoksa Allah'ın bir varlığa asla ihtiyacı olmaz.",
-      "ates": "Kim cihad ederse ancak kendi yararına cihad eder. Allah, alemlerden zengindir. (Kimsenin cihadına muhtaç değildir. İnsanların cihad ve ibadetleri kendi menfaatleri içindir)."
+      "ates": "Kim cihad ederse ancak kendi yararına cihad eder. Allah, alemlerden zengindir. (Kimsenin cihadına muhtaç değildir. İnsanların cihad ve ibadetleri kendi menfaatleri içindir).",
+      "hulusi": "Kim (bu imanı, hakikati yaşamak için) hırs - azim ile çalışırsa, yalnızca kendi benliği için bu savaşı vermiş olur (Cihadı Ekber - büyük savaş)! Muhakkak ki Allah, alemlerden (Esma bileşimi birimselliklerden) elbette Ğaniyy'dir (\"HU\"viyeti {ZAT'ı} itibarıyla, Esma'sında açığa çıkanlarla kayıtlanmaktan veya onlarla sınırlı tanımlanmaktan münezzehtir)!",
+      "bayrakli": "Hak uğrunda cihad eden, sadece kendisi için cihad etmiş olur. Şüphesiz ki Allah, kimseye muhtaç değildir.",
+      "elmali_sade": "Cihad eden yalnızca kendi hesabına cihad eder; çünkü Allah, bütün alemlerden müstağnidir.",
+      "cantay": "Kim savaşırsa ancak kendisi için savaşmış olur. Zira Allah elbette (bütün) aalemlerden gani (müstağni) dir.",
+      "piris": "Kim, cihat ederse, ancak kendisi için cihat eder, çünkü Allah'ın hiç kimseye ihtiyacı yoktur.",
+      "yildirim": "Kim de cihad ederse sırf kendi nefsi hesabına cihad eder. Muhakkak ki Allah, alemlerden ve özellikle insanlardan müstağnidir, kimseye ihtiyacı yoktur.",
+      "safa": "Kim çaba gösterirse, yalnızca kendisi için çaba göstermiş olur. Kuşkusuz, Allah'ın, yarattıklarına gereksinimi yoktur.",
+      "yuksel": "Kim bizim için çaba gösterirse,  kendisi için çaba göstermiş olur. ALLAH hiç kimseye muhtaç değildir.",
+      "aktas": "Kim cihad[1] ederse, ancak kendisi için cihad etmiş olur. Allah, kesinlikle hiç kimseye, hiçbir şeye muhtaç değildir.[2]",
+      "okuyan": "Cihad eden (fedakârlık yapan) ancak kendisi için cihad etmiş (fedakârlık yapmış) olur. Şüphesiz ki Allah âlemlerden zengindir. "
     },
     {
       "number": 3347,
@@ -120,7 +180,17 @@
       "bulac": "İman edip salih amellerde bulunanlar ise; biz şüphesiz onların kötülüklerini örteceğiz ve şüphesiz yaptıklarının en güzeliyle karşılık vereceğiz.",
       "esed": "İman edip doğru ve yararlı işler yapanlara gelince, Biz onların (önceki) kötülüklerini mutlaka sileriz ve onları yaptıkları iyiliklere göre ödüllendiririz.",
       "suleymaniye": "İnanıp güvenen ve iyi işler yapmış olanların kötü işlerini örtecek ve onları, yaptıklarının en güzeli ile ödüllendireceğiz[1].",
-      "ates": "İnanıp iyi işler yapanların, mutlaka kötülüklerini örteceğiz ve onları, yaptıklarının en güzeliyle mükafatlandıracağız."
+      "ates": "İnanıp iyi işler yapanların, mutlaka kötülüklerini örteceğiz ve onları, yaptıklarının en güzeliyle mükafatlandıracağız.",
+      "hulusi": "İman edip imanın gereğini uygulayanlara gelince, onların kötülüklerini (nefsani özelliklerini) kendilerinden elbette sileriz ve elbette yaptıklarının en güzeli ile kendilerini cezalandırırız!",
+      "bayrakli": "İman edip iyi amel işleyenlerin elbette kötülüklerini örteriz ve onlara yaptıklarının daha güzeli ile karşılık veririz.",
+      "elmali_sade": "Bununla birlikte iman edip iyi iyi işler yapanların kötülüklerini örter ve onlara elbette yaptıkları işlere karşılık daha güzelini veririz.",
+      "cantay": "İman edib de güzel güzel amel (ve hareket) lerde bulunanların kötülüklerini her halde (afv ile) örteriz ve her halde o işlemekde olduklarının daha güzeliyle onları mükafatlandırırız.",
+      "piris": "İman edip, doğruları yapanların, kötülüklerini elbette örteceğiz ve onları yaptıklarının en güzeli ile ödüllendireceğiz.",
+      "yildirim": "İman edip güzel ve makbul işler yapanların elbette günahlarını örteceğiz ve onların yaptıkları çalışmaları en güzel şekilde mükafatlandıracağız.",
+      "safa": "İnanmış olarak erdemli edimler yapanların kötülüklerini kesinlikle örteceğiz. Ve yaptıklarının en güzeliyle, onları kesinlikle ödüllendireceğiz.",
+      "yuksel": "Gerçeği onaylayıp erdemli davrananların kötülüklerini elbette örteceğiz ve yapmış olduklarının daha iyisiyle onları ödüllendireceğiz.",
+      "aktas": "İman eden ve salihatı[1] yapanların kötülüklerine mutlaka küfrederiz[2]. Ve kesinlikle onlara yaptıklarından daha iyisi ile karşılık vereceğiz.",
+      "okuyan": "İman edip iyi işler yapanların kötülüklerini elbette örtecek ve onlara, yaptıklarının en güzeli ile karşılık vereceğiz.[1]"
     },
     {
       "number": 3348,
@@ -136,7 +206,17 @@
       "bulac": "Biz insana, anne ve babasına (karşı) güzelliği (ilke edinmesini) tavsiye ettik. Eğer onlar, hakkında bilgin olmayan şeyle bana ortak koşman için sana karşı çaba harcayacak olurlarsa, bu durumda, onlara itaat etme. Dönüşünüz banadır. Artık yaptıklarınızı size haber vereceğim.",
       "esed": "Biz insana, (yapacağı en hayırlı işlerden biri olarak) anne ve babasına iyi davranmasını emrettik; ama (buna rağmen,) eğer onlar (ilah olarak) kabul edemeyeceğin herhangi bir şeyi Bana ortak koşmanı isterlerse onlara uyma: (çünkü) hepiniz (sonunda) dönüp Bana geleceksiniz; o zaman (hayatta iken) yapmış olduğunuz her şeyi (iyi ve kötü yönleriyle) gözünüzün önüne sereceğim.",
       "suleymaniye": "İnsana ana-babasına iyi davranma görevi yükledik. (Ey insan) Annen-baban bilgi sahibi olmadığın bir şeyi bana ortak sayman için seninle mücadele edecek olurlarsa sakın onlara boyun eğme[1]! Dönüp geleceğiniz yer benim huzurumdur. Neler yaptığınızı size bildireceğim.",
-      "ates": "Biz insana ana babasına iyilik etmeyi tavsiye ettik. Eğer onlar seni, (gerçekliği) hakkında hiçbir bilgin olmayan bir şeyi bana ortak koşman için zorlarlarsa (bu hususta) onlara ita'at etme. Dönüşünüz banadır. O zaman size yaptıklarınızı haber veririm."
+      "ates": "Biz insana ana babasına iyilik etmeyi tavsiye ettik. Eğer onlar seni, (gerçekliği) hakkında hiçbir bilgin olmayan bir şeyi bana ortak koşman için zorlarlarsa (bu hususta) onlara ita'at etme. Dönüşünüz banadır. O zaman size yaptıklarınızı haber veririm.",
+      "hulusi": "Biz insana ana-babasına güzel davranmasını vasiyet ettik. . . Eğer ilmine ters düşen bir şeyi bana ortak koşman için seninle tartışıp seni zorlarlarsa, o ikisine itaat etme! Dönüşünüz banadır. . . Yaptıklarınızın (anlamının) haberini vereceğim.",
+      "bayrakli": "Biz, insana, anne babasına iyilik etmeyi emrettik. Eğer onlar seni, tanrılığı hakkında hiçbir bilgin olmayan bir şeyi bana ortak koşmaya zorlarlarsa, artık bu durumda onlara itaat etme! Dönüşünüz yalnız banadır. Yaptıklarınızı size haber vereceğim.",
+      "elmali_sade": "Biz insana, anne babası hakkında iyilik tavsiye ettik. Eğer onlar, senin hakkında hiçbir bilgiye sahip olmadığın bir şeyi bana ortak koşman için uğraşırlarsa onları, dinleme! Dönüşünüz banadır ve Ben o zaman size yaptıklarınızı haber veririm.",
+      "cantay": "Biz insana ana ve babasına güzellik (ve iyilik yapmasını) tavsiye etdik. Eğer onlar, hakkında bilgin olmayan (tanımadığın) bir şey'i bana ortak koşman için uğraşırlarsa kendilerine itaat etme. Dönüşünüz ancak banadır. Binaen'aleyh ne yapar idiyseniz size ben haber vereceğim.",
+      "piris": "İnsana, anne ve babasına iyi davranmasını tavsiye ettik. Eğer seni, hakkında hiç bir bilgin olmayan, şeyi bana şirk koşman için zorlarlarsa, o zaman onlara itaat etme! Dönüşünüz banadır. İşte o zaman size ne yapmış olduğunuzu haber vereceğim.",
+      "yildirim": "Biz insana, yapacağı en hayırlı iş olarak, annesine ve babasına iyi davranmasını bildirdik. Ama bununla beraber, onlar senden, hakkında bilgin olmayan bir şeyi, Bana şirk koşmanı isterlerse, itaat etme! Hepinizin dönüşü Bana'dır ve Ben de yapageldiğiniz şeyleri bir bir bildirip karşılığını vereceğim.",
+      "safa": "İnsana, annesine ve babasına iyilikten ayrılmaması öğüdünü verdik. Eğer onlar, hakkında bilgin olmayan bir şeyi Bana ortaklar koşman için seni zorlarsa onlara uyma. Bana döneceksiniz. Sonunda, yaptıklarınızı size bildireceğim.",
+      "yuksel": "Biz insana,  anne ve babasına iyi davranmasını öğütlemişizdir. Ancak onlar,  hakkında bilgin olmayan bir şeyi bana ortak koşman için seninle mücadele ederlerse ikisine de uyma. Hepinizin dönüşü banadır ve yaptıklarınız hakkında size bilgi vereceğim.",
+      "aktas": "Biz, insana anne ve babasına iyi davranmasını tavsiye ettik. Eğer onlar, hakkında bilgin[1] olmayan bir şey ile Bana şirk koşman için seninle cihad[2] ederlerse, onları dinleme. Dönüşünüz ancak Bana'dır. O zaman yapmış olduklarınızı size haber vereceğim.",
+      "okuyan": "Biz insana ana babasına güzel davranmasını emrettik.[1] Onlar seni, hakkında bilgin olmayan bir şeyi bana ortak koşman için zorlarlarsa, onlara itaat etme![2] Dönüşünüz sadece banadır. Elbette yapmış olduklarınızı size bildireceğim."
     },
     {
       "number": 3349,
@@ -152,7 +232,17 @@
       "bulac": "İman edip salih amellerde bulunanlar ise; elbette onları salihlerin arasına katacağız.",
       "esed": "İman edip doğru ve yararlı işler yapmış olanlara gelince, onları (öteki dünyada da) mutlaka dürüst ve erdemlilerin arasına sokacağız.",
       "suleymaniye": "İnanıp güvenen ve iyi işler yapanları elbette iyilerin arasına katacağız[1].",
-      "ates": "İnanıp iyi işler yapanları, salihler arasına sokarız."
+      "ates": "İnanıp iyi işler yapanları, salihler arasına sokarız.",
+      "hulusi": "İman edip imanın gereğini uygulayanlara gelince, onları elbette salihlere dahil edeceğiz.",
+      "bayrakli": "İnanıp iyi amel yapanları kesinlikle iyi kulların arasına koyacağız.",
+      "elmali_sade": "İman edip iyi iyi işler yapanları ise elbette iyiler arasına katacağız.",
+      "cantay": "İman edib de güzel güzel amel (ve hareket) de bulunanlar (yok mu?) biz onları her halde saalihler (zümresin) e (katıb) sokacağız.",
+      "piris": "İman edenleri ve doğruları yapanları elbette iyi kimselerin arasına katacağız.",
+      "yildirim": "(9-10) İman edip güzel ve makbul iş yapanları elbet hayırlı insanlar arasına dahil edeceğiz. Kimi insanlar vardır ki \"Allah'a iman ettim\" der, fakat Allah yolunda olduğu için işkence edilince halkın bu baskısını, Allah'ın azabı gibi sayar. Şayet senin Rabbinden zafer ve galebe gelirse \"Biz sizinle beraberdik\" diyeceklerdir. Oysa Allah, insanların kalplerinin neleri sakladığını pek iyi bilmektedir.",
+      "safa": "İnanmış olarak erdemli edimler yapanları, erdemli olanlar arasına katacağız.",
+      "yuksel": "Gerçeği onaylayıp erdemli davrananları erdemliler arasına sokacağız.",
+      "aktas": "İman eden ve salihatı[1] yapanları da kesinlikle salihlerin[2] arasına katacağız.",
+      "okuyan": "İman edip iyi işler yapanları elbette iyilere katacağız."
     },
     {
       "number": 3350,
@@ -168,7 +258,17 @@
       "bulac": "İnsanlardan öylesi vardır ki, \"Allah'a iman ettik\" der; fakat Allah uğruna eziyet gördüğü zaman, insanların (kendisine yönelttikleri işkence ve) fitnesini Allah'ın azabıymış gibi sayar; ama Rabbinden 'bir yardım ve zafer' gelirse, andolsun: \"Biz gerçekten sizlerle birlikteydik\" demektedirler. Oysa Allah, alemlerin sinelerinde olanı daha iyi bilen değil midir?",
       "esed": "İnsanlar arasında öyleleri var ki, (kendileri ve kendi gibileri adına) \"Biz, Allah'a inanıyoruz!\" derler; ama Allah yolunda sıkıntıya düşünce insanlardan çektikleri eziyeti Allah'tan gelen ceza gibi, (hatta ondan daha korkutucu) görürler; Rabbinden (gerçek inanç sahiplerine) bir yardım gelince de, \"Aslında biz her zaman sizinle beraberiz!\" derler. Allah, bütün yaratılmışların kalplerinden geçenleri en iyi bilen değil midir?",
       "suleymaniye": "İnsanlardan \"Allah'a inanıp güvendik\" diyenler vardır. Ama Allah uğrunda eziyet gördükleri zaman insanların verdiği sıkıntıyı, Allah'ın azabıymış gibi sayarlar[1]. Rabbinden bir yardım gelse o zaman da \"Biz de sizinle beraberiz!\" derler. Allah, herkesin içinde olanı en iyi bilen değil midir?",
-      "ates": "İnsanlardan kimi vardır ki \"Allah'a inandık.\" der, fakat Allah uğrunda kendisine eziyet edilince insanların işkencesini, Allah'ın azabı gibi sayar. Ama Rabbinden (sana) bir yardım gelse, andolsun: \"Biz de sizinle beraberdik,\" derler. Allah, alemlerin göğüslerinde bulunan (düşünceler)i daha iyi bilmez mi?"
+      "ates": "İnsanlardan kimi vardır ki \"Allah'a inandık.\" der, fakat Allah uğrunda kendisine eziyet edilince insanların işkencesini, Allah'ın azabı gibi sayar. Ama Rabbinden (sana) bir yardım gelse, andolsun: \"Biz de sizinle beraberdik,\" derler. Allah, alemlerin göğüslerinde bulunan (düşünceler)i daha iyi bilmez mi?",
+      "hulusi": "İnsanlardan kimisi de vardır ki: \"Amenna billah = iman ettik Esma'sıyla hakikatimiz olan Allah'a\" dediği halde; Allah uğruna eziyete uğradığında, insanların fitnesini Allah'ın azabı gibi kabul etti. Andolsun ki Rabbinden bir zafer gelirse, elbette şöyle diyecekler: \"Gerçekten biz sizinle beraberdik. \" Allah, alemlerin sadırlarında (insanların beyinlerinde) olan şeyi (Esma'sından yaratanı olarak) daha iyi bilen değil midir?",
+      "bayrakli": "İnsanlardan, \"Allah'a inandık\" diyenler vardır. Fakat Allah uğrunda eziyete uğrayınca, insanların işkencelerini Allah'ın azabı gibi sayarlar. Eğer Rabbin katından bir yardım gelecek olursa, \"Kesinlikle biz de sizinle birlikte idik\" derler. Allah herkesin sinelerinde olanları en iyi bilen değil midir?\"",
+      "elmali_sade": "İnsanlar arasında kimi de vardır ki, \"Allah'a iman ettik.\" der sonra da Allah uğrunda bir eziyete uğradığı zaman, insanların işkencesini Allah'ın azabı gibi tutar. Andolsun ki, Rabbinden bir yardım gelirse, \"Kesinlikle Biz sizinle beraberdik.\" diyeceklerinde şüphe yoktur. Acaba Allah, bütün insanların sinelerindekini en iyi bilen değil midir?",
+      "cantay": "İnsanlardan öyle adam vardır ki \"Allaha inandık\" der de Allah uğrunda eziyyete (duçar) edildiği zaman insanların (kendi hakkındaki) fitnesini Allahın azabı imiş gibi tanır. Andolsun ki Rabbinden bir nusret gelirse onlar: \"Biz de hakıykaten sizinle beraberdik\" diyecekler muhakkak. Allah, aalemlerin sineleri içinde ne var, çok iyi bilen değil midir?",
+      "piris": "İnsanlardan \"Allah'a iman ettik\" deyip, O'nun uğrunda bir eza gördükleri zaman, insanların eziyetini Allah'ın azabıyla bir tutanlar vardır. Rabbinden bir yardım gelecek olursa, hemen \"Biz sizinle beraberdik\" derler. Allah, herkesin kalbinde ne olduğunu en iyi bilen değil mi?",
+      "yildirim": "(9-10) İman edip güzel ve makbul iş yapanları elbet hayırlı insanlar arasına dahil edeceğiz. Kimi insanlar vardır ki \"Allah'a iman ettim\" der, fakat Allah yolunda olduğu için işkence edilince halkın bu baskısını, Allah'ın azabı gibi sayar. Şayet senin Rabbinden zafer ve galebe gelirse \"Biz sizinle beraberdik\" diyeceklerdir. Oysa Allah, insanların kalplerinin neleri sakladığını pek iyi bilmektedir.",
+      "safa": "Oysa insanlar arasında öyleleri vardır ki, \"Allah'a inandık!\" derler. Fakat Allah'ın yolunda bir sıkıntıya uğradıklarında, insanların kötülüklerini, Allah'ın cezası gibi görürler. Efendinden bir yardım gelirse de \"Aslında, sizinle birlikteyiz!\" derler. Allah, yarattıklarının yüreklerinden geçenleri en iyi Bilen değil mi?",
+      "yuksel": "İnsanlardan,  \"ALLAH'ı onayladık\" diyenlerden bazıları var ki,  ALLAH yolunda sıkıntı ile karşılaşınca halkın zulüm ve işkencesini ALLAH'ın cezası gibi sayar. Ama Efendinden sana bir zafer gelse,  \"Biz sizinle birlikte idik\" derler. ALLAH herkesin en gizli düşüncelerini bilmez mi?",
+      "aktas": "Allah'a iman ettiğini söyleyen kimi insanlar vardır ki, Allah yolunda bir eziyet gördükleri zaman, insanların fitnesini[1] Allah'ın azabı ile bir tutarlar. Eğer Rabb'lerinden bir yardım gelecek olsa,[2] kesinlikle, \"Kuşku yok ki biz sizinle beraberdik.\" diyeceklerdir. Oysaki Allah, herkesin göğsünde olanı en iyi bilen değil midir?",
+      "okuyan": "İnsanlardan kimi vardır ki \"Allah'a inandık.\" der; Allah uğrunda eziyete uğratıldığı zaman, insanlar(ın) eziyeti(ni) Allah'ın azabı gibi görür. Rabbinden bir yardım gelecek olsa, mutlaka \"Doğrusu biz de sizinleydik!\" derler. Allah insanların göğüslerinde (kalplerinde) olanları iyi bilen değil midir!"
     },
     {
       "number": 3351,
@@ -184,7 +284,17 @@
       "bulac": "Allah muhakkak iman edenleri de bilmekte ve muhakkak münafıkları da bilmektedir.",
       "esed": "(Evet!) Allah, (gerçekten) imana erenlerin de, ikiyüzlülerin de kimler olduğunu mutlaka gösterecektir.",
       "suleymaniye": "Allah inanıp güvenenleri elbette bilecektir. Münafıkları /iki yüzlüleri de elbette bilecektir[1].",
-      "ates": "Allah, elbette inananları da bilir ve elbette iki yüzlüleri de bilir."
+      "ates": "Allah, elbette inananları da bilir ve elbette iki yüzlüleri de bilir.",
+      "hulusi": "Allah, elbette iman edenleri bilecektir; elbette münafıkları da (zekalarını, Hak olan doğrultusunda değil, çıkarları doğrultusunda kullanan ikiyüzlüleri) bilecektir.",
+      "bayrakli": "Allah kesinlikle kimlerin gerçekten inandığını ve kimlerin de münafık olduğunu bilmektedir.",
+      "elmali_sade": "Ve kesinlikle Allah, iman etmiş olanları herhalde bilecektir; münafıkları da bilecek elbette.",
+      "cantay": "Allah iman edenleri de elbet bilir, münafıkları da elbet bilir.",
+      "piris": "Allah, elbette iman edenleri biliyor ve elbette münafıkları da biliyor.",
+      "yildirim": "Elbet, Allah iman edenleri bilip ortaya çıkaracak, elbette, münafıkları da bilip ortaya çıkaracaktır.",
+      "safa": "Allah, inananları kesinlikle bilir; ikiyüzlüleri de kesinlikle bilir.",
+      "yuksel": "ALLAH elbette iman edenlerle ikiyüzlüleri açığa çıkaracaktır.",
+      "aktas": "Allah, elbette iman edenleri bilir ve elbette kimlerin de Münafık[1] olduğunu da bilir.",
+      "okuyan": "Allah iman edenleri elbette bil(dir)ip (ortaya çıkaracaktır);[1] iki yüzlüleri de elbette bil(dir)ip (ortaya çıkaracaktır).[2]"
     },
     {
       "number": 3352,
@@ -200,7 +310,17 @@
       "bulac": "İnkar edenler, iman edenlere dedi ki: \"Siz bizim yolumuzu izleyin, hatalarınızı biz yüklenelim.\" Oysa kendileri, onların hatalarından hiç bir şeyi yüklenecek değildir. Gerçekten onlar, elbette yalancıdırlar.",
       "esed": "Ve (O, şunu da bilir ki,) hakkı inkar edenler, (her zaman olduğu gibi,) inananlara: \"(Gelin) bizim (hayat) tarzımıza uyun, günahlarınız bizim boynumuza!\" derler. Halbuki onlar, (bu şekilde yanılttıkları kimselerin) hiçbir günahını yüklenmezler: Dikkat edin, onlar yalancıdırlar!",
       "suleymaniye": "Kafirlik edenler, inananlara: \"Siz, bizim yolumuzu takip edin! Biz sizin hatalarınızı da yükleniriz\" derler. Halbuki onlar, müminlerin hatalarından hiçbirini yüklenecek değillerdir. Onlar kesinlikle yalancıdırlar.",
-      "ates": "İnkar edenler, inananlara: \"Siz bizim yolumuza uyun. Sizin hatalarınızı biz taşırız\" dediler. Oysa kendileri, onların hatalarından hiçbir şey taşıyacak değillerdir. Onlar tamamen yalancıdırlar."
+      "ates": "İnkar edenler, inananlara: \"Siz bizim yolumuza uyun. Sizin hatalarınızı biz taşırız\" dediler. Oysa kendileri, onların hatalarından hiçbir şey taşıyacak değillerdir. Onlar tamamen yalancıdırlar.",
+      "hulusi": "Hakikat bilgisini inkar edenler, iman edenlere dedi ki: \"Bizim anlayışımıza uyun, sizin suçlarınızı (günahlarınızı) biz yüklenelim!\" İnkarcılar, onların suçlarının veballerinden hiçbir şey yüklenmezler. . . Muhakkak ki onlar yalancılardır.",
+      "bayrakli": "Kafirler, iman edenlere, \"Bizim yolumuza uyun, sizin günahlarınızı biz yüklenelim\" derler. Halbuki onların hiçbir günahını yüklenecek değillerdir. Onlar, kesinlikle yalan söylemektedirler.",
+      "elmali_sade": "Bir de küfredenler o iman etmiş olanlara: \"Bizim yolumuza uyun, biz de sizin günahlarınızı yüklenelim!\" dediler. Oysa onlar, onların günahlarından hiçbir şey yüklenecek değillerdir ve onlar kesinlikle yalancıdırlar.",
+      "cantay": "O kafirler, iman edenlere dedi (ler) ki: \"Bizim yolumuza uyun, sizin günahlarınızı biz yüklenelim\". Halbuki onlar bunların günahlarından hiçbir şey yüklenici değildirler. Şübhesiz ki onlar kat'iyyen yalancıdırlar.",
+      "piris": "İnkarcılar, müminlere derler ki: -Bizim yolumuza uyun, sizin günahınızı da biz taşıyalım. Onların günahlarından hiçbir şey taşıyacak değillerdir. Onlar, yalancıdırlar.",
+      "yildirim": "Kafirler müminlere: \"Bizim yolumuza tabi olun, günahlarınız bizim boynumuza, yükünüzü biz taşırız\" derler. Oysa bunlar, ötekilerin hiçbir günahını yüklenmezler. Onlar açıkça yalancıdırlar.",
+      "safa": "Nankörlük edenler, inananlara, şöyle dediler: \"Bizim yolumuzu izleyin; suçlarınızı biz yükleniriz!\" Oysa onların suçlarından hiçbir şey yüklenecek değillerdir. Aslında, onlar yalancıdır.",
+      "yuksel": "İnkarcılar iman edenlere,  \"Yolumuza uyun; günahlarınızı biz yükleniriz\" dediler. Oysa onların günahlarından hiçbir şeyi yüklenecek değillerdir; yalancıdırlar.",
+      "aktas": "Kafirler: İman Edenler'e: \"Bizim yolumuza uyun, sizin yanlışlarınızı biz üstlenelim.\" dediler. Oysa onlar, başkalarının hatalarından hiçbir şey üstlenemezler. Kesinlikle onlar yalancıdırlar.",
+      "okuyan": "Kâfir olanlar iman edenlere \"Bizim yolumuza uyun, sizin günahlarınızı da biz yüklenelim!\" derler. (Oysa) günahlarından hiçbir şeyi asla yüklenici değillerdir.[1] Şüphesiz ki onlar yalancıdır."
     },
     {
       "number": 3353,
@@ -216,7 +336,17 @@
       "bulac": "Şüphesiz onlar, hem kendi yüklerini, hem kendi yükleriyle birlikte başka yükleri de yüklenecekler ve kıyamet günü, düzüp uydurduklarına karşı sorguya çekileceklerdir.",
       "esed": "Onlar, mutlaka, kendi yükleri ile birlikte başka yükleri de taşımak zorunda kalacaklardır; ve bütün temelsiz iddialarından dolayı Kıyamet Günü mutlaka hesaba çekileceklerdir!",
       "suleymaniye": "Onlar kesinlikle kendi yüklerini ve yüklerinin yanında daha nice yükler yükleneceklerdir[1]. Kıyamet /mezardan kalkış[2] günü, uydurdukları şeylerden kesinlikle sorguya çekileceklerdir.",
-      "ates": "Onlar, hem kendi yüklerini, hem de kendi yükleriyle beraber başka yükleri (başkalarını kandırıp saptırmalarının vebalini) taşıyacaklar ve elbette uydurdukları şeylerden kıyamet gününde sorguya çekileceklerdir."
+      "ates": "Onlar, hem kendi yüklerini, hem de kendi yükleriyle beraber başka yükleri (başkalarını kandırıp saptırmalarının vebalini) taşıyacaklar ve elbette uydurdukları şeylerden kıyamet gününde sorguya çekileceklerdir.",
+      "hulusi": "Andolsun ki onlar hem kendi veballerini, hem de kendi yükleriyle beraber (başka) veballer de yüklenip taşıyacaklar. . . Uydurdukları fikirlerden kıyamet sürecinde mutlaka sorumlu tutulacaklardır.",
+      "bayrakli": "Onlar, elbette kendi yükleriyle birlikte başka yükleri de taşımak zorunda kalacaklardır. Uydurup durdukları temelsiz iddialardan dolayı kıyamet günü kesinlikle sorguya çekileceklerdir.",
+      "elmali_sade": "Gerçek şu ki, onlar mutlaka kendi ağırlıklarını ve o ağırlıklarıyla birlikte daha birçok ağırlıkları yüklenecekler, kesinlikle ettikleri iftiradan kıyamet gününde sorguya çekileceklerdir.",
+      "cantay": "Onlar her halde kendi yüklerini de, o yükleriyle beraber daha nice yükleri de bizzat yüklenecekler ve düzmekde oldukları şeylerden kıyamet günü mes'ul olacaklardır.",
+      "piris": "Onlar, kendi günahlarını ve kendi günahlarıyla beraber başka günahları da taşırlar. Kıyamet günü de uydurduklarından hesaba çekilirler.",
+      "yildirim": "Ama onlar mutlaka kendi yükleri ile beraber başka yükleri de yani başkalarını saptırmanın vebalini de taşımak zorunda kalacak ve kıyamet günü uydurdukları iftiralardan sorguya çekileceklerdir.",
+      "safa": "Kendi yükleriyle birlikte, başka yükleri de kesinlikle taşıyacaklardır. Uydurmuş olduklarından da Yeniden Yaratılış Günü'nde, kesinlikle sorgulanacaklardır.",
+      "yuksel": "Gerçekte,  kendi yüklerine ek olarak (sorumlu oldukları) başka yükleri de yüklenecekler ve uydurdukları şeylerden diriliş günü sorulacaklardır.[1]",
+      "aktas": "Onlar hem kendi yüklerini hem kendi yükleri ile birlikte başka yükleri taşıyacaklar. Kıyamet günü, kesinlikle uydurdukları şeylerden hesaba çekilecekler.",
+      "okuyan": "Elbette kendi yüklerini (günahlarını, ayrıca) kendi yükleriyle (günahlarıyla) birlikte (sebep oldukları diğer) yükleri (günahları) da taşıyacaklardır;[1] uydurdukları şeylerden kıyamet günü mutlaka sorguya çekileceklerdir. "
     },
     {
       "number": 3354,
@@ -232,7 +362,17 @@
       "bulac": "Andolsun, biz Nuh'u kendi kavmine (elçi olarak) gönderdik, içlerinde elli yılı eksik olmak üzere bin sene yaşadı. Sonunda onlar zulme devam ederlerken tufan kendilerini yakalayıverdi.",
       "esed": "Biz (çok zaman önce) Nuh'u kendi kavmine göndermiştik ve Nuh onlar arasında dokuzyüzelli yıl geçirmişti; sonra onlar hala zulüm batağında yaşamaya devam ederlerken bir tufana yakalanmışlardı.",
       "suleymaniye": "Nuh'u kendi halkına elçi göndermiştik[1]. Aralarında (elçi olarak) dokuz yüz elli yıl kaldı[2]. Nihayet tufan onları yakalayıverdi, hep yanlışlar içindeydiler.",
-      "ates": "Andolsun biz, Nuh'u kavmine gönderdik, onların arasında bin seneden elli yıl eksik kaldı (öğüt verdi, dinlemediler), sonunda haksızlık etmekte olan insanları Tufan yakaladı."
+      "ates": "Andolsun biz, Nuh'u kavmine gönderdik, onların arasında bin seneden elli yıl eksik kaldı (öğüt verdi, dinlemediler), sonunda haksızlık etmekte olan insanları Tufan yakaladı.",
+      "hulusi": "Andolsun ki Nuh'u kendi toplumuna irsal ettik de onların içinde elli yıl hariç bin sene kaldı! Zulümleri üzereyken tufan onları yakaladı.",
+      "bayrakli": "Andolsun ki biz Nuh'u kendi kavmine gönderdik. O, bin yıldan elli yıl eksik bir süre onların arasında kaldı. Sonunda onlar zulümlerini sürdürürken tufan kendilerini yakalayıverdi.",
+      "elmali_sade": "Andolsun ki, Nuh'u kavmine gönderdik de içlerinde elli eksik bin (dokuz yüz elli) yıl kaldı, derken zulümlerini sürdürürlerken onları tufan yakalayıverdi.",
+      "cantay": "Andolsun ki biz Nuuhu kavmine (peygamber olarak) göndermişizdir de o, aralarında, elli yılı müstesna olmak üzere, bin sene kalmışdır. Nihayet onlar zulümde devam edib dururlarken kendilerini tuufan yakalayıvermişdir.",
+      "piris": "Nuh'u kavmine göndermiştik. Onların arasında bin seneden elli sene eksik yaşadı. Sonunda, zalimlik ederlerken onları yakaladık.",
+      "yildirim": "Çok önce Biz Nuh'u halkına resul olarak gönderdik. O da aralarında bin yıldan elli yıl eksik kaldı. Netice de onlar zulümlerine devam ederken tufan onları boğdu.",
+      "safa": "Ve gerçek şu ki, Nuh'u, kendi toplumuna gönderdik; onların arasında, bin yıldan elli yıl eksik kaldı. Haksızlıklarını sürdürürlerken, tufan onları yakaladı.[326]",
+      "yuksel": "Nuh'u,  halkına göndermiştik ve onların arasında bin seneden elli yıl eksik kaldı. Ancak zulmettikleri için onları tufan yakaladı.[1]",
+      "aktas": "Ant olsun ki Nuh'u halkına gönderdik. Onların içinde bin aydan elli yıl[1] eksik kaldı. Sonunda haksızlık edenleri tufan aldı.",
+      "okuyan": "Yemin olsun ki biz Nuh'u kendi halkına göndermiştik; bin seneden elli yıl eksik[1] bir süre onların arasında kalmıştı. Onlar haksızlık ederken (sonunda) tufan kendilerini yakalamıştı."
     },
     {
       "number": 3355,
@@ -248,7 +388,17 @@
       "bulac": "Böylece biz onu ve gemi halkını kurtardık ve bunu alemlere bir ayet (kendisinden ders çıkarılacak bir olay) kılmış olduk.",
       "esed": "fakat Nuh'u ve o'nunla birlikte gemide bulunanların tümünü kurtardık ve bunu, (hatırlayıp ders almaları için) bütün insanların önüne (rahmetimizin) bir işareti olarak koyduk.",
       "suleymaniye": "Nuh'u ve gemide olanları ise kurtardık. Bu olayı herkes için bir ayet /bir belge yaptık[1].",
-      "ates": "Onu ve gemi halkını kurtardık ve o gemiyi alemlere bir ibret yaptık."
+      "ates": "Onu ve gemi halkını kurtardık ve o gemiyi alemlere bir ibret yaptık.",
+      "hulusi": "Onu ve gemi halkını kurtardık ve onu insanlar için bir ibret kıldık.",
+      "bayrakli": "Fakat Nuh'u ve onunla birlikte gemide bulunanların hepsini kurtardık ve bunu, bütün insanlara bir ders kıldık.",
+      "elmali_sade": "Sonunda onu ve gemi arkadaşlarını kurtardık ve o gemiyi alemlere bir ibret kıldık.",
+      "cantay": "Fakat biz onu da, gemi arkadaşlarını da selamete erdirmiş ve bunu aalemlere bir ibret yapmışızdır.",
+      "piris": "Nuh'u ve gemide bulunanları kurtardık; bunu insanlığa bir ibret kıldık.",
+      "yildirim": "Onu ve gemide bulunanları kurtarıp o gemiyi ve o hadiseyi bütün insanlara ibret vesilesi yaptık.",
+      "safa": "Sonunda, Onu ve gemi yoldaşlarını kurtardık. Ve Onu, evrenlere bir kanıt yaptık.",
+      "yuksel": "Onu ve gemi halkını kurtarıp herkese ibret yaptık.[1]",
+      "aktas": "Böylece onu ve gemideki arkadaşlarını kurtardık. Onu[1] cümle aleme bir ayet[2] yaptık.",
+      "okuyan": "Biz onu ve gemideki halkı kurtarmış ve onu âlemlere ibret yapmıştık.[1]"
     },
     {
       "number": 3356,
@@ -264,7 +414,17 @@
       "bulac": "İbrahim de; hani kavmine demişti ki: \"Allah'a kulluk edin ve O'ndan sakının, eğer bilirseniz bu sizin için daha hayırlıdır.\"",
       "esed": "Ve İbrahim (de, Bizden aldığı ilhamla) kavmine dönerek: \"Allah'a kulluk edin ve O'na karşı sorumluluğunuzun bilincinde olun; bilirseniz bu sizin için daha hayırlıdır!\" diye seslendi.",
       "suleymaniye": "İbrahim'i de (elçi gönderdik). Bir gün halkına şöyle demişti: \"Allah'a kulluk edin, ona karşı yanlış yapmaktan sakının. Bilseniz sizin için hayırlı olan budur[1]!",
-      "ates": "İbrahim'i de (gönderdik). Kavmine dedi ki: \"Allah'a kulluk edin, O'ndan korkun, bilirseniz bu, sizin için daha hayırlıdır.\""
+      "ates": "İbrahim'i de (gönderdik). Kavmine dedi ki: \"Allah'a kulluk edin, O'ndan korkun, bilirseniz bu, sizin için daha hayırlıdır.\"",
+      "hulusi": "İbrahim. . . Hani (İbrahim) toplumuna dedi ki: \"Allah'a kulluk edin ve O'ndan korunun! Anlayabilirseniz bu sizin için daha hayırlıdır. \"",
+      "bayrakli": "İbrahim'i de gönderdik. Kavmine şöyle demişti: \"Allah'a kulluk ediniz. O'na karşı gelmekten sakınınız! Eğer bilmiş olsanız, bu sizin için daha iyidir.\"",
+      "elmali_sade": "İbrahim'i de (gönderdik). Hani o kavmine demişti ki: \"Hep Allah'a ibadet edin ve O'ndan korkun; bu sizin için daha hayırlıdır, eğer bilirseniz.",
+      "cantay": "İbrahimi de (hatırla). Hani O, kavmine (şöyle) demişdi: \"Allaha ibadet edin, On (un ikaabın) dan korkun. Bu, eğer bilirseniz, sizin için çok hayırlıdır\".",
+      "piris": "Hani, İbrahim de kavmine şöyle demişti: -Allah'a kulluk edin ve O'ndan korkun! Eğer bilirseniz bu sizin için daha hayırlıdır.",
+      "yildirim": "İbrahim'i de resul olarak gönderdik. \"Ey benim halkım!\" dedi, \"yalnız Allah'a ibadet edin ve O'na karşı gelmekten sakının. Eğer bilirseniz, böyle yapmanız sizin için daha hayırlıdır.\"",
+      "safa": "İbrahim de toplumuna, şöyle demişti: \"Allah'a hizmet edin ve O'na karşı sorumluluk bilinci taşıyın. İşte bu, sizin için daha iyidir; eğer biliyorsanız?\"",
+      "yuksel": "İbrahim'i de... Halkına demişti ki,  \"ALLAH'a hizmet edin ve O'nu saygıyla dinleyin. Bilirseniz,  bu sizin için daha iyidir.\"",
+      "aktas": "İbrahim, halka: \"Allah'a kul[1] olun ve O'na karşı takva sahibi olun. Eğer bilirseniz bu sizin için daha hayırlıdır.\" demişti.",
+      "okuyan": "İbrahim'i de (elçi olarak göndermiştik). Kavmine şöyle demişti: \"Allah'a kulluk edin! O'na karşı takvâlı (duyarlı) olun! Bilirseniz bu, sizin için hayırlı olandır."
     },
     {
       "number": 3357,
@@ -280,7 +440,17 @@
       "bulac": "\"Siz yalnızca Allah'tan başka birtakım putlara tapıyor ve bir takım yalanlar uyduruyorsunuz. Gerçek şu ki, sizin Allah'tan başka taptıklarınız, size rızık vermeye güç yetiremezler; öyleyse rızkı Allah'ın katında arayın, O'na kulluk edin ve O'na şükredin. Siz O'na döndürüleceksiniz.\"",
       "esed": "(Ve devamla) \"Siz Allah'ı bırakıp (cansız) putlara tapıyorsunuz ve böylece bir yalandan örnekler veriyorsunuz! Kuşkusuz, Allah'ı bırakıp taptığınız (o şeyler ve varlıklar) size rızkınızı verebilme gücüne sahip değildirler: O halde bütün rızkınızı Allah katında arayın, (yalnız) O'na kulluk edin ve O'na hamd edin: çünkü sonunda yine O'na döndürüleceksiniz!\"",
       "suleymaniye": "Siz sadece Allah ile aranıza koyup putlaştırdıklarınıza[1] kulluk ediyor ve asılsız şeyler uyduruyorsunuz[2]. Allah ile aranıza koyup kulluk ettikleriniz, size rızık verecek güçte değillerdir[3]. Öyleyse siz rızkı Allah katından arayın[4], ona kulluk edin, ona karşı görevlerinizi yerine getirin. Onun huzuruna çıkarılacaksınız.",
-      "ates": "\"Siz Allah'tan başka bir takım putlara tapıyorsunuz, yalan şeyler uyduruyorsunuz. Sizin Allah'tan başka taptıklarınız, size rızık vermezler. Siz rızkı Allah'ın yanında arayın, O'na tapın ve O'na şükredin. O'na döndürüleceksiniz.\""
+      "ates": "\"Siz Allah'tan başka bir takım putlara tapıyorsunuz, yalan şeyler uyduruyorsunuz. Sizin Allah'tan başka taptıklarınız, size rızık vermezler. Siz rızkı Allah'ın yanında arayın, O'na tapın ve O'na şükredin. O'na döndürüleceksiniz.\"",
+      "hulusi": "\"Allah dununda putlara tapıyorsunuz; uyduruyorsunuz! Allah dununda tapındıklarınız var ya, size bir yaşam gıdası veremezler! Yaşam gıdanızı (hakikatiniz olan) Allah indinden isteyin. . . O'na ibadet edin ve O'na şükredin. . . O'na döndürülmektesiniz. \"",
+      "bayrakli": "\"Siz Allah'ı bırakıp sadece birtakım putlara tapıyorsunuz ve aslı olmayan sözler uyduruyorsunuz. Doğrusu, Allah'tan başka taptıklarınızın size rızık vermeye güçleri yetmez. Artık rızkı Allah katında arayınız. O'na kulluk ediniz, O'na şükrediniz. Siz O'na döndürüleceksiniz.\"",
+      "elmali_sade": "Siz Allah'ı bırakıp da sadece bir takım putlara tapıyorsunuz ve yalan uyduruyorsunuz. Haberiniz olsun ki, o sizin Allah'tan başka taptıklarınız size bir rızık verme gücüne sahip olamazlar; onun için rızkı Allah katında arayın ve O'na kulluk edip O'na şükredin! Hep döndürülüp O'na götürüleceksiniz!\"",
+      "cantay": "\"Siz ancak Allahı bırakıb putlara tapıyor, yalan uydurub düzüyorsunuz. Hakıykat, sizin Allahı bırakıb tapdıklarınız size bir rızık vermiye muktedir olamazlar. O halde rızkı Allah katında arayın. Ona ibadet edin. Ona şükredin. Siz ancak Ona döndürü (lüb götürü) leceksiniz\".",
+      "piris": "Siz, Allah'ı bırakıp, ancak uydurarak yarattığınız putlara kulluk ediyorsunuz. Allah'tan başka kulluk ettikleriniz size bir rızık sağlayamazlar, rızkı Allah katında arayın. O'na kulluk edin, O'na şükredin. O'na döndürüleceksiniz.",
+      "yildirim": "Siz Allah'tan başka bir takım putlara tapıyorsunuz. Bunları Allah'a şerik yapmakla, açıkça yalan uyduruyorsunuz. Oysa Allah'tan başka ibadet ettiğiniz putlar, sizin rızıklarınızı yaratıp sizi rızıklandırmaya güç yetiremezler. O halde rızkınızı Allah nezdinde arayın, yalnız O'na ibadet edin ve O'na şükredin, sonunda yine O'nun huzuruna götürüleceksiniz.\"",
+      "safa": "\"Allah'tan başka bir de ayrıca, kutsallaştırdığınız kişilere-simgelere hizmet ediyorsunuz ve yalanlar uyduruyorsunuz. Aslında, Allah'tan başka bir de ayrıca hizmet ettiklerinizin, size geçimlik vermeye güçleri yetmez. Artık, geçimliği, Allah'ın katında arayın. O'na hizmet edin ve O'na şükredin. O'na döndürüleceksiniz!\"",
+      "yuksel": "\"Yalan uydurup ALLAH'tan aşağı putlara hizmet ediyorsunuz. ALLAH'ın dışında hizmet ettikleriniz size hiçbir rızık veremez. Öyleyse rızkınızı sadece ALLAH'ın yanında arayın,  O'na hizmet edin ve O'na şükredin; dönüşünüz O'nadır.\"",
+      "aktas": "\"Siz ise, Allah'tan başka, birtakım putlara kulluk ediyorsunuz ve tasarladığınız putlarla iftira ediyorsunuz. Şunu iyi bilin ki, Allah'tan başka kulluk ettikleriniz, size bir rızık vermeye güç yetiremezler. Öyleyse, rızkı Allah'tan isteyin. Ve yalnızca O'na kulluk edin. O'na şükredin. Eninde sonunda O'na döndürüleceksiniz.\"",
+      "okuyan": "Siz Allah'ın peşi sıra birtakım putlara tapıyor, asılsız sözler uyduruyorsunuz. Şüphesiz ki Allah'ın peşi sıra taptıklarınız, size rızık veremezler. Rızkı Allah katında arayın! O'na kulluk edin ve O'na şükredin! Yalnızca O'na döndürüleceksiniz.\" "
     },
     {
       "number": 3358,
@@ -296,7 +466,17 @@
       "bulac": "\"Eğer yalanlarsanız, sizden önceki ümmetler de (elçilerin çağrısını) yalanlamışlardır. Elçiye düşen ise, yalnızca açık bir tebliğdir.\"",
       "esed": "\"Ve Eğer (beni) yalanlarsanız (bilin ki, başka) toplumlar da sizden önce (Allah'ın peygamberlerini) yalanladılar: Bir elçiye düşen, sadece (kendisine emanet edilen) mesajı dosdoğru bir şekilde iletmektir.\"",
       "suleymaniye": "Eğer yalana sarılırsanız (bilin ki) sizden önceki toplumlar da yalana sarıldılar[1]. Elçiye düşen, sadece açık bir tebliğden /ayetleri bildirmekten ibarettir[2].",
-      "ates": "\"Eğer yalanlarsanız, sizden önceki ümmetler de yalanlamışlardı. Elçiye düşen, yalnız açıkça duyurmaktıır.\""
+      "ates": "\"Eğer yalanlarsanız, sizden önceki ümmetler de yalanlamışlardı. Elçiye düşen, yalnız açıkça duyurmaktıır.\"",
+      "hulusi": "\"Eğer yalanlarsanız, (bilin ki) sizden önceki ümmetler de yalanlamıştı. . . Rasule düşen apaçık bir tebliğden başka değil. \"",
+      "bayrakli": "Eğer yalanlarsanız, biliniz ki sizden önce de nice toplumlar peygamberlerini yalanlamışlardı. Peygamberin üzerinde, apaçık tebliğden başka bir görev yoktur.",
+      "elmali_sade": "Eğer siz yalanlarsanız, bilin ki, sizden önce bir takım milletler de yalanlamışlardı. Peygamberin görevi ise açık bir tebliğden ibarettir.",
+      "cantay": "\"Eğer siz (beni) tekzib ederseniz sizden evvelki ümmetler de (peygamberlerini) tekzib etmişizdir. Peygamberin üzerine (düşen vazife) ise apaçık tebliğden başkası değildir\".",
+      "piris": "Eğer yalanlarsanız, sizden önceki toplumlar da yalanlamışlardı. Peygamberin görevi apaçık duyurudan başka bir şey değildir.",
+      "yildirim": "\"Şayet siz beni yalancı sayarsanız, sizden önceki birtakım ümmetler de resullerini yalancı saymıştı. Elçinin görevi imana zorlamak değil, sadece açıkça tebliğ etmektir.\"",
+      "safa": "\"Yalanlarsanız, sizden önceki toplumlar da yalanlamışlardı. Elçinin görevi, yalnızca apaçık bildirmektir!\"",
+      "yuksel": "Yalanlarsanız,  sizden önceki toplumlar da yalanlamışlardı. Elçinin görevi ancak açıkça bildirmektir.",
+      "aktas": "\"Eğer yalanlarsanız, şunu bilin ki, sizden öncekiler de yalanlamışlardı. Resule düşen de açıkça çağrı yapmaktan başka bir şey değildir.\"",
+      "okuyan": "(Size tebliğ edileni) yalanlarsanız, elbette sizden önceki milletler de (gerçekleri) yalanlamıştı. Elçi'ye düşen (görev) yalnızca apaçık tebliğdir.[1]"
     },
     {
       "number": 3359,
@@ -312,7 +492,17 @@
       "bulac": "Onlar görmediler mi ki, Allah yaratmaya nasıl başlıyor, sonra onu iade ediyor? Şüphesiz, bu Allah'a göre kolaydır.",
       "esed": "Peki, o (hakkı inkar edenler,) Allah'ın (hayatı) ilkin nasıl yoktan var ettiğini, sonra onu nasıl tekrar yenilediğini anlamazlar mı? Kuşkusuz bu, Allah için kolay bir iştir!",
       "suleymaniye": "Allah'ın yaratılışı nasıl başlattığını hiç görmediler mi? Sonra onu tekrarlar[1]. Bu, Allah için kolaydır.",
-      "ates": "Görmediler mi Allah nasıl yaratmayı başlatıyor, sonra onu iade ediyor (dönüp yeniden yaratıyor). Bu, Allah'a göre kolaydır."
+      "ates": "Görmediler mi Allah nasıl yaratmayı başlatıyor, sonra onu iade ediyor (dönüp yeniden yaratıyor). Bu, Allah'a göre kolaydır.",
+      "hulusi": "Görmediler mi Allah, yaratılmışları nasıl yaratıyorsa, sonra da onu (aslına veya ikinci defa yeni bir yaratışa) iade ediyor. . . Muhakkak ki bu Allah'a kolaydır.",
+      "bayrakli": "Onlar Allah'ın yaratmaya nasıl başladığını, sonra onu nasıl tekrarladığını görmüyorlar mı? Şüphesiz bunu yapmak Allah'a kolaydır.",
+      "elmali_sade": "Allah'ın yaratma işini başlangıçta nasıl yapıyor olduğunu, sonra da onu tekrar yapacağını görmediler mi? Şüphesiz bu, Allah'a göre kolaydır.",
+      "cantay": "Allah hilkate nasıl başlıyor, sonra onu (nasıl ölümünden sonra) geri çeviriyor, görmediler mi? Şübhesiz bu (nlar) Allaha göre kolaydır.",
+      "piris": "Görmüyorlar mı ki Allah yaratmaya nasıl başlıyor. Sonra onu nasıl tekrar yeniliyor? Bu, Allah için çok kolaydır.",
+      "yildirim": "Peki o inkar edenler dünyada gezerek Allah'ın, mahlukatı yoktan nasıl yarattığını, sonra da bu yaratmayı tekrar tekrar yaptığını görmüyorlar mı? Şüphesiz ki bu işler, Allah'a göre kolaydır.",
+      "safa": "Allah'ın yaratılışı başlattığını, sonra da onu tekrarladığını zaten görmüyorlar mı? Aslında, işte bu, Allah için çok kolaydır.",
+      "yuksel": "ALLAH'ın yaratılışı nasıl başlatıp,  nasıl tekrarladığını görmediler mi? Bu,  elbette ALLAH için kolaydır.[1]",
+      "aktas": "Onlar, Allah'ın yaratmayı nasıl başlattığını hiç düşünmüyorlar mı? Sonra onu tekrarlayacak. Kuşkusuz bu, Allah'a çok kolaydır.",
+      "okuyan": "Allah'ın yaratmaya nasıl başladığını,[1] sonra da bunu (nasıl) tekrarladığını hiç düşünmezler mi? Şüphesiz ki bu, Allah'a kolaydır."
     },
     {
       "number": 3360,
@@ -328,7 +518,17 @@
       "bulac": "De ki: \"Yeryüzünde gezip dolaşın da, böylelikle yaratmaya nasıl başladığına bir bakın, sonra Allah ahiret yaratmasını (veya son yaratmayı) da inşa edip yaratacaktır. Şüphesiz Allah, her şeye güç yetirendir.",
       "esed": "De ki: \"Yeryüzünü dolaşın ve Allah'ın (insanı) nasıl (harikulade bir şekilde) yoktan var ettiğini görün! Allah işte bu şekilde ikinci hayatınızı da var edecektir; çünkü Allah her şeye kadirdir!\"",
       "suleymaniye": "De ki: \"Yeryüzünde dolaşın da Allah'ın yaratmaya nasıl başladığına bir bakın[1]!\" Sonra Allah, yaratmayı son kez yapacaktır[2]. Allah her şeye bir ölçü koyar.",
-      "ates": "De ki: \"Yeryüzünde gezin, bakın yaratmağa nasıl başladı, sonra Allah, son yaratmayı da yapacaktır. Çünkü Allah, her şeyi yapabilendir."
+      "ates": "De ki: \"Yeryüzünde gezin, bakın yaratmağa nasıl başladı, sonra Allah, son yaratmayı da yapacaktır. Çünkü Allah, her şeyi yapabilendir.",
+      "hulusi": "De ki: \"Arzda (bedende) inceleme yapıp, yaratmaya nasıl başladığına bir bakın. . . Bundan sonra Allah, neş'e-i ahireti (gelecek yaşam bedeninizi) inşa eder. . . Muhakkak ki Allah her şey üzerine Kaadir'dir. \"",
+      "bayrakli": "De ki: \"Yeryüzünde dolaşınız da bakınız ki Allah yaratmaya nasıl başlamıştır? İşte Allah, aynı şekilde sonraki yaratmayı da yapacaktır. Şüphesiz Allah'ın her şeye gücü yeter.\"",
+      "elmali_sade": "De ki: \"Yeryüzünde bir gezinin de bakın O'nun yaratma işini başlangıçta nasıl yaptığına; sonra da Allah, neş'e-i uhra'yı (son yapışı) inşa edecektir.\" Şüphesiz Allah, herşeye gücü yetendir.",
+      "cantay": "De ki: \"Yer yüzünde gezib dolaşın da (Allahın) hilkate nasıl başladığını görün. Allah yeni bir ahiret hayaatını da tekrar yaratacakdır. Çünkü Allah her şey'e hakkıyle kaadirdir.",
+      "piris": "De ki: -Yeryüzünde gezin ve yaratmanın nasıl başladığını, sonra Allah'ın onu yeni bir yaratışla nasıl yarattığına bakın. Kuşkusuz, Allah'ın her şeye gücü yeter.",
+      "yildirim": "De ki: \"Dünyayı gezin dolaşın da, Allah'ın yaratmaya nasıl başladığını anlamaya çalışın. Sonra, Allah tekrar yaratmayı da ölümden sonra diriltmeyi de gerçekleştirecektir. Allah elbette her şeye kadirdir.\"",
+      "safa": "De ki: \"Yeryüzünde dolaşın da yaratılışı nasıl başlattığına bir bakın. Sonra Allah, son yaratılışı başlatacaktır. Kuşkusuz, Allah, her şeye Gücü Yetendir!\"",
+      "yuksel": "De ki: \"Yeryüzünü dolaşın ve yaratılışın nasıl başladığını görün.\" Sonra,  yine ALLAH (ahiretteki) son yaratılışı başlatacaktır. ALLAH'ın her şeye gücü yeter.[1]",
+      "aktas": "De ki: \"Yeryüzünde gezip dolaşın da ilk[1] yaratışın nasıl olduğuna bakın. Sonra Allah, son inşa etmeyi de aynı şekilde yapacaktır. Allah, Her Şeye Güç Yetiren'dir.\"",
+      "okuyan": "De ki: \"Yeryüzünde dolaşın ve (Allah) yaratmaya nasıl başlamış bir bakın!\" Allah bundan sonra son yaratılışı (ahiret hayatını) da gerçekleştirecektir. Şüphesiz ki Allah her şeye gücü yetendir. "
     },
     {
       "number": 3361,
@@ -344,7 +544,17 @@
       "bulac": "Dilediğini azablandırır, dilediğine merhamet eder. O'na çevrilip götürüleceksiniz.",
       "esed": "Dilediğine azap verir, dilediğine merhamet eder; hepiniz O'na döndürüleceksiniz:",
       "suleymaniye": "Allah, hak edene[1] azap edecek, hak edene de ikramda bulunacaktır[2]. Siz ona döndürüleceksiniz.",
-      "ates": "Dilediğine azabeder, dilediğine acır ve hepiniz O'na çevrilirsiniz."
+      "ates": "Dilediğine azabeder, dilediğine acır ve hepiniz O'na çevrilirsiniz.",
+      "hulusi": "\"Dilediğine azap eder, dilediğine de merhamet eder. . . O'na dönüştürüleceksiniz (Hakikatinizin El Esma ül Hüsna olduğunu fark edeceksiniz)!\"",
+      "bayrakli": "\"Dilediğine azap eder; dilediğine de merhamet eder. Sizler O'na döndürüleceksiniz.\"",
+      "elmali_sade": "Dilediğine azap eder, dilediğine de rahmet eder. Hep O'na döndürüleceksiniz!",
+      "cantay": "Kimi dilerse azablandırır, kimi dilerse esirger O. (Hepiniz) ancak ona döndürü (lüp götürü) leceksiniz.",
+      "piris": "O dilediğine azap eder, dilediğine rahmet eder. O'na döndürüleceksiniz.",
+      "yildirim": "O, dilediğini cezalandırır, dilediğine merhamet eder. Hepiniz O'nun huzuruna götürüleceksiniz.",
+      "safa": "Dilediğini cezalandıracak, dilediğine de merhamet edecektir. Zaten O'na döndürüleceksiniz.",
+      "yuksel": "Dilediğini cezalandırır ve dilediğine acır; O'na çevrileceksiniz.",
+      "aktas": "O, Hak eden[1] kimseye azap eder, hak eden[1] kimseye de rahmet eder.[1] Ve O'na döndürüleceksiniz.",
+      "okuyan": "O, dileyene (layık gördüğüne) azap eder; dileyene (layık gördüğüne) ise merhamet eder.[1] Yalnızca O'na döndürüleceksiniz."
     },
     {
       "number": 3362,
@@ -360,7 +570,17 @@
       "bulac": "Siz yerde ve gökte (Allah'ı) aciz bırakamazsınız. Sizin Allah'ın dışında veliniz yoktur, yardım edeniniz de yoktur.",
       "esed": "Ne yeryüzünde ne de gökte Allah'ı başınızdan savamazsınız, (bunu hiç beklemeyin;) Sizi ne Allah'ın elinden alabilecek, ne de size yardım edebilecek kimse bulamazsınız.",
       "suleymaniye": "Siz, yerde de gökte de (Allah'ı) aciz bırakamazsınız. Allah ile aranıza girecek bir veliniz /yakınınız ve yardımcınız yoktur[1].",
-      "ates": "Siz, ne yerde, ne de gökte Allah'(ın yapacağı iş)i engelleyemezsiniz. Sizin Allah'tan başka ne bir koruyucunuz, ne de bir yardımcınız vardır."
+      "ates": "Siz, ne yerde, ne de gökte Allah'(ın yapacağı iş)i engelleyemezsiniz. Sizin Allah'tan başka ne bir koruyucunuz, ne de bir yardımcınız vardır.",
+      "hulusi": "\"Siz, ne arzda ve ne semada güçsüz bırakamazsınız! Sizin Allah'tan başka ne bir Veliyy'niz ve ne de bir yardımcınız yoktur. \"",
+      "bayrakli": "\"Sizler ne yerde ne gökte Allah'ı aciz bırakabilirsiniz. Sizin Allah'tan başka dostunuz ve yardımcınız da yoktur.\"",
+      "elmali_sade": "Siz, ne yeryüzünde, ne de gökte (Allah'ı) aciz bırakacak değilsiniz ve size Allah'tan başka ne bir dost var, ne de bir yardımcı!",
+      "cantay": "Siz ne yerde, ne gökde (Onu) aaciz bırakıcı değilsiniz. Allahdan başka sizin hiçbir veliniz ye yardımcınız da yokdur\".",
+      "piris": "Sizin, yerde de gökte de kaçacak bir yeriniz yoktur. Sizin Allah'tan başka sahibiniz de, yardımcınız da yoktur.",
+      "yildirim": "Sizler ne yerde, ne gökte Allah'ın hakimiyetinin dışına kaçarak kurtulamazsınız. Sizin Allah'tan başka ne koruyanınız, ne de yardımcınız yoktur.",
+      "safa": "Yeryüzünde ve gökte güçsüz bırakamazsınız. Sizin için, Allah'tan başka ayrıca, ne bir dost ne de bir yardımcı yoktur.",
+      "yuksel": "Siz ne yeryüzünde ne de gökte bunu engelleyemezsiniz. Sizin ALLAH'tan başka Sahibiniz ve Yardımcınız yoktur.",
+      "aktas": "Siz, yerde ve gökte aciz bırakacak değilsiniz. Sizin Allah'ın yanı sıra başka veliniz ve yardımcınız yoktur.",
+      "okuyan": "Yerde ve gökte (O'nu) asla aciz bırakamazsınız.[1] Sizin için Allah'a rağmen dost da yardımcı da yoktur."
     },
     {
       "number": 3363,
@@ -376,7 +596,17 @@
       "bulac": "Allah'ın ayetlerini ve O'na kavuşmayı 'yok sayıp inkar edenler'; işte onlar, benim rahmetimden umut kesmişlerdir; ve işte onlar, acı azab onlarındır.",
       "esed": "Allah'ın ayetlerini ve (sonunda) O'na kavuşacaklarını inkar edenler, benim rahmetimden ümitlerini kesmiş olanlardır; ve onları (öteki dünyada) acıklı bir azap beklemektedir.",
       "suleymaniye": "Allah'ın ayetlerini ve onun huzuruna varmayı göz ardı etmekte direnenler var ya... İşte onlar benim rahmetimden ümitlerini kesmişlerdir[1]. Onlar için acıklı bir azap vardır[2].",
-      "ates": "Allah'ın ayetlerini ve O'nunla buluşmayı inkar edenler, işte onlar benim rahmetimden ümidi kesmişlerdir ve onlar için acı bir azab vardır."
+      "ates": "Allah'ın ayetlerini ve O'nunla buluşmayı inkar edenler, işte onlar benim rahmetimden ümidi kesmişlerdir ve onlar için acı bir azab vardır.",
+      "hulusi": "Allah'ın varlıklarındaki işaretlerini ve O'na kavuşmayı inkar edenler var ya, işte onlar Rahmetimden ümidi kesmişlerdir; işte onlar için feci bir azap vardır!",
+      "bayrakli": "Allah'ın ayetlerini ve O'na kavuşmayı inkar edenlere gelince; onlar benim rahmetimden ümit kesmiş olanlardır. Onlar için acıklı bir azap vardır.",
+      "elmali_sade": "Allah'ın ayetlerine ve O'na kavuşmaya inanmayanlar ise, hep onlar Benim rahmetimden ümidini kesmiş olanlardır ve onlara acı bir azap vardır.",
+      "cantay": "Allahın ayetlerini ve Ona kavuşmayı (inkar ile) kafir olanlar (yok mu?) işte benim rahmetimden (ancak) onlar ümidlerini kesdiler. İşte pek acıklı azab da onlarındır.",
+      "piris": "Allah'ın ayetlerini ve O'nunla buluşmayı inkar edenler, onlar benim rahmetimden ümitlerini kesmiş olanlardır. İşte bunlar için çok acı bir azap vardır.",
+      "yildirim": "Allah'ın ayetlerini ve ahirette O'na kavuşmayı inkar edenler, işte onlar, Ben'im merhametimden ümitlerini kesenlerdir. Onlara gayet acı bir azap vardır.",
+      "safa": "Allah'ın ayetlerini ve O'na kavuşacaklarını inkar edenler; işte onlar, Benim rahmetimden umutlarını kesmişlerdir. Üstelik onlar için, acı bir ceza vardır.",
+      "yuksel": "ALLAH'ın ayet ve mucizelerini ve O'nunla karşılaşmayı inkar edenler,  Rahmetimden ümit kesenlerdir. Onlar acı bir cezayı hak etmişlerdir.",
+      "aktas": "Allah'ın ayetlerini ve O'nunla buluşma gerçeğini yok sayanlar; işte onlar, Ben'im rahmetimden ümitlerini kesmişlerdir. Onlar için acıklı bir azap vardır.",
+      "okuyan": "Allah'ın ayetlerini ve O'na kavuşmayı inkâr edenler -işte onlar- benim merhametimden ümitlerini kesmişlerdir ve onlar için elem verici bir azap vardır."
     },
     {
       "number": 3364,
@@ -392,7 +622,17 @@
       "bulac": "Bunun üzerine kavminin (İbrahim'e) cevabı yalnızca: \"Onu öldürün ya da yakın\" demek oldu. Böylece Allah onu ateşten kurtardı. Şüphesiz bunda, iman eden bir kavim için ayetler vardır.",
       "esed": "İmdi (İbrahim'e gelince,) kavminin o'na tek cevabı şu oldu: \"Onu öldürün, veya yakın!\" Ama Allah o'nu ateşten korudu. Bakın, bu (kıssa)da inanacak kimseler için dersler vardır!",
       "suleymaniye": "Halkının cevabı sadece: \"Öldürün onu veya yakın!\" demeleri oldu. (İbrahim'i ateşe attılar) Fakat Allah onu ateşten kurtardı[1]. İşte bunda inanıp güvenen bir topluluk için ayetler /belgeler vardır.",
-      "ates": "Kavminin (İbrahim'e) cevabı, sadece: \"Onu öldürün, yahut yakın!\" demeleri oldu. Allah onu ateşten kurtardı. Şüphesiz bunda inanan bir toplum için ibretler vardır."
+      "ates": "Kavminin (İbrahim'e) cevabı, sadece: \"Onu öldürün, yahut yakın!\" demeleri oldu. Allah onu ateşten kurtardı. Şüphesiz bunda inanan bir toplum için ibretler vardır.",
+      "hulusi": "(İbrahim'in) toplumunun cevabı şu oldu: \"Onu öldürün yahut Onu yakın!\" (Fakat) Allah, Onu ateşten kurtardı. . . Muhakkak ki bu olayda, iman eden toplum için elbette işaretler vardır.",
+      "bayrakli": "İbrahim'in sözlerine kavminin cevabı sadece, \"Onu öldürünüz, yahut yakınız!\" demek oldu. Ama Allah, onu ateşten kurtardı. Doğrusu bunda, inanan toplum için dersler vardır.",
+      "elmali_sade": "Onun için kavminin ona cevabı sadece şu oldu: \"Öldürün onu veya yakın!\" dediler. Allah da onu o ateşten kurtardı. Şüphesiz bunda inanacak bir topluluk için ibretler vardır.",
+      "cantay": "Bundan dolayı kavminin cevabı: \"Öldürün onu, yahud yakın onu\" demelerinden başka (bir şey) olmadı. Aliah da onu ateşden kurtardı. Şübhe yok ki bunda iman edecek zümreler için her halde ibretler vardır.",
+      "piris": "İbrahim'in kavminin cevabı: -Onu öldürün veya onu ateşte yakın! demekten başka birşey olmadı. Allah ise onu ateşten kurtardı. İşte bunda inanacak bir toplum için ibretler vardır.",
+      "yildirim": "Halkının ona verdikleri cevap: \"Öldürün onu!\" veya \"Ateşe atın!\" demekten başka bir şey olmadı. Ateşe attılar ama Allah onu ateşten kurtardı. Elbette bunda iman edecek kimseler için ibretler vardır.",
+      "safa": "Toplumu, yanıt olarak, yalnızca şunu söyledi: \"Onu öldürün veya yakın!\" Sonunda, Allah, Onu ateşten kurtardı. Aslında, işte bunda, inanan bir toplum için kesinlikle bir gösterge vardır.",
+      "yuksel": "Halkının karşılığı,  \"Onu öldürün,  yahut yakın\" demelerinden başka bir şey olmadı. Ancak ALLAH onu ateşten kurtardı. Gerçeği onaylayan bir toplum için bunda dersler vardır.",
+      "aktas": "Sonra onun halkının cevabı: \"Onu öldürün veya yakın!\" demeleri oldu. Bunun üzerine Allah, onu ateşten kurtardı. Bunda iman edecek bir halk için kesinlikle ayetler[1] vardır.",
+      "okuyan": "(İbrahim'in) kavminin cevabı ise \"Onu öldürün veya yakın!\" demelerinden başka bir şey olmamıştı. (Ama) Allah onu ateşten kurtarmıştı.[1] Şüphesiz ki bunda iman eden bir toplum için dersler vardır. "
     },
     {
       "number": 3365,
@@ -408,7 +648,17 @@
       "bulac": "(İbrahim) Dedi ki: \"Siz gerçekten, Allah'ı bırakıp dünya hayatında aranızda bir sevgi bağı olarak putları (ilahlar) edindiniz. Sonra kıyamet günü, kiminiz kiminizi inkar edip tanımayacak ve kiminiz kiminize lanet edeceksiniz. Sizin barınma yeriniz ateştir ve hiç bir yardımcınız yoktur.\"",
       "esed": "Ve (İbrahim) onlara dedi ki: \"Siz Allah'ı bırakıp putlara taptınız. Tek sebep, bu dünyada kendinize (ve atalarınıza) karşı duyduğunuz sevgiye esir olmanızdı: Ama sonra, Kıyamet Günü birbirinizi tanımazlıktan gelecek ve birbirinize lanet yağdıracaksınız; hepinizin varacağı yer ateştir ve (orada) size yardım edecek bir kimse bulamayacaksınız\".",
       "suleymaniye": "İbrahim dedi ki: \"Dünya hayatında sadece aranızda bir kaynaşma olsun diye, putlaştırılmış varlıkları Allah ile aranıza koydunuz. Kıyamet /mezardan kalkış günü biriniz diğerini tanımayacak ve yine biriniz diğerini lanetleyecektir /dışlayacaktır[1]. Varıp kalacağınız yer ateştir. Size yardım eden de olmayacaktır.\"",
-      "ates": "(İbrahim kavmine) dedi ki: \"Siz dünya hayatında birbirinizi sevmek için Allah'ı bırakıp birtakım putlar edindiniz. (O putlara tapmanız, dünyada aranızda bir sevgi meydana gelmesine sebep olsa bile) daha sonra kıyamet gününde birbirinizi inkar eder ve birbirinizi la'netlersiniz. Varacağınız yer de ateştir ve hiçbir yardımcınız da yoktur."
+      "ates": "(İbrahim kavmine) dedi ki: \"Siz dünya hayatında birbirinizi sevmek için Allah'ı bırakıp birtakım putlar edindiniz. (O putlara tapmanız, dünyada aranızda bir sevgi meydana gelmesine sebep olsa bile) daha sonra kıyamet gününde birbirinizi inkar eder ve birbirinizi la'netlersiniz. Varacağınız yer de ateştir ve hiçbir yardımcınız da yoktur.",
+      "hulusi": "(İbrahim) dedi ki: \"Siz dünya hayatında (atalarınızla) aranızdaki duygu bağı yüzünden Allah dununda putlar edindiniz. Bu yüzden kıyamet sürecinde kiminiz kiminizi inkar edecek ve bir diğerine lanet edecektir! Mekanınız ateştir ve yardımcınız da yoktur. \"",
+      "bayrakli": "İbrahim şöyle demişti: \"Dünya hayatında, aranızdaki sevgiden dolayı, Allah'ı bırakıp putlar edindiniz; sonra kıyamet günü birbirinizi tanımazlıktan gelecek ve birbirinize lanet okuyacaksınız. Varacağınız yer cehennemdir ve hiç yardımcınız da yoktur.\"",
+      "elmali_sade": "İbrahim: \"Siz, sadece dünya hayatında aranızda sevişmek için Allah'ı bırakıp bir takım putlara tutulmuşsunuz. Fakat kıyamet gününde birbirinize küfredecek ve birbirinizi lanetleyeceksiniz; varacağınız yer ateştir ve sizin için yardımcılardan eser de yoktur.\"",
+      "cantay": "Dedi ki: \"Siz dünya hayaatında birbirinizle (müşrikler hususunda) dost olduğunuz için Allahı bırakıb ancak putlara tutundunuz. (Fakat) bil'ahare kıyamet gününde kiminiz kiminize küfür, kiminiz kiminize la'net edecekdir. Barınacağınız yer ise ateşdir. Sizin (o vakit) hiçbir yardımcınız da yokdur\".",
+      "piris": "İbrahim şöyle demişti: -Dünya hayatında siz Allah'ı bırakıp, aranızdaki sevgi ve dostluk yüzünden putlara taptınız. Sonra kıyamet günü birbirinizi tanımayacak ve birbirinize lanet edeceksiniz. Barınağınız ateştir. Sizin için hiç bir yardımcı da yoktur.",
+      "yildirim": "İbrahim onlara şöyle dedi: \"Siz dünya hayatında Allah'tan başka birtakım sevgili putlar edindiniz. Ama sonra kıyamet günü gelince birbirinizi red ve inkar edecek, birbirinize lanet edeceksiniz. Barınacağınız yer ateş olacak ve kendinize hiçbir yardımcı bulamayacaksınız.\"",
+      "safa": "Ve dedi ki: \"Aslında, dünya yaşamında birbirinizi sevmek uğruna, Allah'tan başka bir de ayrıca, kutsallaştırdığınız kişiler-simgeler edindiniz. Sonra, Yeniden Yaratılış Günü'nde, birbirinizi tanımazlıktan gelecek ve birbirinizi lanetleyeceksiniz. Çünkü kalacağınız yer ateştir ve yardımcınız yoktur!\"",
+      "yuksel": "Dedi ki,  \"Sizin ALLAH'ın yanında putlara hizmet etmeniz,  sadece dünya hayatında aranızdaki dostluğu korumak amacıyladır. Fakat sonra,  diriliş gününde birbirinizi inkar edersiniz,  birbirinizi lanetlersiniz. Varacağınız yer ateştir ve orada yardımcı bulamazsınız.\"[1]",
+      "aktas": "İbrahim: \"Siz, dünya hayatında Allah'ın yanı sıra putları aranızda sevgi vesilesi edindiniz. Sonra Kıyamet Günü, bir kısmınız bir kısmınızı yalanlayacak ve bir kısmınız bir kısmınızı lanetleyeceksiniz. Varacağınız yer ateştir. Ve sizin için bir yardımcı yoktur.\" dedi.",
+      "okuyan": "(İbrahim) şöyle demişti: \"Siz sadece aranızdaki dünya hayatına özel bir sevgi uğruna Allah'ın peşi sıra birtakım putlar edindiniz. Sonra kıyamet günü birbirinizi tanımazlıktan gelecek[1] ve bir kısmınız bir kısmına lanet edecektir.[2]Barınağınız ateştir; sizin için asla yardımcılar da yoktur!\""
     },
     {
       "number": 3366,
@@ -424,7 +674,17 @@
       "bulac": "Bunun üzerine Lut ona iman etti ve dedi ki: \"Gerçekten ben, Rabbime hicret edeceğim. Çünkü şüphesiz O, güçlü ve üstün olandır, hüküm ve hikmet sahibidir.\"",
       "esed": "Bunun üzerine (kardeşinin oğlu) Lut o'na inandı ve \"Ben (de) zulüm ve kötülük diyarını terk ederek Rabbime (döneceğim): Şüphesiz O kudret ve hikmet sahibidir!\" dedi.",
       "suleymaniye": "Ona Lut inandı. İbrahim dedi ki: \"Ben Rabbime / onun emrettiği yere hicret ediyorum. Çünkü daima üstün ve bütün kararları doğru olan odur[1].",
-      "ates": "Bunun üzerine Lut ona inandı ve (İbrahim, kavmine) dedi ki: \"Rabbim(e ibadet edeceğim yer)e göç edeceğim. Kuşkusuz O, galibdir, hüküm ve hikmet sahibidir.\""
+      "ates": "Bunun üzerine Lut ona inandı ve (İbrahim, kavmine) dedi ki: \"Rabbim(e ibadet edeceğim yer)e göç edeceğim. Kuşkusuz O, galibdir, hüküm ve hikmet sahibidir.\"",
+      "hulusi": "Bundan sonra İbrahim'e (kardeşinin oğlu) Lut iman etti ve: \"Doğrusu ben Rabbime hicret edeceğim!\" dedi. . . Muhakkak ki O, \"HU\"; Aziyz'dir, Hakiym'dir.",
+      "bayrakli": "Bunun üzerine, Lut, İbrahim'e inandı. İbrahim, \"Doğrusu ben, Rabbime hicret ediyorum. Şüphesiz O, mutlak güç ve hikmet sahibidir\" dedi.",
+      "elmali_sade": "Bunun üzerine ona bir tek Lut iman etti. İbrahim de: \"Ben Rabbime hicret edeceğim, şüphesiz ki O, güçlüdür, hikmet sahibidir.\" dedi.",
+      "cantay": "Bunun üzerine kendisine bir Luut iman etdi. (İbrahim) dedi ki: \"Hakıykat, ben Rabbime hicret edeceğim. Şübhe yok ki mutlak gaalib, tam hüküm ve hikmet saahibi Odur, O\".",
+      "piris": "Lut da İbrahim'e iman etmişti: -Ben, Rabbime hicret ediyorum, Çünkü, O, güçlüdür, hakimdir, demişti.",
+      "yildirim": "İbrahim'in söylediklerine Lut iman etti. İbrahim: \"Ben\" dedi, \"Rabbimin emrettiği yere hicret edeceğim. O, aziz ve hakimdir (mutlak galiptir, tam hüküm ve hikmet sahibidir).\"",
+      "safa": "Böylece, Lut, Ona inandı. Ve dedi ki: \"Aslında, ben, Efendime doğru gideceğim. Çünkü O, Üstündür; Bilgelik ve Adaletle Yönetendir!\"",
+      "yuksel": "Bunun üzerine ona Lut gerçeği onayladı ve \"Ben Efendime göç ediyorum. Kuşkusuz O Üstündür,  Bilgedir\"dedi.",
+      "aktas": "Bunun üzerine Lut, O'na[1] inandı. Ve dedi ki: \"Ben, Rabb'im için hicret ediyorum. O, Mutlak Üstün Olan'dır, En İyi Hüküm Veren'dir.\"",
+      "okuyan": "Lut (da) ona iman etmişti ve (İbrahim) \"Doğrusu ben Rabbime (emrettiği yere) hicret ediyorum.[1] Şüphesiz ki yalnızca O güçlüdür, doğru hüküm verendir.\" demişti."
     },
     {
       "number": 3367,
@@ -440,7 +700,17 @@
       "bulac": "Biz ona İshak'ı ve Yakub'u armağan ettik ve onun soyunda (seçtiklerimize) peygamberliği ve kitabı (vahy ihsanı) kıldık, ecrini de dünyada verdik. Şüphesiz o, ahirette salih olanlardandır.",
       "esed": "(İbrahim'e gelince,) o'na İshak'ı ve (İshak'ın oğlu) Yakub'u bahşettik ve soyundan gelenler arasında peygamberliği ve vahyi devam ettirdik. Onu bu dünyada mükafatlandırdık; o, öteki dünyada (da) mutlaka dürüst ve erdemliler arasında yer alacaktır.",
       "suleymaniye": "İbrahim'e İshak'ı ve (İshak'ın oğlu) Yakub'u bağışladık[1]. Soyundan gelenlere nebilik ve kitap verdik[2]. Onu dünyada ödüllendirdik. O, ahirette de kesinlikle iyilerden olacaktır[3].",
-      "ates": "Biz ona İshak'ı ve (torunu) Ya'kub'u armağan ettik. Onun nesli içine peygamberlik ve Kitap koyduk. Ona dünyada (yaptığı güzel işin) karşılığını verdik. Şüphesiz o, ahirette de iyilerdendir."
+      "ates": "Biz ona İshak'ı ve (torunu) Ya'kub'u armağan ettik. Onun nesli içine peygamberlik ve Kitap koyduk. Ona dünyada (yaptığı güzel işin) karşılığını verdik. Şüphesiz o, ahirette de iyilerdendir.",
+      "hulusi": "Ona (İbrahim'e) İshak'ı ve Yakup'u hibe ettik. . . Onun zürriyyeti içinde nübüvvet ve BİLGİ oluşturduk. . . Mükafatını Ona dünyada verdik. . . Muhakkak ki O, sonsuz gelecekte de salihlerdendir.",
+      "bayrakli": "İbrahim'e, İshak ve Ya'kub'u bağışladık. Peygamberliği ve kitapları, onun soyundan gelenlere verdik. Ona dünyada ödülünü verdik. Şüphesiz o, ahirette de iyilerdendir.",
+      "elmali_sade": "Biz ona İshak ile Yakub'u da ihsan ettik, peygamberliği ve kitabı onun zürriyetinde kıldık, kendisine dünyada mükafatını verdik. Şüphesiz o, ahirette de iyilerdendir.",
+      "cantay": "Biz ona ishak ile Ya'kubu da ihsan etdik. Peygamberliği ve kitabları onun zürriyetine tahsis etdik. Dünyada ona mükafatını verdik. Hakıykat o, ahiretde de her halde saalih insanlardandır.",
+      "piris": "İbrahim'e, İshak ve Yakub'u bağışladık; soyuna peygamberlik ve kitap verdik. O'na dünyada mükafaatını verdik, O, ahirette de iyilerdendir.",
+      "yildirim": "Biz İbrahim'e (evlat ve torun olarak) İshak ile Yakub'u ihsan ettik. Onun neslinden gelenlerde, peygamberliği ve vahyi devam ettirdik. Ona dünyada mükafatını verdik. O ahirette de elbette salihlerden olacaktır.",
+      "safa": "İshak'ı ve Yakup'u, Ona armağan ettik. Soyundan gelenlere, peygamberlik ve kitap verdik; dünyadaki ödülünü de verdik. Kuşkusuz, O, sonsuz yaşamda da kesinlikle erdemli olanlar arasında olacaktır.",
+      "yuksel": "O'na (İbrahim'e) İshak ve Yakub'u bağışladık. Soyuna peygamberlik ve kitap verdik. Ödülünü bu dünyada verdik ve ahirette de erdemlilerle birlikte olacaktır.",
+      "aktas": "Biz O'na İshak'ı ve Ya'kub'u hibe ettik. Onun soyundan gelenlere Nebi'lik ve Kitap verdik. Böylece O'na dünyada ödülünü verdik. O, ahirette de elbette salihlerden olacaktır.",
+      "okuyan": "Biz ona (İbrahim'e), İshak ve (İshak'ın oğlu) Yakup'u lütfetmiş, peygamberliği ve Kitabı onun soyundan gelenlere vermiştik. Ona (böylece) dünyada ödülünü vermiştik. Şüphesiz ki o, ahirette de iyilerden (olacak)tır."
     },
     {
       "number": 3368,
@@ -456,7 +726,17 @@
       "bulac": "Lut da; hani kavmine demişti: \"Siz gerçekten, sizden önce alemlerden hiç kimsenin yapmadığı 'çirkin bir utanmazlığı' yapıyorsunuz.\"",
       "esed": "Lut (da Bizden aldığı ilhamla) kavmine şöyle seslenmişti: \"Siz, kesinlikle, dünyada daha önce hiç kimsenin yapmadığı iğrenç şeyler yapıyorsunuz!",
       "suleymaniye": "Lut'u da elçi gönderdik[1]. Bir gün o, halkına şöyle demişti: \"Siz gerçekten o çirkin işi yapıyorsunuz/ eşcinsel ilişkide[2] bulunuyorsunuz! Hiçbir toplum bu çirkin işte sizin kadar ileri gitmedi[3]!",
-      "ates": "Lut'u da (gönderdik). Kavmine dedi ki: \"Siz, sizden önce alemlerden hiç kimsenin yapmadığı bir fuhşa gidiyorsunuz.\""
+      "ates": "Lut'u da (gönderdik). Kavmine dedi ki: \"Siz, sizden önce alemlerden hiç kimsenin yapmadığı bir fuhşa gidiyorsunuz.\"",
+      "hulusi": "Lut. . . Hani toplumuna dedi ki: \"Şüphesiz ki daha önceden hiç kimsenin yapmadığı çirkin bir işi yapıyorsunuz!\"",
+      "bayrakli": "Lut'u da gönderdik. O, toplumuna demişti ki, \"Gerçekten siz, daha önce hiçbir toplumun yapmadığı cinsel ahlaksızlığı yapıyorsunuz.\"",
+      "elmali_sade": "Lut'u da (gönderdik). Hani o kavmine: \"Siz gerçekten o çirkin işi yapıyorsunuz ha! Sizden önce hiçbir millet bu haltı etmedi!",
+      "cantay": "Luutu da (hatırla). Hani o, kavmine (şöyle) demişdi: \"Siz hakıykat öyle hayasızlığı (meydana) getiriyorsunuz ki sizden evvel aalemlerden hiçbiri bunu yapmamışdık.",
+      "piris": "Lut, kavmine şöyle demişti: -Siz, toplumlardan hiç birinin sizden önce yapmadığı bir fuhşu işliyorsunuz.",
+      "yildirim": "Lut'u da halkına resul olarak gönderdik. Onlara dedi ki: \"Nedir bu haliniz? Siz dünyada sizden önce hiç kimsenin yapmadığı pek iğrenç bir şey yapıyorsunuz.",
+      "safa": "Lut da toplumuna, şöyle demişti: \"Aslında, sizden önce evrenlerde hiç kimsenin yapmadığı, sağtöreye uygun olmayan ilişkilere giriyorsunuz!\"",
+      "yuksel": "Lut'u da gönderdik. Halkına dedi ki: \"Sizden önce hiç kimsenin işlemediği boyutta bir günahı işliyorsunuz.\"",
+      "aktas": "Hani Lut halkına: \"Siz, bu alemde sizden önce yaşamış olanların hiçbirinin yapmadığı bir fahişeliğe[1] yöneliyorsunuz.\" demişti.",
+      "okuyan": "Lut'u da (elçi olarak göndermiştik). Kavmine şöyle demişti: \"Şüphesiz ki siz, sizden önce âlemlerden (insanlardan) kimsenin yapmadığı bir çirkinliği yapıyorsunuz.[1]"
     },
     {
       "number": 3369,
@@ -472,7 +752,17 @@
       "bulac": "\"Siz, (yine de) erkeklere yaklaşacak, yol kesecek ve bir araya gelişlerinizde çirkinlikler yapacak mısınız?\" Bunun üzerine kavminin cevabı yalnızca: \"Eğer doğru söylüyor isen, bize Allah'ın azabını getir\" demek oldu.",
       "esed": "Siz, erkeklere (azgın bir şehvetle) yaklaşıp (cinsler arasında tabii olan) yolu kapatmıyor musunuz? Ve bu utanç verici suçları (açık) toplantılarınızda işlemiyor musunuz?\" Ama kavmi, \"Peki,\" diye cevap verdi, \"eğer doğruları söyleyenlerden isen, başımıza Allah'ın azabını getir bakalım!\"",
       "suleymaniye": "Siz illaki erkeklere yanaşacak, yollarını kesecek ve toplandığınız özel yerlerde o kötü işi yapacaksınız, öyle mi?\" Halkının cevabı: \"Eğer doğru söyleyenlerdensen haydi bize Allah'ın azabını getir!\" demekten başka bir şey olmadı.",
-      "ates": "\"Siz (kadınları bırakıp) erkeklere gidiyorsunuz, yol kesiyorsunuz ve toplantılarınızda edepsizce şeyler yapıyorsunuz ha?..\" Kavmi'nin cevabı, sadece: \"Eğer doğrulardan isen, haydi Allah'ın azabını getir!\" demeleri oldu."
+      "ates": "\"Siz (kadınları bırakıp) erkeklere gidiyorsunuz, yol kesiyorsunuz ve toplantılarınızda edepsizce şeyler yapıyorsunuz ha?..\" Kavmi'nin cevabı, sadece: \"Eğer doğrulardan isen, haydi Allah'ın azabını getir!\" demeleri oldu.",
+      "hulusi": "\"Muhakkak ki siz erkeklerle yatıp, (doğal üreme) yolu kesiyorsunuz; toplum içinde bunu yapıyorsunuz. \" (Lut'un) toplumunun cevabı şu oldu: \"Eğer sözünde sadıksan, Allah azabını getir bize!\"",
+      "bayrakli": "\"Siz ille de erkeklere yaklaşacak, yol kesecek ve toplantılarda edepsizlikler yapacak mısınız/grup seks mi yapacaksınız?\"",
+      "elmali_sade": "Siz, gerçekten erkeklere gidecek, yolu kesecek ve toplantılarınızda edepsizlik yapıp duracak mısınız?\" dediği zaman, kavminin cevabı ancak şöyle demeleri oldu: \"Haydi, getir bize Allah' ın azabını, eğer doğru söyleyenlerden isen!\"",
+      "cantay": "\"Siz her halde erkeklere gidecek, yol kesecek, toplantı yerinizde meşru olmayanı yapacak mısınız\"? Kavminin cevabı: \"Eğer doğru söyleyenlerdensen Allahın azabını getir bize\" demelerinden başkası olmadı.",
+      "piris": "Siz, erkeklere yanaşıyor, yol kesiyor ve toplantılarınızda kötü şeyler yapıyorsunuz, öyle mi? Kavminin cevabı ise: -Eğer doğru söyleyenlerden isen, haydi bize Allah'ın azabını getir, demekten başka birşey değildi.",
+      "yildirim": "Allah'ın bu uyarmasından sonra siz hala şehvetle erkeklere varacak, yolu kesecek ve toplantılarınızda edepsizlik yapmaya devam edecek misiniz?\" Halkının ona cevabı şundan ibaret oldu: \"Doğru söylüyorsan bizi tehdit ettiğin, Allah'ın o azabını getir de görelim!\"",
+      "safa": "\"Erkeklere yöneliyorsunuz, yol kesiyorsunuz ve toplantılarınızda utanılacak şeyler yapıyorsunuz; öyle mi?\" Toplumu, yanıt olarak, yalnızca şunu söyledi: \"Allah'ın cezasını başımıza getir; eğer doğruyu söylüyorsan?\"[327]",
+      "yuksel": "\"Siz erkeklerle cinsel ilişki kuruyor,  yolları kesiyor ve toplantılarınızda her kötülüğü işliyorsunuz.\" Halkının biricik karşılığı \"Doğrulardan isen ALLAH'ın azabını getir bakalım\" demeleri oldu.",
+      "aktas": "\"Gerçekten siz; erkeklere yönelecek, yanlış yolu seçecek ve bir araya gelerek çirkinlik yapacak mısınız?\" Halkının yanıtı: \"Eğer doğru söyleyenlerden isen Allah'ın azabını bize getir.\" demeleri oldu.",
+      "okuyan": "Siz erkeklere yaklaşacak, yol kesecek[1] ve toplantılarınızda o çirkinliği mi yapacaksınız!\"[2] Kavminin cevabı ise \"Doğru söyleyenlerdensen bize Allah'ın azabını getir!\" demelerinden başka bir şey olmamıştı."
     },
     {
       "number": 3370,
@@ -488,7 +778,17 @@
       "bulac": "Dedi ki: \"Rabbim, fesat çıkaran (bu) kavme karşı bana yardım et.\"",
       "esed": "(Bunun üzerine Lut) \"Ey Rabbim!\" diye yalvardı, \"Bozgunculuğa ve yozlaşmaya yol açan bu insanlara karşı bana yardım et!\"",
       "suleymaniye": "Lut dedi ki: \"Rabbim! Bu bozguncular topluluğuna karşı bana yardım et!\"",
-      "ates": "(Lut): \"Rabbim, şu bozguncu kavme karşı bana yardım et,\" dedi."
+      "ates": "(Lut): \"Rabbim, şu bozguncu kavme karşı bana yardım et,\" dedi.",
+      "hulusi": "(Lut) dedi ki: \"Rabbim, bozguncular topluluğuna karşı bana yardım et!\"",
+      "bayrakli": "Lut, \"Ey Rabbim! Bozgunculara karşı bana yardım et!\" dedi.",
+      "elmali_sade": "Lut: \"Ey Rabbim, ortalığı fesada veren bu topluluğa karşı bana yardım et!\" dedi.",
+      "cantay": "De ki: \"Yarab, o fesadcılar güruhuna karşı buna nusret et\".",
+      "piris": "Lut: -Rabbim, fesatçı kavme karşı bana yardım et! dedi.",
+      "yildirim": "\"Ya Rabbi!\" dedi, \"bu müfsitler, bu bozguncular güruhuna karşı bana Sen yardım eyle!\"",
+      "safa": "Dedi ki: \"Efendim! Bozgunculuk yapan şu topluma karşı bana yardım et!\"",
+      "yuksel": "\"Efendim,  şu bozguncu topluluğa karşı bana zafer ver\" dedi.",
+      "aktas": "Lut: \"Rabb'im! Bozgunculuk yapan halka karşı bana yardım et.\" dedi.",
+      "okuyan": "(Lut:) \"Rabbim! Şu bozguncu topluma karşı bana yardım et!\" demişti. "
     },
     {
       "number": 3371,
@@ -504,7 +804,17 @@
       "bulac": "Bizim elçilerimiz İbrahim'e bir müjde ile geldikleri zaman, dediler ki: \"Gerçek şu ki, biz bu ülkenin halkını yıkıma uğratacağız. Çünkü onun halkı zalim oldular.\"",
       "esed": "Derken (semavi) elçilerimiz İbrahim'e (İshak'ın doğumu) müjdesini getirdiklerinde (aynı zamanda): \"Biz bu yörenin halkını yok edeceğiz, çünkü onlar gerçek zalimlerdir!\" dediler.",
       "suleymaniye": "Elçilerimiz İbrahim'e bir müjde ile[1] geldiklerinde ona şunu da söylediler: \"Biz, o şehrin halkını yok edeceğiz; çünkü oranın halkı yanlışlar içinde[2]!\"",
-      "ates": "Elçilerimiz İbrahim'e (oğlu olacağına dair) müjdeyi getirdikleri zaman dediler ki: \"Biz şu (Sodom) kenti(ni)n halkını helak edeceğiz. Çünkü oranın halkı zalim oldular.\""
+      "ates": "Elçilerimiz İbrahim'e (oğlu olacağına dair) müjdeyi getirdikleri zaman dediler ki: \"Biz şu (Sodom) kenti(ni)n halkını helak edeceğiz. Çünkü oranın halkı zalim oldular.\"",
+      "hulusi": "Rasullerimiz, İbrahim'e müjde olarak geldiklerinde dediler ki: \"Doğrusu biz şu bölge halkını helak edeceğiz. . . Muhakkak ki oranın halkı nefslerine zulmedenler oldular. \"",
+      "bayrakli": "Elçilerimiz İbrahim'e müjdeyi getirdiklerinde şöyle dediler: \"Biz, bu memleketin halkını helak edeceğiz. Çünkü oranın halkı zalim/cinsel ahlaksızlıkta ileri giden kimselerdir.\"",
+      "elmali_sade": "Elçilerimiz İbrahim'e müjde ile vardıklarında: \"Haberin olsun, biz bu memleketin halkını helak edeceğiz; çünkü onun halkı hep zalim oldular.\" dediler.",
+      "cantay": "Elçilerimiz İbrahime o müjdeyi getirince dediler ki: \"Biz bu memleketin ahalisini helak edeceğiz. Çünkü onun ahalisi zaalim oldular\".",
+      "piris": "Elçilerimiz, müjde ile İbrahim'e geldikleri zaman: -Biz, şu beldeyi helak edeceğiz, çünkü oranın halkı zalimdir, dediler.",
+      "yildirim": "Melaikeden olan elçilerimiz İbrahim'e, (İshak'ın doğumuna) dair müjde getirdiklerinde: \"Haberin olsun, dediler, biz bu şehrin halkını imha edeceğiz, çünkü oranın halkı büsbütün zalim kimselerdir.\"",
+      "safa": "Elçilerimiz, İbrahim'e sevinçli haberini getirdiklerinde, şöyle dediler: \"Bu kentin halkını, kesinlikle yıkıma uğratacağız. Aslında, onun halkı, haksızlık yapanlar arasındadır!\"",
+      "yuksel": "Elçilerimiz İbrahim'e müjdeyle vardıklarında,  \"Bu kentin (Sodom) halkını yok etmek üzereyiz. Çünkü oranın halkı zalim oldular\" dediler.",
+      "aktas": "Resullerimiz[1] İbrahim'e müjdeyi getirdiklerinde:[2] \"Biz bu beldenin halkını helak edeceğiz.\" dediler. \"Zira bu beldenin halkı zalim oldular.\"",
+      "okuyan": "Elçilerimiz (melekler) İbrahim'e (çocuk)[1] müjdesi getirdiklerinde şöyle demişlerdi: \"Biz bu şehir halkını helak edeceğiz. Şüphesiz ki oranın halkı zalim kişilerdir.\""
     },
     {
       "number": 3372,
@@ -520,7 +830,17 @@
       "bulac": "Dedi ki: \"Onun içinde Lut da vardır.\" Dediler ki: \"Onun içinde kimin olduğunu biz daha iyi biliriz. Kendi karısı dışında, onu ve ailesini muhakkak kurtaracağız. O (karısı) arkada kalacak olanlardandır.\"",
       "esed": "(Fakat İbrahim) \"Ama Lut da onlar arasında yaşıyor!\" diye haykırdı(ğı zaman) şu cevabı verdiler: \"Kimin orada olduğunu iyi biliyoruz; o'nu ve karısı dışındaki bütün aile efradını kesinlikle koruyacağız: karısı ise geride bırakılanlar arasında yer alacak.\"",
       "suleymaniye": "İbrahim: \"Ama orada Lut var!\" dedi[1]. \"Biz, orada kimin olduğunu daha iyi biliyoruz. Karısı hariç, onu ve ailesini kurtaracağız. Karısı ise (bedeninin) kalıntısı kalacaklardandır[2].\" dediler.",
-      "ates": "(İbrahim) dedi: \"Ama orada Lut var?\" Dediler: \"Biz orada kimin bulunduğunu daha iyi biliriz. Onu ve ailesini kurtaracağız. Yalnız karısı (azabda) kalacaklardandır.\""
+      "ates": "(İbrahim) dedi: \"Ama orada Lut var?\" Dediler: \"Biz orada kimin bulunduğunu daha iyi biliriz. Onu ve ailesini kurtaracağız. Yalnız karısı (azabda) kalacaklardandır.\"",
+      "hulusi": "(İbrahim) dedi ki: \"Muhakkak ki orada Lut var?\" Dediler ki: \"Orada kim olduğunu biliriz. . . Mutlaka Onu ve Onun ailesini kurtaracağız. . . Karısı hariç; o geride kalanlardan oldu. \"",
+      "bayrakli": "İbrahim dedi ki: \"Ama orada Lut var!\" Şöyle cevap verdiler: \"Biz, orada kimlerin bulunduğunu çok iyi biliyoruz. Onu ve ailesini elbette kurtaracağız. Yalnızca karısı müstesna; o, azapta kalacaklar arasındadır.\"",
+      "elmali_sade": "İbrahim: \"Orada Lut var ama!\" dedi. Onlar: \"Biz, orada kimin bulunduğunu pekala biliriz. Muhakkak onu ve ailesini kurtaracağız; ancak karısı ötekilerden oldu.\" dediler.",
+      "cantay": "(İbrahim) \"Onların içinde, dedi, Luut da var\". Dediler ki: \"Biz orada kimin bulunduğunu çok iyi bileniz. Onu da, ehlini de muhakkak kurtaracağız. Yalınız geride (azabda) kalacaklardan olan karısı müstesna\".",
+      "piris": "İbrahim: -Fakat orada Lut var, dedi. -Biz, orada kimin olduğunu daha iyi biliyoruz. Onu ve ailesini kurtaracağız, karısı hariç. O geride kalanlardandır dediler.",
+      "yildirim": "İbrahim: \"Ama Lut da orada!\" deyince onlar şöyle cevap verdiler: \"Orada bulunanları biz pek iyi biliyoruz. Onu ve yakınlarını kurtaracağız, yalnız eşi geride kalıp helak edilenler arasında olacak.\"",
+      "safa": "Dedi ki: \"Lut da orada!\" Şöyle dediler: \"Orada kimin olduğunu biz biliyoruz. Onu ve ailesini kesinlikle kurtaracağız; karısı dışında!\" \"O, geride kalanlar arasında olacak!\"",
+      "yuksel": "Dedi ki,  \"Ama orada Lut var.\" Onlar da,  \"Orada kimlerin bulunduğunu iyi biliyoruz. Onu ve ailesini kurtaracağız,  fakat karısı hariç; o geride kalacaklardandır\" dediler.",
+      "aktas": "İbrahim: \"Fakat orada Lut var!\" dedi. \"Biz, orada kimin olduğunu daha iyi biliriz. Geride kalanlarla beraber olacak olan karısı hariç, onu ve ehlini[1] mutlaka kurtaracağız.\" dediler.",
+      "okuyan": "(İbrahim) şöyle demişti: \"Ama orada Lut var!\" (Melekler ise): \"Biz orada kimin bulunduğunu çok iyi bilenleriz. Onu ve ailesini elbette kurtaracağız. Sadece hanımı hariç;[1] o, (azapta) kalacaklar arasındadır.\" demişlerdi.[2]"
     },
     {
       "number": 3373,
@@ -536,7 +856,17 @@
       "bulac": "Elçilerimiz Lut'a geldikleri zaman o, bunlar dolayısıyla kötüleşti ve içi daraldı. Dediler ki: \"Korkuya düşme ve hüzne kapılma. Karın dışında, seni ve aileni muhakak kurtaracağız. O ise, arkada kalacaktır.\"",
       "esed": "Elçilerimiz kendisine geldiklerinde Lut onlar adına üzüntüye kapıldı, çünkü onları koruyamayacağını gördü; ama onlar Lut'a: \"Korkma ve üzülme! Biz seni ve karın dışında bütün aileni koruyacağız; karın ise geride bırakılanlar arasında yer alacak.",
       "suleymaniye": "Elçilerimiz, Lut'a geldiği zaman Lut onlar için kaygılandı, içi daraldı[1]. Dediler ki: \"Korkma, üzülme, karın hariç seni ve aileni kurtaracağız. O, (bedeninin) kalıntısı kalacaklardandır[2].",
-      "ates": "Elçilerimiz Lut'a gelince (Lut) onlar yüzünden fenalaştı ve onlar hakkında arşını daraldı. (Melekler): \"Korkma üzülme dediler, biz seni ve aileni kurtaracağız, yalnız karın kalacaklardan olmuştur.\""
+      "ates": "Elçilerimiz Lut'a gelince (Lut) onlar yüzünden fenalaştı ve onlar hakkında arşını daraldı. (Melekler): \"Korkma üzülme dediler, biz seni ve aileni kurtaracağız, yalnız karın kalacaklardan olmuştur.\"",
+      "hulusi": "Rasullerimiz Lut'a geldiklerinde onlar yüzünden fena oldu; onlardan dolayı (olacaklardan dolayı) içi daraldı. . . (Rasullerimiz de) dediler ki: \"Korkma, mahzun olma! Doğrusu biz seni ve senin aileni kurtaracağız. . . Karın müstesna; o geride kalanlardan oldu. \"",
+      "bayrakli": "Elçilerimiz Lut'a gelince, Lut onlar hakkında ve onları korumak için ne yapacağını bilemedi. Ona, \"Korkma, tasalanma! Çünkü biz seni de aileni de kurtaracağız. Yalnızca geri kalacaklar arasında bulunan karın müstesna\" dediler.",
+      "elmali_sade": "Elçilerimiz Lut'a gelince, onlar yüzünden fenalaştı ve haklarında eli kolu daraldı (bağlandı). Onlar da: \"Korkma ve kederlenme; seni ve aileni kurtaracağız; ancak karın ötekilerden oldu.",
+      "cantay": "Elçilerimiz Luuta gelince o, bunlar sebebiyle tasalandı, bunlar sebebiyle kolu (göğsü) daraldı. \"Korkma, tasalanma, dediler, çünkü biz seni de, senin ehlini de kurtaracağız. Yalnız geride (azabda) kalacaklardan olan karın müstesna\".",
+      "piris": "Elçilerimiz, Lut'a geldiklerinde, onlar sebebiyle kötülenmiş ve içi daralmıştı. -Korkma ve üzülme! Biz, seni ve aileni kurtaracağız. Geride kalanlardan olan karın hariç.",
+      "yildirim": "Elçilerimiz Lut'a gelince, onları, halkının tecavüzlerinden koruyamayacağı düşüncesiyle üzüldü, eli kolu bağlanıp göğsü daraldı. Onlar dediler ki: \"Bizden yana endişe etme, üzülme! Biz seni ve yakınlarını kurtaracağız, yalnız eşin geride kalanlar arasında yer alacaktır.\"",
+      "safa": "Elçilerimiz, Lut'a geldiklerinde, Onlardan dolayı kaygılandı; göğsü daraldı. \"Korkma ve üzülme!\" dediler; \"Kuşkusuz, seni ve aileni kesinlikle kurtaracağız; karın dışında!\" \"O, geride kalanlar arasında olacak!\"",
+      "yuksel": "Elçilerimiz Lut'a vardıklarında elçilerimize yapılan muameleden dolayı fenalaştı,  zor durumda kaldı. Kendisine dediler ki,  \"Korkma,  üzülme. Biz seni ve aileni kurtaracağız. Karın hariç; o geride kalanlardan olmuştur.\"",
+      "aktas": "Elçilerimiz Lut'a vardıkları zaman, onların gelmelerinden dolayı telaşlandı, sarkıntılık yapacaklarını düşünerek içi daraldı. Elçiler: \"Korkma ve üzülme; Biz -geride kalanlarla beraber olacak olan karın hariç- seni ve ehlini mutlaka kurtaracağız.\" dediler.",
+      "okuyan": "Elçilerimiz Lut'a gelince, (Lut) onların yüzünden üzülmüş ve onlardan dolayı içi daralmıştı.[1] Ona \"Korkma, tasalanma! Şüphesiz ki biz seni de aileni de kurtaracağız. Yalnız, (azapta) kalacaklar arasında bulunan hanımın hariç!\" demişlerdi."
     },
     {
       "number": 3374,
@@ -552,7 +882,17 @@
       "bulac": "\"Şüphesiz biz, fasıklık yapmalarından dolayı, bu ülke halkının üstüne gökten iğrenç bir azab indireceğiz.\"",
       "esed": "Bu yörenin halkına, işledikleri bütün kötülüklerin karşılığı olarak gökten mutlaka bir bela indireceğiz!\" dediler.",
       "suleymaniye": "Yoldan çıkmalarına karşılık biz, bu şehrin halkı üzerine gökten bir afet indireceğiz.\"",
-      "ates": "\"Biz yoldan çıkan şu ülke halkının üstüne gökten bir azab indireceğiz.\""
+      "ates": "\"Biz yoldan çıkan şu ülke halkının üstüne gökten bir azab indireceğiz.\"",
+      "hulusi": "\"Muhakkak ki biz şu bölge halkına, bozuk inançları dolayısıyla semadan bir azap inzal edeceğiz. \"",
+      "bayrakli": "Biz bu ülke halkının üzerine, yoldan çıkmalarına karşılık, gökten bir azap indireceğiz.",
+      "elmali_sade": "Haberin olsun, biz bu memleket halkının yapmakta oldukları çirkince günahları yüzünden üzerlerine gökten korkunç bir azap indireceğiz.\" dediler.",
+      "cantay": "\"Muhakkak bu memleket ahalisinin üstüne, yapmakda oldukları faasıklık yüzünden, gökden (feci) bir azab indireceğiz\".",
+      "piris": "Biz, bu belde halkına, yoldan saptıkları için gökten bir azap indirecek olanlarız.",
+      "yildirim": "\"Büsbütün yoldan çıkmaları sebebiyle, biz bu şehir halkının üzerine gökten bir azap indireceğiz.\"",
+      "safa": "\"Aslında, yoldan çıktıkları için, bu kentin halkına gökten bir yıkım indireceğiz!\"",
+      "yuksel": "\"Yoldan çıktıkları için,  biz bu kentin üzerine gökten bir felaket indireceğiz.\"",
+      "aktas": "Biz, bu belde halkının üzerine, yoldan çıkmaları nedeniyle gökten bir azap indireceğiz.",
+      "okuyan": "Şüphesiz ki biz yoldan çıkmalarına karşılık bu şehir halkının üzerine, gökten bir azap indireceğiz.[1]"
     },
     {
       "number": 3375,
@@ -568,7 +908,17 @@
       "bulac": "Andolsun, biz akledebilecek bir kavim için orada apaçık bir ayet bırakmışızdır.",
       "esed": "(Sonunda dediğimiz oldu;) ve ondan geriye, aklını kullananlar için açık işaretler bıraktık.",
       "suleymaniye": "Aklını kullanan bir topluluk için o şehirden geriye açık bir ayet /gösterge bıraktık[1].",
-      "ates": "Andolsun biz, aklını kullanan bir toplum için ondan, (harab ettiğimiz o ülkeden) açık bir işaret bırakmışızdır."
+      "ates": "Andolsun biz, aklını kullanan bir toplum için ondan, (harab ettiğimiz o ülkeden) açık bir işaret bırakmışızdır.",
+      "hulusi": "Andolsun ki ondan (o bölgeden), aklını değerlendiren bir topluluk için apaçık bir ibret nişanesi bıraktık.",
+      "bayrakli": "Andolsun ki biz, aklını kullanacak bir toplum için orada apaçık bir ders bırakmışızdır.",
+      "elmali_sade": "Andolsun ki, Biz aklını kullanacak bir topluluk için oradan bir ibret tablosu bıraktık.",
+      "cantay": "Andolsun, aklını kullanacak bir kavm için biz oradan apaçık bir nişane (bir ibret) bırakmışızdır.",
+      "piris": "Aklını kullanabilen bir toplum için, onlardan apaçık belgeler bırakmışızdır.",
+      "yildirim": "Biz aklını kullanıp düşünen kimseler için, o memleketten aşikar bir ibret vesilesi (harabe) bıraktık.",
+      "safa": "Üstelik gerçek şu ki, aklını kullanacak bir toplum için, ondan açık bir kanıt bıraktık.",
+      "yuksel": "Aklını kullanan bir toplum için apaçık bir ders olarak oradan bazı kalıntılar bıraktık.",
+      "aktas": "Ant olsun ki Biz, aklını kullanan bir halk için ondan[1] apaçık bir ayet[2] bıraktık.",
+      "okuyan": "Yemin olsun ki biz aklını kullanacak bir toplum için oradan apaçık bir delil bırakmışızdır.[1]"
     },
     {
       "number": 3376,
@@ -584,7 +934,17 @@
       "bulac": "Medyen'e de kardeşleri Şuayb'ı (gönderdik) Böylece dedi ki: \"Ey kavmim, Allah'a kulluk edin ve ahiret gününü umud edin ve yeryüzünde bozguncular olarak karışıklık çıkarmayın.\"",
       "esed": "Medyen (halkına) da kardeşleri Şuayb(ı gönderdik). O, \"Ey halkım!\" diye seslendi, \"(Yalnız) Allah'a kulluk edin, Ahiret Günü'nü bekleyin ve yeryüzünde bozgunculuk yaparak kötülük işlemeyin!\"",
       "suleymaniye": "Medyenlilere de kardeşleri Şuayb'ı elçi gönderdik[1]. Onlara dedi ki: \"Ey halkım! Allah'a kulluk edin, ahiret gününden beklentiniz olsun. Bozgunculuk yaparak ortalığı birbirine katmayın.\"",
-      "ates": "Medyen'e de kardeşleri Şuayb'i (gönderdik): \"Ey kavmim, dedi, Allah'a kuluk edin, ahiret gününü umun, yeryüzünde karışıklık çıkarıp bozgunculuk yapmayın!\""
+      "ates": "Medyen'e de kardeşleri Şuayb'i (gönderdik): \"Ey kavmim, dedi, Allah'a kuluk edin, ahiret gününü umun, yeryüzünde karışıklık çıkarıp bozgunculuk yapmayın!\"",
+      "hulusi": "Medyen'e de kardeşleri Şuayb'ı. . . Dedi ki: \"Ey yurttaşlarım. . . Allah'a ibadet edin, sonsuz geleceğe iman edin ve bozguncular olarak yeryüzünde taşkınlık yapmayın. \"",
+      "bayrakli": "Medyen'e de kardeşleri Şu'ayb'ı gönderdik ve Şu'ayb şöyle dedi: \"Ey kavmim! Allah'a kulluk ediniz, ahiret gününe umut besleyiniz, yeryüzünde bozgunculuk yaparak karışıklık çıkarmayınız!\"",
+      "elmali_sade": "Medyen'e de kardeşleri Şu'ayb'ı (gönderdik); vardı dedi ki: \"Ey kavmim, Allah'a ibadet edin de son güne ümit besleyin; bozgunculukla yeryüzünü berbat etmeyin!\"",
+      "cantay": "\"Medyen\" e de biraderleri Şuaybı (gönderdik) de dedi ki: \"Ey kavmim, Allaha ibadet edin. Ahiret gününe umud bağlayın. Yer yüzünde fesadcılar olarak bozgunculuk yapmayın\".",
+      "piris": "Medyen'e de kardeşleri Şuayb'i gönderdik: -Ey kavmim, dedi. Allah'a kulluk edin ve ahiret gününü bekleyin, Yeryüzünde bozgunculuk yapıp, kargaşa çıkarmayın!",
+      "yildirim": "Medyen halkına da kardeşleri Şuayb'ı gönderdik, onlara dedi ki: \"Ey benim halkım! Yalnız Allah'a ibadet edin, ahiret gününü bekleyin ve ülkede fesatçılık yaparak düzeni bozmayın!\"",
+      "safa": "Medyen'e de kardeşleri Şuayb'ı gönderdik. Şöyle dedi: \"Ey toplumum! Allah'a hizmet edin. Sonsuz Yaşam Günü'nü bekleyin ve yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın!\"",
+      "yuksel": "Medyen'e de kardeşleri Şuayb'ı... \"Halkım,  ALLAH'a hizmet edin,  ahiret gününü arayın ve yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın\" demişti.",
+      "aktas": "Medyen halkına da kardeşleri Şu'ayb'ı gönderdik. Şu'ayb: \"Ey halkım! Allah'a kulluk edin. Ahiret gününü umut edin. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın!\" dedi.",
+      "okuyan": "Medyen'e de kardeşleri Şuayb'ı (elçi göndermiştik). Şöyle demişti: \"Ey kavmim, Allah'a kulluk edin! Ahiret gününe ümit bağlayın ve yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın!\"[1]"
     },
     {
       "number": 3377,
@@ -600,7 +960,17 @@
       "bulac": "Ancak onu yalanladılar; bunun üzerine onları amansız bir sarsıntı yakalayıverdi, böylelikle kendi yurtlarında diz üstü çökmüş olarak sabahladılar.",
       "esed": "Fakat, halkı o'nu yalanladı. Bu yüzden bir yer sarsıntısına maruz kaldılar ve yurtlarında cansız bir şekilde yere serildiler.",
       "suleymaniye": "Şuayb'ı yalancı saydılar. Çok geçmeden onları öyle bir sarsıntı tuttu ki yurtlarında çöküp kaldılar[1].",
-      "ates": "Onu yalanladılar, bu yüzden onları (o müthiş) deprem yakaladı, yurtlarında diz üstü çöküp kaldılar."
+      "ates": "Onu yalanladılar, bu yüzden onları (o müthiş) deprem yakaladı, yurtlarında diz üstü çöküp kaldılar.",
+      "hulusi": "Onu (Şuayb'ı) yalanladılar. . . Bu yüzden onları o şiddetli sarsıntı yakaladı da yurtlarında diz üstü çökmüş halde kaldılar.",
+      "bayrakli": "Fakat onu yalanladılar; bu yüzden, kendilerini bir sarsıntı yakalayıverdi ve yurtlarında dizüstü çöküverdiler.",
+      "elmali_sade": "Buna karşı onu yalanladılar. Derken, onları o sarsıntı tutuverdi de yurtlarında dizleri üstü çöke kaldılar.",
+      "cantay": "Fakat onu tekzib etdiler. Derken kendilerini şiddetli bir sarsıntı yakalayıverdi de yurdlarından hepsi (ölü olarak) diz üstü çöke kaldılar.",
+      "piris": "Ama onu yalanladılar, bunun üzerine onları korkunç bir sarsıntı yakaladı ve oldukları yerde yapışıp kaldılar.",
+      "yildirim": "Fakat onlar kendisini yalancı saydılar. Bunun üzerine müthiş bir zelzele, kendilerini kıskıvrak yakalayıverdi, oldukları yerde çökekaldılar.",
+      "safa": "Yine de Onu yalanladılar. Sonunda, zorlu bir sarsıntı onları yakaladı ve kendi ülkelerinde diz üstü çöküp kaldılar.",
+      "yuksel": "Onu yalanladılar,  nihayet kendilerini bir deprem yakaladı ve evlerinde diz üstü çöküp kaldılar.",
+      "aktas": "Fakat onu yalanladılar. Bu nedenle onları şiddetli bir sarsıntı yakaladı ve yurtlarında dizüstü çöke kaldılar.",
+      "okuyan": "(Kavmi) onu yalanlamıştı. Kendilerini (korkunç) bir sarsıntı yakalamıştı ve yurtlarında diz üstü çökmüşlerdi.[1]"
     },
     {
       "number": 3378,
@@ -616,7 +986,17 @@
       "bulac": "Ad'ı ve Semud'u da (yıkıma uğrattık). Gerçek şu ki, kendi oturdukları yerlerden size (durumları) belli olmaktadır. Kendi yaptıklarını şeytan süsleyip çekici kıldı, böylece onları yoldan alıkoydu. Oysa onlar görebilen kimselerdi.",
       "esed": "Mesken ve barınakların(ın kalıntıların)dan açıkça görüleceği gibi, Ad ve Semud (kavimlerini de yok ettik). (Onlar yıkılıp gittiler.) Çünkü Şeytan onlara işledikleri (günahları) güzel gösterdi ve böylece onları, hakikati kavrama yeteneğine sahip oldukları halde, (Allah'ın) yol(un)dan alıkoydu.",
       "suleymaniye": "(Hud'un kavmi) Ad ile (Salih'in kavmi) Semud'u da (helak ettik). Oturdukları yerler /harabeler, onların durumlarını size açık seçik belli eder. Şeytan, yaptıklarını kendilerine süslü gösterdi ve onları yoldan çıkardı. Oysa onlar basiretli /ileri görüşlü kimselerdi[1].",
-      "ates": "Ad ve Semud'u da (helak ettik). Bu, oturdukları yerlerden size belli olmaktadır. Şeytan onlara yaptıkları işleri süsleyip onları yoldan çıkardı. Oysa bakıp ibret alabilirlerdi (ama almadılar)."
+      "ates": "Ad ve Semud'u da (helak ettik). Bu, oturdukları yerlerden size belli olmaktadır. Şeytan onlara yaptıkları işleri süsleyip onları yoldan çıkardı. Oysa bakıp ibret alabilirlerdi (ama almadılar).",
+      "hulusi": "Ad ve Semud'a (da böyle yaptık). . . Onların meskenlerinden durumlarını anlamışsınızdır. . . Şeytan kendilerine yaptıklarını süsledi de onları (Hak) yoldan engelledi. . . Gerçeği anlayacak halde olmalarına rağmen!",
+      "bayrakli": "Ad ve Semud toplumlarını da helak ettik. Helakleri, evlerinin kalıntılarından size belli olmaktadır. Şeytan onlara yaptıklarını güzel gösterip, onları doğru yoldan çıkarmıştı. Oysa onlar gerçeği görebilirlerdi.",
+      "elmali_sade": "Ad ve Semud'a da (peygamberler gönderdik) ki, size bunlar, meskenlerinden belli olmaktadır. Şeytan, onlara yaptıklarını güzel göstermiş ve kendilerini yoldan çevirmişti; halbuki, gözleri açık adamlardılar.",
+      "cantay": "Aad ile Semudu da (helak etdik. Onların başına neler geldiği) hakıykat sizin için el'an (o haraab) evleri (ciheti) nden belli olmakdadır. Uyanık (insan) lar oldukları halde şeytan onların amel (ve hareket) lerini süsleyib kendilerini yoldan sapdırmışdır.",
+      "piris": "Ad ve Semud kavimlerini yok ettik. Onların meskenlerinden bu apaçık size belli olmuştur. Şeytan, onlara yaptıklarını güzel göstermiş ve onları yoldan çıkarmıştı. Oysa onlar gerçeği görebilirlerdi.",
+      "yildirim": "Ad ve Semud halklarını da imha ettik. Siz ey (Mekkeliler) bunu, kalan ev harabelerinden anlıyorsunuzdur.Şeytan onlara yaptıkları kötü işleri süsledi ve onları yoldan çıkardı. Halbuki onlar aklı fikri yerinde, açıkgöz kimselerdi.",
+      "safa": "Âd ve Semud da öyle. Yerleşim yerlerinden açıkça belli oluyor. Şeytan, yaptıklarını kendilerine çekici göstermiş; böylece yoldan alıkoymuştu. Oysa gerçeği görebilirlerdi.",
+      "yuksel": "Aynı şekilde,  Ad ve Semud'u da... Akıbetleri,  oturmuş oldukları yerlerden size belli olmaktadır. Sapkın işlerini onlara süslü göstererek onları yoldan saptırdı. Halbuki görüp anlayacak yeteneğe sahiptiler.",
+      "aktas": "Ad ve Semud'un sonları da yurtlarının durumundan size belli olmaktadır. Şeytan yaptıklarını güzel göstererek onların yanlış yolu seçmelerine sebep oldu. Oysaki doğruyu görebilirlerdi.",
+      "okuyan": "Âd ve Semûd'u da (helak etmiştik). Sizin için, (onların durumu) oturdukları yerler(in kalıntıların)dan anlaşılmaktadır. Şeytan, yaptıkları işleri kendilerine süslü göstermiş ve onları doğru yoldan alıkoymuştur. (Oysa) bakıp görebilecek durumdaydılar."
     },
     {
       "number": 3379,
@@ -632,7 +1012,17 @@
       "bulac": "Karun'u, Firavun'u ve Haman'ı da (yıkıma uğrattık). Andolsun, Musa onlara apaçık delillerle gelmişti, ancak yeryüzünde büyüklendiler. Oysa onlar (azabtan kurtulup) geçecek değillerdi.",
       "esed": "Karun'u, Firavun'u ve Haman'ı (da böyle cezalandırdık). Musa onlara hakikatin bütün kanıtlarını getirmişti, ama onlar yeryüzünde büyüklük tasladılar (ve o'nu reddettiler); halbuki onlar (elimizden) kaçıp kurtulamazlardı.",
       "suleymaniye": "Karun'u, Firavun'u ve Haman'ı da (helak ettik). Musa kendilerine açık belgelerle gelince onlar, o topraklarda kibirlendiler ve helak olmaktan kurtulamadılar[1].",
-      "ates": "Kaarun'u, Fir'avn'ı, Haman'ı da (helak ettik). Andolsun, Musa onlara açık kanıtlar getirdi, fakat onlar o yerde büyüklük tasla(yıp ayetlerimizi kabule tenezzül etme)diler. Ama geçip gidecek, (elimizden kurtulacak) değillerdi."
+      "ates": "Kaarun'u, Fir'avn'ı, Haman'ı da (helak ettik). Andolsun, Musa onlara açık kanıtlar getirdi, fakat onlar o yerde büyüklük tasla(yıp ayetlerimizi kabule tenezzül etme)diler. Ama geçip gidecek, (elimizden kurtulacak) değillerdi.",
+      "hulusi": "Karun'u, Firavun'u ve Haman'ı (da böyle yaptık). . . Andolsun ki Musa onlara apaçık deliller olarak geldi de; dünyada benlik - büyüklük tasladılar. . . Oysa (gücümüzün) önüne geçemezlerdi!",
+      "bayrakli": "Karun'u, Firavun'u ve Haman'ı da helak ettik. Musa onlara apaçık deliller getirmişti de onlar yeryüzünde büyüklük taslayıp, kabul etmediler. Oysa bizden kaçıp kurtulamazlardı.",
+      "elmali_sade": "Karun'a Firavun'a ve Haman'a da (gönderdik). Andolsun ki, Musa onlara apaçık delillerle geldi de onlar; o yerde kibirlenip kafa tuttular. Oysa, (azabın) önüne geçecek değillerdi.",
+      "cantay": "Kaarunu, Fir'avnı, Hamaanı da (helak etdik). Andolsun ki Musa (daha evvel) kendilerine apaçık bürhanlar getirmişdi de onlar yer (yüzün) de büyklük taslamışlardı. Halbuki (azabın) önüne geçebilecek de değillerdi.",
+      "piris": "Karunu, Firavun'u ve Haman'ı (helak etti.) Musa, onlara belgelerle gelmişti. Fakat yeryüzünde büyüklendiler ama ileri gidemediler.",
+      "yildirim": "Karun'u, Firavun'u ve Haman'ı da helak ettik. Musa kendilerine belgelerle, mucizelerle geldi, ama onlar o ülkede kibirlendiler, büyüklük tasladılar, fakat hükmümüzden kurtulamadılar.",
+      "safa": "Karun da Firavun da Haman da öyle. Gerçek şu ki, Musa, onlara açık kanıtlar getirmişti. Fakat yeryüzünde büyüklük tasladılar. Oysa kaçıp kurtulamazlardı.",
+      "yuksel": "Karun,  Firavun ve Haman'ı da... Musa,  onlara apaçık delillerle gitmişti; ancak onlar yeryüzünde büyüklük tasladılar. Atlatıp kaçamadılar.[1]",
+      "aktas": "Karun, Firavun ve Haman'a; Musa kanıt içeren, açıklayıcı bilgiyle geldi. Ne var ki onlar yeryüzünde büyüklük tasladılar. Onlar kurtulanlardan olmadılar.[1]",
+      "okuyan": "Karun'u, Firavun'u ve Haman'ı da (helak etmiştik). Yemin olsun ki Musa onlara apaçık deliller getirmişti de onlar yeryüzünde kibirlenmişlerdi. (Azabımızı) geçebilecek değillerdi."
     },
     {
       "number": 3380,
@@ -648,7 +1038,17 @@
       "bulac": "İşte biz, onların her birini kendi günahıyla yakalayıverdik. Böylece onlardan kiminin üstüne taş fırtınası gönderdik, kimini şiddetli bir çığlık sarıverdi, kimini yerin dibine geçirdik, kimini de suda boğduk. Allah onlara zulmedici değildi, ancak onlar kendi nefislerine zulmediyorlardı.",
       "esed": "Çünkü onların her birini günahlarından dolayı hesaba çektik: Kiminin tepesinde ölümcül fırtınalar estirdik; kimini (ani) bir kasırga yok etti; kimisini yerin dibine geçirdik ve kimisi de suda boğulup gitti. Onlara haksızlık yapan Allah değildi, fakat onlar kendi kendilerine haksızlık yapıyorlardı.",
       "suleymaniye": "Onlardan her birini işlediği günah yüzünden yakaladık. Kimine taş-toprak savuran kasırga gönderdik[1], kimini yüksek bir ses yakaladı[2]. Kimini yerin dibine geçirdik[3], kimini de suda boğduk[4]. Allah onlara asla yanlış yapmadı; yanlışı onlar, kendilerine yapıyorlardı[5].",
-      "ates": "Nitekim hepsini günahiyle yakaladık. Onlardan kiminin üstüne taş yağdıran bir fırtına gönderdik, kimini korkunç ses yakaladı, kimini yere batırdık, kimini de boğduk. Allah onlara zulmedecek değildi; fakat onlar, kendi kendilerine zulmediyorlardı."
+      "ates": "Nitekim hepsini günahiyle yakaladık. Onlardan kiminin üstüne taş yağdıran bir fırtına gönderdik, kimini korkunç ses yakaladı, kimini yere batırdık, kimini de boğduk. Allah onlara zulmedecek değildi; fakat onlar, kendi kendilerine zulmediyorlardı.",
+      "hulusi": "Her birini kendi suçunun sonucuyla yakaladık. . . Onlardan kiminin üzerine hortum irsal ettik! Onlardan kimini o korkunç dalgalı ses yakaladı! Onlardan kimini yerin dibine geçirdik. . . Onlardan kimini de suda boğduk. . . Allah onlara zulmetmiyordu; fakat onlar kendi nefslerine zulmediyorlardı.",
+      "bayrakli": "Herbirini günahından dolayı yakaladık. Kiminin üzerine taşlar savuran rüzgarlar gönderdik; kimini korkunç bir ses yakaladı, kimini yerin dibine geçirdik, kimini de suda boğduk. Allah onlara zulmetmiyor, asıl onlar kendi kendilerine zulmediyorlardı.",
+      "elmali_sade": "Özetle herbirini günahı ile yakaladık; kiminin başına bir taş yağdıran gönderdik, kimini korkunç bir ses alıverdi, kimini yerin dibine geçirdik, kimini de boğduk. Allah onlara haksızlık etmiyordu. Fakat onlar kendi kendilerine zulmediyorlardı.",
+      "cantay": "İşte biz (onların) her birini günahı sebebiyle yakaladık. İşte kiminin tepesine (taş yağdıran) bir kasırga gönderdik, kimini korkunç bir ses aldı, kimini yere geçirdik, kimini de suda boğduk Allah onlara zulm etmiyordu. Fakat onlar kendilerine (bizzat) kendileri zulm ediyorlardı.",
+      "piris": "Hepsini günahlarıyla birlikte yakaladık. Onlardan kiminin üzerine taş savuran kasırga gönderdik. Kimini bir çığlık yakaladı. Kimini de yerin dibine geçirdik, kimini de suda boğduk. Allah, onlara zulmetmiyordu, fakat onlar kendilerine zulmediyorlardı.",
+      "yildirim": "Onlardan her birini kendi suçu sebebiyle cezaya çarptırdık: Kiminin üzerine taş yağdıran bir kasırga gönderdik, kimini korkunç bir gürültü bastırıverdi, kimini yerin dibine geçirdik, kimini de suda boğduk. Allah onlara zulmetmedi, onlar asıl kendi kendilerine zulmettiler.",
+      "safa": "Her birini suçlarıyla yakaladık. Sonunda, kiminin üzerine taş savuran bir kasırga gönderdik; kimini bir gürleme yakaladı; kimini yerin dibine geçirdik; kimini de boğduk. Allah, onlara haksızlık etmedi. Tam tersine, onlar, kendilerine yazık ettiler.",
+      "yuksel": "Hepsini günahlarıyla yakaladık. Onlardan kimine çılgın bir fırtına gönderdik,  kimini korkunç bir ses yakaladı,  kimini yerin dibine geçirdik,  kimini de boğduk. Onlara zulmeden ALLAH değildi; onlar kendi kendilerine zulmediyorlardı.",
+      "aktas": "Bunun üzerine suçları nedeniyle hepsini cezalandırdık. Bir kısmının üzerine taşlar savuran rüzgarlar gönderdik. Kimisini de korkunç bir ses yakaladı. Kimisini de yerin dibine geçirdik. Kimisini de boğduk. Böyle yapmakla, Allah onlara haksızlık yapmadı. Fakat onlar kendi kendilerine haksızlık yaptılar.",
+      "okuyan": "Nitekim onlardan her birini günahı sebebiyle cezalandırmıştık. Kiminin üzerine taş göndermiştik. [1] Kimini korkunç bir ses yakalamıştı. [2] Kimini yerin dibine geçirmiştik. [3] Kimini de suda boğmuştuk. [4] Allah onlara haksızlık edecek değildi fakat onlar kendi kendilerine haksızlık etmekteydiler."
     },
     {
       "number": 3381,
@@ -664,7 +1064,17 @@
       "bulac": "Allah'ın dışında başka veliler edinenlerin örneği, kendine ev edinen örümcek örneğine benzer. Gerçek şu ki, evlerin en dayanıksız olanı örümcek evidir; bir bilselerdi.",
       "esed": "Allah'tan başka (varlıkları ve güçleri) sığınak kabul edenlerin durumu, kendisine ağ ören örümceğin durumuna benzer: çünkü barınakların en zayıfı örümcek ağıdır. Keşke bunu anlasalardı!",
       "suleymaniye": "Allah ile aralarına veliler koyanların durumu, bir yuva/aile kurmuş dişi örümceğin durumu gibidir. (Aile ilişkileri açısından) en zayıf yuva, kesinlikle örümcek yuvasıdır. Keşke bunu bilselerdi[1].",
-      "ates": "Allah'tan başka veliler edinenler, bir ev edinen örümceğe benzerler. Evlerin en gevşeği örümcek evidir, keşke bilselerdi."
+      "ates": "Allah'tan başka veliler edinenler, bir ev edinen örümceğe benzerler. Evlerin en gevşeği örümcek evidir, keşke bilselerdi.",
+      "hulusi": "Allah dununda (tanrı kabul ederek birbirini) veliler edinenlerin meseli, bir ev edinen dişi örümceğin meseli gibidir. . . Muhakkak ki evlerin en zayıfı elbette dişi örümceğin ağıdır! Eğer bilselerdi.",
+      "bayrakli": "Allah'tan başka dostlar edinenlerin durumu, dişi örümceğin durumu gibidir. O, bir yuva edinir. Halbuki yuvaların en çürüğü şüphesiz dişi örümceğin yuvasıdır. Keşke bilselerdi!",
+      "elmali_sade": "Allah'tan başka dostlara tutunanların durumu, kendisine bir yuva yapan örümcek örneği gibidir. Halbuki, evlerin en çürüğü de örümcek evidir, eğer bilselerdi.",
+      "cantay": "Allahdan başka veliler edinenlerin sıfatı kendine bir yuva yapan örümcek misali gibidir. Halbuki, eğer bilmiş olsalar, evlerin en çürüğü her halde örümcek yuvasıdır.",
+      "piris": "Allah'tan başka veliler edinenlerin durumu kendine bir ev yapan örümceğe benzer. Evlerin en çürüğü örümceğin evidir. Keşke bilselerdi.",
+      "yildirim": "Allah'tan başka hami, sığınacak tanrı edinenlerin durumu; tıpkı kendine yuva yapan örümceğin haline benzer. Halbuki en çürük yuva, örümcek ağıdır. Keşke bu gerçeği bir bilselerdi!",
+      "safa": "Allah'tan başka bir de ayrıca dostlar edinenlerin durumu, ev edinen Dişi Örümcek gibidir. Oysa aslında, evlerin en güvenilmez olanı, dişi örümceğin evidir; keşke bilselerdi![328]",
+      "yuksel": "ALLAH'tan başka edindikleri velilerin örneği,  bir ev edinen dişi örümceğin örneğine benzer. Gerçek şu ki,  evlerin en çürüğü (en az güvenilir olanı) dişi örümceğin evidir,  keşke bilselerdi.[1]",
+      "aktas": "Allah'ın yanı sıra veliler[1] edinenlerin durumu, kendisine dişi örümceğin evini ev edinenin durumu gibidir. Kuşkusuz evlerin en dayanıksızı dişi örümceğin evidir. Keşke bunu kavrayabilselerdi.",
+      "okuyan": "Allah'ın peşi sıra dostlar edinenlerin örneği, yuva edinen örümceğin örneği gibidir.[1] Şüphesiz ki yuvaların en dayanıksız olanı elbette örümcek yuvasıdır.[2]Keşke bilselerdi!"
     },
     {
       "number": 3382,
@@ -680,7 +1090,17 @@
       "bulac": "Allah, kendi dışında hangi şeye taptıklarını şüphesiz bilir. O, güçlü ve üstün olandır, hüküm ve hikmet sahibidir.",
       "esed": "Kuşkusuz Allah, insanların Kendisini bırakıp da yalvardıkları şeylerin ne olduğunu çok iyi bilir; yalnız O'dur kudret sahibi, hikmet sahibi.",
       "suleymaniye": "Allah, onların, kendisiyle aralarına koyup yalvardıkları her şeyi bilir. O, daima üstün ve bütün kararları doğru olandır.",
-      "ates": "Allah, onların kendisinden başka ne gibi şeylere yalvardıklarını bilir, O üstündür, hüküm ve hikmet sahibidir."
+      "ates": "Allah, onların kendisinden başka ne gibi şeylere yalvardıklarını bilir, O üstündür, hüküm ve hikmet sahibidir.",
+      "hulusi": "Muhakkak ki Allah, O'nun dununda yöneldiğiniz şeyleri bilir. . . \"HU\"; Aziyz'dir, Hakiym'dir.",
+      "bayrakli": "Şüphesiz Allah, onların kendisinden başka ne tür bir şeye yalvardıklarını bilir. O, çok güçlüdür ve hikmet sahibidir.",
+      "elmali_sade": "Allah, kesinlikle onların, kendisini bırakıp da hangi şeylere yalvardıklarını biliyor. Oysa güçlü O'dur, hikmet sahibi O.",
+      "cantay": "Allah, kendinden başka hangi şey'e tapıyorlarsa şübhesiz ki biliyor. O, mutlak gaalibdir, tam hüküm ve hikmet saahibidir.",
+      "piris": "Allah, kendisinden başka ne tür şeylere dua ettiklerini bilir. O güçlüdür hakimdir.",
+      "yildirim": "Allah, onların Kendisinden başka hangi varlıkları tanrılaştırıp yalvardıklarını elbette bilir. O, aziz ve hakimdir (mutlak galiptir, tam hüküm ve hikmet sahibidir).",
+      "safa": "Kuşkusuz, Allah, Kendisinden başka bir de ayrıca yakarışlarda bulundukları şeyleri bilir. Çünkü O, Üstündür; Bilgelik ve Adaletle Yönetendir.",
+      "yuksel": "ALLAH onların kendisinden başka hizmet etmelerinin aslında hiçbir şey olmadığını iyi bilir. O Üstündür,  Bilgedir.",
+      "aktas": "Kuşkusuz Allah, onların Kendisinin yanı sıra yöneldikleri şeylerin ne olduğunu[1] bilir. O, Mutlak Üstün Olan'dır, En İyi Hüküm Veren'dir.",
+      "okuyan": "Allah onların kendisinin peşi sıra yalvardıkları şeyleri bilmektedir. O güçlüdür, doğru hüküm verendir."
     },
     {
       "number": 3383,
@@ -696,7 +1116,17 @@
       "bulac": "İşte bu örnekler; biz bunları insanlara vermekteyiz. Ancak alimlerden başkası bunlara akıl erdirmez.",
       "esed": "İşte Biz insanın önüne bu temsilleri koyuyoruz: ama onların gerçek anlamını ancak (Bizi) tanıyanlar kavrayabilir,",
       "suleymaniye": "İşte bütün bu örnekleri insanlar için veriyoruz; ama, yalnızca bunlarla ilgili bilgi sahibi olanlar doğru bağlantıları kurabilir[1].",
-      "ates": "Biz bu misalleri insanlara anlatıyoruz ama onları, bilenlerden başkası düşünüp anlamaz."
+      "ates": "Biz bu misalleri insanlara anlatıyoruz ama onları, bilenlerden başkası düşünüp anlamaz.",
+      "hulusi": "İşte misaller, insanlara vurguluyoruz! (Fakat) onları alimlerden başkası aklıyla değerlendirmez!",
+      "bayrakli": "İşte bu örnekleri biz, bütün insanlara veriyoruz. Oysa onları ancak bilenler anlar.",
+      "elmali_sade": "İşte bu misaller var ya, Biz onları insanlar için getiriyoruz; fakat onlara ilim sahiplerinden başkasının aklı ermez.",
+      "cantay": "İşte misaller! Biz onları insanlar için irad ediyoruz. Aalim olanlardan başkası onları anlamaz.",
+      "piris": "İşte, insanlar için verdiğimiz örnekler, ama onları bilgi sahiplerinden başkaları anlamaz.",
+      "yildirim": "İşte bazı gerçekleri anlatmak için, Biz bu kabil temsiller getiriyoruz, ama bunları, ancak ibret almasını bilenler anlar.",
+      "safa": "İnsanlar için, işte böyle örnekler veriyoruz. Bilgisi olanlardan başkası, zaten düşünüp anlayamaz.",
+      "yuksel": "Bu örnekleri halk için veririz ve onları bilen kimselerden başkası düşünüp anlamaz.",
+      "aktas": "Bu örnekleri insanlara veriyoruz. Onu alimlerden[1] başkası kavrayamaz.",
+      "okuyan": "İşte biz şu örnekleri insanlar için veriyoruz;[1] onları (gerçeği) bilenlerden başkası akıl etmez.[2]"
     },
     {
       "number": 3384,
@@ -712,7 +1142,17 @@
       "bulac": "Allah gökleri ve yeri hak olarak yarattı. Şüphesiz, bunda iman edenler için bir ayet vardır.",
       "esed": "(ve kesin olan şu ki:) Allah gökleri ve yeri (deruni) bir hakikat üzere yarattı; unutmayın ki bu (yaratılışta) (O'na) inananların tümü için alınacak dersler vardır.",
       "suleymaniye": "Allah gökleri ve yeri, o gerçek için (sizleri imtihan için[1]) yaratmıştır. Bunda inanıp güvenenler için kesin bir ayet /belge vardır[2].",
-      "ates": "Allah, gökleri ve yeri hak ile yarattı. Şüphesiz bunda inananlar için bir ibret vardır."
+      "ates": "Allah, gökleri ve yeri hak ile yarattı. Şüphesiz bunda inananlar için bir ibret vardır.",
+      "hulusi": "Allah, semaları ve arzı Hak olarak (Esma'sının işaret ettiği özelliklerle) yarattı! Muhakkak ki bunda iman edenlere elbette bir işaret vardır.",
+      "bayrakli": "Allah, gökleri ve yeri bir amaç uğruna yarattı. Bunda, inanacaklar için bir ders vardır.",
+      "elmali_sade": "Allah, o gökleri ve yeri (o yüksekleri ve aşağıyı) hak ile yaratmıştır. Kesinlikle bunda inananlar için bir ibret vardır.",
+      "cantay": "Allah gökleri ve yeri hak olarak yaratdı. Şübhe yok ki bunda iman edenler için (Onun kemal-i kudretine) mutlak bir delalet vardır.",
+      "piris": "Allah, gökleri ve yeri hakkıyla yarattı. İnananlar için bunda deliller vardır.",
+      "yildirim": "Allah gökleri ve yeri, gayesiz değil, hak ve hikmetle, gerçek bir gaye ile yarattı. Elbette bunda iman edecek kimseler için alınacak dersler vardır.",
+      "safa": "Allah, gökleri ve yeryüzünü gerçek olarak yaratmıştır. Aslında, işte bunda, inananlar için kesinlikle bir gösterge vardır.",
+      "yuksel": "ALLAH gökleri ve yeri belli bir amaç için yarattı. Bunda iman edenler için bir kanıt vardır.",
+      "aktas": "Allah, gökleri ve yeri hakk ile yarattı. Bunda İman Edenler için kesinlikle bir ayet[1] vardır.",
+      "okuyan": "Allah gökleri ve yeri bir amaç ile yaratmıştır.[1] Şüphesiz ki bunda iman edenler için bir delil vardır. "
     },
     {
       "number": 3385,
@@ -728,7 +1168,17 @@
       "bulac": "Sana Kitap'tan vahyedileni oku ve namazı dosdoğru kıl. Gerçekten namaz, çirkin utanmazlıklar (fahşa)dan ve kötülüklerden alıkoyar. Allah'ı zikretmek ise muhakkak en büyük (ibadet)tir. Allah, yaptıklarınızı bilir.",
       "esed": "Sana vahyedilen bu ilahi kelamı (başka insanlara) ilet ve namazında dikkatli ve devamlı ol; çünkü namaz (insanı) çirkin fiillerden ve akla ve sağduyuya aykırı olan her türlü şeyden alıkoyar; Allah'ı anmak gerçekten en büyük (erdem ve iyilik)tir. Allah bütün yaptıklarınızı bilir.",
       "suleymaniye": "Sana vahyedilen bu Kitabı bağlantılarıyla birlikte oku[1], namazı da düzgün ve sürekli kıl[2]. Namaz, cinsel günahlardan[3] ve kötü şeylerden sakındırır. Allah'ın zikri /Allah'a ait doğru bilgi elbette her şeyden büyüktür /önemlidir. Allah, yaptığınız her işi bilir.",
-      "ates": "Kitaptan sana vahyedileni oku ve namazı da kıl. Çünkü namaz kötü ve iğrenç şeylerden meneder. Elbette Allah'ı anmak, en büyük (ibadet)tir. Allah, ne yaptığınızı bilir."
+      "ates": "Kitaptan sana vahyedileni oku ve namazı da kıl. Çünkü namaz kötü ve iğrenç şeylerden meneder. Elbette Allah'ı anmak, en büyük (ibadet)tir. Allah, ne yaptığınızı bilir.",
+      "hulusi": "Sana vahyolunan BİLGİ'yi (Kitap) oku, bildir; salatı ikame et. . . Kesinlikle salat fahşadan (kendini beden kabulünün getirisi olan aşırı davranışlardan) ve münkerden (Sünnetullah'a ters düşüren şeylerden) uzaklaştırır. . . Elbette ki Allah zikri (hatırlanışı) Ekber'dir (Ekberiyeti hissettirir)! Allah ne halde olduğunuzu bilir.",
+      "bayrakli": "Sana kitaptan vahyedileni oku, namazı dosdoğru kıl! Çünkü namaz, yüz kızartıcı şeylerden ve kötülüklerden alıkoyar. Allah'ı anmak en büyük ibadettir. Allah ne yaptığınızı bilir.",
+      "elmali_sade": "Sana vahyedilen Kitabı güzel güzel oku ve namazı kıl! Muhakkak sahih namaz edepsizlikten ve uygunsuzluktan alıkoyar. Muhakkak Allah'ı anmak en büyük iştir ve Allah, her ne işlerseniz bilir.",
+      "cantay": "Sana vahyedilen kitabı oku. Namazı da dosdoğru kıl (ve kıldır). Çünkü namaz edebsizlikden ve akıl ve şeriata uymayan her şeyden alıkoyar. Allahı zikretmek elbette en büyük (ibaret) dir. Ne yaparsanız Allah bilir.",
+      "piris": "Sana vahyolunan kitabı oku! Namazı kıl! Çünkü namaz, ahlaksızlıktan ve kötülükten alıkor. Elbette Allah'ın zikri/kitabı en büyüktür. Allah, yaptıklarınızı bilir.",
+      "yildirim": "Sana vahyedilen kitabı okuyup tebliğ et, namazı hakkıyla ifa et. Muhakkak ki namaz, insanı, ahlak dışı davranışlardan, meşru olmayan işlerden uzak tutar. Allah'ı namazla anmak, elbette en büyük fazilettir. Allah bütün işlediklerinizi bilir.",
+      "safa": "Kitap'tan sana bildirileni oku ve namazı dosdoğru kıl. Çünkü namaz, çirkinliklerden ve kötülüklerden alıkoyar. Allah'ın Öğretisi ise kesinlikle en büyüktür. Allah, yaptıklarınızı zaten bilir.[329]",
+      "yuksel": "Sana vahiy etmiş olduğumuz kitaptan oku ve salatı gözet. Çünkü salat,  iğrenç ve kötü şeylerden vazgeçirir. ALLAH'ı anmak en önemlidir. ALLAH ne yaptığınızı bilir.[1]",
+      "aktas": "Kitap'tan sana vahyolunan şeyi oku. Salatı ikame et.[1] Salat, fahşadan[2] ve münkerden[3] alıkoyar. Kesinlikle Allah'ın zikri[4] daha büyüktür. Allah, yaptığınız[5] şeyleri bilir.",
+      "okuyan": "Sana vahyedilen Kitabı tilavet[1] et (okuyup aktar) ve namazı kıl! Şüphesiz ki namaz, çirkinlikten ve kötülükten alıkoyar.[2] Allah'ı anmak[3] elbette (ibadetlerin) en büyüğüdür. Allah yaptıklarınızı bilir. "
     },
     {
       "number": 3386,
@@ -744,7 +1194,17 @@
       "bulac": "İçlerinde zulmedenleri hariç olmak üzere, Kitap Ehliyle en güzel olan bir tarzın dışında mücadele etmeyin. Ve deyin ki: \"Bize ve size indirilene iman ettik; bizim ilahımız da, sizin ilahınız da birdir ve biz O'na teslim olmuşuz.\"",
       "esed": "Geçmiş vahyin mensupları ile zulüm ve haksızlıktan uzak durdukları sürece en güzel şekilde tartışın ve deyin ki: \"Bize indirilene inandığımız gibi size indirilmiş olana da inanıyoruz: çünkü bizim ilahımız ile sizin ilahınız tek ve aynıdır ve biz (hepimiz) O'na teslim olmuşuzdur\".",
       "suleymaniye": "Yanlış davranış içinde olanları hariç[1] ehlikitapla /kitaplarında uzman kişilerle en güzel yöntemle mücadele edin[2]. Onlara deyin ki: \"Bize indirilene de size indirilene de inandık. Bizim ilahımızla sizin ilahınız birdir. Biz ona teslim olmuş kimseleriz[3].\"",
-      "ates": "Kitap ehliyle, -haksızlık edenleri dışında- en güzel tarzda tartışın ve deyin ki: \"Bize indirilene de size indirilene de inandık. Tanrımız ve tanrınız birdir, biz de O'na teslim olanlarız.\""
+      "ates": "Kitap ehliyle, -haksızlık edenleri dışında- en güzel tarzda tartışın ve deyin ki: \"Bize indirilene de size indirilene de inandık. Tanrımız ve tanrınız birdir, biz de O'na teslim olanlarız.\"",
+      "hulusi": "Aralarındaki zulmedenler müstesna! Geçmişte kendilerine BİLGİ verilmiş olanlarla, en güzeli neyse o şekilde mücadele edin ve şöyle deyin: \"Bize inzal olunana da size inzal olunana da iman ettik. . . İlahımız ve ilahınız aynı TEK'tir! Biz O'na teslim olmuşlarız. \"",
+      "bayrakli": "Zulmedenleri/şirk koşanları hariç, kitap ehli ile en güzel bir şekilde tartışınızve \"Bize indirilene de, size indirilene de inandık. Bizim tanrımız da, sizin tanrınız da birdir. Biz O'na teslim olmuşuzdur\" deyiniz.",
+      "elmali_sade": "Kitap ehli ile zulmedenleri bir yana ancak en iyi bir şekilde mücadele edin ve deyin ki: \"Biz, hem bize indirilene iman ettik, hem size indirilene ve bizim ilahımız ile sizin ilahınız birdir. Ancak biz yalnız O'na teslim olmuşuzdur.\"",
+      "cantay": "İçlerinden zulmedenler müstesna olmak üzere ehl-i kitab ile en güzel (savaşdan) başka bir suretle mücadele etmeyin ve deyin ki: \"Bize indirilene de, size indirilene de inandık. Bizim Allahımız da, sizin Allanınız da birdir. (Şu kadar ki) biz (ancak) Ona teslim olanlarız. (Biz Onun samimi müslümanlarıyız)\".",
+      "piris": "Kitap ehli ile en güzel şekilde mücadele et. Ancak onlardan zalim olanlar hariç. Onlara şöyle deyin: -Bize indirilene de, size indirilene de iman ettik. Bizim ilahımız da sizin ilahınız da birdir. Biz ona teslim olanlarız.",
+      "yildirim": "Zulmedenleri hariç, Ehl-i kitab ile en güzel olan şeklin dışında bir tarzda mücadele etmeyin ve onlara şöyle deyin: \"Biz, hem bize indirilen kitaba, hem size indirilen kitaba iman ettik. Bizim İlahımız da sizin İlahınız da bir ve aynı İlahtır ve Biz O'na gönülden teslim olduk.\"",
+      "safa": "Haksızlık yapanların dışındaki kitap halkıyla en güzel biçimde tartışın. Ve şunu söyleyin: \"Hem bize indirilene hem de size indirilene inanıyoruz. Tanrımız ve Tanrınız aynıdır; Tektir. Çünkü biz, O'na teslim olanlarız!\"",
+      "yuksel": "Zalim olanları hariç,  kitap halkıyla en güzel bir biçimde tartışın ve \"Bize indirileni onayladık ve size indirileni de onayladık. Bizim Tanrımız,  sizin de Tanrınız birdir. Biz sadece O'na teslim olduk\" deyin.",
+      "aktas": "Haksızlık edenleri hariç, Kitap Ehli ile ancak en iyi şekilde mücadele edin. Ve deyin ki: \"Biz, bize indirilene de size indirilene de iman ettik. Bizim ve sizin ilahınız birdir. Biz de O'na teslim olanlarız.\"",
+      "okuyan": "İçlerinden haksızlık edenler hariç, kitap ehliyle ancak en güzel şekilde mücadele edin[1] ve deyin ki: \"Bize indirilene de size indirilene de iman ettik. Bizim ilahımız da sizin ilahınız da tektir ve biz O'na teslim olmuşuzdur.\""
     },
     {
       "number": 3387,
@@ -760,7 +1220,17 @@
       "bulac": "İşte biz sana böyle bir Kitap indirdik. Bundan dolayı kendilerine Kitap verdiklerimiz ona iman etmektedirler. Bunlar (putatapıcılar)dan da ona iman edecek olanlar vardır. İnkarcılardan başkası bizim ayetlerimizi inkar etmez.",
       "esed": "(Ey Muhammed!) Bu ilahi kelamı sana işte bu şekilde indirdik. Ve bu ilahi kelamı bahşettiklerimiz ona inanırlar; şu (geçmiş vahiylerin takipçi)leri arasında da ona inananlar vardır. Mesajlarımızı, (apaçık bir) hakikati inkar edenler dışında, hiç kimse bile bile reddetmez:",
       "suleymaniye": "Onlara indirdiğimiz gibi sana da bu Kitabı indirdik. Kendilerine Kitap verdiklerimiz, bu Kitaba inanırlar[1]. Bunlardan /kitap bilgisi olmayanlardan da ona inananlar olacaktır. Kafirlerden başkası ayetlerimizi bile bile inkar etmez[2].",
-      "ates": "İşte böylece Kitabı sana da indirdik. Kendilerine Kitabı verdiklerimiz, ona inanırlar: Şunlardan (şu Araplardan) da ona inananlar vardır. Ayetlerimizi, kafirlerden başkası inkar etmez."
+      "ates": "İşte böylece Kitabı sana da indirdik. Kendilerine Kitabı verdiklerimiz, ona inanırlar: Şunlardan (şu Araplardan) da ona inananlar vardır. Ayetlerimizi, kafirlerden başkası inkar etmez.",
+      "hulusi": "Böylece sana Kitabı (Hakikat ve Sünnetullah bilgisini) inzal ettik. . . Kendilerine Kitap verdiklerimiz (hakikatleri olarak) O'na iman ederler. . . İşte bunlardan, O'na (hakikatlerine) iman eden kimse de vardır. . . İşaretlerimizi sadece hakikat bilgisini inkar edenler (kilitlenmişler) bile bile inkar eder.",
+      "bayrakli": "Böylece sana kitabı indirdik. İşte, kendilerine kitap verdiklerimiz ona inanırlar. Çevrendekilerden de ona inananlar vardır. Ayetlerimizi, ancak inkarcılar bile bile tanımazlar.",
+      "elmali_sade": "İşte sana (öncekileri tasdik eden) böyle bir kitap indirdik. O'nun için kendilerine kitap verdiklerimiz ona iman ederler. Şunlardan da ona iman edenler vardır. Bizim ayetlerimizi ancak kafirler inkar eder.",
+      "cantay": "İşte sana (Habibim böyle bir) kitab indirdik. Onun için kendilerine kitab verdiklerimiz buna iman ediyorlar. Şunlardan da ona iman edecek nice kimseler vardır. Bizim ayetlerimizi kafirlerden başkası bilerek inkar etmez.",
+      "piris": "İşte sana böyle bir kitap indirdik. Kendilerine kitap verilenler ona inanırlar. Bunlardan da ona inananlar vardır. Ayetlerimizi kafirlerden başkası bile bile inkar etmez.",
+      "yildirim": "Biz, işte sana da bu Kitabı indirdik. Daha önce kitap verdiğimiz kimseler buna da iman ederlerdi. Şunlardan da ona iman edenler vardır. Bizim ayetlerimizi kafirlerden başkası inkar etmez.",
+      "safa": "Ve işte böylece, Kitap'ı, sana indirdik. Kitap verdiklerimiz, Ona inanırlar; bunlardan da Ona inananlar vardır. Zaten nankörlük edenlerden başkası ayetlerimizi bilerek inkar etmez.",
+      "yuksel": "İşte sana bu kitabı indirdik. Kendilerine kitap vermiş olduklarımız onu onaylayacaklardır. Şunlardan (ümmilerden) da bazıları onaylayacaktır. Kafirlerden başkası ayetlerimizi reddetmez.",
+      "aktas": "İşte böylece sana Kitap'ı indirdik. Kendilerine Kitap ulaştırdıklarımız,[1] ona iman ederler. Şu kimselerden[2] de O'na iman edecekler vardır. Kafirlerden başkası ayetlerimizi inkar etmez.",
+      "okuyan": "İşte böylece sana Kitabı (Kur'an'ı) indirdik. Kendilerine kitap verdiklerimiz ona iman ediyorlar.[1] Şunlardan (Araplardan) da ona iman edenler vardır. Ayetlerimizi kâfirlerden başkası inkâr etmez."
     },
     {
       "number": 3388,
@@ -776,7 +1246,17 @@
       "bulac": "Bundan önce sen hiç kitap okuyan değildin ve onu sağ elinle de yazmıyordun. Böyle olsaydı, batılda olanlar kuşkuya kapılırlardı.",
       "esed": "çünkü, (ey Muhammed,) sen bu (vahyin gelmesi)nden önce herhangi bir ilahi kelamı okumuş ya da onu kendi ellerinle yazmış değildin; öyle olsaydı, (sana vahyetmiş olduğumuz) hakikati çürütmeye çalışanlar, insanları (onun hakkında) kuşkuya sevk edebilirlerdi.",
       "suleymaniye": "Sen bundan önce bir Kitabı ne okumuş ne de elinle yazmıştın. Öyle olsaydı batıla dalanlar kesinlikle şüpheye düşerlerdi[1].",
-      "ates": "(Ey Muhammed) Sen bundan önce bir Kitap okumuyordun, elinle de onu yazmıyorsun. Öyle olsaydı o zaman (Allah'ın sözlerini boşa çıkarmaya çalışan) iptalciler, kuşkulanırlardı."
+      "ates": "(Ey Muhammed) Sen bundan önce bir Kitap okumuyordun, elinle de onu yazmıyorsun. Öyle olsaydı o zaman (Allah'ın sözlerini boşa çıkarmaya çalışan) iptalciler, kuşkulanırlardı.",
+      "hulusi": "Sen O'ndan (inzal ettiğimiz BİLGİden) önce (Tevrat, İncil gibisinden) bir kitap okumuyor ve onu sağ elinle de yazmıyordun. . . (Demek ki genel anlamda okur - yazar olabilir. . . Furkan: 5) (Eğer okuyup yazıyor olsaydın) o takdirde dediklerini çürütmek isteyenler elbette şüphe ederdi.",
+      "bayrakli": "Sen daha önce bir kitaptan okuyup sağ elinle de yazarak kopya çekmiş değilsin. Öyle olsaydı, saçmalayanlar şüpheye düşerlerdi.",
+      "elmali_sade": "Sen bundan önce kitap okur değildin, hala da elinle yazı yazmazsın; öyle olsaydı batıla uyanlar şüphelenebilirlerdi.",
+      "cantay": "Sen bundan evvel hiçbir kitab okur değildin. Elinle de onu yazmadın. Böyle olsaydı baatıl söyleyenler elbet şübhelenir (ler) di.",
+      "piris": "Daha önce sen, hiç bir kitap okumuş değildin. Onu sağ elinle de yazmadın, öyle olsaydı, batılcılar şüphe ederlerdi.",
+      "yildirim": "Ey Resulüm! Sen vahyimizden önce kitap okuyan veya yazı yazan bir insan değildin; eğer böyle olsaydı, batıl iddia peşinde olanlar şüphe edebilirlerdi.",
+      "safa": "Sen, bundan önce bir kitap okumadın. Onu, sağ elinle yazmış da değilsin. Öyle olsaydı, gerçeğe aykırı şeylere inananlar, kesinlikle kuşku duyarlardı.",
+      "yuksel": "Sen daha önceki hiçbir kitabı okumuyordun ve onları elinle de yazmıyordun. Bu durumda,  yanlışı savunanların kuşkulanması için bir bahane oluşacaktı.",
+      "aktas": "Sen, daha önce[1] herhangi bir kitaptan okuyor ve onu elinle yazıyor değildin. Öyle olsaydı, mesajını geçersiz yapmak isteyenler kesinlikle kuşkulanırlardı.[2]",
+      "okuyan": "Sen bundan önce ne (kutsal) bir kitap okur ne de onu sağ elinle yazardın. Öyle olsaydı (gerçeği) iptal edenler elbette kuşku duyarlardı.[1]"
     },
     {
       "number": 3389,
@@ -792,7 +1272,17 @@
       "bulac": "Hayır, o, kendilerine ilim verilenlerin göğüslerinde apaçık olan ayetlerdir. Zulmedenlerden başkası, bizim ayetlerimizi inkar etmez.",
       "esed": "Hayır, ama bu (ilahi kelam), doğru bilgi ile (anlayıp kavrama yeteneği ile) donatılmış insanların kalplerine kolayca nüfuz eden mesajlardan oluşur; (kendilerine) zulmedenler dışında hiç kimse mesajlarımızı bile bile reddetmez.",
       "suleymaniye": "Kur'an aslında, kendilerine ilim verilmiş olanların içine işleyen apaçık ayetlerden oluşur. Yanlışa dalanlardan başka hiç kimse ayetlerimizi bile bile inkar etmez[1].",
-      "ates": "Hayır, o (sana vahyedilenler) kendilerine bilgi verilmiş olanların göğüslerinde bulunan açık açık ayetlerdir. Bizim ayetlerimizi, zalimlerden başkası inkar etmez."
+      "ates": "Hayır, o (sana vahyedilenler) kendilerine bilgi verilmiş olanların göğüslerinde bulunan açık açık ayetlerdir. Bizim ayetlerimizi, zalimlerden başkası inkar etmez.",
+      "hulusi": "Bilakis O (Kur'an), kendilerine ilim verilmiş olanların derunlarında apaçık işaretlerdir. . . (Hakikatlerinde mevcut) işaretlerimizi ancak nefsine zulmedenler inkar eder.",
+      "bayrakli": "Oysa tam aksine, Kur'an, kendilerine ilim verilenlerin gönüllerinde apaçık ayetler halindedir. Bizim ayetlerimizi zalimlerden başkası inkar edemez.",
+      "elmali_sade": "Fakat o (Kur'an) kendilerine ilim verilmiş kimselerin sinelerinde parıldayan parlak ayetlerdir. Bizim ayetlerimizi ancak zalimler inkar eder.",
+      "cantay": "Hayır, o (Kur'an) kendilerine ilim verilmiş insanların sinelerinde (parıldayan) apaçık ayetlerdir. Bizim ayetlerimizi zaalim olanlardan başkası bilerek inkar etmez.",
+      "piris": "Hayır, O, bilgi verilen kimselerin gönüllerinde olan apaçık belgelerdir. Belgelerimizi zalimlerden başkası bile bile inkar etmezler.",
+      "yildirim": "(Şüpheye en ufak yer yok) O, kendilerine ilim nasib edilenlerin kalplerini aydınlatan parlak ayetlerdir. Evet, Bizim ayetlerimizi zalimlerden başkası inkar etmez.",
+      "safa": "Hayır! O, bilgi verilen kimselerin yüreklerinde olan açık kanıtlı ayetlerdir. Zaten haksızlık yapanlardan başkası ayetlerimizi bilerek inkar etmez.",
+      "yuksel": "Gerçekte o,  kendilerine bilgi verilmiş olanların göğsünde apaçık ayetlerdir. Zalimlerden başkası ayetlerimizi reddetmez.",
+      "aktas": "Hayır! O, kendilerine ilim[1] verilenlerin gönüllerinde yer eden apaçık ayetlerdir. Bizim ayetlerimizi zalimlerden başkası yalanlamaz.",
+      "okuyan": "Hayır! O (Kur'an), kendilerine ilim verilenlerin göğüslerinde (kalplerinde) apaçık ayetlerdir. Ayetlerimizi zalimlerden başkası inkâr etmez. "
     },
     {
       "number": 3390,
@@ -808,7 +1298,17 @@
       "bulac": "Dediler ki: \"Ona Rabbinden ayetler (birtakım mucizeler) indirilmeli değil miydi?\" De ki: \"Ayetler yalnızca Allah'ın katındadır. Ben ise, ancak apaçık bir uyarıcıyım.\"",
       "esed": "Onlar, hala, \"Neden o'na Rabbinden hiç mucizevi işaretler indirilmiyor?\" diye sorarlar. De ki: \"Mucize (göstermek) yalnız Allah'ın kudretindedir; ben ise sadece bir uyarıcıyım\".",
       "suleymaniye": "\"Ona Rabbinden mucizeler indirilseydi ya!\" dediler. De ki: \"Mucizeler ancak Allah katındandır. Ben yalnızca açık bir uyarıcıyım.\"[1]",
-      "ates": "Dediler ki: \"Ona Rabbinden ayetler indirilmeli değil miydi?\" De ki: \"Ayetler (mu'cizeler) Allah'ın yanındadır. Ben ancak apaçık bir uyarıcıyım.\""
+      "ates": "Dediler ki: \"Ona Rabbinden ayetler indirilmeli değil miydi?\" De ki: \"Ayetler (mu'cizeler) Allah'ın yanındadır. Ben ancak apaçık bir uyarıcıyım.\"",
+      "hulusi": "Dediler ki: \"O'na Rabbinden mucizeler inzal edilmeliydi!\". . . De ki: \"Mucizeler sadece Allah indindendir. . . Ben sadece apaçık bir uyarıcıyım. \"",
+      "bayrakli": "Onlar, \"Ona, Rabbinden ayetler/mucizeler indirilseydi ya!\" dediler. De ki, \"Mucizeler yalnız Allah'ın katındadır. Ben, sadece apaçık bir uyarıcıyım.\"",
+      "elmali_sade": "Nitekim \"Ona Rabbinden mucizeler indirilse ya!\" dediler. De ki: \"O mucizeler hep Allah'ın katındadır. Ben ise sadece açık bir uyancıyım.\"",
+      "cantay": "\"Ona Rabbinden (başkaca) ayetler de indirilmeli değil miydi?\" dediler. De ki: O ayetler ancak Allahın nezdindedir. Ben sade (eğri yolun başınıza getireceği fena sonuçları) apaşikar haber verenim\".",
+      "piris": "-O'na, Rabbinden bir mucize indirilmeli değil miydi? dediler. De ki: -Mucizeler sadece Allah'ın yanındadır. Ben, yalnızca apaçık bir uyarıcıyım!",
+      "yildirim": "Onlar diyorlar ki: \"Ona Rabbinden ayetler (mucizeler) indirilseydi ya! De ki: \"Ayetler sadece Allah'ın nezdindedir. Sizin keyfinize göre değil, kendi hikmeti gerektirdiğinde Peygamberine verir. Ben ancak gerçek durumu bildiren, uyaran bir elçiyim.\"",
+      "safa": "Üstelik dediler ki: \"Efendisinden, Ona, bir mucize indirilmeliydi; öyle değil mi?\" De ki: \"Mucizeler, ancak Allah'ın katındandır. Aslında, ben, yalnızca apaçık bir uyarıcıyım!\"[330]",
+      "yuksel": "\"Ona Efendinden bir mucize inmeli değil miydi?\" dediler. De ki: \"Mucizeler ALLAH'ın katındadır. Ben sadece apaçık bir uyarıcıyım.\"[1]",
+      "aktas": "\"Ona Rabb'inden ayetler[1] indirilmeli değil miydi?\" dediler. De ki: \"Ayetler ancak Allah'ın yanındadır. Ben ancak apaçık bir uyarıcıyım.[2]\"",
+      "okuyan": "(O zalimler:) \"Ona Rabbinden (başka) ayetler (mucizeler) indirilmeli değil miydi?\" demişlerdi.[1] De ki: \"Ayetler (mucizeler) ancak Allah katında(n)dır. Ben ise sadece apaçık bir uyarıcıyım.\""
     },
     {
       "number": 3391,
@@ -824,7 +1324,17 @@
       "bulac": "Kendilerine okunmakta olan Kitabı sana indirmemiz onlara yetmiyor mu? Şüphesiz, bunda iman eden bir kavim için gerçekten bir rahmet ve bir öğüt (zikir) vardır.",
       "esed": "Hayret! Bu ilahi kelamı, kendilerine iletmen için sana göndermiş olmamız onlara yetmez mi? Kuşkusuz onda rahmet(imizin tezahürü) ve iman edecek kimseler için bir uyarı vardır.",
       "suleymaniye": "Kendilerine bağlantılarıyla birlikte okunan bu kitabı sana indirmiş olmamız (mucize olarak) onlara yetmiyor mu[1]? Bu kitapta, inanıp güvenen bir topluluk için kesinlikle bir ikram ve akılda tutmaları gereken bilgi vardır[2].",
-      "ates": "Kendilerine okunan Kitabı sana indirmemiz, onlara yetmedi mi? Şüphesiz inanan bir toplum için bunda bir rahmet ve öğüt vardır."
+      "ates": "Kendilerine okunan Kitabı sana indirmemiz, onlara yetmedi mi? Şüphesiz inanan bir toplum için bunda bir rahmet ve öğüt vardır.",
+      "hulusi": "Kendilerine bildirilen O BİLGİ'yi sana inzal etmiş olmamız, onlara yeterli gelmedi mi? Muhakkak ki bunda iman eden topluma elbette bir rahmet ve öğüt vardır.",
+      "bayrakli": "Kendilerine okuduğun kitabı sana indirmiş olmamız onlara mucize olarak yetmedi mi? Çünkü bunda, inanacak bir toplum için kesinlikle rahmet ve öğüt vardır.",
+      "elmali_sade": "Karşılarında okunup duran Kitab'ı sana indirmemiz yetmedi mi onlara? Şüphesiz bunda iman edecek bir kavim için elbette bir rahmet ve ilahi bir ihtar vardır.",
+      "cantay": "Sana indirdiğimiz o kitab — ki (müstemirren) karşılarında okunub duruyor — onlara kafi gelmedi mi? Onda iman edecek bir kavm için elbette (büyük) bir rahmet (ve ni'met) ve bir öğüt var.",
+      "piris": "Kendilerine okunan kitabı sana indirmiş olmamız, onlara yetmez mi? Çünkü onda inanacak bir toplum için rahmet ve öğüt vardır.",
+      "yildirim": "Hem kendilerine okunan bu kitabı indirmemiz onlara kafi gelmiyor mu? Elbette bunda iman edecek kimseler için bir rahmet ve yeterli bir ders vardır.",
+      "safa": "Kendilerine okunan Kitap'ı, sana indirmiş olmamız, onlara yetmedi mi? Aslında, işte bunda, inanan bir toplum için kesinlikle bir rahmet ve bir öğreti vardır.[331]",
+      "yuksel": "Bu kitabı sana indirmiş olmamız ve kendilerine okunması onlara yetmez mi? Bunda gerçeği onaylayan bir toplum için bir rahmet ve öğüt vardır.",
+      "aktas": "Kendilerine okunan Kitap'ı sana indirmemiz onlara yetmedi mi? Kuşkusuz bunda[1] iman eden bir toplum için bir rahmet[2] ve zikir[3] vardır.",
+      "okuyan": "Kendilerine tilavet edilmekte (okunup aktarılmakta) olan Kitabı (Kur'an'ı) sana indirmemiz onlara yetmedi mi?[1] Elbette iman eden bir toplum için onda rahmet ve (gerçeğin) hatırla(t)ması vardır."
     },
     {
       "number": 3392,
@@ -840,7 +1350,17 @@
       "bulac": "De ki: \"Benimle sizin aranızda şahid olarak Allah yeter. O, göklerde ve yerde olanı bilir. Batıla inanan ve Allah'ı inkar edenler ise, işte onlar hüsrana uğrayanlardır.\"",
       "esed": "(İman etmeyecek olanlara) De ki: \"Benim ile sizin aranızda şahit olarak Allah yeter! O, göklerde ve yerde olan her şeyi bilir. Geçersiz ve uydurma şeylere inananlara ve bu suretle Allah'ı inkara şartlanmış olanlara gelince; işte ziyanda olanlar onlardır!\"",
       "suleymaniye": "De ki: \"Benimle sizin aranızda şahit olarak Allah yeter[1]. O, göklerde ve yerde olan her şeyi bilir.\" Batıla inanıp Allah'ı görmezlikten gelenler var ya; işte onlar kaybedecek olanlardır[2].",
-      "ates": "De ki: \"Benimle sizin aranızda şahid olarak Allah yeter. O, göklerde ve yerde olanları bilir. Batıla inanıp Allah'a karşı nankörlük edenler, işte ziyana uğrayacaklar onlardır.\""
+      "ates": "De ki: \"Benimle sizin aranızda şahid olarak Allah yeter. O, göklerde ve yerde olanları bilir. Batıla inanıp Allah'a karşı nankörlük edenler, işte ziyana uğrayacaklar onlardır.\"",
+      "hulusi": "De ki: \"Benimle aranızda şahitlik itibarıyla Esma'sıyla hakikatim olan Allah yeterlidir! Semalarda ve arzda olanı bilir! Batıla inanıp (kendilerini toprak olacak beden kabul edip); Esma'sıyla nefslerinin hakikati olan Allah'ı inkar edenlere gelince, işte onlar hüsrana uğrayanların ta kendileridir!\"",
+      "bayrakli": "De ki:\"Benimle sizin aranızda şahit olarak Allah yeter. O, göklerde ve yerde ne varsa bilir. Batıla inanıp Allah'ı inkar edenler var ya, işte ziyana uğrayacaklar onlardır.\"",
+      "elmali_sade": "De ki: \"Benimle sizin aranızda şahit olarak Allah yeter. O göklerde ve yerde ne varsa bilir. Batıla inanıp Allah'ı inkar edenler, işte zarara düşenler hep onlardır.",
+      "cantay": "De ki: \"Benimle sizin aranızda Allahın hakkıyle şahid olması yeter. Göklerde, yerde ne varsa O bilir. Baatıla iman ve Allahı (inkar ile) kafir olanlar (Yok mu?) İşte onlar hüsranda kalanların ta kendileridir.",
+      "piris": "De ki:-Benimle sizin aranızda şahit olarak Allah yeter. O, göklerde ve yerde olanı bilir. Batıla inananlar ve Allah'ı tanımayanlar ise, işte onlar, hüsrana uğrayacak olanlardır.",
+      "yildirim": "De ki: \"Benimle sizin aranızda şahit olarak Allah yeter. O, göklerde ve yerde olan her şeyi bilir. Gerçek ortada iken, batıla iman edip Allah'ı inkar edenler, işte asıl ziyana ve hüsrana uğrayanlar onlar olacaktır.\"",
+      "safa": "De ki: \"Aramızda Tanık olarak, Allah yeterlidir. Göklerde ve yeryüzünde olan her şeyi bilir!\" Gerçeğe aykırı şeylere inananlar ve Allah'a nankörlük edenler; yitime uğrayanlar, işte onlardır.",
+      "yuksel": "De ki: \"Benimle sizin aranızda tanık olarak ALLAH yeter. Göklerde ve yerde ne varsa bilir. Yanlışı gerçek diye onaylayıp,  ALLAH'ı onaylamayanlar,  asıl zarara uğrayanlardır.\"",
+      "aktas": "De ki: \"Benimle sizin aranızda tanık olarak Allah yeter. O, göklerde ve yerde olanları bilir.\" Batıl'a iman edenler ve Allah'ı yalanlayan kimseler, işte onlar hüsranda olanlardır.",
+      "okuyan": "De ki: \"Benimle sizin aranızda şahit olarak Allah yeter. Göklerde ve yerde ne varsa (hepsini) bilir.\" Batıla inanıp Allah'ı inkâr edenler (var ya), işte onlar kaybedenlerin ta kendileridir."
     },
     {
       "number": 3393,
@@ -856,7 +1376,17 @@
       "bulac": "Azab konusunda senden acele (davranmanı) istiyorlar. Eğer adı konulmuş bir ecel (tayin edilmiş bir vakit) olmasaydı, herhalde onlara azab gelmiş olurdu. Fakat kendileri şuurunda olmadan, onlara kuşkusuz apansız geliverecektir.",
       "esed": "Şimdi onlar, (Allah'ın) azabını çabuklaştırman için sana meydan okuyorlar; eğer (bunun için Allah tarafından) belli bir vade konulmuş olmasaydı azap elbette başlarına hemen gelirdi! Ama o aniden kopup gelecek ve hiçbiri de farkında olmayacak.",
       "suleymaniye": "Senden azabın çabuk gelmesini istiyorlar. Eğer belirlenmiş bir zamanı olmasaydı o azap elbette gelirdi. O, onlara, kesinlikle ansızın gelecek ama gelişinin farkına bile varamayacaklardır[1].",
-      "ates": "Senden azabı çabuk istiyorlar. Eğer (azab için) belirtilmiş bir süre olmasaydı, onlara hemen azab gelirdi. Fakat hiç farkına varmadıkları bir sırada o, kendilerine ansızın gelecektir."
+      "ates": "Senden azabı çabuk istiyorlar. Eğer (azab için) belirtilmiş bir süre olmasaydı, onlara hemen azab gelirdi. Fakat hiç farkına varmadıkları bir sırada o, kendilerine ansızın gelecektir.",
+      "hulusi": "Eğer takdir edilmiş bir ömürleri olmasaydı, onlara azap elbette gelirdi! Onlar farkında değilken, kendilerine aniden, mutlaka gelecektir.",
+      "bayrakli": "Senden, azabı çabucak getirmeni istiyorlar. Eğer belirlenmiş bir süre olmasaydı, o azap kesinlikle onlara gelirdi. Fakat onlar farkında değilken azap ansızın kendilerine geliverecektir.",
+      "elmali_sade": "Bir de senden acele azap istiyorlar; eğer belirlenmiş bir süre olmasaydı, o azap onlara muhakkak gelmişti; ve elbette o kendilerine gelecek, şuurları olmayarak (bilincine varmadan) ansızın gelecek!",
+      "cantay": "Senden azabı çarçabuk (getirmeni) isterler. Eğer muayyen bir vakit olmasaydı o, elbette onlara gelib çatmışdı bile. (Bununla beraber) o, kendileri farkında olmayarak, onlara ansızın gelecekdir muhakkak.",
+      "piris": "Senden acele azap istiyorlar. Eğer belirlenmiş bir süre olmasaydı elbette onlara hemen azap gelirdi. Azap onlara haberleri olmadıkları bir sırada ansızın gelecektir.",
+      "yildirim": "Senden çarçabuk başlarına azabı getirmeni istiyorlar. Eğer belirlenmiş bir vadesi olmasaydı azap onlara muhakkak gelmişti bile! Fakat hiç farkına varmadıkları bir sırada o kendilerine ansızın gelecektir.",
+      "safa": "Üstelik cezayı, ivedi olarak senden istiyorlar. Belirlenmiş bir süre olmasaydı, ceza kesinlikle gelirdi. Zaten beklemedikleri bir sırada, kesinlikle ansızın gelecektir.",
+      "yuksel": "Azabı getirmen için sana meydan okuyorlar! Belirlemiş olduğumuz bir zaman olmasaydı,  o azap onlara gelecekti. Onlara ansızın,  haberleri olmadan gelecektir.",
+      "aktas": "Senden azabı hemen getirmeni istiyorlar. Eğer belirlenmiş bir zaman olmasaydı, azap onlara elbette gelmişti. Ve o, hiç farkında olmadıkları bir sırada ansızın gelecek.",
+      "okuyan": "Senden, azabı acele (getirmeni) istiyorlar. Önceden belirlenmiş bir vade olmasaydı, azap onlara elbette gelip çatmıştı. Onlar farkında değilken, (o azap) ansızın kendilerine gelecektir.[1]"
     },
     {
       "number": 3394,
@@ -872,7 +1402,17 @@
       "bulac": "Azab konusunda senden acele (davranmanı) istiyorlar. Oysa cehennem, o inkar edenleri gerçekten kuşatıp durmaktadır.",
       "esed": "Onlar (Allah'ın) azabını çabuklaştırman için sana meydan okuyorlar: halbuki cehennem, hakikati inkar edenlerin tümünü kuşatacaktır;",
       "suleymaniye": "Senden azabın çabuk gelmesini istiyorlar. (Bilsinler ki) Cehennem kafirleri zaten kuşatacaktır.",
-      "ates": "Cehennem o nankörleri kuşatmış iken, onlar hala senden azabı çabuk istiyorlar."
+      "ates": "Cehennem o nankörleri kuşatmış iken, onlar hala senden azabı çabuk istiyorlar.",
+      "hulusi": "Azaplarını (ölümü) senden acele istiyorlar. . . Muhakkak ki Cehennem (el an) hakikat bilgisini inkar edenleri ihata etmiştir!",
+      "bayrakli": "Senden, azabı çabucak getirmeni istiyorlar. Hiç şüpheleri olmasın, cehennem, kafirleri çepeçevre kuşatacaktır.",
+      "elmali_sade": "Senden acele azap istiyorlar, oysa cehennem kafirleri kuşatıp duruyor.",
+      "cantay": "(Evet) senden azabı çarçabuk (getirmeni) istiyorlar. Halbuki hakıykatde cehennem o kafirleri kuşatıb durmakdadır (da haberleri yok).",
+      "piris": "Senden azabın acele gelmesini istiyorlar. Oysa, cehennem kafirleri çepeçevre kuşatacaktır.",
+      "yildirim": "Senden çarçabuk başlarına azabı getirmeni istiyorlar. Ama ne diye böyle sabırsızlanıyorlar ki? Zaten cehennem kafirleri kuşatmış bulunuyor.",
+      "safa": "Cezayı, ivedi olarak senden istiyorlar. Aslında, nankörlük edenleri, kesinlikle cehennem kuşatmıştır.",
+      "yuksel": "Sana azabı getirmen için meydan okuyorlar. Halbuki cehennem kafirleri kuşatmış bile.",
+      "aktas": "Senden azabı hemen getirmeni istiyorlar. Oysaki Cehennem kesinlikle Kafirleri[1] çepeçevre kuşatacaktır.",
+      "okuyan": "(Evet) senden azabı acele (getirmeni) istiyorlar. Şüphesiz ki cehennem kâfirleri çepeçevre kuşatıcıdır."
     },
     {
       "number": 3395,
@@ -888,7 +1428,17 @@
       "bulac": "Azabın onları üstlerinden ve ayaklarının altından kaplayacağı gün (Allah): \"Yaptıklarınızı tadın\" der.",
       "esed": "azabın onları hem tepelerinden, hem de ayaklarının altından saracağı Gün (kuşatacaktır). O Gün Allah: \"İşte şimdi yaptıklarınızı(n meyvelerini) tadın!\" diyecektir.",
       "suleymaniye": "O gün azap, onları üstlerinden ve ayaklarının altından saracak ve Allah şöyle diyecektir: \"Yapıp ettiklerinizin tadına varın bakalım[1] !\"",
-      "ates": "O gün azab, onları üstlerinden, ayaklarının altından örter ve (Allah onlara): \"Yaptığınız işleri tadın!\" der."
+      "ates": "O gün azab, onları üstlerinden, ayaklarının altından örter ve (Allah onlara): \"Yaptığınız işleri tadın!\" der.",
+      "hulusi": "O süreçte, azap onların üstlerinden (bilinçlerini) ve ayaklarının altından (bedenlerini) bürür ve: \"Yaptıklarınızın getirisini tadın!\" der.",
+      "bayrakli": "O gün azap, onların hem üstlerinden hem ayaklarının altından saracak ve Allah onlara, \"Yaptıklarınızı tadın!\" diyecektir.",
+      "elmali_sade": "O gün ki, azap onları hem üstlerinden, hem ayakları altından saracak da: \"Tadın bakalım neler yapıyordunuz.\" buyuracak.",
+      "cantay": "O günde azab onları hem üstlerinden, hem ayakları altından saracak, (Allah): \"İşlemekde olduğunuz (günahlar)ın (cezasını) tadın\" diyecek.",
+      "piris": "Azap onları üstlerinden ve ayaklarının altından bürüdüğü gün, Allah: -Yaptığınızın cezasını tadın, der.",
+      "yildirim": "O gün azap onları hem üstlerinden hem ayaklarının altından kaplayacak da, Allah onlara: \"Yaptıklarınızı tadın bakalım!\" buyuracak.",
+      "safa": "O gün, yukarıdan ve ayaklarının altından ceza onları sarmıştır. Şöyle denilir: \"Yaptıklarınıza karşılık, tadın!\"",
+      "yuksel": "Gün gelecek azap üstlerinden ve ayaklarının altından onları sarıp örtecek ve (Tanrı onlara),  \"Yaptıklarınızı tadın\" diyecektir.",
+      "aktas": "O gün, azap üstlerinden ve ayaklarının altından onları kuşatacak. Ve \"Yapmış olduğunuz şeylerin cezasını tadın!\" der.",
+      "okuyan": "O gün azap, onları hem üstlerinden hem de ayaklarının altından kaplayacak ve (Allah onlara) \"Yaptıklarınızın (cezasını) tadın!\" diyecektir.[1]"
     },
     {
       "number": 3396,
@@ -904,7 +1454,17 @@
       "bulac": "Ey iman eden kullarım, şüphesiz benim arzım geniştir; artık yalnızca bana ibadet edin.",
       "esed": "Ey imana ermiş olan kullarım! Benim arzım alabildiğine geniştir; o halde Bana, yalnız Bana kulluk edin!",
       "suleymaniye": "Ey inanıp güvenen kullarım! Toprağım geniştir; öyleyse siz yalnız bana kulluk edin[1].",
-      "ates": "Ey inanan kullarım, benim arzım geniştir, bana kulluk edin."
+      "ates": "Ey inanan kullarım, benim arzım geniştir, bana kulluk edin.",
+      "hulusi": "Ey iman eden kullarım! Muhakkak ki Benim Arz'ım geniştir! (Beyin kapasitesi geniştir! Burada şunu fark etmek gerekir. Gerek beden ve gerekse beyin madde ve toprak asıllı yapısı ve katmanı itibarıyla \"arz\" kelimesiyle işaretlenirken; beyin faaliyetinin, nöronik hareketlerinin daha da deriniyle data açığa çıkışının anlatımı da \"sema\" kelimesiyle tanımlanmıştır. \"Semalar\" denilmesinin sebebi ise açığa çıkan data, bilgi - ilim kapsamı mertebeleridir kanaatimizce. Dolayısıyladır ki burada \"arzım geniştir\" işaretiyle beyin kapasitesinin olabildiğince yüksek düzeyde kullanılarak ilim elde edilmesi önerilmektedir. Zira ana konu toprakta yok olacak kapasiteler, nesneler değil ölümsüz yaşam itibarıyla gerekli kazanımlardır. ) Yalnız bana kulluk edin!",
+      "bayrakli": "\"Ey iman eden kullarım! Elbette benim yarattığı yeryüzü geniştir. O halde yalnız bana kulluk ediniz!\"",
+      "elmali_sade": "Ey Benim iman eden kullarım! Haberiniz olsun ki, Benim arzım geniştir, o halde Bana ibadet edin o halde Bana!",
+      "cantay": "Ey iman eden kullarım, şübhesiz ki benim arzım genişdir. O halde ancak bana ibadet edin.",
+      "piris": "-Ey iman eden kullarım! Benim arzım geniştir. Öyleyse yalnız bana kulluk edin.",
+      "yildirim": "Ey iman eden kullarım! Benim sizi yerleştirdiğim dünyam geniştir.(Bir yerde dininizi uygulayamazsanız başka yere hicret edebilirsiniz.) Onun için yalnız Bana ibadet ediniz.",
+      "safa": "Ey inanan kullarım! Yeryüzüm geniştir. Artık, yalnızca Bana hizmet edin.",
+      "yuksel": "Ey gerçeği onaylayan kullarım,  yerim geniştir,  sadece bana hizmet edin.",
+      "aktas": "Ey İman Eden kullarım! Yeryüzüm geniştir.[1] Öyleyse yalnız Bana kulluk edin.",
+      "okuyan": "Ey iman eden kullarım![1] Şüphesiz ki benim arzım (yerim) geniştir. Yalnızca bana kulluk edin! "
     },
     {
       "number": 3397,
@@ -920,7 +1480,17 @@
       "bulac": "Her nefis ölümü tadıcıdır; sonra bize döndürüleceksiniz.",
       "esed": "Her can ölümü tadacaktır (ve) sonunda herkes dönüp Bize gelecektir.",
       "suleymaniye": "Her canlı ölümü tadacaktır. Sonra huzurumuza çıkarılacaksınız[1].",
-      "ates": "Her can, ölümü tadacaktır. Sonra bize döndürüleceksiniz."
+      "ates": "Her can, ölümü tadacaktır. Sonra bize döndürüleceksiniz.",
+      "hulusi": "Her nefs, ölümü tadacaktır! Sonra bize döndürüleceksiniz!",
+      "bayrakli": "Her can ölümü tadacaktır. Sonunda bize döndürüleceksiniz.",
+      "elmali_sade": "Her can ölümü tadacaktır. Sonra döndürülüp Bize getirileceksiniz.",
+      "cantay": "Her can ölümü tadıcıdır. (Ondan) sonra bize döndürü (lüb getiri) leceksiniz.",
+      "piris": "Her nefis ölümü tadacaktır. Sonra da bize döndürüleceksiniz.",
+      "yildirim": "Her can ölümü tadacaktır. Sonunda Bizim huzurumuza getirileceksiniz.",
+      "safa": "Her benlik, ölümü tadacaktır. Sonra, Bize döndürüleceksiniz.[332]",
+      "yuksel": "Her nefis ölümü tadacak ve sonra bize döndürüleceksiniz.",
+      "aktas": "Her nefs[1] ölümü tadıcıdır. Sonra Biz'e döndürüleceksiniz.",
+      "okuyan": "Her nefis (can), ölümü tadıcıdır.[1] Sonunda sadece bize döndürüleceksiniz."
     },
     {
       "number": 3398,
@@ -936,7 +1506,17 @@
       "bulac": "İman edip salih amellerde bulunanlar; onları, içinde ebedi kalıcılar olarak, altından ırmaklar akan cennetin yüksek köşklerine muhakkak yerleştireceğiz. (Salih) Amellerde bulunanların ecri ne güzeldir.",
       "esed": "İman edip doğru ve yararlı işler yapanları, mesken olarak, altlarından ırmaklar akan cennetteki köşklere koyacağız; ne güzel, emek sarfedenlere verilen ödül!",
       "suleymaniye": "İnanıp güvenen ve iyi işler yapanları içlerinden ırmaklar akan cennet köşklerine yerleştireceğiz. Orada ölümsüz olarak kalacaklar. O işleri yapanların ödülü ne güzeldir[1]!",
-      "ates": "İnanıp iyi işler yapanları, cennette, altlarından ırmaklar akan yüksek odalara yerleştiririz. Orada ebedi kalırlar. Çalışanların ücreti ne güzeldir!"
+      "ates": "İnanıp iyi işler yapanları, cennette, altlarından ırmaklar akan yüksek odalara yerleştiririz. Orada ebedi kalırlar. Çalışanların ücreti ne güzeldir!",
+      "hulusi": "(Hakikatlerine) iman edip imanın gereğini uygulayanlara gelince, kesinlikle onlara cennetten, altlarından nehirler akan yüksek odalar hazırlayacağız. . . Onlarda sonsuza dek yaşarlar. . . Çalışanların karşılığı ne güzeldir!",
+      "bayrakli": "İman edip iyi ameller işleyenleri, elbette onları, içinde çok uzun süreli kalmak üzere,içinden ırmaklar akan cennet köşklerine yerleştireceğiz. Böyle iyi amel yapanların ödülü ne güzeldir!",
+      "elmali_sade": "İman edip iyi iyi işler yapmış olanları elbette onları cennetin altlarından ırmaklar akan köşklerine yerleştireceğiz, o halde orada ebedi kalacaklardır. Ne güzeldir mükafatı o iş görenlerin",
+      "cantay": "İman edib de güzel güzel amel (ve hareket) lerde bulunanlar (var ya) biz onları — kendileri içlerinde ebedi kalıcı olarak — altlarından nehirler akan o cennetin yüksek mevkilerine yerleşdireceğiz. (Öyle) amel (ve hareket) edenlerin mükafatı ne güzeldir!",
+      "piris": "İman edenleri ve doğruları yapanları alt yanından ırmaklar akan cennetin yüksek yerlerine yerleştireceğiz. Hep orada kalacaklar. Görevlerini yapanların mükafaatı ne güzel.",
+      "yildirim": "İman edip güzel ve makbul işler yapanları, cennetin yüksek köşklerine yerleştireceğiz. İçinden ırmaklar akan o cennetlere, onlar devamlı kalmak üzere gireceklerdir. İyi iş yapanların mükafatları ne güzel!",
+      "safa": "İnanmış olarak erdemli edimler yapanları, altlarından ırmaklar akan, sürekli kalacakları cennetteki konaklara yerleştireceğiz; çalışanların ödülü ne güzeldir.",
+      "yuksel": "Gerçeği onaylayan ve erdemli davrananları içinden ırmaklar akan bahçeyin köşklerine yerleştireceğiz; orada ebedi kalırlar. Çalışanların karşılığı ne güzeldir.",
+      "aktas": "İman edenleri ve salihatı yapanları, içinde sürekli kalacakları Cennet'te; altından ırmaklar akan köşklere yerleştireceğiz. İyi işler yapanların ödülü ne güzeldir!",
+      "okuyan": "İman edip iyi işler yapanları -evet onları- içlerinde ebedî kalmak üzere altlarından ırmaklar akan cennet köşklerine[1] elbette yerleştireceğiz. (Böyle iyi) işler yapanların ödülü ne güzeldir![2]"
     },
     {
       "number": 3399,
@@ -952,7 +1532,17 @@
       "bulac": "Ki onlar, sabredenler ve Rablerine tevekkül edenlerdir.",
       "esed": "Sıkıntılara karşı sabırlı olanlara ve yalnız Rablerine güvenenlere!",
       "suleymaniye": "Onlar sabreden /duruşunu bozmayan ve Rablerine güvenip dayanan kimselerdir[1].",
-      "ates": "Onlar ki sabrettiler ve Rabblerine dayanmaktadırlar"
+      "ates": "Onlar ki sabrettiler ve Rabblerine dayanmaktadırlar",
+      "hulusi": "Onlar ki sabrediyorlar ve Rablerine tevekkül ediyorlar (nefslerinin hakikatindeki El Vekiyl isminin özelliğine iman edip işlevine güveniyorlar)!",
+      "bayrakli": "Onlar, sabreden ve yalnız Rabblerine güvenip dayanan kimselerdir.",
+      "elmali_sade": "Ki, sabretmişlerdir ve yalnız Rablerine dayanırlar.",
+      "cantay": "ki onlar sabır (ve sebat) etmişlerdir ve yalınız Rablerine güvenib dayanmakdadırlar.",
+      "piris": "Ki onlar, sabrettiler ve Rab'lerine dayanmaktadırlar.",
+      "yildirim": "Onlar, sabreden ve yalnız Rab'lerine dayanıp güvenen müminlerdir.",
+      "safa": "Onlar, dirençli olanlar ve Efendilerine güvenenlerdir.",
+      "yuksel": "Onlar ki direndiler ve Efendi'lerine güvendiler.",
+      "aktas": "Onlar, sabreden ve Rabb'lerine tevekkül[1] edenlerdir.",
+      "okuyan": "(Ödülü hak edenler) sadece Rablerine güvenerek sabredenlerdir.[1]"
     },
     {
       "number": 3400,
@@ -968,7 +1558,17 @@
       "bulac": "Kendi rızkını taşıyamayan nice canlı vardır ki onu ve sizi Allah rızıklandırır. O, işitendir, bilendir.",
       "esed": "Nice canlı var ki hiçbir geçim endişesi taşımaz, (ama) sizinki(ni sağladığı) gibi onların rızkını da Allah sağlar; çünkü yalnız O'dur her şeyi bilen, her şeyi duyan.",
       "suleymaniye": "Nice canlılar vardır ki kendi rızkını yanında taşımaz[1]. Onlara da, size de rızık veren Allah'tır. O, daima dinleyen ve bilendir.",
-      "ates": "Nice canlı var ki rızkını taşıyamaz, onları da sizi de Allah besler. O, işitendir, bilendir."
+      "ates": "Nice canlı var ki rızkını taşıyamaz, onları da sizi de Allah besler. O, işitendir, bilendir.",
+      "hulusi": "Nice canlı var ki, yaşam gıdasını yüklenip taşımıyor. . . Onların da sizin de yaşam gıdanızı Allah veriyor. . . \"HU\"; Semi'dir, Aliym'dir.",
+      "bayrakli": "Besinlerini temin edemeyen nice canlılar vardır. Onları da sizi de besleyen Allah'tır. O, her şeyi duyar,her şeyi bilir.",
+      "elmali_sade": "Nice hayvanlar var ki, rızkını (yanında) taşıyamaz; Allah onlara da rızık veriyor, size de! O herşeyi işitendir, bilendir.",
+      "cantay": "Nice canlı mahluk vardır ki rızkını kendisi taşımıyor. Onu da, sizi de Allah rızıklandırıyor. O, hakkıyle işiden, kemaliyle bilendir.",
+      "piris": "Nice canlılar var ki, rızıklarını kendileri elde edemezler. Allah, onları da rızıklandırır, sizi de. İşiten ve bilen O'dur.",
+      "yildirim": "Nice canlı mahluk var ki rızıklarını kendileri taşıyamazlar. Ama sizi de, bütün onları da rızıklandıran Allah'tır. O her şeyi hakkıyla işitir ve bilir.",
+      "safa": "Kendi geçimliğini taşıyamayan nice yaratıklar vardır. Allah, hem onları geçindirir hem de sizi. Çünkü O, Duyandır; Bilendir.[333]",
+      "yuksel": "Rızık konusunda endişesi olmayan nice yaratıklar vardır ki onları da sizi de ALLAH besler. O işitendir,  Bilendir.[1]",
+      "aktas": "Rızıklarını temin edemeyen[1] nice dabbe[2] vardır. Onlara da size de Allah rızık verir. O, Her Şeyi Duyan'dır, Her Şeyi Bilen'dir.",
+      "okuyan": "Nice canlı var ki rızkını (yanında) taşımıyor. Onlara da size de rızık veren Allah'tır. O duyandır, bilendir."
     },
     {
       "number": 3401,
@@ -984,7 +1584,17 @@
       "bulac": "Andolsun, onlara: \"Gökleri ve yeri kim yarattı, güneşi ve ayı kim emre amade kıldı?\" diye soracak olursan, şüphesiz: \"Allah\" diyecekler. Şu halde nasıl oluyor da çevriliyorlar?",
       "esed": "(Çoğu insana) olduğu gibi, şayet onlara da \"Gökleri ve yeri yaratan, güneşi ve ayı (kendi koyduğu yasalara) tabi kılan kimdir?\" diye soracak olursan, hiç tereddütsüz \"Allah'tır!\" derler. O halde zihinleri nasıl da tersyüz oluyor!",
       "suleymaniye": "Onlara, \"Gökleri ve yeri ya­ratan, Güneş'i ve Ay'ı hizmete sokan kimdir?\" diye sorsan kesinlikle \"Allah'tır!\" derler. Öyleyse yalana nasıl sürükleniyorlar[1]?",
-      "ates": "Andolsun, onlara: \"Gökleri ve yeri kim yarattı, güneşi ve ayı kim (sizin yararınıza) boyun eğdirdi?\" desen; \"Allah\", derler. O halde nasıl Allah'ın (birliğinden) döndürülüyorsunuz?"
+      "ates": "Andolsun, onlara: \"Gökleri ve yeri kim yarattı, güneşi ve ayı kim (sizin yararınıza) boyun eğdirdi?\" desen; \"Allah\", derler. O halde nasıl Allah'ın (birliğinden) döndürülüyorsunuz?",
+      "hulusi": "Yemin olsun ki eğer onlara: \"Semaları ve arzı kim yarattı, Güneş'i ve Ay'ı kim işlevlendirdi?\" diye sorsan, elbette: \"Allah\" diyecekler. . . Nasıl (bu gerçeği göz ardı edip şirke) dönüyorlar peki?",
+      "bayrakli": "Onlara, \"Gökleri ve yeri kimin yarattığını, güneşe ve aya kimin boyun eğdirdiğini\" sorsan, kesinlikle \"Allah\" diyecekler. Nasıl döndürülüyorlar?",
+      "elmali_sade": "Andolsun ki, onlara: \"Gökleri ve yeri yaratıp, güneş ve ayı emri altında tutan kimdir?\" diye sorsan elbette şüphesiz \"Allah\" derler. O halde nasıl haktan çevriliyorlar?",
+      "cantay": "Andolsun ki onlara: \"O gökleri, o yeri kim yaratdı? O güneşi, o ayı kim müsehhar kıldı?\" diye sorarsan mutlakaa: \"Allah\" derler. O halde nasıl çevrilib döndürülüyorlar?",
+      "piris": "Eğer onlara: -Gökleri ve yeri kim yarattı? Güneşi ve Ayı kim emrine boyun eğdirdi? diye sorsan, elbette: -Allah! derler. De ki: -O halde nasıl aldatılıyorsunuz?",
+      "yildirim": "Eğer onlara: \"Gökleri ve yeri kim yarattı? Güneş'i ve Ay'ı kim hizmetinize amade kıldı?\" diye sorarsanız elbette \"Allah!\" diyeceklerdir. Öyleyse nasıl oluyor da bu gerçekten uzaklaştırılıyorlar?",
+      "safa": "Oysa aslında, \"Gökleri ve yeryüzünü yaratan, güneşi ve ayı boyun eğdiren kimdir?\" diye onlara sorarsan, kesinlikle, şöyle diyecekler: \"Allah!\" Öyleyse nasıl çevriliyorlar?",
+      "yuksel": "Onlara,  \"Gökleri ve yeri kim yarattı? Güneşi ve Ay'ı kim emrinize verdi?\" diye sorsan,  \"ALLAH\" diye karşılık verecekler. Öyleyse neden sapıyorlar?",
+      "aktas": "Gerçek şu ki, onlara: \"Gökleri ve yeri kim yarattı, Güneş'i ve Ay'ı yararınıza sunan kimdir?\" diye sorsan, kesinlikle \"Allah.\" diyecekler. O halde nasıl başka varlıklara yöneliyorlar!",
+      "okuyan": "Onlara \"Gökleri ve yeri yaratan, güneşi ve ayı emri altında tutan kimdir?\" diye sorsan, elbette \"Allah.\" derler.[1] (Allah'a kulluktan) nasıl da döndürülüyorlar!"
     },
     {
       "number": 3402,
@@ -1000,7 +1610,17 @@
       "bulac": "Allah, kullarından dilediğine rızkı yayıp genişletir (ve) kısar da. Şüphesiz Allah, her şeyi bilendir.",
       "esed": "Allah, kullarından dilediğine bol rızık bağışlar, dilediğine ise ölçülü ve idareli: zira unutmayın, Allah her şeyi hakkıyla bilir.",
       "suleymaniye": "Allah, kullarından tercih ettiği kişi için[1] rızkı genişletir de daraltır da[2]. Şüphesiz Allah her şeyi bilir.",
-      "ates": "Allah kullarından dilediğine rızkı açar da, kısar da. Şüphesiz Allah, her şeyi bilendir."
+      "ates": "Allah kullarından dilediğine rızkı açar da, kısar da. Şüphesiz Allah, her şeyi bilendir.",
+      "hulusi": "Allah, kullarından dilediğine yaşam gıdasını arttırır ve (dilediğine de) kısar! Muhakkak ki Allah Bi-külli şey'in (hakikatinde olarak) Aliym'dir.",
+      "bayrakli": "Allah, kullarından dilediğine bol rızık verir, dilediğine de kısar. Allah her şeyi bilir.",
+      "elmali_sade": "Allah kullarından dilediğine rızkı serer de ona kısar da. Şüphesiz Allah herşeyi bilendir.",
+      "cantay": "Allah, kullarından kimi dilerse onun rızkını yayar (genişletir). Onu kısar da. Şübhesiz ki Allaha her şey'i hakkıyle bilendir.",
+      "piris": "Allah kullarından dilediğinin rızkını genişletir, dilediğininkini belli bir ölçüyle verir. Allah'ın her şeye gücü yeter.",
+      "yildirim": "Allah kullarından dilediğine bol rızık verir, dilediğinin nasibini de kısar. Muhakkak ki Allah her şeyi bilir.",
+      "safa": "Allah, dilediği kulunun geçimini hem genişletir hem de daraltır. Kuşkusuz, Allah, her şeyi Bilendir.",
+      "yuksel": "ALLAH kullarından dilediğine rızkı arttırır ve kısar. ALLAH her şeyi Bilendir.",
+      "aktas": "Allah, kullarından dilediğine rızkı genişletir ve onun için takdir eder. Kuşkusuz Allah, Her Şeyi En İyi Bilen'dir.",
+      "okuyan": "Allah kullarından rızkı dilediğine açarak (bol) da verir, ona kısarak (dar) da verir.[1] Şüphesiz ki Allah her şeyi bilendir."
     },
     {
       "number": 3403,
@@ -1016,7 +1636,17 @@
       "bulac": "Andolsun onlara: \"Gökten su indirip de ölümünden sonra yeryüzünü dirilten kimdir?\" diye soracak olursan, şüphesiz: \"Allah\" diyecekler. De ki: \"Hamd Allah'ındır.\" Hayır, onların çoğu akletmiyorlar.",
       "esed": "Ve hep olduğu gibi, şayet onlara da: \"Gökten yağmuru boşaltıp ölü toprağa tekrar hayat veren kimdir?\" diye sorarsan, hiç tereddüt etmeden, \"Allah'tır!\" derler. De ki: \"(O halde) Hamd (yalnız) Allah'a mahsustur!\" Fakat onların çoğu akıllarını kullanmazlar:",
       "suleymaniye": "Onlara \"Gökten su indirip onunla yeryüzünü ölümünden sonra canlandıran kimdir?\" diye sorsan yine \"Allah'tır!\" derler. De ki: \"Her şeyi mükemmel yapmak[1] Allah'a özgüdür.\" Ama onların çoğu aklını kullanmaz.",
-      "ates": "Onlara: \"Kim gökten suyu indirip de ölmüş olan yeri onunla diriltti?\" diye sorsan; \"Allah\", derler. De ki: \"Hamd (övgü), Allah'a layıktır.\" Doğrusu çokları düşünmezler."
+      "ates": "Onlara: \"Kim gökten suyu indirip de ölmüş olan yeri onunla diriltti?\" diye sorsan; \"Allah\", derler. De ki: \"Hamd (övgü), Allah'a layıktır.\" Doğrusu çokları düşünmezler.",
+      "hulusi": "Yemin olsun ki eğer onlara: \"Semadan suyu tenzil edip de (şuurunda hakikat ilmi açığa çıkarıp), ölümünden sonra (hakikat şuurundan mahrum ölü gibi yaşarken) onunla arzı (bedeni) kim diriltti?\" diye sorsan, elbette: \"Allah\" diyecekler. . . De ki: \"El Hamdu lillah = Hamd, Allah'a aittir!\" Hayır, onların çoğu aklını kullanıp bunları değerlendirmezler!",
+      "bayrakli": "Onlara, \"Gökten yağmur indirip, ölümünden sonra onunla toprağı dirilten kimdir?\" diye sorsan, kesinlikle \"Allah\" diyecekler. De ki: \"Bütün övgüler Allah'a aittir. Fakat onların çoğu bunu akletmezler.\"",
+      "elmali_sade": "Andolsun ki yine onlara: \"Gökten azar azar su indirip onunla ölümünün ardından yeryüzüne hayat veren kimdir?\" diye sorsan elbette şüphesiz \"Allah\" diyecekler. De ki: \"Hamd Allah'a mahsustur.\" Fakat onların çoğu aklı ermezlerdir.",
+      "cantay": "Andolsun ki onlara: \"Gökden su indirib onunla yeri, ölümünün ardından, canlandıran kimdir?\" diye sorarsan \"Elbette Allah\" derler. De ki: \"Hamd Allahındır\". Fakat onların çoğu aklını kullanmazlar.",
+      "piris": "Onlara: -Gökten su indirip, onunla kurumuş yeryüzüne hayat veren kimdir? diye sorsan: \"Allah!\" derler. De ki: -Hamd Allah'adır. Oysa, onların çoğu akıllarını kullanmıyorlar.",
+      "yildirim": "Eğer onlara: \"Gökten su indirip ölümünden sonra yeri canlandıran kimdir?\" diye sorsan elbette: \"Allah'tır!\" diyeceklerdir. De ki: \"Hamd olsun Allah'a ki, (kafirler bile onun bu vasıflarını inkar edemiyorlar.) Bütün hamdler, güzel övgüler aslında Allah'a mahsustur, fakat onların ekserisi bunu düşünüp anlamıyorlar.\"",
+      "safa": "Oysa aslında, \"Gökten su indirerek, yeryüzünü, ölümünden sonra onunla canlandıran kimdir?\" diye onlara sorarsan, kesinlikle, şöyle diyecekler: \"Allah!\" De ki: \"Allah'a övgüler olsun!\" Hayır! Onların çoğu aklını kullanmaz.",
+      "yuksel": "Onlara,  \"Gökten suyu kim indirip ölümünden sonra toprağı canlandırıyor?\" diye sorsan,  \"ALLAH\" diyecekler. De ki: \"Övgü ALLAH'a aittir.\" Ancak çokları anlamaz.",
+      "aktas": "Eğer onlara: \"Gökten su indirip de onunla yeryüzünü ölümünden sonra dirilten kimdir?\" diye sorsan, kesinlikle \"Allah\" diyecekler. De ki: \"Hamd[1] Allah'a özgüdür.\" Fakat onların çoğu akıllarını kullanmıyorlar.",
+      "okuyan": "Onlara \"Gökten su indirip onunla ölümünün ardından yeri canlandıran kimdir?\" diye sorsan, mutlaka \"Allah\" derler. De ki: \"Hamd (övgü) Allah içindir; esasında onların çoğu akıl etmezler.\" "
     },
     {
       "number": 3404,
@@ -1032,7 +1662,17 @@
       "bulac": "Bu dünya hayatı, yalnızca bir oyun ve '(eğlence türünden) tutkulu bir oyalanmadır'. Gerçekten ahiret yurdu ise, asıl hayat odur. Bir bilselerdi.",
       "esed": "Çünkü (akıllarını kullansalardı bilirlerdi ki) bu dünya hayatı geçici bir zevk ve eğlenceden başka bir şey değildir; oysa sonraki hayat, tek (gerçek) hayattır: keşke bunu bilselerdi!",
       "suleymaniye": "(Allah ile yüzleşmeyi düşünmeyenler için) Dünya hayatı sadece bir oyun ve oyalanmadan ibarettir. Ahiret yurdundaki hayat ise asıl hayattır. Keşke bilselerdi[1]!",
-      "ates": "Bu dünya hayatı eğlence ve oyundan başka bir şey değildir. Ahiret yurdu, işte asıl hayat odur (asıl yaşanacak yer orasıdır), keşke bilselerdi!"
+      "ates": "Bu dünya hayatı eğlence ve oyundan başka bir şey değildir. Ahiret yurdu, işte asıl hayat odur (asıl yaşanacak yer orasıdır), keşke bilselerdi!",
+      "hulusi": "Şu dünya hayatı (en sefil yaşam - esfeli safiliyn) bir eğlence (kendini avutarak keyifle oyalanma) ve bir oyundan (kurallarına göre oynanan senaryo) başka bir şey değildir! Sonsuz gelecek vatana gelince; işte asıl bilinçlilik - yaşam yurdu odur. Kavrayabilselerdi!",
+      "bayrakli": "Bu dünya hayatı oyun ve eğlenceden başka bir şey değildir. Şüphesiz ahiret yurdu ise, çok uzun süreli yaşanacak yerdir. Keşke bilseler!",
+      "elmali_sade": "Bu dünya hayatı, bir eğlence ve oyundan ibarettir. Gerçekten son yurt, işte öz hayat odur. Keşke bilselerdi.",
+      "cantay": "Bu dünya hayatı bir eğlenceden, bir oyundan başka (şey) değildir. Ahiret yurdu (na gelince:) Şübhe yok ki o, (asıl) hayatın ta kendisidir, (bunu) bilmiş olsalardı...",
+      "piris": "Bu dünya hayatı, bir eğlence ve bir oyundan başka bir şey değildir. Ahiret yurdu ise, gerçek hayat odur. Bilmiş olsalardı...",
+      "yildirim": "Düşünseler şunu da anlarlardı ki: bu dünya hayatı geçici bir oyun ve eğlenceden başka bir şey değildir ve ebedi ahiret diyarı ise, hayatın ta kendisidir. Keşke bunu bir bilselerdi!",
+      "safa": "Dünya yaşamı, bir oyun ve bir eğlenceden başka bir şey değildir. Oysa aslında, Sonsuz Yaşam Ülkesi gerçek yaşamdır; keşke bilselerdi!",
+      "yuksel": "Bu dünya hayatı bir eğlence ve oyundan başka bir şey değildir. Ahiret yurdu ise gerçek hayattır; bir bilselerdi.",
+      "aktas": "Bu dünya hayatı bir oyun ve eğlenceden başka bir şey değildir. Ahiret Yurdu, gerçek hayattır. Keşke, bunun farkında olsalardı!",
+      "okuyan": "Bu dünya hayatı,[1] oyun ve eğlenceden başka bir şey değildir. Şüphesiz ki ahiret yurdu(na gelince), işte asıl hayat odur. Keşke bilmiş olsalardı!"
     },
     {
       "number": 3405,
@@ -1048,7 +1688,17 @@
       "bulac": "Onlar gemiye bindikleri zaman, dini yalnızca O'na 'halis kılan gönülden bağlılar' olarak, Allah'a yalvarıp yakarırlar. Ama onları karaya çıkarıp kurtarınca, hemen şirk koşarlar.",
       "esed": "Bir gemiye bindikleri zaman (ve kendilerini tehlikede gördükleri sırada) (işte o anda) içten bir inançla yalnız Allah'a yalvarıp yakarırlar; sağ salim karaya çıkar çıkmaz da bazı hayali güçleri (tekrar) O'na ortak koş(maya başl)arlar:",
       "suleymaniye": "Gemiye bindiklerinde (bir tehlike hissederlerse) Allah'ın dinine bir şey katmadan sadece ona yalvarırlar. Fakat Allah onları kurtarıp karaya çıkarınca bir de bakarsınız ki yine şirk / ortak koşuyorlar[1].",
-      "ates": "Gemiye bindikleri zaman, dini yalnız Allah'a halis kılarak O'na yalvarırlar. Fakat (Allah) onları salimen karaya çıkarınca hemen (O'na) ortak koşarlar."
+      "ates": "Gemiye bindikleri zaman, dini yalnız Allah'a halis kılarak O'na yalvarırlar. Fakat (Allah) onları salimen karaya çıkarınca hemen (O'na) ortak koşarlar.",
+      "hulusi": "Gemiye bindikleri vakit, inançlarını sırf O'na yönlendirerek Allah'a dua ederler. . . Onları karaya (çıkarıp) kurtarınca, bir de bakarsın onlar şirk koşuyorlar!",
+      "bayrakli": "Gemiye bindikleri zaman, içten inanarak Allah'a yalvarırlar. Ama Allah, onları kurtarıp karaya çıkarınca bir de bakarsın ortak koşarlar.",
+      "elmali_sade": "Baksana gemiye bindiklerinde dini Allah'a has kılarak O'na ihlasla dua ederler. Derken kendilerini karaya çıkardı mı derhal (Allah'a) ortak koşmaya koyulurlar;",
+      "cantay": "(Baksan a) gemiye bindikleri zaman — din (i) yalınız Kendisine (ya'ni Allaha) tahsıys etmek suretiyle ve (haalis ve) muhlis (insan) lar olarak — Allahı (nasıl) çağırırlar! Fakat biz onları selametle karaya çıkarınca da hemen Allaha eş katanlar onlardır.",
+      "piris": "Gemiye bindikleri zaman, dini kendisine has kılarak Allah'a dua ederler. Onları kurtarıp, karaya çıkardığı zaman hemen şirk koşarlar.",
+      "yildirim": "Gemide yolculuk yaparken boğulma tehlikesine düşünce bütün kalpleriyle yalnız Allah'a yalvarırlar. O da onları kurtarıp karaya çıkarınca bir de bakarsanız ki yine müşrik oluvermişler!",
+      "safa": "Gemiye bindiklerinde, dini yalnızca Allah'a özgüleyerek, O'na yakarışlarda bulunurlar. Fakat onları kurtarıp karaya çıkarınca, hemen ortaklar koşarlar.",
+      "yuksel": "Gemiye bindikleri zaman,  dini sadece ALLAH'a ait kılarak O'nu çağırırlar. Ne zaman ki onları denizden kurtarırız ortak koşmaya tekrar başlarlar.",
+      "aktas": "Gemiye bindikleri zaman,[1] dini yalnız Allah'a özgü kılarak O'na dua[2] ederler. Fakat onları karaya çıkarıp kurtardığımız zaman, hemen şirk koşarlar.",
+      "okuyan": "(65, 66) Gemiye bindikleri zaman, dini yalnız O'na özgü kılarak Allah'a yalvarırlar. Fakat onları karaya kurtarınca (çıkarınca), bir de bakarsın ki kendilerine verdiklerimize karşılık nankörlük etmeleri için (Allah'a) ortak koşmaktadırlar.[1] (Bir süre daha) yararlansınlar (bakalım)! İleride (gerçeği) bilecekler![2]"
     },
     {
       "number": 3406,
@@ -1064,7 +1714,17 @@
       "bulac": "Kendilerine verdiğimiz (nimetler)e nankörlük etsinler ve yararlanıp metalansınlar diye. Ancak onlar yakında bileceklerdir.",
       "esed": "böylece kendilerine bahşettiğimiz her türlü (nimete) karşı nankörlük yapar ve dünyadaki hayatlarından (ahmakça) zevk almaya devam ederler; fakat, günü gelince (gerçeği) öğrenecekler.",
       "suleymaniye": "Kendilerine yaptığımız iyiliği görmezden gelsinler ve sefalarını sürsünler bakalım! Yakında öğrenirler[1]!",
-      "ates": "Ki kendilerine verdiğimiz (ni'metler)e nankörlük etsinler ve (şu geçici hayatta) zevk içinde yaşasınlar. Ama yakında (gerçeği) bileceklerdir."
+      "ates": "Ki kendilerine verdiğimiz (ni'metler)e nankörlük etsinler ve (şu geçici hayatta) zevk içinde yaşasınlar. Ama yakında (gerçeği) bileceklerdir.",
+      "hulusi": "Kendilerine verdiklerimize (hakikatlerindeki kuvvelere) nankörlük yapsınlar ve (geçici şeylerden) faydalansınlar diye (şirke dönerler)! Yakında anlayacaklar!",
+      "bayrakli": "Böylece kendilerine bahşettiğimiz nimetlere karşı nankörlük yapar ve dünyadaki hayatlarından zevk almaya devam ederler. Fakat yakında bileceklerdir.",
+      "elmali_sade": "Kendilerine verdiğimiz nimete nankörlük etsinler ve hayattan zevk alsınlar diye! Fakat ileride bilirler.",
+      "cantay": "Ki (bu suretle) kendilerine verdiğimiz (ni'metler) e nankörlük etsinler ve (hayatdan) zevk alsınlar diye. Fakat onlar yakında bileceklerdir.",
+      "piris": "Kendilerine verdiklerimize nankörlük edip, dünyada geçinip gitsinler bakalım, yakında öğrenecekler.",
+      "yildirim": "Neticede kendilerine verdiğimiz nimetlere nankörlük edip, güya geçici bir zevk alırlar. Alsınlar bakalım, yakında öğrenirler!",
+      "safa": "Kendilerine verdiklerimize nankörlük etsinler ve yararlansınlar; artık yakında öğrenecekler.",
+      "yuksel": "Bırak,  kendilerine verdiklerimize nankörlük etsinler,  zevklensinler. İleride bilecekler.",
+      "aktas": "Onlar, kendilerine verdiğimiz nimetlere nankörlük etsinler ve gönüllerince yaşasınlar! Yakında neyin ne olduğunu görecekler!",
+      "okuyan": "(65, 66) Gemiye bindikleri zaman, dini yalnız O'na özgü kılarak Allah'a yalvarırlar. Fakat onları karaya kurtarınca (çıkarınca), bir de bakarsın ki kendilerine verdiklerimize karşılık nankörlük etmeleri için (Allah'a) ortak koşmaktadırlar.[1] (Bir süre daha) yararlansınlar (bakalım)! İleride (gerçeği) bilecekler![2]"
     },
     {
       "number": 3407,
@@ -1080,7 +1740,17 @@
       "bulac": "Görmediler mi ki, çevrelerinde insanlar kapılıp yağma edilirken, biz Harem (Mekke'y)i güvenilir (ve dokunulmaz) kıldık? Yine de onlar, batıla inanıp Allah'ın nimetlerine nankörlük mü ediyorlar?",
       "esed": "Görmezler mi ki çevrelerindeki insanlar (korku ve ümitsizlik içinde) paniğe kapılmışken (Bize inananlar için) güvenli bir sığınak oluşturmuşuz? Yoksa hala geçersiz ve anlamsız şeylere inan(maya devam ed)ip Allah'ın nimetini inkar mı edecekler?",
       "suleymaniye": "Mekke'yi dokunulmaz ve güvenli bir yer yaptığımızı görmediler mi? Halbuki çevrelerinde (ki yerlerden) insanlar zorla alınıp götürülüyor[1]. Hal böyleyken batıla inanıyorlar da Allah'ın nimetini görmezlikten mi geliyorlar?",
-      "ates": "Görmediler mi çevrelerinde insanlar kaçırılırken biz (kendi şehirleri Mekke'yi), güvenli, dokunulmaz bir bölge yaptık? Hala batıla inanıp Allah'ın ni'metine nankörlük mü ediyorlar?"
+      "ates": "Görmediler mi çevrelerinde insanlar kaçırılırken biz (kendi şehirleri Mekke'yi), güvenli, dokunulmaz bir bölge yaptık? Hala batıla inanıp Allah'ın ni'metine nankörlük mü ediyorlar?",
+      "hulusi": "Görmediler mi ki, onların çevresinden insanlar çekilip alınırlarken güvenli bir Harem kıldık. . . Batıla (kendilerinin bedenden ibaret olup, vefat ederek yok olacaklarına) iman edip, Allah nimetini (nefslerindeki El Esma kuvvelerini) inkar ederek nankörlük yapmıyorlar mı?",
+      "bayrakli": "Onlar, ülkelerini kutsal ve güvenli bir yer haline getirdiğimizi görmezler mi? Oysa onların çevresindeki insanlar sürekli saldırılara uğramaktadırlar. Onlar, batıla inanıp Allah'ın nimetini inkar mı ediyorlar?",
+      "elmali_sade": "Bizim (Mekke'yi) güven içinde kudsi bir yer yaptığımızı görmediler mi? Oysa çevresindeki insanlar çarpılıp kapılıyor, artık batıla inanıyorlar da Allah'ın nimetine nankörlük mü ediyorlar?",
+      "cantay": "Çevrelerinde insanların zorla (yakalanıb) kapılmakda olmasına rağmen (Mekkeyi) korkusuz (ve emin bir yer) yapdığımızı onlar görmediler mi? Haala baatıla inanıyorlar da Allahın ni'metine nankörlük mü ediyorlar?",
+      "piris": "Görmüyorlar mı ki, etraflarındaki insanlar, birbirini boğazlarken, biz Harem'e emniyet verdik. Hala, batıla inanıp, Allah'ın nimetlerine nankörlük mü edecekler?",
+      "yildirim": "Görmüyorlar mı ki etraflarında bulunan insanlara saldırılırken, can güvenlikleri yokken, Biz Mekke'yi güvenli, emin bir belde yaptık. Hala mı batıla inanıp Allah'ın nimetlerini inkar edecekler?",
+      "safa": "Çevrelerindeki insanlar kapılıp götürülürken, kutsal yeri güvenli yaptığımızı zaten görmüyorlar mı? Yine de gerçeğe aykırı şeylere inanarak, Allah'ın nimetine nankörlük mü ediyorlar?",
+      "yuksel": "Çevrelerindeki insanlar kapılıp götürülürken,  sınırlanmış bölgeyi güvenli kıldık. Batıla gerçek diye onaylayıp ALLAH'ın nimetini mi reddediyorlar?",
+      "aktas": "Çevresindeki insanlar can güvenliği içinde değilken, orayı[1] güvenli harem[2] ve emin bir yer kıldığımızı görmediler mi? Hala Batıl'a mı inanıyorlar ve Allah'ın nimetine nankörlük mü ediyorlar?",
+      "okuyan": "Çevrelerinde insanlar kapılıp götürülürken, (Mekke'yi) güven içinde saygın bir yer yaptığımızı görmediler mi? Onlar Allah'ın nimet(ler)ine nankörlük edip batıla mı inanıyorlar![1]"
     },
     {
       "number": 3408,
@@ -1096,7 +1766,17 @@
       "bulac": "Allah hakkında yalan uydurup iftira edenlerden veya kendisine hak geldiği zaman onu yalan sayandan daha zalim kimdir? İnkar edenlere cehennem içinde bir konaklama yeri mi yok?",
       "esed": "Kendi uydurduğu yalanları Allah'a isnad edenden yahut o'na (vahiyle) gelen hakikati yalanlayandan daha zalim kim olabilir? (Bu şekilde) hakikati inkar edenler için cehennem (en uygun) yer değil mi?",
       "suleymaniye": "Bir yalanı Allah'a mal eden veya kendine gelen gerçekler /ayetler karşısında yalana sarılandan daha büyük yanlış yapan kişi kimdir? Kafirler için cehennemde yer mi yok[1]?",
-      "ates": "Uydurduğu yalanı Allah'ın üzerine atan veya kendisine gelen gerçeği yalanlayandan daha zalim kimdir? Kafirlerin durağı cehennemde değil midir?"
+      "ates": "Uydurduğu yalanı Allah'ın üzerine atan veya kendisine gelen gerçeği yalanlayandan daha zalim kimdir? Kafirlerin durağı cehennemde değil midir?",
+      "hulusi": "Allah üzerine yalan uydurandan yahut kendisine Hak olarak (Rasul) geldiğinde bunu yalanlayandan daha zalim kimdir? Hakikat bilgisini inkar edenlerin yaşam ortamı, cehennemde değil midir?",
+      "bayrakli": "Kendi uydurduğu yalanları Allah'a isnat eden veya ona gelen hakikati yalanlayandan daha zalim kim olabilir? Cehennem, inkarcıların barınağı değil mi?",
+      "elmali_sade": "Allah'a karşı yalan uyduran yahut gerçek kendisine gelince yalan diyen kimseden daha zalim kim olabilir? Kafirlerin yeri sadece cehennem değil midir?",
+      "cantay": "Allaha karşı yalan düzen kişiden, yahud kendisine hak gelince onu yalan sayandan daha zaalim kimdir? Kafirlere cehennemde barınacak yer mi yok?!",
+      "piris": "Allah hakkında yalan uydurandan veya hak geldiğinde onu yalanlayandan daha zalim kim olabilir? Kafirler için cehennemde kalacak yer mi yok?!",
+      "yildirim": "Uydurduğu yalanı Allah'a isnad edenden veya kendisine gelen hakikati yalan sayandan daha zalim kim olabilir? Kafirler için cehennemde yer mi yok!",
+      "safa": "Allah hakkında yalanlar söyleyerek iftira eden veya gerçek ona geldiğinde Onu yalanlayandan, daha aşırı, kim haksızlık yapabilir? Nankörlük edenler için cehennemde yer mi yok?",
+      "yuksel": "Yalan uydurup ALLAH'a yakıştırandan ve kendisine gelen gerçeği yalanlayandan daha zalim kim olabilir? Kafirler için cehennemde bir yer yok mu?",
+      "aktas": "Uydurduğu yalanı Allah'a isnat eden iftiracıdan veya kendisine gelen hakikati yalanlayandan daha zalim kim vardır[1]? Kafirler için Cehennem'de yer mi yok?",
+      "okuyan": "Allah'a yalan uyduran veya kendisine gelmişken gerçeği yalanlayandan daha zalim kim olabilir ki![1] Cehennemde kâfirlere yer mi yok!"
     },
     {
       "number": 3409,
@@ -1112,7 +1792,17 @@
       "bulac": "Bizim uğrumuzda cihad edenlere, şüphesiz yollarımızı gösteririz. Gerçekten Allah, ihsan edenlerle beraberdir.",
       "esed": "Ama davamız uğrunda üstün gayret gösterenleri, Bize varan yollara mutlaka yöneltiriz: Allah, kuşkusuz, iyilik yapanlarla beraberdir.",
       "suleymaniye": "Biz uğrumuzda cihad edenleri /elinden geleni yapanları[1] elbette yollarımıza yönlendiririz. Allah elbette güzel davrananlarla beraberdir[2].",
-      "ates": "Ama biz(im uğrumuz)da cihad edenleri biz, elbette yollarımıza iletiriz. Muhakkak ki Allah, iyilik edenlerle beraberdir."
+      "ates": "Ama biz(im uğrumuz)da cihad edenleri biz, elbette yollarımıza iletiriz. Muhakkak ki Allah, iyilik edenlerle beraberdir.",
+      "hulusi": "Biz'e (ermek için nefsine karşı) savaş verenlere gelince, elbette onları yollarımıza ulaştıracağız. . . Kesinlikle Allah, yakin ehliyle (ihsan sahibi {Allah'a görüyormuşçasına yönelen}) elbette beraberdir! (Maiyet sırrı. )",
+      "bayrakli": "Bizim davamız uğrunda Kur'an ile mücadele edenlere, elbette onlara yollarımızı göstereceğiz. Şüphesiz, Allah güzeli hayata geçirenlerle beraberdir.",
+      "elmali_sade": "Bizim uğrumuzda cihad edenlere gelince, elbette Biz onlara (Bize ulaştıran) yollarımızı gösteririz. Şüphesiz ki Allah, her zaman iyi davrananlarla beraberdir.",
+      "cantay": "Bizim uğrumuzda mücahede edenler (e gelince:) Biz onlara elbette yollarımızı gösteririz. Şübhesiz ki Allah her halde ihsan erbabiyle beraberdir.",
+      "piris": "Bizim için cihad edenlere yollarımızı açarız. Şüphesiz Allah, iyi kimselerle beraberdir.",
+      "yildirim": "Bizim uğrumuzda gayret gösterip mücahede edenlere elbette muvaffakiyet yollarımızı gösteririz. Muhakkak ki Allah iyi davrananlarla beraberdir.",
+      "safa": "Bizim uğrumuzda çaba gösterenleri kesinlikle yollarımıza eriştireceğiz. Kuşkusuz, Allah, güzel davrananlarla kesinlikle birliktedir.",
+      "yuksel": "Uğrumuzda çaba gösterenleri yollarımıza ileteceğiz. ALLAH hiç kuşkusuz iyilik edenlerle beraberdir.",
+      "aktas": "Biz, Bizim yolumuzda cihad edenleri[1] elbette yollarımıza iletiriz. Kuşkusuz Allah, muhsinlerle[2] beraberdir.",
+      "okuyan": "Bizim uğrumuzda cihad edenleri (fedakârlık yapanları) elbette kendi yollarımıza ulaştıracağız. Şüphesiz ki Allah güzel davrananlarla beraberdir."
     }
   ]
 }

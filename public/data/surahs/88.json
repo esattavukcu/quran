@@ -24,7 +24,17 @@
       "bulac": "(Her yanı yaygın olarak kuşatacak olan) Kıyametin haberi sana geldi mi?",
       "esed": "Kabus Gibi Çöken'den haberin var mı?",
       "suleymaniye": "Her şeyi çepeçevre kuşatacak olanın /mezardan kalkış gününün haberi sana geldi, değil mi![1]",
-      "ates": "(Şiddet ve dehşetiyle her şeyi) Sarıp kaplayacak olan(o felaket)in haberi sana geldi mi?"
+      "ates": "(Şiddet ve dehşetiyle her şeyi) Sarıp kaplayacak olan(o felaket)in haberi sana geldi mi?",
+      "hulusi": "Sana Gaşiye'nin (bütün insanları örtüp bürüyen o büyük tecelli - kıyamet) haberi geldi mi?",
+      "bayrakli": "O her şeyi kuşatacak olan kıyametin haberi sana geldi mi?",
+      "elmali_sade": "Geldi mi sana o Ğaşiye (her şeyi kuşatacak salgın, istilacı kıyametin) haberi?",
+      "cantay": "(Felaketleri bütün mahlukaatı sarıb kaplayacak olan) kıyamet gününün haberi sana geldi ya.",
+      "piris": "Bürüyen/ansızın gelecek olanın haberi sana geldi mi?",
+      "yildirim": "Gaşiye'nin/dehşeti her tarafı saracak olan o felaketin mahiyeti hakkında elbet sen de bilgi sahibi oldun.",
+      "safa": "Karabasan Gibi Çökenin haberi, sana geldi mi?[594]",
+      "yuksel": "Sana o bunaltanın haberi ulaştı mı?",
+      "aktas": "Ğaşiyenin[1] hadisi[2] sana geldi mi?",
+      "okuyan": "(Her şeyi) kaplayacak olanın haberi sana geldi, (değil) mi?"
     },
     {
       "number": 5969,
@@ -40,7 +50,17 @@
       "bulac": "O gün, öyle yüzler vardır ki, 'zillet içinde aşağılanmıştır.'",
       "esed": "Bazı yüzler o Gün yere bakacak,",
       "suleymaniye": "O gün kimi yüzler öne eğik olacaktır;[1]",
-      "ates": "Yüzler var ki o gün öne düşüktür,"
+      "ates": "Yüzler var ki o gün öne düşüktür,",
+      "hulusi": "O gün yüzler (vardır) zilletle yere bakar!",
+      "bayrakli": "- O gün birtakım yüzler öne eğilecek; çok çabalayıp yorgun düşecek; kızgın ateşe girecek; son derece sıcak bir kaynaktan içirilecek.Onlar için kuru dikenden başka yemek yoktur; o ise, ne besler, ne de açlığı giderir.",
+      "elmali_sade": "O gün kimi yüzler eğilmiş, zillete düşmüştür.",
+      "cantay": "Yüzler (vardır) o gün zelil ve (hakıyr) dir.",
+      "piris": "O gün, yüzler vardır yere yıkılmış.",
+      "yildirim": "Yüzler vardır o gün yere eğilmiştir, zelildir!",
+      "safa": "Yüzler vardır; o gün yere bakar.",
+      "yuksel": "O gün yüzler saygı gösterir.",
+      "aktas": "O Gün[1] birtakım yüzler öne düşüktür;[2]",
+      "okuyan": "O gün bazı yüzler düşüktür."
     },
     {
       "number": 5970,
@@ -56,7 +76,17 @@
       "bulac": "Çalışmış, boşuna yorulmuştur.",
       "esed": "(günahın yükü altında) bitkin düşmüş, (korku ile) sarsılmış,",
       "suleymaniye": "çalışmış, boşuna yorulmuşlardır.[1]",
-      "ates": "Çalışır, yorulur."
+      "ates": "Çalışır, yorulur.",
+      "hulusi": "(Örf - adet olarak) çalışmış (ibadet etmiş) boşa yorulmuş!",
+      "bayrakli": "- O gün birtakım yüzler öne eğilecek; çok çabalayıp yorgun düşecek; kızgın ateşe girecek; son derece sıcak bir kaynaktan içirilecek.Onlar için kuru dikenden başka yemek yoktur; o ise, ne besler, ne de açlığı giderir.",
+      "elmali_sade": "Çalışmış, fakat boşuna yorulmuştur.",
+      "cantay": "Yorucu işler yapandır.",
+      "piris": "Çalışmış, boşa yorulmuş,",
+      "yildirim": "Yorgundur, bitkin mi bitkindir!",
+      "safa": "Uğraşmıştır; gücü tükenmiştir.",
+      "yuksel": "Çalışmıştır,  yorgun düşmüştür.",
+      "aktas": "Bitmiş, tükenmiş olarak.[1]",
+      "okuyan": "(Onlar) çalışandır, yorulandır."
     },
     {
       "number": 5971,
@@ -72,7 +102,17 @@
       "bulac": "Kızgın bir ateşe yollanırlar.",
       "esed": "kızgın bir ateşe girmek",
       "suleymaniye": "Kızgın bir ateşe girip kalırlar.[1]",
-      "ates": "Kızgın ateşe girerler."
+      "ates": "Kızgın ateşe girerler.",
+      "hulusi": "Kızgın bir ateşe maruz kalır (o yüzler)!",
+      "bayrakli": "- O gün birtakım yüzler öne eğilecek; çok çabalayıp yorgun düşecek; kızgın ateşe girecek; son derece sıcak bir kaynaktan içirilecek.Onlar için kuru dikenden başka yemek yoktur; o ise, ne besler, ne de açlığı giderir.",
+      "elmali_sade": "Kızışmış bir ateşe yaslanırlar.",
+      "cantay": "Kızgın bir ateşe girecek,",
+      "piris": "Kızgın ateşe yaslanan.",
+      "yildirim": "Kızgın ateşe girerler.",
+      "safa": "Kızgın bir ateşe girerler.",
+      "yuksel": "Kızgın ateşe girerler.",
+      "aktas": "Kızgın ateşe atılacaklar.",
+      "okuyan": "Kızgın ateşe girecektir. "
     },
     {
       "number": 5972,
@@ -88,7 +128,17 @@
       "bulac": "Kaynar bir kaynaktan içirilirler.",
       "esed": "ve kaynar bir pınardan tatmak üzere.",
       "suleymaniye": "Onlara, çok sıcak bir kaynaktan su verilir.[1]",
-      "ates": "Kendilerine kaynamış bir gözeden (su) içirilir."
+      "ates": "Kendilerine kaynamış bir gözeden (su) içirilir.",
+      "hulusi": "Kızgın bir kaynaktan içirilirler!",
+      "bayrakli": "- O gün birtakım yüzler öne eğilecek; çok çabalayıp yorgun düşecek; kızgın ateşe girecek; son derece sıcak bir kaynaktan içirilecek.Onlar için kuru dikenden başka yemek yoktur; o ise, ne besler, ne de açlığı giderir.",
+      "elmali_sade": "Kızgın bir kaynaktan sulanırlar.",
+      "cantay": "son derece sıcak, bir kaynakdan içirilecekdir.",
+      "piris": "Kızgın bir kaynaktan içen.",
+      "yildirim": "Susayınca kaynar su kaynayan bir çeşmeden içerler.",
+      "safa": "Kaynar bir pınardan içirilirler.",
+      "yuksel": "Kaynar bir pınardan içirilirler.",
+      "aktas": "Kaynar bir kaynaktan içirilirler.",
+      "okuyan": "Kaynar bir (su) kaynağından (kendilerine) içirilecektir. "
     },
     {
       "number": 5973,
@@ -104,7 +154,17 @@
       "bulac": "Onlar için (zehirli olan) dari' dikeninden başka bir yiyecek yoktur.",
       "esed": "Hiçbir yiyecekleri yok kuru dikenlerin acılığından başka,",
       "suleymaniye": "Dikenli bir bitkiden başka yiyecekleri olmaz.[1]",
-      "ates": "Onlar için kuru dikenden başka yiyecek de yoktur."
+      "ates": "Onlar için kuru dikenden başka yiyecek de yoktur.",
+      "hulusi": "Onlar için Dari' (zehirli - yırtıcı bir diken?)den başka yiyecek yoktur.",
+      "bayrakli": "- O gün birtakım yüzler öne eğilecek; çok çabalayıp yorgun düşecek; kızgın ateşe girecek; son derece sıcak bir kaynaktan içirilecek.Onlar için kuru dikenden başka yemek yoktur; o ise, ne besler, ne de açlığı giderir.",
+      "elmali_sade": "Dari' adındaki bitkiden başka yiyecekleri yoktur.",
+      "cantay": "Onlar için \"Dari\" dikeninden başka bir yiyecek yokdur,",
+      "piris": "Onlara kuru dikenden başka yiyecek yoktur.",
+      "yildirim": "Yiyecekleri sadece bir dikenden ibarettir.",
+      "safa": "Yiyecekleri yoktur; acı dikenden başka.",
+      "yuksel": "Değersiz bir yiyeceğin dışında bir şeyleri yoktur;",
+      "aktas": "Onlar için kuru dikenli bir bitkiden başka yiyecek yoktur;",
+      "okuyan": "Onlar için kuru dikenden başka yiyecek yoktur."
     },
     {
       "number": 5974,
@@ -120,7 +180,17 @@
       "bulac": "Ne doyurup semirtir, ne açlıktan korur.",
       "esed": "ne bir güç veren ne de açlığı gideren (dikenlerin).",
       "suleymaniye": "O, ne besler ne de açlığı giderir.",
-      "ates": "O da ne semirtir, ne de açlığı giderir."
+      "ates": "O da ne semirtir, ne de açlığı giderir.",
+      "hulusi": "Ne besler ne de açlıktan kurtarır.",
+      "bayrakli": "- O gün birtakım yüzler öne eğilecek; çok çabalayıp yorgun düşecek; kızgın ateşe girecek; son derece sıcak bir kaynaktan içirilecek.Onlar için kuru dikenden başka yemek yoktur; o ise, ne besler, ne de açlığı giderir.",
+      "elmali_sade": "Ne besler, ne açlıktan kurtarır.",
+      "cantay": "Ki o, ne semirtir (doyurur), ne de açlığı giderir.",
+      "piris": "Ne semirtir ne açlığı giderir.",
+      "yildirim": "Bu diken ne besleyicidir, ne de açlığı giderir.",
+      "safa": "Ne doyurur ne de açlığı giderir.",
+      "yuksel": "Ne besler,  ne de açlığı giderir.",
+      "aktas": "O, beslemez ve açlığı gidermez.",
+      "okuyan": "Hem beslemez hem de açlığı gidermez."
     },
     {
       "number": 5975,
@@ -136,7 +206,17 @@
       "bulac": "O gün, öyle yüzler de vardır ki, nimette (engin bir mutluluk içinde)dirler.",
       "esed": "Bazı yüzler (de) o Gün mutlulukla parıldayacak,",
       "suleymaniye": "O gün kimi yüzler de rahatlamıştır.[1]",
-      "ates": "Yüzler de var ki o gün ni'met içinde mutlu,"
+      "ates": "Yüzler de var ki o gün ni'met içinde mutlu,",
+      "hulusi": "O süreçte nimetin eseri görülen nice yüzler de (vardır).",
+      "bayrakli": "- O gün birtakım yüzler de şen olacaklar; çalıştığından dolayı yüksek bir cennette hoşnuttur; orada boş söz işitmeyecekler.",
+      "elmali_sade": "Kimi yüzler de mesuttur o gün.",
+      "cantay": "Yüzler (vardır) o gün güzeldir (ni'metlere mazhardır).",
+      "piris": "O günde yüzler vardır pırıl pırıl..",
+      "yildirim": "Ama yüzler vardır, o gün mutludurlar!",
+      "safa": "Yüzler vardır; o gün pırıl pırıl.",
+      "yuksel": "O gün başka yüzler de var ki mutludur.",
+      "aktas": "O Gün birtakım yüzler[1] nimetler içindedirler.",
+      "okuyan": "O gün bazı yüzler de nimet içindedir (mutludur)."
     },
     {
       "number": 5976,
@@ -152,7 +232,17 @@
       "bulac": "Harcadığı çabadan dolayı hoşnuttur.",
       "esed": "çabaları(nın meyvesini tatmak)tan memnun,",
       "suleymaniye": "Sarf ettikleri çabalardan dolayı memnundurlar.[1]",
-      "ates": "İşinden memnun,"
+      "ates": "İşinden memnun,",
+      "hulusi": "(Hakkıyla yaptığı) çalışmalarının getirisinden razıdır!",
+      "bayrakli": "- O gün birtakım yüzler de şen olacaklar; çalıştığından dolayı yüksek bir cennette hoşnuttur; orada boş söz işitmeyecekler.",
+      "elmali_sade": "Yaptıklarından hoşnut.",
+      "cantay": "(Dünyada taat ve ibadetle) çalışdığından dolayı hoşnuddur.",
+      "piris": "Çalışmasından hoşnuttur.",
+      "yildirim": "Emeklerinin neticesini almadan ötürü gayet memnundurlar.",
+      "safa": "Çalışmıştır; hoşnutluk içindedir.",
+      "yuksel": "Yaptıklarından ötürü sevinçlidir.",
+      "aktas": "Yaptıklarından dolayı hoşnutturlar.",
+      "okuyan": "Çalışmalarından memnundur."
     },
     {
       "number": 5977,
@@ -168,7 +258,17 @@
       "bulac": "Yüksek bir cennettedir.",
       "esed": "harika bir bahçede,",
       "suleymaniye": "Yüce bir cennette / bahçede olurlar.[1]",
-      "ates": "Yüksek bir bahçededir."
+      "ates": "Yüksek bir bahçededir.",
+      "hulusi": "Ali bir cennettedir!",
+      "bayrakli": "- O gün birtakım yüzler de şen olacaklar; çalıştığından dolayı yüksek bir cennette hoşnuttur; orada boş söz işitmeyecekler.",
+      "elmali_sade": "Yüksek bir cennette.",
+      "cantay": "Yüksek bir cennetde (dir).",
+      "piris": "Yüksek bir cennettedir.",
+      "yildirim": "Pek üstün ve pek muteber bir cennettedirler.",
+      "safa": "Yüksek bir cennettedir.",
+      "yuksel": "Yüksek bir bahçededir.",
+      "aktas": "Mükemmel bir bahçededirler.",
+      "okuyan": "Yüksek bir cennettedir. "
     },
     {
       "number": 5978,
@@ -184,7 +284,17 @@
       "bulac": "Orada anlamsız bir söz işitmez.",
       "esed": "boş lakırdı işitmeyecekleri (bir bahçede).",
       "suleymaniye": "Orada tek bir boş söz bile duymazlar.[1]",
-      "ates": "Orada boş söz işitmezler."
+      "ates": "Orada boş söz işitmezler.",
+      "hulusi": "Orada boş laf işitmez.",
+      "bayrakli": "- O gün birtakım yüzler de şen olacaklar; çalıştığından dolayı yüksek bir cennette hoşnuttur; orada boş söz işitmeyecekler.",
+      "elmali_sade": "Orada boş bir söz işitmezler.",
+      "cantay": "Orada boş bir laf işitmez.",
+      "piris": "Orada boş söz işitmezler.",
+      "yildirim": "Orada hiç boş söz işitmezler.",
+      "safa": "Orada, boş söz duymazlar.",
+      "yuksel": "Orada bir saçmalık işitmezler.",
+      "aktas": "Orada boş söz duymazlar.",
+      "okuyan": "Orada boş söz duymaz. "
     },
     {
       "number": 5979,
@@ -200,7 +310,17 @@
       "bulac": "Orada 'durmaksızın akan' bir kaynak vardır.",
       "esed": "Sayısız pınarlar akacak orada,",
       "suleymaniye": "Orada akıp duran bir kaynak vardır.[1]",
-      "ates": "Orada akan bir kaynak vardır."
+      "ates": "Orada akan bir kaynak vardır.",
+      "hulusi": "Orada (daim) akan bir kaynak (ilim ve kudret) vardır.",
+      "bayrakli": "- Orada akan pınarlar olacak; orada yüksek divanlar; konulmuş kadehler, dizilmiş koltuklar, yastıklar; serilmiş halılarolacak.",
+      "elmali_sade": "Orada akan bir kaynak,",
+      "cantay": "Orada daima akan bir (nice) pınar,",
+      "piris": "Orada akan bir pınar..",
+      "yildirim": "Orada akan berrak pınarlar...",
+      "safa": "Sürekli akan bir pınar vardır.",
+      "yuksel": "Orada akan bir kaynak var.",
+      "aktas": "Orada devamlı akan bir pınar vardır.",
+      "okuyan": "Orada akan (su) kaynağı var."
     },
     {
       "number": 5980,
@@ -216,7 +336,17 @@
       "bulac": "Orada yükseklerde kurulmuş, tahtlar da vardır;",
       "esed": "(ve) yükseltilmiş (mutluluk) tahtları,",
       "suleymaniye": "Yine orada yükseltilmiş sedirler vardır;[1]",
-      "ates": "Orada yükseltilmiş tahtlar,"
+      "ates": "Orada yükseltilmiş tahtlar,",
+      "hulusi": "Orada yükseltilmiş tahtlar vardır.",
+      "bayrakli": "- Orada akan pınarlar olacak; orada yüksek divanlar; konulmuş kadehler, dizilmiş koltuklar, yastıklar; serilmiş halılarolacak.",
+      "elmali_sade": "yüksek kanepeler,",
+      "cantay": "orada yüksek tahtlar,",
+      "piris": "Orada yükseltilmiş sedirler/yataklar..",
+      "yildirim": "Orada üstün, kıymetli tahtlar...",
+      "safa": "Yüksek sedirler vardır.",
+      "yuksel": "Orada yüksek mobilyalar var.",
+      "aktas": "Yükseklere kurulmuş divanlar,",
+      "okuyan": "Orada yükseltilmiş tahtlar var. "
     },
     {
       "number": 5981,
@@ -232,7 +362,17 @@
       "bulac": "Konulmuş (içecek dolu) kaplar,",
       "esed": "doldurulmuş kadehler,",
       "suleymaniye": "hazırlanmış testiler,[1]",
-      "ates": "Konulmuş kadehler,"
+      "ates": "Konulmuş kadehler,",
+      "hulusi": "(Yerlerine) konulmuş testiler,",
+      "bayrakli": "- Orada akan pınarlar olacak; orada yüksek divanlar; konulmuş kadehler, dizilmiş koltuklar, yastıklar; serilmiş halılarolacak.",
+      "elmali_sade": "konulmuş küpler,",
+      "cantay": "(önlerine) konmuş kablar,",
+      "piris": "Doldurulmuş kadehler..",
+      "yildirim": "Hazırlanmış kadehler...",
+      "safa": "Doldurulmuş kadehler.",
+      "yuksel": "Kadehler konulmuş, ",
+      "aktas": "İçime hazır içecekler,",
+      "okuyan": "Konulmuş kadehler,"
     },
     {
       "number": 5982,
@@ -248,7 +388,17 @@
       "bulac": "Dizi dizi yastıklar,",
       "esed": "dizilmiş yastıklar,",
       "suleymaniye": "sıra sıra dizilmiş yastıklar,[1]",
-      "ates": "Dizilmiş yastıklar,"
+      "ates": "Dizilmiş yastıklar,",
+      "hulusi": "(Arkalarına) sıra sıra dizilmiş yastıklar,",
+      "bayrakli": "- Orada akan pınarlar olacak; orada yüksek divanlar; konulmuş kadehler, dizilmiş koltuklar, yastıklar; serilmiş halılarolacak.",
+      "elmali_sade": "dizilmiş koltuklar, yastıklar,",
+      "cantay": "sıra sıra dizilmiş yasdıklar,",
+      "piris": "Sıra sıra yastıklar..",
+      "yildirim": "Dizilmiş koltuklar, yastıklar...",
+      "safa": "Sıralanmış yastıklar.",
+      "yuksel": "Yastıklar dizilmiş, ",
+      "aktas": "Sıra sıra yastıklar,",
+      "okuyan": "Dizilmiş yastıklar,"
     },
     {
       "number": 5983,
@@ -264,7 +414,17 @@
       "bulac": "Ve serilmiş yaygılar.",
       "esed": "ve serilmiş halılar...",
       "suleymaniye": "ve yere serilmiş halılar da.",
-      "ates": "Serilmiş halılar vardır."
+      "ates": "Serilmiş halılar vardır.",
+      "hulusi": "(Altlarına) yayılmış yaygılar (vardır).",
+      "bayrakli": "- Orada akan pınarlar olacak; orada yüksek divanlar; konulmuş kadehler, dizilmiş koltuklar, yastıklar; serilmiş halılarolacak.",
+      "elmali_sade": "serilmiş nefis döşemeler vardır.",
+      "cantay": "yayılıb serilmiş saçaklı halılar vardır.",
+      "piris": "Serilmiş halılar vardır.",
+      "yildirim": "Yayılmış halılar ve döşemeler...",
+      "safa": "Ve serilmiş halılar.",
+      "yuksel": "Ve halılar serilmiştir.",
+      "aktas": "Serilmiş halılar vardır.",
+      "okuyan": "Serilmiş halılar (var)."
     },
     {
       "number": 5984,
@@ -280,7 +440,17 @@
       "bulac": "Bakmıyorlar mı o deveye; nasıl yaratıldı?",
       "esed": "Peki, (o yeniden dirilmeyi inkar edenler) bakmazlar mı yağmur yüklü bulutlara (ve görmezler mi) nasıl yaratılmış onlar?",
       "suleymaniye": "(İnsanlar) develere hiç bakmazlar mı nasıl yaratılmış,",
-      "ates": "Bakmıyorlar mı develere, nasıl yaratılmış?"
+      "ates": "Bakmıyorlar mı develere, nasıl yaratılmış?",
+      "hulusi": "Bakmıyorlar mı el İbil'e (yağmur yüklü bulutlara) nasıl yaratılmış?",
+      "bayrakli": "-Develerin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bakmazlar mı?",
+      "elmali_sade": "Hala bakmazlar mı o deveye ki, nasıl yaratılmış?",
+      "cantay": "Onlar haala (ibretle) bakmazlar mı o deveye, nasıl yaratılmışdır o?",
+      "piris": "Bakmazlar mı deveye? Nasıl yaratıldı?",
+      "yildirim": "O kafirler bakıp düşünmezler mi: (Mesela) deve nasıl yaratılmış?",
+      "safa": "Yağmur yüklü bulutlara bakmıyorlar mı; nasıl yaratılmış?[595]",
+      "yuksel": "Bakmazlar mı develere,  nasıl yaratıldı?",
+      "aktas": "Hiç mi deveye[1] bakmıyorlar, nasıl yaratılmış?",
+      "okuyan": "Bakmazlar mı o deveye, nasıl yaratılmış!"
     },
     {
       "number": 5985,
@@ -296,7 +466,17 @@
       "bulac": "Göğe, nasıl yükseltildi?",
       "esed": "Ve (bakmazlar mı) göğe, nasıl yükseltilmiş?",
       "suleymaniye": "göğe bakmazlar mı nasıl yükseltilmiş,[1]",
-      "ates": "Göğe, nasıl yükseltilmiş?"
+      "ates": "Göğe, nasıl yükseltilmiş?",
+      "hulusi": "(Bakmıyorlar mı) semaya, nasıl ref'olunmuş (nasıl uzay oluşmuş)!",
+      "bayrakli": "-Develerin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bakmazlar mı?",
+      "elmali_sade": "Göğe ki, nasıl kaldırılmış?",
+      "cantay": "O göğe, nice yükseltmişdir o,",
+      "piris": "Ve göğe.. Nasıl yükseltildi?",
+      "yildirim": "Gök nasıl kurulup uçsuz bucaksız yükseltilmiş?",
+      "safa": "Ya gökyüzüne; nasıl yükseltilmiş?",
+      "yuksel": "Ve göğe,  nasıl yükseltildi?",
+      "aktas": "Ve gökyüzüne, nasıl yükseltilmiş?",
+      "okuyan": "Göğe, nasıl yükseltilmiş!"
     },
     {
       "number": 5986,
@@ -312,7 +492,17 @@
       "bulac": "Dağlara; nasıl oturtulup kuruldu?",
       "esed": "Ve dağlara, nasıl sağlamca dikilmiş?",
       "suleymaniye": "dağlara bakmazlar mı (yere) nasıl saplanmış,[1]",
-      "ates": "Dağlara, nasıl dikilmiş?"
+      "ates": "Dağlara, nasıl dikilmiş?",
+      "hulusi": "(Bakmıyorlar mı) dağlara, nasıl yerleştirilmiş!",
+      "bayrakli": "-Develerin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bakmazlar mı?",
+      "elmali_sade": "Dağlara ki, nasıl dikilmişler?",
+      "cantay": "o dağlara, nasıl dikilmişdir o,",
+      "piris": "Ve dağlara.. Nasıl dikildi?",
+      "yildirim": "Dağlar nasıl da yeri tutup, dengeleyen direkler halinde dikilmiş.",
+      "safa": "Ve dağlara; nasıl dikilmiş?",
+      "yuksel": "Ve dağlara,  nasıl dikildi?",
+      "aktas": "Ve dağlara, nasıl dikilmişler?",
+      "okuyan": "Dağlara, nasıl dikilmiş!"
     },
     {
       "number": 5987,
@@ -328,7 +518,17 @@
       "bulac": "Yere; nasıl yayılıp döşendi?",
       "esed": "Ve toprağa, nasıl yayılmış?",
       "suleymaniye": "yeryüzüne bakmazlar mı nasıl (yaşanabilir bir) yüzey haline getirilmiş?[1]",
-      "ates": "Yere, nasıl yayılıp döşenmiş?"
+      "ates": "Yere, nasıl yayılıp döşenmiş?",
+      "hulusi": "(Bakmıyorlar mı) arza, nasıl döşenmiş!",
+      "bayrakli": "-Develerin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bakmazlar mı?",
+      "elmali_sade": "Yere ki, nasıl yayılmış?",
+      "cantay": "o yere, nasıl yayılıb döşenmişdir o?",
+      "piris": "Ve yere.. Nasıl yayıldı?",
+      "yildirim": "Yeryüzü nasıl yayılıp hayata elverişli kılınmış?",
+      "safa": "Ve yeryüzüne; nasıl yayılmış?",
+      "yuksel": "Ve yere,  nasıl döşendi?",
+      "aktas": "Ve yeryüzüne, nasıl yayılıp döşenmiş?",
+      "okuyan": "Yere, nasıl yayılmış!"
     },
     {
       "number": 5988,
@@ -344,7 +544,17 @@
       "bulac": "Artık sen, öğüt verip hatırlat. Sen, yalnızca bir öğüt verici, bir hatırlatıcısın.",
       "esed": "İşte böyle, (ey Peygamber,) onlara öğüt ver; senin görevin yalnız öğüt vermektir:",
       "suleymaniye": "Öyleyse sen doğru bilgi ver[1] /Kur'an'ı anlat! Sen sadece doğru bilgi vermekle görevlisin.[2]",
-      "ates": "Öğüt ver, çünkü sen ancak öğüt verensin."
+      "ates": "Öğüt ver, çünkü sen ancak öğüt verensin.",
+      "hulusi": "HATIRLAT; çünkü sen ancak bir hatırlatıcısın (hakikatlerini hatırlatmak için irsal oldun)!",
+      "bayrakli": "Öğüt ver, çünkü sen ancak öğüt verensin.",
+      "elmali_sade": "Haydi öğüt ver, sen şimdi yalnızca bir öğütçüsün!",
+      "cantay": "(Habibim) sen hemen (onlara Allahın ni'metlerini, tevhid delillerini) hatırlat. Sen ancak bir hatırlatıcısın.",
+      "piris": "-Hatırlat/uyar! Sen ancak uyarıcısın.",
+      "yildirim": "İşte böyle... Sen insanları irşada devam et! Zaten senin görevin sadece irşad edip düşündürmektir.",
+      "safa": "Artık, hatırlat! Sen, yalnızca hatırlatıcısın.",
+      "yuksel": "Hatırlat,  çünkü sen hatırlatıcısın.",
+      "aktas": "Öğüt ver; sen yalnızca öğüt vericisin.",
+      "okuyan": "Hatırlat! Sen sadece hatırlatıcısın.[1]"
     },
     {
       "number": 5989,
@@ -360,7 +570,17 @@
       "bulac": "Onlara 'zor ve baskı' kullanacak değilsin.",
       "esed": "sen onları (inanmaya) zorlayamazsın.",
       "suleymaniye": "Sen onları zorla hizaya getirecek değilsin![1]",
-      "ates": "Onların üzerinde zorlayıcı değilsin."
+      "ates": "Onların üzerinde zorlayıcı değilsin.",
+      "hulusi": "Onlar üzerine musallat olan zorba değilsin!",
+      "bayrakli": "Onların üzerinde zorlayıcı değilsin.",
+      "elmali_sade": "Onların üzerinde bir zorba değilsin!",
+      "cantay": "Onların üzerine musallat (bir adam) değilsin.",
+      "piris": "Onlar üzerinde bir zorba değilsin.",
+      "yildirim": "Yoksa sen kimseyi zorlayacak değilsin.",
+      "safa": "Sen, onların üzerine zorlayıcı değilsin.",
+      "yuksel": "Sen onları zorlayacak değilsin.",
+      "aktas": "Kimseyi zorla inandıracak değilsin.",
+      "okuyan": "Onların üzerinde bir zorba değilsin.[1]"
     },
     {
       "number": 5990,
@@ -376,7 +596,17 @@
       "bulac": "Ancak kim yüz çevirir ve inkar ederse",
       "esed": "Ancak, kim hakikati inkara şartlanmış olarak yüz çevirip uzaklaşırsa,",
       "suleymaniye": "Ama (şunu bilsinler ki) kim yüz çevirir ve kafirlik ederse /ayetleri görmezlikte direnirse[1]",
-      "ates": "Ancak kim yüz çevirir ve inanmazsa,"
+      "ates": "Ancak kim yüz çevirir ve inanmazsa,",
+      "hulusi": "Ancak kim yüz çevirir ve küfür ederse (hakikati inkar - reddederse),",
+      "bayrakli": "Ancak, kim yüz çevirir ve inkar ederse.",
+      "elmali_sade": "Ancak tersine giden ve inkar eden başka.",
+      "cantay": "Lakin kim (imandan) yüz çevirir, (Kur'anı) inkar ederse,",
+      "piris": "Ancak, kim yüz çevirir ve nankör/kafir olursa.",
+      "yildirim": "Lakin kim ki imana sırtını döner ve inkar eder,",
+      "safa": "Ancak, kim yüz çevirir ve nankörlük ederse.",
+      "yuksel": "Fakat kim yüz çevirir ve inkar ederse, ",
+      "aktas": "Ancak kim yüz çevirir ve kafir olursa,",
+      "okuyan": "Ancak, kim yüz çevirir ve inkâr ederse,"
     },
     {
       "number": 5991,
@@ -392,7 +622,17 @@
       "bulac": "Allah, onu en büyük azab ile azablandırır.",
       "esed": "Allah ona (öteki dünyada) en büyük azabı tattıracaktır:",
       "suleymaniye": "Allah onu en büyük azaba çarptıracaktır.[1]",
-      "ates": "Allah ona en büyük azabı eder,"
+      "ates": "Allah ona en büyük azabı eder,",
+      "hulusi": "Allah onu, en büyük azap ile azaplandırır!",
+      "bayrakli": "Allah ona en büyük azabı eder.",
+      "elmali_sade": "Allah, onu en büyük azap ile cezalandıracaktır.",
+      "cantay": "Allah da onu en büyük azab ile azablandırır.",
+      "piris": "Allah, onu en büyük cezaya çarptırır.",
+      "yildirim": "Allah da onu en büyük cezaya çarptırır.",
+      "safa": "Allah, en büyük cezayla onu cezalandıracaktır.",
+      "yuksel": "ALLAH onu en büyük ceza ile cezalandırır.",
+      "aktas": "Allah, ona en büyük azapla azap eder.",
+      "okuyan": "Allah ona en büyük azapla azap eder."
     },
     {
       "number": 5992,
@@ -408,7 +648,17 @@
       "bulac": "Şüphesiz onların dönüşleri bizedir.",
       "esed": "Bizedir onların dönüşleri,",
       "suleymaniye": "Varacakları yer huzurumuzdur![1]",
-      "ates": "Dönüşleri Bizedir."
+      "ates": "Dönüşleri Bizedir.",
+      "hulusi": "Muhakkak ki bizedir onların dönüşleri.",
+      "bayrakli": "Dönüşleri yalnızca bizedir.",
+      "elmali_sade": "Onlar, mutlaka döne dolaşa Bize geleceklerdir.",
+      "cantay": "Şübhesiz onların (öldükden sonra) dönüşleri ancak bizedir.",
+      "piris": "Şüphesiz onların dönüşü bizedir.",
+      "yildirim": "Elbet onların dönüşü Bize olacaktır.",
+      "safa": "Kuşkusuz, dönüşleri, Bize olacaktır.",
+      "yuksel": "Onların dönüşleri bizedir.",
+      "aktas": "Kuşkusuz onların dönüşü Bizedir.",
+      "okuyan": "Şüphesiz ki onların dönüşü sadece bizedir."
     },
     {
       "number": 5993,
@@ -424,7 +674,17 @@
       "bulac": "Sonra onları hesaba çekmek de elbette bize aittir.",
       "esed": "ve Bize düşer onları hesaba çekmek.",
       "suleymaniye": "Sonra onları hesaba çekmek bizim işimizdir.[1]",
-      "ates": "Sonra onların hesabını görmek Bize düşer."
+      "ates": "Sonra onların hesabını görmek Bize düşer.",
+      "hulusi": "Sonra muhakkak ki bize aittir yaptıklarının sonucunu yaşatmak!",
+      "bayrakli": "Sonra onların hesabını görmek bize düşer.",
+      "elmali_sade": "Sonra da mutlaka Bize hesap vereceklerdir.",
+      "cantay": "Sonra hisabları (nı görmek) de muhakkak bize aiddir.",
+      "piris": "Sonra da onların hesabını görmek bize düşer.",
+      "yildirim": "Elbet hesaplarını görmek de Bizim işimiz olacaktır.",
+      "safa": "Sonra, onları hesaba çekmek, kesinlikle Bize özgüdür.",
+      "yuksel": "Hesaplarını görmek de bize düşer.",
+      "aktas": "Sonra, kuşkusuz onların hesapları kesinlikle Bize aittir.",
+      "okuyan": "Sonra onların hesabı da şüphesiz ki sadece bize aittir. "
     }
   ]
 }

@@ -24,7 +24,17 @@
       "bulac": "Yer, o şiddetli sarsıntısıyla sarsıldığı,",
       "esed": "Yer, o (son) müthiş sarsıntı ile sarsıldığında,",
       "suleymaniye": "Yeryüzü, bütün şiddetiyle sarsılınca,[1]",
-      "ates": "Yer o yaman sarsıntı ile sarsıldığı,"
+      "ates": "Yer o yaman sarsıntı ile sarsıldığı,",
+      "hulusi": "Arz (beden), şiddetli bir sarsıntı ile sarsıldığında;",
+      "bayrakli": "- Yerküre o korkunç sarsıntı ile sarsıldığı;yer, ağırlıklarını çıkardığı ve insan, \"Ona ne oluyor?\" dediği zaman!",
+      "elmali_sade": "Yer o sarsıntıyla sarsıldığında,",
+      "cantay": "Yer, kendisine aid şiddetli bir sarsıntı ile zelzeleye uğratıldığı zaman,",
+      "piris": "Yer, tam bir sarsıntı ile sarsıldığı zaman.",
+      "yildirim": "Yer o müthiş depremiyle sarsıldığı zaman...",
+      "safa": "O Ürkünç Sarsıntı ile yeryüzü sarsıldığında.",
+      "yuksel": "Yerin korkunç bir depremle sarsıldığı, ",
+      "aktas": "Yeryüzü şiddetli sarsıntı ile sarsıldığı zaman,",
+      "okuyan": "Yer, şiddetli sarsıntısıyla sarsıldığında,"
     },
     {
       "number": 6140,
@@ -40,7 +50,17 @@
       "bulac": "Yer, ağırlıklarını dışa atıp çıkardığı,",
       "esed": "ve yeryüzü ağırlıklarını attı(ğında),",
       "suleymaniye": "ve yer ağırlıklarını dışarı çıkarınca,[1]",
-      "ates": "Yer (bağrındaki) ağırlıklarını çıkardığı,"
+      "ates": "Yer (bağrındaki) ağırlıklarını çıkardığı,",
+      "hulusi": "Arz, ağırlıklarını dışarı çıkardığında,",
+      "bayrakli": "- Yerküre o korkunç sarsıntı ile sarsıldığı;yer, ağırlıklarını çıkardığı ve insan, \"Ona ne oluyor?\" dediği zaman!",
+      "elmali_sade": "yer ağırlıklarını çıkardığında,",
+      "cantay": "yer, (bütün) ağırlıklarını (dışarıya fırlatıb) çıkardığı,",
+      "piris": "Yer, ağırlıklarını çıkardığı zaman ..",
+      "yildirim": "Ve yer bağrındaki ağırlıkları çıkardığı zaman...",
+      "safa": "Ve yeryüzü, ağırlıklarını çıkarıp attığında.",
+      "yuksel": "Yerin ağırlıklarını fışkırttığı, ",
+      "aktas": "Yeryüzü ağırlıklarını çıkardığı;",
+      "okuyan": "Yer, ağırlıklarını çıkarttığı(nda),"
     },
     {
       "number": 6141,
@@ -56,7 +76,17 @@
       "bulac": "Ve insan: \"Buna ne oluyor?\" dediği zaman;",
       "esed": "ve insan: \"Ona ne oluyor?\" diye bağırdı(ğında),",
       "suleymaniye": "insan da \"Ne olmuş buraya!\" deyince,[1]",
-      "ates": "Ve insan: \"Ona ne oluyor?\" dediği zaman!"
+      "ates": "Ve insan: \"Ona ne oluyor?\" dediği zaman!",
+      "hulusi": "İnsan (bilinç, bedene bakarak): \"Buna ne oluyor?\" diyerek (panik yaşadığında),",
+      "bayrakli": "- Yerküre o korkunç sarsıntı ile sarsıldığı;yer, ağırlıklarını çıkardığı ve insan, \"Ona ne oluyor?\" dediği zaman!",
+      "elmali_sade": "İnsan: \"Buna ne oluyor?\" dediğinde;",
+      "cantay": "insan \"Buna ne oluyor?\" dediği (zaman),",
+      "piris": "İnsan: -Buna ne oluyor? dediğinde..",
+      "yildirim": "İnsan şaşkın şaşkın: \"Ne oluyor buna!\" dediği zaman...",
+      "safa": "Ve insan, \"Ona ne oluyor?\" dediğinde.",
+      "yuksel": "İnsanın da,  \"Buna ne oluyor?\" dediği zaman, ",
+      "aktas": "Ve insan, \"Ona ne oluyor?\" dediği,",
+      "okuyan": "İnsan \"Buna (yere) ne oluyor?\" dediği(nde),"
     },
     {
       "number": 6142,
@@ -72,7 +102,17 @@
       "bulac": "O gün (yer), haberlerini anlatacaktır.",
       "esed": "o Gün yer, bütün haberlerini ortaya dökecek,",
       "suleymaniye": "işte o gün yer, haberlerini anlatır;",
-      "ates": "İşte o gün (yer), haberlerini söyler."
+      "ates": "İşte o gün (yer), haberlerini söyler.",
+      "hulusi": "İşte o süreçte haberlerini söyler.",
+      "bayrakli": "İşte o gün, yer, haberlerini söyler.",
+      "elmali_sade": "o gün, (yer) bütün haberlerini anlatır.",
+      "cantay": "O gün (yer) bütün haberlerini anlatacakdır.",
+      "piris": "O gün, haberlerini anlatır.",
+      "yildirim": "İşte o gün yer, üstünde olan biten her şeyi anlatır:",
+      "safa": "O gün, haberlerini anlatır.",
+      "yuksel": "İşte o gün (yer),  haberlerini anlatacaktır.",
+      "aktas": "O Gün,[1] hadislerini[2] anlatacak.[3]",
+      "okuyan": "İşte o gün (yer), haberlerini söyler."
     },
     {
       "number": 6143,
@@ -88,7 +128,17 @@
       "bulac": "Çünkü senin Rabbin, ona vahyetmiştir.",
       "esed": "Rabbinin vahyettiği şekilde.",
       "suleymaniye": "çünkü Rabbin bunları ona bildirmiş olur.",
-      "ates": "Çünkü Rabbin ona vahyetmiştir (onun için başından geçenleri anlatır)."
+      "ates": "Çünkü Rabbin ona vahyetmiştir (onun için başından geçenleri anlatır).",
+      "hulusi": "Rabbinden ona vahiy ile.",
+      "bayrakli": "Çünkü Rabbin ona vahyetmiştir.",
+      "elmali_sade": "Çünkü Rabbin ona vahyetmiştir.",
+      "cantay": "Çünkü Rabbi kendisine (o vech ile) vahyetmişdir.",
+      "piris": "Çünkü Rabbin ona vahyetmiştir.",
+      "yildirim": "Çünkü Rabbin ona bunları vahyeder.",
+      "safa": "Efendinin, ona bildirmesiyle.",
+      "yuksel": "Çünkü Efendin ona vahiy etmiştir.",
+      "aktas": "Çünkü Rabb'in ona vahyetmiştir.[1]",
+      "okuyan": "Çünkü Rabbin ona vahyetmiş (bildirmiş olacak)tır.[1]"
     },
     {
       "number": 6144,
@@ -104,7 +154,17 @@
       "bulac": "O gün insanlar, amelleri kendilerine gösterilsin diye, bölük bölük fırlayıp çıkarlar.",
       "esed": "O Gün bütün insanlar, (geçmiş) fiillerini görmek üzere biri öbüründen ayrılmış olarak ortaya çıkacaklar.",
       "suleymaniye": "O gün insanlar, yaptıkları işlerin kendilerine gösterilmesi için ayrı ayrı öne çıkarlar.[1]",
-      "ates": "O gün insanlar, ayrı ayrı gruplar halinde (Yüce Divana) çıkarlar ki, yaptıkları işler kendilerine gösterilsin."
+      "ates": "O gün insanlar, ayrı ayrı gruplar halinde (Yüce Divana) çıkarlar ki, yaptıkları işler kendilerine gösterilsin.",
+      "hulusi": "O gün insanlar, gruplar halinde çıkar ki çalışmalarının sonucunu görsünler!",
+      "bayrakli": "O gün insanlar gruplar halinde çıkarlar ki yaptıkları işler kendilerine gösterilsin.",
+      "elmali_sade": "O gün insanlar, amellerinin kendilerine gösterilmesi için bölükler halinde fırlayıp çıkacaklardır.",
+      "cantay": "O gün insanlar, amelleri (nin karşılığı) kendilerine gösterilmek için, dağınık dönecek (ler) dir!",
+      "piris": "O gün insanlar yaptıklarını görmeleri için bölük bölük gelirler.",
+      "yildirim": "İşte o gün bölükler halinde insanlar, kabirlerinden çıkıp yüce divana dururlar, ta ki yaptıklarının karşılığını görüp alırlar.",
+      "safa": "O gün, yaptıklarının gösterilmesi için, insanlar, dağınık olarak ortaya çıkacaklardır.",
+      "yuksel": "O gün,  insanlar yapmış oldukları kendilerine gösterilsin diye bölükler halinde çıkagelirler.",
+      "aktas": "O Gün, insanlar amelleri kendilerine gösterilsin diye grup grup ortaya çıkacaklar.",
+      "okuyan": "O gün, (yaptığı) işleri kendilerine gösterilsin diye insanlar grup grup çıkarlar."
     },
     {
       "number": 6145,
@@ -120,7 +180,17 @@
       "bulac": "kim zerre ağırlığınca hayır işlerse, onu görür.",
       "esed": "Ve kim zerre kadar iyilik yapmışsa, onu(n karşılığını) görecek,",
       "suleymaniye": "Artık kim zerre kadar iyilik yapmış olsa onu görür.[1]",
-      "ates": "Artık kim zerre ağırlığınca hayır yapmışsa onu görür."
+      "ates": "Artık kim zerre ağırlığınca hayır yapmışsa onu görür.",
+      "hulusi": "Kim bir zerre ağırlığınca bir hayır yaparsa, onu görür.",
+      "bayrakli": "Artık kim zerre ağırlığınca hayır yapmışsa onu görür.",
+      "elmali_sade": "Her kim zerre kadar bir hayır isterse onu görecek;",
+      "cantay": "İşte kim zerre ağırlığınca bir hayır yapıyor (idiy) se onu (n sevabını) görecek,",
+      "piris": "Kim zerre ağırlığınca iyilik yapmışsa onu görür.",
+      "yildirim": "Zerre ağırlığınca hayır yapan onu bulur,",
+      "safa": "Artık, kim, en küçük ağırlığı olan bir iyilik yapmışsa, onu görecektir.",
+      "yuksel": "Kim bir atom ağırlığı iyilikte bulunursa onu görür.",
+      "aktas": "Artık kim zerre ağırlığınca iyilik yapmışsa onu görür.",
+      "okuyan": "Kim zerre kadar iyilik yaparsa onu görür."
     },
     {
       "number": 6146,
@@ -136,7 +206,17 @@
       "bulac": "Artık kim zerre ağırlığınca bir şer (kötülük) işlerse, onu görür.",
       "esed": "kim de zerre kadar kötülük yapmışsa onu(n karşılığını) görecektir.",
       "suleymaniye": "Kim de zerre kadar kötülük yapmış olsa onu görür.[1]",
-      "ates": "Ve kim zerre ağırlığınca şer yapmışsa onu görür."
+      "ates": "Ve kim zerre ağırlığınca şer yapmışsa onu görür.",
+      "hulusi": "Kim de bir zerre ağırlığınca bir şerr yaparsa, onu görür.",
+      "bayrakli": "Kim de zerre ağırlığınca kötü amel yapmışsa onu görür.",
+      "elmali_sade": "her kim de zerre kadar bir kötülük işlerse onu görecektir.",
+      "cantay": "kim de zerre ağırlığınca şer yapıyor (idiy) se onu (n cezasını) görecek.",
+      "piris": "Kim de zerre ağırlığınca kötülük yapmışsa onu görür.",
+      "yildirim": "Zerre ağırlığınca şer yapan da onu bulur.",
+      "safa": "Ve kim, en küçük ağırlığı olan bir kötülük yapmışsa, onu görecektir.",
+      "yuksel": "Ve kim bir atom ağırlığı kötülükte bulunursa onu görür.",
+      "aktas": "Ve kim zerre ağırlığınca kötülük yapmışsa onu görür.",
+      "okuyan": "Kim de zerre kadar kötülük yaparsa onu görür.[1]"
     }
   ]
 }

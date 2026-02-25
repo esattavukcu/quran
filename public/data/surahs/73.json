@@ -24,7 +24,17 @@
       "bulac": "Ey örtüsüne bürünen,",
       "esed": "Ey örtülere bürünen (insan)!",
       "suleymaniye": "Ey (verdiğimiz) görevi üstlenen kişi[1]!",
-      "ates": "Ey örtüsüne bürünen,"
+      "ates": "Ey örtüsüne bürünen,",
+      "hulusi": "Ey Müzemmil (örtünen)!",
+      "bayrakli": "Ey vahye bürünen!",
+      "elmali_sade": "Ey o örtünen,",
+      "cantay": "Ey (esvabına) bürünen (Habibim),",
+      "piris": "Ey örtüsüne bürünen!",
+      "yildirim": "Ey örtüsüne bürünen Resulüm!",
+      "safa": "Ey Örtünerek Gizlenen!",
+      "yuksel": "Ey bürünen, ",
+      "aktas": "Ey örtüsüne bürünen![1]",
+      "okuyan": "Ey (peygamberlik görevine) bürünen!"
     },
     {
       "number": 5477,
@@ -40,7 +50,17 @@
       "bulac": "Az bir kısmı hariç olmak üzere, geceleyin kalk:",
       "esed": "Gece biraz ilerleyince (namaz için) kalk;",
       "suleymaniye": "Az bir kısmı hariç geceleyin ayakta ol!",
-      "ates": "Geceleyin kalk (namaz kıl); yalnız gecenin birazında (uyu)."
+      "ates": "Geceleyin kalk (namaz kıl); yalnız gecenin birazında (uyu).",
+      "hulusi": "Azı hariç geceleyin kalk;",
+      "bayrakli": "- Birazı hariç, geceleyin kalk! Tam gece yarısı, biraz erken, biraz geç kalk ve Kur'an'ı ağır ağır oku! Sana sorumluluğu ağır bir söz vahyedeceğiz. Çünkü gecenin değerlendirilmesi daha oturaklıdır ve söz daha etkilidir. Gündüzleri senin için uzun bir meşguliyet olacaktır. Rabbinin adını an, bütün benliğinle kendini O'na ver!",
+      "elmali_sade": "gece kalk, pek azı hariç,",
+      "cantay": "gece (nin) birazından gayrı (saatlerinde) kalk,",
+      "piris": "Gece kalk, ancak birazı dışında.",
+      "yildirim": "Geceleyin kalk da, az bir kısmı hariç geceyi ibadetle geçir.",
+      "safa": "Geceleyin kalk; çok azı dışında.",
+      "yuksel": "Bazı geceler hariç,  geceleyin kalk.",
+      "aktas": "Gecenin birazında kalk!",
+      "okuyan": "Birazı (bazı saatleri) hariç, gece[1] kalk!"
     },
     {
       "number": 5478,
@@ -56,7 +76,17 @@
       "bulac": "(Gecenin) Yarısı kadar. Ya da ondan biraz eksilt.",
       "esed": "gece yarısı -biraz önce",
       "suleymaniye": "Gece yarısında kalk (ve ayakta ol) ya da (ayakta olacağın süreyi) biraz eksilt[1].",
-      "ates": "Gecenin yarısında (kalk) yahut bundan biraz eksilt."
+      "ates": "Gecenin yarısında (kalk) yahut bundan biraz eksilt.",
+      "hulusi": "Yarısı kadar yahut azıyla,",
+      "bayrakli": "- Birazı hariç, geceleyin kalk! Tam gece yarısı, biraz erken, biraz geç kalk ve Kur'an'ı ağır ağır oku! Sana sorumluluğu ağır bir söz vahyedeceğiz. Çünkü gecenin değerlendirilmesi daha oturaklıdır ve söz daha etkilidir. Gündüzleri senin için uzun bir meşguliyet olacaktır. Rabbinin adını an, bütün benliğinle kendini O'na ver!",
+      "elmali_sade": "yarısı, yahut ondan biraz eksilt (yarısından az kalk)",
+      "cantay": "(Gecenin) yarısı mıkdarınca. Yahud ondan \"birazını eksilt.",
+      "piris": "Gece yarısında veya biraz önce",
+      "yildirim": "(3-4) Duruma göre gecenin yarısında veya bundan biraz daha azında veya fazlasında ibadet etmen de yeterlidir. Kur'an'ı tertil ile, düşünerek oku.",
+      "safa": "Yarısında veya biraz önce.",
+      "yuksel": "Yarısında veya yarısından biraz önce.",
+      "aktas": "Gecenin yarısında veya ondan biraz önce.",
+      "okuyan": "(Gecenin) yarısında, ondan biraz eksilt(erek daha erken kalk)."
     },
     {
       "number": 5479,
@@ -72,7 +102,17 @@
       "bulac": "Veya üzerine ilave et. Ve Kur'an'ı belli bir düzen içinde (tertil üzere) oku.",
       "esed": "ya da sonra- (kalk) ve ağır ağır, duyarak Kur'an oku.",
       "suleymaniye": "Yahut biraz daha (süre) ekle[1] ve Kur'an'ı tertil üzere oku /ayet kümelerinin[2] bağlantılarını bulup onları doğru bir şekilde sıralayarak oku[3]!",
-      "ates": "Veya bunu artır ve ağır ağır Kur'an oku."
+      "ates": "Veya bunu artır ve ağır ağır Kur'an oku.",
+      "hulusi": "Yahut onu arttır ve Kuran'ı üstünde tefekkür ederek oku!",
+      "bayrakli": "- Birazı hariç, geceleyin kalk! Tam gece yarısı, biraz erken, biraz geç kalk ve Kur'an'ı ağır ağır oku! Sana sorumluluğu ağır bir söz vahyedeceğiz. Çünkü gecenin değerlendirilmesi daha oturaklıdır ve söz daha etkilidir. Gündüzleri senin için uzun bir meşguliyet olacaktır. Rabbinin adını an, bütün benliğinle kendini O'na ver!",
+      "elmali_sade": "veya artır (buna ilave et, yarısından ziyade kıl) ve Kur'an'ı ağır ağır, güzel güzel oku!",
+      "cantay": "Yahud (o yarının) üzerine (ilave edib) artır. Kur'anı da açık açık, tane tane oku.",
+      "piris": "Ya da biraz sonra... Ve ağır ağır Kur'an oku!",
+      "yildirim": "(3-4) Duruma göre gecenin yarısında veya bundan biraz daha azında veya fazlasında ibadet etmen de yeterlidir. Kur'an'ı tertil ile, düşünerek oku.",
+      "safa": "Veya sonra. Ve Kur'an'ı, güzel bir biçimde oku!",
+      "yuksel": "Yahut yarısından biraz sonra... Kuran'ı da özenle düşüne düşüne oku.",
+      "aktas": "Veya gecenin yarısından[1] biraz sonra. Ve daveti düzgün bir şekilde[2] duyur.[3]",
+      "okuyan": "Ona ilave ederek (gece yarısından sonra kalk) ve Kur'an'ı ağır ağır oku![1]"
     },
     {
       "number": 5480,
@@ -88,7 +128,17 @@
       "bulac": "Gerçek şu ki, biz senin üzerine 'oldukça ağır' bir söz (vahy) bırakacağız.",
       "esed": "Biz sana (sorumluluğu) ağır bir mesaj tevdi edeceğiz;",
       "suleymaniye": "Çünkü biz sana (sorumluluğu) ağır sözler ulaştıracağız[1].",
-      "ates": "Doğrusu biz, senin üzerine ağır bir söz bırakacağız."
+      "ates": "Doğrusu biz, senin üzerine ağır bir söz bırakacağız.",
+      "hulusi": "Muhakkak ki biz sana ağır bir söz ilka edeceğiz (şuurunda yaşatacağız)!",
+      "bayrakli": "- Birazı hariç, geceleyin kalk! Tam gece yarısı, biraz erken, biraz geç kalk ve Kur'an'ı ağır ağır oku! Sana sorumluluğu ağır bir söz vahyedeceğiz. Çünkü gecenin değerlendirilmesi daha oturaklıdır ve söz daha etkilidir. Gündüzleri senin için uzun bir meşguliyet olacaktır. Rabbinin adını an, bütün benliğinle kendini O'na ver!",
+      "elmali_sade": "Çünkü Biz sana ağır bir söz vahyedeceğiz;",
+      "cantay": "Hakıykat biz sana ağır bir söz vahyediyoruz.",
+      "piris": "Çünkü biz sana ağır bir söz vahyedeceğiz.",
+      "yildirim": "Biz sana pek ağır bir söz vahyedeceğiz.",
+      "safa": "Kuşkusuz, sana, ağır bir söz bırakacağız.",
+      "yuksel": "Biz sana ağır bir söz bırakacağız.",
+      "aktas": "Biz, sana ağır bir söz bırakacağız.[1]",
+      "okuyan": "Şüphesiz ki biz sana (sorumluluğu) ağır bir söz bırakacağız ( vahyedeceğiz)."
     },
     {
       "number": 5481,
@@ -104,7 +154,17 @@
       "bulac": "Doğrusu gece neşesi (gece ibadeti, insanın iç dünyasında uyandırdığı) etki bakımından daha kuvvetli, okumak bakımından daha sağlamdır.",
       "esed": "(ve) gerçek şu ki, gece vakti zihin daha zinde ve güçlü olur ve okuma daha da berraklaşır,",
       "suleymaniye": "Gece oluşan ortam[1] belletme açısından daha etkili (o ortamda yapılan) konuşmalar da daha kalıcıdır[2].",
-      "ates": "Gerçekten gece kalk(ıp ibadet et)mek daha oturaklı ve (geceleyin) söz (du'a) daha etkilidir."
+      "ates": "Gerçekten gece kalk(ıp ibadet et)mek daha oturaklı ve (geceleyin) söz (du'a) daha etkilidir.",
+      "hulusi": "Muhakkak ki gece kalkışı, algılamada kapsam ve hitabı değerlendirmede daha berraklık getirir!",
+      "bayrakli": "- Birazı hariç, geceleyin kalk! Tam gece yarısı, biraz erken, biraz geç kalk ve Kur'an'ı ağır ağır oku! Sana sorumluluğu ağır bir söz vahyedeceğiz. Çünkü gecenin değerlendirilmesi daha oturaklıdır ve söz daha etkilidir. Gündüzleri senin için uzun bir meşguliyet olacaktır. Rabbinin adını an, bütün benliğinle kendini O'na ver!",
+      "elmali_sade": "Çünkü gece neşesi, hem daha dokunaklı hem de deyişçe daha sağlamdır.",
+      "cantay": "Gerçek, gece (yatağından ibadete) kalkan nefs (yok mu?) o, hem uygunluk i'tibariyle daha kuvvetlidir, hem kıraatçe daha sağlamdır.",
+      "piris": "Gece uyanıklığı daha etkili ve okuyuş için daha elverişlidir.",
+      "yildirim": "Muhakkak ki geceleyin kalkıp ibadet etmek daha tesirlidir ve Kur'an okuyuşu bakımından daha düzgün, daha sağlam bir tilavet sağlar.",
+      "safa": "Aslında, geceleyin kalkmak daha güçlü bir anlayış ve daha etkili bir söyleyiştir.",
+      "yuksel": "Kuşkusuz gece fikir inşası çok daha etkili ve ifade açısından daha uygundur.",
+      "aktas": "Kuşkusuz gece, bir oluşu gerçekleştirmek için söz[1] bakımından daha etkilidir.",
+      "okuyan": "Şüphesiz ki gecenin inşası daha kalıcıdır; sözü de daha etkilidir."
     },
     {
       "number": 5482,
@@ -120,7 +180,17 @@
       "bulac": "Çünkü gündüz, senin için uzun uğraşılar vardır.",
       "esed": "halbuki gündüzleri seni meşgul edecek yığınla iş var,",
       "suleymaniye": "Gündüzün, uzayıp giden meşguliyetlerin olur[1].",
-      "ates": "Çünkü gündüz, senin uzun süre uğraşacağın şeyler vardır."
+      "ates": "Çünkü gündüz, senin uzun süre uğraşacağın şeyler vardır.",
+      "hulusi": "Muhakkak ki gündüz senin yoğun işlevin vardır.",
+      "bayrakli": "- Birazı hariç, geceleyin kalk! Tam gece yarısı, biraz erken, biraz geç kalk ve Kur'an'ı ağır ağır oku! Sana sorumluluğu ağır bir söz vahyedeceğiz. Çünkü gecenin değerlendirilmesi daha oturaklıdır ve söz daha etkilidir. Gündüzleri senin için uzun bir meşguliyet olacaktır. Rabbinin adını an, bütün benliğinle kendini O'na ver!",
+      "elmali_sade": "Çünkü sana gündüzün uzun bir yüzüş vardır (birçok meşguliyetin vardır).",
+      "cantay": "Çünkü gündüz senin için uzun bir meşguuliyyet var.",
+      "piris": "Gündüz ise, senin için uzun bir meşguliyet vardır.",
+      "yildirim": "Halbuki gündüz seni meşgul edecek yığınla iş vardır.",
+      "safa": "Aslında, gündüzleri senin için uzun uğraşılar vardır.",
+      "yuksel": "Seni gündüzün epeyce uğraştıracak işlerin vardır.",
+      "aktas": "Gündüz, uzun süre uğraşacağın işler var.",
+      "okuyan": "Şüphesiz ki gündüz senin için uzun (süreli) meşguliyet(ler) vardır.[1]"
     },
     {
       "number": 5483,
@@ -136,7 +206,17 @@
       "bulac": "Rabbinin ismini zikret ve her şeyden kendini çekerek yalnızca O'na yönel.",
       "esed": "ama (hem gece hem gündüz) Rabbinin adını an ve bütün varlığınla kendini O'na ada.",
       "suleymaniye": "Rabbinin ismini /özelliğini[1] aklında tut[2] ve tamamen O'nun yoluna baş koy[3]!",
-      "ates": "Rabbinin adını an ve bütün gönlünle O'na yönel."
+      "ates": "Rabbinin adını an ve bütün gönlünle O'na yönel.",
+      "hulusi": "Rabbinin ismini zikret (hatırla) ve her şeyden kesilip sırf O'na yönel!",
+      "bayrakli": "- Birazı hariç, geceleyin kalk! Tam gece yarısı, biraz erken, biraz geç kalk ve Kur'an'ı ağır ağır oku! Sana sorumluluğu ağır bir söz vahyedeceğiz. Çünkü gecenin değerlendirilmesi daha oturaklıdır ve söz daha etkilidir. Gündüzleri senin için uzun bir meşguliyet olacaktır. Rabbinin adını an, bütün benliğinle kendini O'na ver!",
+      "elmali_sade": "Rabbinin ismini an ve herşeyden kesilerek O'na çekil (O'na bütün varlığınla yönel)!",
+      "cantay": "Rabbinin adını an. (İbadetinde Ondan başka herşeyden kesilerek) yalnız Ona yönel.",
+      "piris": "Rabbinin ismini zikret ve her şeyi bırakıp yalnız ona yönel.",
+      "yildirim": "Rabbinin yüce adını zikret, fanilere bel bağlamaktan kurtul ve bütün gönlünle yalnız O'na yönel.",
+      "safa": "Efendinin İsmini an ve tüm benliğinle O'na yönel!",
+      "yuksel": "Efendinin ismini an ve tüm gönlünle O'na yönel.",
+      "aktas": "Rabb'inin adını an ve bütün benliğinle yalnızca O'na yönel.",
+      "okuyan": "Rabbinin adını an! Bütün varlığınla O'na yönel!"
     },
     {
       "number": 5484,
@@ -152,7 +232,17 @@
       "bulac": "(Allah,) Doğunun ve batının Rabbidir. O'ndan başka ilah yoktur. Şu halde (yalnızca) O'nu vekil tut.",
       "esed": "(O'dur) doğunun ve batının Rabbi; O'ndan başka tanrı yoktur. Öyleyse, kaderini belirleme gücünü yalnız O'na izafe et,",
       "suleymaniye": "O, doğunun da batının da Rabbi /Sahibidir[1]. Ondan başka ilah yoktur. Öyleyse O'nu kendine vekil /dayanak edin[2]!",
-      "ates": "(O) Doğunun ve batının Rabbidir. O'ndan başka tanrı yoktur. Yalnız O'nu vekil tut."
+      "ates": "(O) Doğunun ve batının Rabbidir. O'ndan başka tanrı yoktur. Yalnız O'nu vekil tut.",
+      "hulusi": "Rabbidir doğunun (parlayıp açığa çıkanın) ve batının (sönüp yok olanın)! Tanrı yoktur; sadece HU\"! O halde O'nu vekil edin!",
+      "bayrakli": "O, doğunun da batının da Rabbi'dir. O'ndan başka ilah yoktur. Öyle ise yalnız O'nun himayesine sığınınız.",
+      "elmali_sade": "O doğunun ve batının Rabbi'dir. O'ndan başka tanrı yoktur. O halde yalnız O'nu vekil tut!",
+      "cantay": "(O), doğunun da, batının da Rabbidir. Ondan başka hiçbir Tanrı yok. O halde (umuurunda) güvenek ve dayanak olarak onu tut.",
+      "piris": "O, doğunun da batının da Rabbidir. O'ndan başka ilah yoktur. Öyleyse O'na teslim ol!",
+      "yildirim": "O doğunun da batının da Rabbidir. O'ndan başka İlah yoktur. O halde sen de yalnız O'nun himayesine sığın, yalnız O'na güven.",
+      "safa": "Doğunun ve Batının Efendisidir. O'ndan başka Tanrı yoktur. Artık, O'nu, Koruyucu edin.",
+      "yuksel": "Doğunun ve batının Efendisi; O'ndan başka tanrı yoktur. Kendine avukat olarak O'nu seç.",
+      "aktas": "O, doğunun ve batının Rabb'idir. O'ndan başka ilah yoktur. Öyleyse yalnız O'nu vekil[1] edin.",
+      "okuyan": "(Allah) doğunun da batının da Rabbidir. Kendisinden başka ilah yoktur. (Sadece) O'nu vekil (güven kaynağı) edin! "
     },
     {
       "number": 5485,
@@ -168,7 +258,17 @@
       "bulac": "Onların demelerine karşı sen sabret ve onlardan güzel bir ayrılma tarzıyla (düşünce ve eylem bakımından köklü bir tutum) ile kopup ayrıl.",
       "esed": "halkın (senin aleyhinde) söyleyebileceği her şeye sabırla katlan ve onlardan uygun şekilde uzaklaş.",
       "suleymaniye": "Onların söylediklerine sabret /duruşunu bozma ve onlardan güzel bir şekilde ayrıl[1].",
-      "ates": "Onların dediklerine sabret ve güzelce onlardan ayrıl."
+      "ates": "Onların dediklerine sabret ve güzelce onlardan ayrıl.",
+      "hulusi": "Onların dediklerine sabret ve onlardan güzel bir ayrılış ile ayrıl!",
+      "bayrakli": "Onların dediklerine/diyeceklerine sabret ve onlardan güzelce ayrıl!",
+      "elmali_sade": "Başkalarının sözlerine sabret ve onları güzel bir terkedişle terket",
+      "cantay": "Onlar ne derlerse katlan. Onlardan sızıltısızca ayrıl.",
+      "piris": "Onların söylediklerine sabret ve yanlarından güzellikle ayrıl.",
+      "yildirim": "Onların söylediklerine karşı sabret, onlardan güzel bir tavırla uzak dur!",
+      "safa": "Onların söylediklerine karşı dirençli ol ve onlardan güzellikle ayrıl.",
+      "yuksel": "Onların sözlerine karşı sabırlı ol ve onlardan güzellikle ayrıl.",
+      "aktas": "Onların söylediklerine sabret. Ve onlardan güzellikle uzak dur.",
+      "okuyan": "O (müşriklerin) söylediklerine karşı sabırlı ol ve onlardan güzellikle uzaklaş!"
     },
     {
       "number": 5486,
@@ -184,7 +284,17 @@
       "bulac": "Yalanlamakta olan nimet (refah ve servet) sahiplerini sen bana bırak ve onlara az bir süre tanı.",
       "esed": "Ve nimet içinde oldukları halde (Allah'tan geldiğini umursamadan) hakikati yalanlayanları Bana bırak; onlara bir süre daha dayan:",
       "suleymaniye": "Nimetler içindeki yalancıları da bana bırak[1] ve onlara biraz süre tanı[2]!",
-      "ates": "Beni ve o ni'met sahibi yalanlayıcıları yalnız bırak ve onlara biraz mühlet ver."
+      "ates": "Beni ve o ni'met sahibi yalanlayıcıları yalnız bırak ve onlara biraz mühlet ver.",
+      "hulusi": "Beni, o nimet içindeki yalanlayıcılarla (başbaşa) bırak! Onlara mühlet ver.",
+      "bayrakli": "Nimet içinde yüzen o yalancıları/kafirleri bana bırak ve onlara biraz mühlet ver!",
+      "elmali_sade": "Refah ve zevk sahibi o inkarcıları Bana bırak ve onlara biraz mühlet ver!",
+      "cantay": "Yalan sayacak olan o varlık saahiblerini bana bırak ve onlara biraz mühlet ver.",
+      "piris": "Varlıklı olup da yalanlayanı bana bırak. Onlara biraz süre tanı.",
+      "yildirim": "Nimet ve devlet içinde yüzen, hak dini yalan sayanları, sen Bana bırak ve onlara biraz mühlet ver.",
+      "safa": "Varlık edinmiş olan yalanlayıcıları Bana bırak ve onlara biraz süre ver.",
+      "yuksel": "Varlık sahibi olup da seni yalanlayanları bana bırak; onlara biraz süre tanı.",
+      "aktas": "Varlık sahibi, yalanlayıcıları Bana bırak. Onlara biraz süre tanı.",
+      "okuyan": "Nimet sahibi (olan) o yalanlayıcıları bana bırak;[1] onlara biraz zaman tanı![2]"
     },
     {
       "number": 5487,
@@ -200,7 +310,17 @@
       "bulac": "Çünkü Bizim yanımızda bukağılar ve cayır cayır yanan bir ateş vardır:",
       "esed": "çünkü, Katımızda ağır prangalar ve yakıcı bir alev (onları beklemektedir),",
       "suleymaniye": "Çünkü (onlar için) yanımızda bukağılar, yakıcı ateş /cehennem,[1]",
-      "ates": "Doğrusu, bizim yanımızda bukağılar ve cehennem var."
+      "ates": "Doğrusu, bizim yanımızda bukağılar ve cehennem var.",
+      "hulusi": "Muhakkak ki bizim yanımızda enkal (güçlü bağlar, zincirler) ve cahim (cehennem, yakıcı ateş) vardır. Not: Ünlü Kur'an yorumcusu İmam Razi, gelecek yaşamdaki azabın bu sembolizmini izah ederken şunları söyler: \"Bu dört durum, kişinin hayattayken yaptıklarının ruhi sonuçları olarak görülebilir. \"Ağır prangalar\", ruhun önceki maddi ilgilerine ve bedeni zevklerine mahkumiyetinin devam etmesinin bir sembolüdür. Bunların gerçekleşmesinin imkansız hale geldiği o gün, bu prangalar ve zincirler, yeniden dirilen insan kişiliğini (nefs) yücelik ve safiyet katına çıkmaktan alıkoyar. Ardından, bu ruhi prangalar \"ruhi ateşlere\" sebebiyet verir; çünkü kişinin beden zevklerine güçlü bir eğilim duyması, onlara erişmenin imkansızlığı ile birleştiğinde, ruhi olarak şiddetli bir \"yanıp tutuşma\" duygusu oluşturur, \"yakıcı alev\" in (cahim) anlamı budur. Günahkar, bu durumda, arzuladığı şeylerden kopmanın acısını ve yoksunluğun boğucu baskısını boğazında hisseder; bu da \"boğaza takılan yiyecek\" ifadesinin karşılığıdır. Ve sonunda, bu şartlardan dolayı, Allah'ın nuruyla aydınlanmaktan ve kutsanmış kişilerle bir arada olmaktan yoksun kalır; \"şiddetli azap\" ifadesinin anlamı budur. Ama yine de bilin ki, Kuran'ın bu ayetlerinin anlamının bu söylediklerimden ibaret olduğunu iddia ediyor değilim. . . \"",
+      "bayrakli": "- Şüphesiz, yerin ve dağların şiddetle sarsılacağı, dağların saçılmış kum yığını haline geleceği gün, katımızda prangalar ve cehennem vardır. Boğazı tıkayan yiyecek ve acıklı azap vardır.",
+      "elmali_sade": "Çünkü Bizim yanımızda bukağılar ve ateş var,",
+      "cantay": "Çünkü bizim yanımızda (ağır) bukağılar var, yakıcı bir ateş var,",
+      "piris": "Bizim yanımızda ağır boyunduruklar ve cehennem var.",
+      "yildirim": "(12-13) Muhakkak ki Bizim nezdimizde bukağılar, alevli ateşler, dikenli, boğazı tırmalayan yiyecekler ve gayet acı azap var.",
+      "safa": "Kuşkusuz, yanımızda zincirler ve cehennem var.",
+      "yuksel": "Yanımızda zincirler ve cehennem vardır.",
+      "aktas": "Bizim yanımızda prangalar ve Cehennem var.",
+      "okuyan": "(12, 13) Şüphesiz ki bizim katımızda, (onlar için hazırlanmış) prangalar,[1] yakıcı ateş, boğazdan geçmeyen yiyecek[2] ve elem verici azap vardır."
     },
     {
       "number": 5488,
@@ -216,7 +336,17 @@
       "bulac": "Boğazı tıkayıp kalan bir yemek ve acı bir azab vardır.",
       "esed": "boğaza takılan yiyecek ve şiddetli bir azap,",
       "suleymaniye": "boğazı tıkayan bir yiyecek ve acıklı bir azap var[1].",
-      "ates": "(Dikenli) Boğazı tırmalayan bir yiyecek ve acı veren bir azab var."
+      "ates": "(Dikenli) Boğazı tırmalayan bir yiyecek ve acı veren bir azab var.",
+      "hulusi": "Boğazda tıkanan gıda ve feci bir azap!",
+      "bayrakli": "- Şüphesiz, yerin ve dağların şiddetle sarsılacağı, dağların saçılmış kum yığını haline geleceği gün, katımızda prangalar ve cehennem vardır. Boğazı tıkayan yiyecek ve acıklı azap vardır.",
+      "elmali_sade": "boğazda kalan bir yiyecek ve acı bir azap vardır.",
+      "cantay": "boğazda tıkanıb kalan bir yiyecek var. (Bunlardan başka da) elem verici bir azab var,",
+      "piris": "Boğazı tıkayan bir yiyecek ve acı veren bir azap!.",
+      "yildirim": "(12-13) Muhakkak ki Bizim nezdimizde bukağılar, alevli ateşler, dikenli, boğazı tırmalayan yiyecekler ve gayet acı azap var.",
+      "safa": "Boğaza takılan bir yiyecek ve acı bir ceza.",
+      "yuksel": "Yutulması güç bir yiyecek ve acı bir azap...",
+      "aktas": "Ve boğazı tıkayan yiyecek ve acı bir azap vardır.",
+      "okuyan": "(12, 13) Şüphesiz ki bizim katımızda, (onlar için hazırlanmış) prangalar,[1] yakıcı ateş, boğazdan geçmeyen yiyecek[2] ve elem verici azap vardır."
     },
     {
       "number": 5489,
@@ -232,7 +362,17 @@
       "bulac": "(Öyle) Bir gün ki, yeryüzü ve dağlar titremeye tutulur ve dağlar göçüveren bir kum yığını olur.",
       "esed": "yeryüzünün ve dağların sarsılacağı ve (parçalanarak) savrulan bir kum yığını haline geleceği o Gün!",
       "suleymaniye": "O gün, yeryüzü ve dağlar şiddetle sarsılacak, dağlar saçılıp dağılmış kum tepelerine dönüşecek[1].",
-      "ates": "O gün yer ve dağlar sarsılır ve dağlar, dağılan kum yığınları olur."
+      "ates": "O gün yer ve dağlar sarsılır ve dağlar, dağılan kum yığınları olur.",
+      "hulusi": "O süreçte arz (beden) ve dağlar (bilinçler - benlikler) sarsılır. . . Dağlar heyelana uğramış bir kum yığını olur!",
+      "bayrakli": "- Şüphesiz, yerin ve dağların şiddetle sarsılacağı, dağların saçılmış kum yığını haline geleceği gün, katımızda prangalar ve cehennem vardır. Boğazı tıkayan yiyecek ve acıklı azap vardır.",
+      "elmali_sade": "O gün yer ve dağlar sarsılacak, dağlar erimiş bir kum yığınına dönecektir!",
+      "cantay": "o günde ki yer (ler), dağlar (zelzeleyle) sarsılır. Dağlar akıb dağılan bir kum yığınına döner.",
+      "piris": "O gün, yeryüzü ve dağlar yerinden oynar ve dağlar uçurulan kum yığınları haline döner.",
+      "yildirim": "Gün gelir; yer, dağlar şiddetle sarsılır ve dağlar dağılan kum yığınları haline gelir.",
+      "safa": "O gün, yeryüzü ve dağlar sarsılır. Dağlar, dağılmış kum yığınları olur.",
+      "yuksel": "Gün gelir,  yer ve dağlar titrer ve dağlar dağılan kum yığınına dönüşür.",
+      "aktas": "O Gün yeryüzü ve dağlar şiddetle sarsılır ve dağlar dağılmış kum yığınları gibi olur.",
+      "okuyan": "O gün (Son Saat'te) yer ve dağlar sars(ıl)acak; dağlar erimiş kum yığınına dönecektir."
     },
     {
       "number": 5490,
@@ -248,7 +388,17 @@
       "bulac": "Şüphesiz size, üzerinize şahid olacak bir elçi gönderdik; Firavun'a bir elçi gönderdiğimiz gibi.",
       "esed": "Bakın (ey insanlar!) Firavun'a bir elçi gönderdiğimiz gibi size de karşınızda hakikate tanıklık yapacak bir elçi gönderdik.",
       "suleymaniye": "Firavun'a resul /elçi gönderdiğimiz gibi[1] size de hakkınızda şahitlik edecek bir resul /elçi gönderdik[2].",
-      "ates": "(Ey insanlar,) Doğrusu biz size, aleyhinize tanıklık edecek bir elçi gönderdik; nasıl ki Fir'avn'a da bir elçi göndermiştik."
+      "ates": "(Ey insanlar,) Doğrusu biz size, aleyhinize tanıklık edecek bir elçi gönderdik; nasıl ki Fir'avn'a da bir elçi göndermiştik.",
+      "hulusi": "Muhakkak ki biz, Firavun'a bir Rasul (hakikatine yönlendirici, arındırıcı) irsal ettiğimiz gibi size de şahit olarak bir Rasul irsal ettik.",
+      "bayrakli": "Firavun'a bir peygamber gönderdiğimiz gibi size de, size şahitlik edecek bir peygamber gönderdik.",
+      "elmali_sade": "Haberiniz olsun Biz size üzerinize şahit olacak bir peygamber gönderdik, tıpkı Firavun'a peygamber gönderdiğimiz gibi;",
+      "cantay": "Hakıykat, bir Fir'avne bir' peygamber yolladığımız gibi size de (kıyamet günü) üzerinize şahid olarak bir peygamber gönderdik.",
+      "piris": "Biz, Firavun'a bir elçi gönderdiğimiz gibi size de şahitlik edecek bir elçi gönderdik.",
+      "yildirim": "Bakın (ey Mekkeliler, ey bütün insanlar) Biz vaktiyle Firavun'a bir elçi gönderdiğimiz gibi size de hakkınızda şahitlik edecek bir elçi gönderdik.",
+      "safa": "Aslında, Firavun'a bir elçi gönderdiğimiz gibi, size de hakkınızda tanıklık edecek bir elçi gönderdik.",
+      "yuksel": "Biz,  size hakkınızda tanıklık edecek bir elçi gönderdik; nasıl ki Firavuna da bir elçi göndermiştik.",
+      "aktas": "Size tanıklık edecek bir Resul gönderdik. Tıpkı Firavun'a da bir Resul gönderdiğimiz gibi.",
+      "okuyan": "Şüphesiz ki Firavun'a elçi gönderdiğimiz gibi size de hakkınızda şahitlik edecek bir elçi gönderdik."
     },
     {
       "number": 5491,
@@ -264,7 +414,17 @@
       "bulac": "Fakat Firavun elçiye isyan etti, Biz de onu pek vahim bir tarzda (azabla) yakalayıverdik.",
       "esed": "Ve Firavun elçiye isyan etti, bunun üzerine Biz de onu kahredici bir tutuşla kıskıvrak yakaladık.",
       "suleymaniye": "Ama Firavun o resule karşı geldi, biz de onu kötü bir şekilde yakaladık[1].",
-      "ates": "Fir'avn, elçiye karşı geldi. Biz de onu ağır bir yakalayışla yakaladık."
+      "ates": "Fir'avn, elçiye karşı geldi. Biz de onu ağır bir yakalayışla yakaladık.",
+      "hulusi": "Firavun o Rasule asi oldu da onu kahredici tutuşla yakalayıverdik!",
+      "bayrakli": "Firavun o peygambere karşı gelmişti de, biz onu feci bir şekilde yakalamıştık.",
+      "elmali_sade": "Firavun o peygambere isyan etti de Biz onu vahim bir tutuşla tuttuk alıverdik!",
+      "cantay": "Fir'avn, o peygambere ısyanetdi de biz de onu ağır ve çetin bir tutuşla yakalayıverdik.",
+      "piris": "Firavun elçiye karşı geldi de onu çok kötü bir şekilde yakaladık.",
+      "yildirim": "Firavun o Resule isyan etti. Biz de onu şiddetle cezaya çarptırdık.",
+      "safa": "Fakat Firavun, elçiye karşı geldi. Bunun üzerine, korkunç bir yakalayışla onu yakaladık.",
+      "yuksel": "Ancak Firavun,  elçiye karşı geldi; biz de onu feci bir biçimde yakaladık.",
+      "aktas": "Firavun Resul'e isyan etti. Bunun üzerine onu çok zorlu bir tutuşla tutuverdik.",
+      "okuyan": "Firavun, o Elçi'ye isyan etmişti. Biz de onu kahredici bir şekilde kıskıvrak yakalamıştık."
     },
     {
       "number": 5492,
@@ -280,7 +440,17 @@
       "bulac": "Eğer inkar edecek olursanız, çocukların saçlarını ağartan bir günde kendinizi nasıl koruyacaksınız?",
       "esed": "Öyleyse, hakikati kabul etmeye yanaşmazsanız, çocukların saçlarını ağartan o Gün kendinizi nasıl koruyacaksınız,",
       "suleymaniye": "Peki ya siz (bu resulü) görmezden gelirseniz, çocukları bile ak saçlı ihtiyarlar haline getirecek (kadar dehşetli) bir günde kendinizi nasıl koruyacaksınız[1]!",
-      "ates": "Peki inkar ederseniz, çocukları ihtiyarlatan o günden kendinizi nasıl kurtaracaksınız?"
+      "ates": "Peki inkar ederseniz, çocukları ihtiyarlatan o günden kendinizi nasıl kurtaracaksınız?",
+      "hulusi": "Eğer (hakikatin bildirimine) nankörlük ederseniz, gençleri saçı ağarmış ihtiyar kılan o süreçte nasıl korunursunuz?",
+      "bayrakli": "Eğer inkar ederseniz, çocukları ihtiyarlatan bir günden nasıl korunursunuz?",
+      "elmali_sade": "O halde eğer inkar ederseniz, çocukları ak saçlı kocalara (ihtiyarlara) çevirecek olan o günde nasıl korunursunuz?",
+      "cantay": "Eğer siz (dünyada) küfrederseniz çocukları ak saçlı ihtiyarlara çevirecek olan bir günde kendinizi nasıl koruyabileceksiniz?",
+      "piris": "Eğer inkar ederseniz, çocukları saçları ağarmış ihtiyarlara çeviren o günden nasıl korunabilirsiniz?",
+      "yildirim": "Kafirliğinizde devam ederseniz, dehşetinden çocukları birden ak saçlı ihtiyarlara çevirecek o günden kendinizi nasıl koruyabilirsiniz?",
+      "safa": "Yine de nankörlük ederseniz, çocukların saçlarını bembeyaz yapacak olan günden, kendinizi nasıl koruyacaksınız?",
+      "yuksel": "Peki,  inkar ederseniz,  çocukların saçlarını ağartan bir günden nasıl korunursunuz?",
+      "aktas": "Eğer Kafirlerden olursanız, çocukların saçlarını ağartan o günden kendinizi nasıl koruyacaksınız?",
+      "okuyan": "Çocuğu yaşlıya çevirecek o güne karşı kâfir olursanız, (azaptan) nasıl korunabilirsiniz ki!"
     },
     {
       "number": 5493,
@@ -296,7 +466,17 @@
       "bulac": "Bu nedenle gök bile yarılıp çatlamıştır; (artık) O'nun va'di gerçekleştirilip yerine getirilmiştir.",
       "esed": "göklerin paramparça olacağı, (ve) Allah'ın (yeniden diriltme) vaadinin gerçekleşeceği (Gün)?",
       "suleymaniye": "O gün gök yarılmış[1], Allah'ın verdiği söz yerine gelmiş olur[2].",
-      "ates": "Gök (bile) onun dehşetinden yarılır. Allah'ın va'di mutlaka yapılmıştır."
+      "ates": "Gök (bile) onun dehşetinden yarılır. Allah'ın va'di mutlaka yapılmıştır.",
+      "hulusi": "Sema onunla yarılır! O'nun vaadi gerçekleşmiştir!",
+      "bayrakli": "O gün, gök parça parça olur ve O'nun vaadi gerçekleşmiş olur.",
+      "elmali_sade": "Gök onun dehşetiyle çatlamıştır ve O'nun va'di yerine getirilmiştir.",
+      "cantay": "Gök bile o sebeble (o günün şiddetinden) yarılmış, Onun va'di? fiile çıkarılmış (yerine getirilmiş olacak) dır.",
+      "piris": "O Gün gök yarılacak ve onun vaadi yerine gelmiş olacaktır.",
+      "yildirim": "O günün dehşetinden gök bile çatlar. Allah'ın vadi mutlaka gerçekleşir.",
+      "safa": "Gök, bu yüzden paramparça olur. O'nun sözünü verdiği kesinlikle gerçekleşmiştir.",
+      "yuksel": "Gök bile ondan dolayı yarılır. O'nun sözü gerçekleşir.",
+      "aktas": "Gök, o günün şiddeti ile çatlayıp parçalanacak ve O'nun uyarısı gerçekleşecektir.",
+      "okuyan": "Gök, o (gün) nedeniyle yarılacaktır. (Allah'ın) vaadi gerçekleşmiş olacaktır."
     },
     {
       "number": 5494,
@@ -312,7 +492,17 @@
       "bulac": "Şüphesiz, bu bir öğüttür. Artık dileyen Rabbine bir yol bulabilir.",
       "esed": "Bu, şüphesiz, bir öğüt ve uyarıdır. Öyleyse, dileyen Rabbine ulaştıran yola koyulsun!",
       "suleymaniye": "Bunlar, size verilen doğru bilgilerdir. Yapılması gerekeni yapan[1], Rabbinin gösterdiği bir yola girer[2].",
-      "ates": "Bu bir öğüttür. Dileyen, Rabbine varan bir yol tutar."
+      "ates": "Bu bir öğüttür. Dileyen, Rabbine varan bir yol tutar.",
+      "hulusi": "Muhakkak ki bu bir tezkiredir (hatırlatıp düşündürtme)! Dileyen Rabbine (erdiren) yol edinir!",
+      "bayrakli": "Şüphesiz bu bir öğüttür. Dileyen Rabbine giden bir yol tutar.",
+      "elmali_sade": "İşte bu, bir öğüttür; artık dileyen Rabbine (varan) bir yol tutar!",
+      "cantay": "İşte bu (korkutucu ayetler) hakıyki birer öğüddür. Artık kim dilerse Rabbine bir yol edinir.",
+      "piris": "Bu bir uyarıdır. Dileyen Rabbine doğru yol tutar.",
+      "yildirim": "Bu, bir öğüt ve uyarıdır. Artık isteyen, Rabbine varan yolu tutar.",
+      "safa": "Kuşkusuz, O, bir hatırlatmadır. Artık, isteyen, Efendisine eriştiren bir yol edinir.",
+      "yuksel": "Bu bir hatırlatmadır; dileyen,  Efendisine doğru yol tutar.",
+      "aktas": "Bu bir öğüttür. Dileyen Rabb'ine götüren bir yol edinir.",
+      "okuyan": "Şüphesiz ki bu (Kur'an), (gerçeği) hatırla(t)madır. Dileyen, Rabbine (giden) bir yol tutar. "
     },
     {
       "number": 5495,
@@ -328,7 +518,17 @@
       "bulac": "Gerçekten Rabbin, senin gecenin üçte ikisinden biraz eksiğinde, yarısında ve üçte birinde (namaz için) kalktığını bilir; seninle birlikte olanlardan bir topluluğun da (böyle yaptığını bilir). Geceyi ve gündüzü Allah takdir eder. Sizin bunu sayamıyacağınızı bildi, böylece tevbenizi (O'na dönüşünüzü) kabul etti. Şu halde Kur'an'dan kolay geleni okuyun. Allah sizden hastalar olduğunu, başkalarının Allah'ın fazlından aramak için yeryüzünde gezip dolaşacaklarını ve diğerlerinin Allah yolunda çarpışacaklarını bilmiştir. Öyleyse ondan (Kur'an'dan) kolay geleni okuyun. Namazı dosdoğru kılın, zekatı verin ve Allah'a güzel bir borç verin. Hayır olarak kendi nefisleriniz için önceden takdim ettiğiniz şeyleri daha hayırlı ve daha büyük bir ecir (karşılık) olarak Allah katında bulursunuz. Allah'tan mağfiret dileyin. Şüphesiz Allah, çok bağışlayandır, çok esirgeyendir.",
       "esed": "(Ey Peygamber!) Rabbin, senin ve beraberindekilerin gecenin üçte ikisini, yahut yarısını, yahut üçte birini (namaz için) uyanık geçirdiğini bilir. Gecenin ve gündüzün ölçüsünü koyan Allah, sizin onu küçümsemeyeceğinizi bilir ve bu sebeple O rahmetiyle size yaklaşır. O halde Kur'an'ın kolayca okuyabileceğiniz kadarını okuyun. Allah, zaman zaman içinizde hastalar, Allah'ın lütfunu aramak için yola koyulanlar ve Allah yolunda savaşa çıkanlar olacağını bilir. Öyleyse ondan (yalnızca) kolayca okuyabileceğiniz kadarını okuyun, namazınızda devamlı ve dikkatli olun ve karşılıksız harcamada bulunun ve (böylece) Allah'a güzel bir borç verin çünkü kendi adınıza güzel ne iş yaparsanız karşılığını aynen Allah katında görürsünüz; evet, daha iyi ve daha zengin bir ödül olarak. Ve (daima) Allah'ın bağışlayıcılığını arayın. Kuşkusuz Allah çok bağışlayıcıdır, rahmet kaynağıdır.",
       "suleymaniye": "Senin ve seninle beraber olanlardan bir grubun, gecenin üçte ikisine yakın bir vakitte, yarısında veya üçte birinde ayakta olduğunuzu Rabbin elbette biliyor[1]. Gece ile gündüzün ölçüsünü Allah koyar. O, bunu tam başaramayacağınızı bildi de yüzünüze baktı (ve işinizi kolaylaştırdı). Artık Kur'an'ı kolayınıza geldiği zaman[2] okuyun. O, içinizden hastaların olacağını, kimilerinin Allah'ın lütfunu aramak için yolculuğa çıkacağını, kimilerinin de Allah yolunda savaşacağını bilir. Öyleyse Kur'an'ı, kolayınıza geldiği zaman okuyun. Namazı düzgün ve sürekli kılın, zekatı verin ve Allah'a güzel bir ödünç verin[3]. Kendiniz için şimdiden ne hayır yaparsanız onun karşılığını Allah katında daha iyi ve daha büyük bir ödül olarak bulursunuz[4]. Allah'tan bağışlanma dileyin. Çünkü Allah, çok bağışlayan ve ikramı bol olandır.",
-      "ates": "Rabbin senin gecenin üçte ikisinden daha azında, yarısında ve üçte birinde kalktığını; Seninle beraber bulunanlardan bir topluluğun da böyle yaptığını biliyor. Geceyi ve gündüzü takdir eden Allah, sizin onu sayamayacağınızı (zamanı hesab edip gecenin belli sa'atlerinde kalkamayacağınızı) bildiği için sizi affetti. Artık (belli bir sa'at gözetmeden) Kur'an'dan kolayınıza geleni okuyun (ne miktar kolayınıza gelirse o kadar gece namazı kılın, kendinizi zorlamayın.) Allah, içinizden hastalar, yeryüzünde gezip Allah'ın lutfunu arayan başka kimseler ve Allah yolunda savaşan daha başka insanlar bulunacağını bilmiştir. Onun için Kur'an'dan kolayınıza geldiği kadar okuyun. Namazı kılın, zekatı verin ve Allah'a güzel bir borç verin. Kendiniz için verdiğiniz hayırları, Allah katında verdiğinizden daha hayırlı ve mükafatça daha büyük bulacaksınız. Allah'tan mağfiret dileyin. Şüphesiz Allah, çok bağışlayan, çok esirgeyendir."
+      "ates": "Rabbin senin gecenin üçte ikisinden daha azında, yarısında ve üçte birinde kalktığını; Seninle beraber bulunanlardan bir topluluğun da böyle yaptığını biliyor. Geceyi ve gündüzü takdir eden Allah, sizin onu sayamayacağınızı (zamanı hesab edip gecenin belli sa'atlerinde kalkamayacağınızı) bildiği için sizi affetti. Artık (belli bir sa'at gözetmeden) Kur'an'dan kolayınıza geleni okuyun (ne miktar kolayınıza gelirse o kadar gece namazı kılın, kendinizi zorlamayın.) Allah, içinizden hastalar, yeryüzünde gezip Allah'ın lutfunu arayan başka kimseler ve Allah yolunda savaşan daha başka insanlar bulunacağını bilmiştir. Onun için Kur'an'dan kolayınıza geldiği kadar okuyun. Namazı kılın, zekatı verin ve Allah'a güzel bir borç verin. Kendiniz için verdiğiniz hayırları, Allah katında verdiğinizden daha hayırlı ve mükafatça daha büyük bulacaksınız. Allah'tan mağfiret dileyin. Şüphesiz Allah, çok bağışlayan, çok esirgeyendir.",
+      "hulusi": "Muhakkak ki Rabbin senin gecenin üçte ikisinden daha azında, yarısında veya üçte birinde kalktığını biliyor. . . Seninle beraber olanlardan bir grubun da! Geceyi ve gündüzü Allah takdir ediyor! (Allah) onu asla değerlendiremeyeceğinizi bildi de tövbenizi kabul etti. . . Kuran'dan kolaylaşanı okuyun (idrak edin)! (Allah) bilir ki, sizden hastalar, arzda dolaşıp Allah'ın lütfundan talep eden kimseler ve Allah yolunda savaşan kimseler olacaktır. Artık Ondan kolaylaşan kadarını okuyun; salatı ikame edin (yönelişi kaim kılın müşahede ile), zekatı verin ve Allah'a güzel bir ödünç verin. . . Kendiniz için (önceden) hayırdan ne takdim ederseniz, Allah indinde onun çok daha büyük ve hayırlısını bulursunuz. Allah'tan mağfiret dileyin! Muhakkak ki Allah Ğafur'dur, Rahıym'dir.",
+      "bayrakli": "Hiç şüphen olmasın, Rabbin senin durumunu biliyor. Gecenin üçte ikisinden daha azını, yarısını, üçte birini ayakta geçiriyorsun. Seninle beraber olanlardan bir grup da öyle yapıyor. Allah, gece ve gündüz olanları ölçüp biçiyor. Sizin onu sayamayacağınızı bildiği için, sizin tövbenizi kabul etti. Artık Kur'an'dan kolayınıza geleni okuyunuz. Sizden hastalar olacağını bildi. Bir kısmınızın Allah'ın lütfundan bir şeyler aramak için gurbete çıkacağını, diğer bir kısmının da Allah yolunda savaşacaklarını bildi. O halde Kur'an'dan kolay geleni okuyunuz. Namazı kılınız. Zekatı veriniz. Güzel bir ödünçle Allah'a ödünç veriniz. Kendiniz için önden gönderdiğiniz iyiliğin, Allah katında hayrını daha çok, ödülünü daha büyük olarak bulacaksınız. Allah'tan af dileyin. Şüphesiz Allah çok affedendir; çok merhamet sahibidir.",
+      "elmali_sade": "Gerçekten Rabbin biliyor ki sen, muhakkak gecenin üçte ikisine yakınını, yarısını ve üçte birini ibadetle geçiriyorsun, beraberinde bulunan bir grup da (böyle yapıyor). Oysa geceyi, gündüzü Allah takdir eder. Sizin bundan ötesini başaramayacağınızı bildiği için size lütuf ile muamelede bulundu. Bundan böyle Kur'an'dan kolayınıza geleni okuyun; O, içinizden hastaların olacağını, diğer bir kısmının Allah'ın lütfundan bir kar aramak üzere yeryüzünde yol tepeceklerini, diğer bir kısmının da Allah yolunda çarpışacaklarını bilmektedir; O halde o (Kur'an)dan kolayınıza geleni okuyun; namazı kılın, zekatı verin ve Allah'a karz-ı hasen verin! Kendi hesabınıza hayır olarak ne (iyilik) yapıp gönderirseniz, onu Allah yanında daha hayırlı ve karşılık olarak daha büyük bulacaksınız. Allah'tan bağışlanma dileyin! Şüphesiz ki Allah, çok bağışlayan, çok merhamet edendir.",
+      "cantay": "Şübhe yok ki Rabbin, senin, gecenin üçde ikisinden biraz eksik, yarısı, üçde biri kadar ayakda durmakda olduğunu ve senin maiyyetinde bulunanlardan bir zümrenin de (böyle yapdığını) biliyor. Geceyi, gündüzü Allah saymakdadır. O, bunu sizin sayamayacağınızı bildiği için size karşı (ruhsat canibine) döndü. Artık Kur'andan kolay geleni (ne ise onu) okuyun. Allah muhakkak bilmişdir ki içinizden hasta (lanan) lar olacak, diğer bir kısmı Allahın fazlından (nasıyb) aramak üzere yer (yüzün) de yol tepecekler, başka bir takımı da Allah yolunda çarpışaçaklardır. O halde ondan (Kur'andan size) kolay geleni okuyun. Namazı dosdoğru kılın. Zekatı verin. Allaha gönül hoşluğuyle ödüne verin. Önden nefisleriniz için ne hayır gönderirseniz onu Allahın nezdinde bulursunuz, (hem) bu daha hayırlı, sevabca daha büyük olmak üzere. Allahdan mağfiret isteyin. Şübhesiz ki Allah (mü'minleri) çok yarlığayıcı, çok esirgeyicidir.",
+      "piris": "Şüphesiz Rabbin, seni ve seninle birlikte olanlardan bir topluluğun gecenin üçte ikisinde, yarısında ve üçte birinde kalktığını biliyor. Geceyi ve gündüzü Allah takdir eder. Sizin onu iyi hesaplayamayacağınızı bildiği için sizi bağışlamıştır. Öyleyse Kur'an'dan kolayınıza geleni okuyun. İçinizden hasta olacakları, bir kısmınızın yeryüzünde dolaşıp, Allah'ın rızkını arayacağını, diğerlerinin Allah yolunda savaşacağını da bilmektedir. Öyleyse ondan kolayınıza geleni okuyun, namazı kılın ve zekatı verin ve Allah'a güzel bir ödünçte bulunun. Kendiniz için hayır olarak ne hazırlarsanız, onu Allah katında daha iyi, daha büyük bir ödül olarak hazır bulursunuz. Allah'tan bağışlanma dileyin. Şüphesiz Allah, çok bağışlayıcı ve çok merhametlidir.",
+      "yildirim": "Senin Rabbin, gecenin bazen üçte ikisine yakın bir kısmını, bazen yarısını, bazen üçte birini ibadetle geçirdiğini, senin yanında yer alan müminlerden bir cemaatin da böyle yaptığını elbette biliyor. Gece ve gündüzü yaratıp sürelerini belirleyen Allah'tır. O sizin bu gece ibadetini gözetemeyeceğinizi bildiği için, lütuf ve merhametiyle size yeniden bakıp muaf tuttu. Artık Kur'an'dan kolayınıza gelen miktarı okuyun. Allah bilmektedir ki aranızda hastalananlar olacaktır. Kimileri Allah'ın lütfundan nasiplerini aramak için yol tepecek, dünyanın çeşitli yerlerinde dolaşacaklardır. Bazıları Allah yolunda muharebe için sefere çıkacaklardır. Haydi artık Kur'an'dan, kolayınıza gelen miktarı okuyun. Namazı hakkıyla ifa edin, zekatı verin ve bir de Allah'a güzel ödünç takdim edin! Unutmayın ki kendi iyiliğiniz için ahirete hazırlık olarak her ne gönderirseniz mutlaka onu Allah'ın nezdinde bulursunuz. Hem daha üstün ve daha hayırlı, mükafatı kat kat artmış olarak! Allah'tan af dileyin. Muhakkak ki Allah gafurdur, rahimdir (affı, merhamet ve ihsanı boldur).",
+      "safa": "Kuşkusuz, Efendin, senin ve seninle birlikte olan bir topluluğun, hem gecenin üçte ikisinin biraz eksiğinde hem onun yarısında hem de onun üçte birinde ayakta olduğunu bilir. Gecenin ve gündüzün ölçülerini belirleyen Allah, bunu yapamayacağınızı bildiği için sizi bağışlamıştır. Artık, Kur'an'dan, size kolay geleni okuyun. Aranızdan bir bölümünüzün sağlığının bozulacağını, bir bölümünüzün Allah'ın lütfundan aramak için yola koyulacağını, bir bölümünüzün de Allah'ın yolunda savaşacağını bilir. Artık, Ondan, size kolay geleni okuyun. Namazı dosdoğru kılın ve zekatı verin. Allah'a güzel bir borç olarak borç verin. Kendiniz için yaptığınız her iyiliği, Allah'ın katında daha iyi ve daha büyük bir ödül olarak bulursunuz. Ve Allah'tan bağışlanma dileyin. Kuşkusuz, Allah, Sınırsız Bağışlayandır; Merhametlidir.",
+      "yuksel": "Efendin,  senin ve yoldaşlarından bir grubun,  gecenin üçte ikisinden az,  yarısında ve üçte birinde kalktığını bilir. Gecenin ve gündüzün miktarını ALLAH belirler. O,  sizin bunu yapamayacağınızı bildiği için sizi affetmiştir. Öyleyse Kuran'dan kolayınıza geldiği kadar okuyun. Aranızda hastalar,  yeryüzünde ALLAH'ın lütfundan rızık arayanlar ve ALLAH yolunda savaşanlar olduğunu bilmektedir. Ondan kolayınıza geldiği kadar okuyun. Salatı gözetin,  zekatı verin ve güzel davranmak yoluyla ALLAH'a bir borç sunun. Kendiniz için yaptığınız her iyiliği,  ALLAH katında daha iyi ve daha büyük bir ödül olarak bulacaksınız. ALLAH'tan bağışlanma dileyin; ALLAH Bağışlayandır,  Rahimdir.",
+      "aktas": "Rabb'in, senin bazen gecenin üçte ikisinden daha az, bazen yarısı, bazen üçte bir kadar vakit geçirdiğini elbette biliyor. Seninle beraber bulunanlardan bir grubun da. Geceyi ve gündüzü takdir eden Allah'tır.[1] Onu asla hesaplayamayacağınızı[2] bildi de tevbenizi[3] kabul etti. O halde İlahi mesajı gücünüz yettiğince insanlara ulaştırmaya çalışın.[4] Ayrıca Allah, içinizden kimin hasta olduğunu bilmektedir. Kiminizin Allah'ın lütfundan rızkını aramak için yeryüzünde çalışmaya, kiminizin de kendisini Allah yolunda feda etmeye[5] çıktığını bilmektedir. O halde gücünüz yettiğince onu[6] nakletmeye, duyurmaya çalışın.[7] Salatı ikame edin,[8] zekatı yapın.[8] İyi bir ödünçle Allah'a ödünç verin. Kendiniz için hayır olarak ne verirseniz, ödül olarak Allah'ın katında onu daha hayırlısıyla ve daha büyüğüyle bulursunuz. Allah'tan bağışlanma dileyin. Kuşkusuz Allah, Çok Bağışlayıcı'dır, Rahmeti Kesintisiz'dir.",
+      "okuyan": "Şüphesiz ki Rabbin, senin ve beraberinde bulunan bir grubun gecenin üçte ikisinden daha az bir kısmında, yarısında ve üçte birinde kalkmakta olduğunu biliyor.[1] Allah gecenin ve gündüzün ölçüsünü belirler. O, sizin bunu (tamamen) sayamayacağınızı bilmiş ve (bunun için) tevbenizi kabul etmiştir. Kolay olan zamanda Kur'an'dan okuyun![2]İçinizde hastalar olacağını, (içinizden) bir kısmının Allah'ın lütfundan (rızık) aramak üzere yeryüzünde sefere çıkacağını, diğer bir kısmının da Allah yolunda savaşacağını (Allah) bilmektedir. Kolay olan zamanda ondan (Kur'an'dan) okuyun! Namazı kılın, zekâtı verin ve Allah'a güzel bir borç[3] verin! Kendiniz için (önceden) ne tür bir iyilik sunarsanız, Allah katında onu hem daha hayırlı hem de ödül bakımından daha büyük olarak bulacaksınız.[4] Allah'tan bağışlanma dileyin! Şüphesiz ki Allah çok bağışlayandır, çok merhametlidir. "
     }
   ]
 }

@@ -9,12 +9,22 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 const AUTHORS = [
-  { id: 14, key: 'elmali',       name: 'Elmalılı Hamdi Yazır' },
-  { id: 38, key: 'islamoglu',    name: 'Mustafa İslamoğlu' },
-  { id: 6,  key: 'bulac',        name: 'Ali Bulaç' },
-  { id: 22, key: 'esed',         name: 'Muhammed Esed' },
-  { id: 52, key: 'suleymaniye',  name: 'Süleymaniye Vakfı' },
-  { id: 27, key: 'ates',         name: 'Süleyman Ateş' },
+  { id: 14,  key: 'elmali',       name: 'Elmalılı Hamdi Yazır' },
+  { id: 38,  key: 'islamoglu',    name: 'Mustafa İslamoğlu' },
+  { id: 6,   key: 'bulac',        name: 'Ali Bulaç' },
+  { id: 22,  key: 'esed',         name: 'Muhammed Esed' },
+  { id: 52,  key: 'suleymaniye',  name: 'Süleymaniye Vakfı' },
+  { id: 27,  key: 'ates',         name: 'Süleyman Ateş' },
+  { id: 3,   key: 'hulusi',       name: 'Ahmed Hulusi' },
+  { id: 8,   key: 'bayrakli',     name: 'Bayraktar Bayraklı' },
+  { id: 15,  key: 'elmali_sade',  name: 'Elmalılı (Sadeleştirilmiş)' },
+  { id: 19,  key: 'cantay',       name: 'Hasan Basri Çantay' },
+  { id: 25,  key: 'piris',        name: 'Şaban Piriş' },
+  { id: 26,  key: 'yildirim',     name: 'Suat Yıldırım' },
+  { id: 51,  key: 'safa',         name: 'Ali Rıza Safa' },
+  { id: 104, key: 'yuksel',       name: 'Edip Yüksel' },
+  { id: 105, key: 'aktas',        name: 'Erhan Aktaş' },
+  { id: 107, key: 'okuyan',       name: 'Mehmet Okuyan' },
 ];
 
 const SURAH_DIR = path.join(process.cwd(), 'public', 'data', 'surahs');

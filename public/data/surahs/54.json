@@ -24,7 +24,17 @@
       "bulac": "Saat (kıyamet vakti) yakınlaştı ve ay yarıldı.",
       "esed": "Son saat yaklaşacak ve ay yarılacak!",
       "suleymaniye": "O saat /yeniden diriliş saati yaklaştı[1]. Her şey ayan beyan ortaya çıktı[2].",
-      "ates": "O sa'at yaklaştı, ay yarıldı."
+      "ates": "O sa'at yaklaştı, ay yarıldı.",
+      "hulusi": "Yaklaştı o saat ve Kamer (Ay) yarıldı!",
+      "bayrakli": "- Kıyamet yaklaşıp ay yarılsa, onlar da bu oluşumu gözleriyle görseler, \"Bu devamlı yapılan bir büyüdür\" diyerek yüz çevirirler.",
+      "elmali_sade": "Yaklaştı kıyamet, ay yarıldı!",
+      "cantay": "Saat yaklaşdı. Ay (ikiye) ayrıldı.",
+      "piris": "Kıyamet yaklaştı. Ay yarıldı/gerçek ortaya çıktı.",
+      "yildirim": "Kıyamet saati yaklaştı, Ay bölündü.",
+      "safa": "Evrenlerin sonu yaklaştı ve Ay yarıldı![469]",
+      "yuksel": "O an yaklaştı ve ay yarıldı.[1]",
+      "aktas": "Sa'at[1] yaklaştı ve Ay yarıldı.[2]",
+      "okuyan": "O (Son) Saat yaklaşmıştır ve (o zaman geldiğinde) ay yarılmış (olacak)tır.[1]"
     },
     {
       "number": 4848,
@@ -40,7 +50,17 @@
       "bulac": "Onlar bir ayet (mucize) görseler, sırt çevirirler ve: \"(Bu,) Süregelen bir büyüdür\" derler.",
       "esed": "Ama eğer onlar, (Son Saat düşüncesini tamamen reddedenler, onun yaklaştığının) işaretini görselerdi, sırtlarını dönerler ve \"(Bu,) hep olagelen bir göz yanılmasıdır!\" derlerdi,",
       "suleymaniye": "(Kafirlik edenler) Ne zaman bir ayet görseler yüz çevirir[1] ve \"Süregelen bir sihir daha!\" derler[2].",
-      "ates": "Bir mu'cize görecek olsalar yüz çevirirler ve \"Süregelen bir büyüdür\" derler."
+      "ates": "Bir mu'cize görecek olsalar yüz çevirirler ve \"Süregelen bir büyüdür\" derler.",
+      "hulusi": "Eğer bir mucize görseler yüz çevirir ve: \"Olağan bir sihirdir\" derler!",
+      "bayrakli": "- Kıyamet yaklaşıp ay yarılsa, onlar da bu oluşumu gözleriyle görseler, \"Bu devamlı yapılan bir büyüdür\" diyerek yüz çevirirler.",
+      "elmali_sade": "Hala bir mucize görseler, yüz çevirip: \"Süregelen bir sihir!\" derler.",
+      "cantay": "Onlar bir mu'cize görürlerse yüz çevirirler ve \"Müstemir bir büyüdür\" derler.",
+      "piris": "Ama onlar, bir mucize görseler yüz çevirip: -Sürüp giden bir sihir, derler.",
+      "yildirim": "Ama o müşrikler her ne zaman bir mucize görseler sırtlarını döner: \"Bu, kuvvetli ve devamlı bir büyüdür!\" derler.",
+      "safa": "Bir mucize görseler, yüz çevirirler ve şöyle derler: \"Sürüp giden bir büyü!\"",
+      "yuksel": "Bir mucize görseler yüz çevirirler ve,  \"Süregelen bir büyüdür\" derler.",
+      "aktas": "Onlar, bir ayet[1] görseler, hemen yüz çevirirler.[1] Ve \"Bu süregelen bir büyüdür.\" derler.",
+      "okuyan": "Bir ayet (mucize) görseler bile hemen yüz çevirir ve \"Bu da sıradan bir büyüdür!\" derler."
     },
     {
       "number": 4849,
@@ -56,7 +76,17 @@
       "bulac": "Yalanladılar ve kendi heva (istek ve tutku)larına uydular; oysa her iş 'sonunda kendi amacına varıp karar kılacaktır.'",
       "esed": "çünkü onlar kendi arzu ve heveslerine uyarak bunu yalanlamaya şartlanmışlardır. Ama her şeyin doğruluğu sonunda ortaya çıkacaktır.",
       "suleymaniye": "Onlar yalana sarıldı ve arzularının peşine düştüler[1]. Ama her iş bir yere kadardır[2].",
-      "ates": "Yalanladılar, nefislerinin heveslerine uydular. Halbuki her iş, yerini bulacaktır (Allah'ın kararına kimse engel olamaz)."
+      "ates": "Yalanladılar, nefislerinin heveslerine uydular. Halbuki her iş, yerini bulacaktır (Allah'ın kararına kimse engel olamaz).",
+      "hulusi": "Yalanladılar ve hevalarına (nefslerine hoş gelen şeylere, sonu boş arzularına) tabi oldular! (Oysa) her hükmün gereği açığa çıkacaktır!",
+      "bayrakli": "Onlar yalanladılar ve kendi arzularına uydular. Oysa her işin varacağı bir yeri vardır.",
+      "elmali_sade": "Yalan dediler, arzularına uydular. Halbuki, her iş (Allah takdirinde) yerini almıştır.",
+      "cantay": "(Peygamberi) tekzibetdiler. Heva (ve heves) lerine uydular. Halbuki (hayr-u şer) her iş bir gaayeye bağlıdır.",
+      "piris": "Yalanlayıp, heveslerine uydular. Oysa her iş kararlaştırılmıştır.",
+      "yildirim": "Onlar hakkı yalan saydılar, heva ve heveslerine uydular. Halbuki her iş gibi bu nübüvvetin de kararlaştırılmış bir sonu elbette vardır.",
+      "safa": "Yalanladılar; kendi isteklerine ve tutkularına kapıldılar. Oysa tüm işler için yargı verilmiştir.",
+      "yuksel": "Yalanladılar; fantezilerine ve her statükoya uydular.[1]",
+      "aktas": "Ve yalanladılar. Kendi tutkularına uydular. Oysa her şey kararlaştırılmıştır.",
+      "okuyan": "Kendi arzularına uyarak (gerçeği) yalanladılar. (Oysa) her iş amacına ulaşacaktır."
     },
     {
       "number": 4850,
@@ -72,7 +102,17 @@
       "bulac": "Andolsun, onlara (kendilerini şirkten ve bozulmalardan) caydırıp vazgeçirtecek nice haberler geldi.",
       "esed": "Ve bakın, onlara (küstahlıklarını) önleyecek birçok haber gelmiştir;",
       "suleymaniye": "Halbuki onlara, içinde (görevinden) engellenen kişinin de (Nuh'un da)[1] anlatıldığı nice haberler geldi[2],",
-      "ates": "Andolsun, onlara, (batılda kalmalarını) önleyecek (ibret verici olayları anlatan) haberler geldi."
+      "ates": "Andolsun, onlara, (batılda kalmalarını) önleyecek (ibret verici olayları anlatan) haberler geldi.",
+      "hulusi": "Andolsun ki onlara içinde vazgeçirici özellik ihtiva eden haberlerden gelmiştir.",
+      "bayrakli": "Şüphesiz onlara, geçmiş toplumların haberlerinden, kendilerini caydıracak kadar bilgi gelmiştir.",
+      "elmali_sade": "Andolsun ki, onlara kötülüklerden vazgeçirici haberleri de içeren kıssalar geldi!",
+      "cantay": "Andolsun ki onlara (kendilerini küfür ve inaddan şiddetle) vaz geçirecek nice mühim haberler gelmişdir.",
+      "piris": "Onlara boyun eğdirecek şeyin haberleri, onlara gelmiştir.",
+      "yildirim": "Oysa onlara kendilerini inkardan vazgeçirecek ibretler ihtiva eden nice olaylar bildirilmişti!",
+      "safa": "Üstelik gerçek şu ki, buna son vermelerini sağlayacak haberler onlara gelmiştir.",
+      "yuksel": "Oysa,  kötülüklerini engelleyecek uyarılar dolu haberler kendilerine gelmiş bulunuyor.",
+      "aktas": "Ant olsun ki onlara, yanılgılarını giderecek nice haberler geldi.",
+      "okuyan": "(4, 5) Yemin olsun ki onlara tastamam doğru hükümler içeren, (kendilerini) kötülükten engelleyecek haberler gelmiştir. (Yüz çevirene) uyarılar yarar sağlamaz."
     },
     {
       "number": 4851,
@@ -88,7 +128,17 @@
       "bulac": "(Ki her biri) Doruğunda, olgunlaşmış hikmettir. Fakat uyarmalar bir yarar sağlamıyor.",
       "esed": "(ve onlara aslında) kapsayıcı hikmet (verilmişti) ama bütün uyarılar boşa gitti(ğinden),",
       "suleymaniye": "son derece doğru hükümler (geldi)[1]. Ama uyarılar bir işe yaramıyor[2].",
-      "ates": "Bunlar üstün hikmettir! Ama uyarılar fayda vermiyor."
+      "ates": "Bunlar üstün hikmettir! Ama uyarılar fayda vermiyor.",
+      "hulusi": "Hikmeti baliğa (amacı tam açıklayan hikmetli anlatım) verilmiştir! Ne var ki uyarmalar (anlayışı kıtlara) fayda vermiyor!",
+      "bayrakli": "Bunlar son derece hikmetli haberlerdir, ama uyarılar işe yaramıyor.",
+      "elmali_sade": "Bir hikmet-i baliğa (hedefe ulaşmanın en yüksek derecesine ermiş bir hikmet) fakat uyarılar fayda vermiyor.",
+      "cantay": "Ki (her biri) gaayesine ermiş bir hikmet (ve ibret) dir. Fakat (onları) tehdid eden (bütün bu haadise) ler asla faide vermiyor.",
+      "piris": "Tam bir adalet ile.. Fakat uyarılar bir yarar sağlamadı.",
+      "yildirim": "Bunlar son derece üstün hikmettir. Ama ne fayda! Uyarmalar kar etmiyor.",
+      "safa": "Üstün bir bilgeliktir. Yine de uyarılar yarar sağlamıyor.",
+      "yuksel": "Bu üstün bir hikmettir; ancak uyarılar yarar sağlamıyor.",
+      "aktas": "Yüksek seviyede hikmetli haberler. Buna rağmen uyarıların bir yararı olmadı.",
+      "okuyan": "(4, 5) Yemin olsun ki onlara tastamam doğru hükümler içeren, (kendilerini) kötülükten engelleyecek haberler gelmiştir. (Yüz çevirene) uyarılar yarar sağlamaz."
     },
     {
       "number": 4852,
@@ -104,7 +154,17 @@
       "bulac": "Öyleyse sen onlardan yüz çevir. O çağırıcının 'ne tanınmış, ne görülmüş' bir şeye çağıracağı gün...",
       "esed": "sen (yine) onlardan uzak dur. Çağrı Sesinin, (insanı) aklın tasavvur edemeyeceği bir şeye çağıracağı Gün,",
       "suleymaniye": "Artık onlardan yüz çevir[1]. Çağırıcının, görülmedik bir şeye çağıracağı gün[2],",
-      "ates": "Öyleyse sen de onlardan yüz çevir; o çağırıcının görülmemiş, tanınmamış bir şeye çağıracağı gün,"
+      "ates": "Öyleyse sen de onlardan yüz çevir; o çağırıcının görülmemiş, tanınmamış bir şeye çağıracağı gün,",
+      "hulusi": "O halde onlardan yüz çevir! O çağırıcının çok dehşetli, korkunç olaya çağırdığı süreçte. . .",
+      "bayrakli": "Öyleyse onlardan yüz çevir. Çağrıcının hoşlanılmayan bir şeye çağıracağı günü bekle!",
+      "elmali_sade": "Sen de onlardan yüz çevir ki, o gün çağırıcı görülmedik korkunç bir şeye çağırır.",
+      "cantay": "O halde (habibim) onlardan yüz çevir. O da'vet edici nin (misli) görülmemiş, tanıtmamış bir şey'e da'vet edeceği gün.",
+      "piris": "Onlardan yüz çevir. O gün çağırıcı onları hoşlanmadıkları bir şeye çağırır.",
+      "yildirim": "Sen de şimdi onları kendi hallerine terk et. Gün gelir bir münadi, hiç de hoşa gitmeyen, insanın görür görmez kaçacağı bir yere çağırır.",
+      "safa": "Artık, onlardan uzaklaş. O gün, çağıran, görülmemiş bir şeye çağırır.",
+      "yuksel": "Onlara aldırma; çağırıcının,  görülmemiş ve tanınmamış bir şeye çağıracağı gün, ",
+      "aktas": "O halde onlardan yüz çevir. O Gün çağırıcı onları hiç hoşlanmayacakları şeye çağıracak.",
+      "okuyan": "Sen de onlardan yüz çevir! Bir çağrıcının hoş görülmeyecek bir şeye çağıracağı gün, "
     },
     {
       "number": 4853,
@@ -120,7 +180,17 @@
       "bulac": "Gözleri 'zillet ve dehşetten düşmüş olarak', sanki 'yayılan' çekirgeler gibi kabirlerinden çıkarlar.",
       "esed": "onlar kederli gözlerle, (rüzgarın) dağıtıp savurduğu çekirgeler gibi mezarlarından kalkacaklar,",
       "suleymaniye": "bakışları öne eğik vaziyette kabirlerinden çıkacaklar, etrafa yayılan çekirgeler gibi olacaklar[1],",
-      "ates": "Gözleri düşkün düşkün (zillet ve dehşet içinde) kabirlerden çıkarlar; tıpkı yayılan çekirgeler gibidirler."
+      "ates": "Gözleri düşkün düşkün (zillet ve dehşet içinde) kabirlerden çıkarlar; tıpkı yayılan çekirgeler gibidirler.",
+      "hulusi": "Gözleri dehşetten önlerine eğik halde, sanki yayılan çekirge sürüsü misali, cedeslerinden (kozalarından) çıkıyorlar.",
+      "bayrakli": "Gözleri korkudan perişan bir vaziyette, etrafa saçılmış çekirgeler gibi bulundukları yerden çıkarlar.",
+      "elmali_sade": "Gözleri düşkün düşkün sanki yayılan çekirgeler gibi kabirlerden çıkarlar.",
+      "cantay": "gözleri zelil ve hakıyr (dönüş) olarak, (hepsi de) çıvgın (ve yaygın) çekirgeler gibi, kabirler (in) den çıkacaklar,",
+      "piris": "(7-8) Gözleri yere yıkık çekirgeler gibi yayılmış o çağırana koşarak kabirlerinden çıkarlar. Kafirler: -Bu, zor bir gün! derler.",
+      "yildirim": "Gözleri korkudan önlerine eğildikçe eğilmiş, dehşet içinde mezarlarından çıkar, yayılmış çekirgeler gibi her tarafı dalga dalga kaplarlar.",
+      "safa": "Alçalmış bakışlarla, yayılan çekirgeler gibi mezarlarından çıkarlar.[470]",
+      "yuksel": "Gözleri zillet içinde mezarlardan çıkarlar; tıpkı saçılmış çekirgeler gibi...[1]",
+      "aktas": "Kabirlerinden baygın gözlerle çıkarlar. Etrafa dağılmış çekirgeler gibidirler.",
+      "okuyan": "Etrafa yayılmış çekirgeler gibi bakışları perişan bir hâlde mezarlardan çıkacaklar."
     },
     {
       "number": 4854,
@@ -136,7 +206,17 @@
       "bulac": "Boyunlarını çağırana doğru uzatmış olarak koşarlarken, kafirler derler ki: \"Bu, zorlu bir gün.\"",
       "esed": "Çağrı sesine doğru şaşkınlık içinde koşacaklar; (ve şimdi) hakikati inkar edenler: \"Bu ne felaket bir Gün'dür!\" diye haykıracaklar.",
       "suleymaniye": "çağırıcıya doğru hızla koşacaklardır[1]. O kafirler şöyle diyecekler: \"Bu pek zor bir gün[2]!\"",
-      "ates": "Boyunlarını, çağırana doğru uzatmış koşarlarken, kafirler: \"Bu çetin bir gündür!\" derler."
+      "ates": "Boyunlarını, çağırana doğru uzatmış koşarlarken, kafirler: \"Bu çetin bir gündür!\" derler.",
+      "hulusi": "Çağırıcıya süratle koşan Hakikat bilgisini inkar edenler: \"Bu şiddetli bir gündür!\" derler.",
+      "bayrakli": "O davetçiye koşarlar. İnkarcılar, \"Bu, çok zor bir gün\" derler.",
+      "elmali_sade": "Çağırana koşarak, kafirler: \"Bu çok çetin bir gündür!\" derler.",
+      "cantay": "o da'vet ediciye (boyunlarını uzatıb) koşarak. (İçlerinden) kafir olanlar (öyle) diyecek (ler): \"Bu, çok sarp bir gün\".",
+      "piris": "(7-8) Gözleri yere yıkık çekirgeler gibi yayılmış o çağırana koşarak kabirlerinden çıkarlar. Kafirler: -Bu, zor bir gün! derler.",
+      "yildirim": "Boyunlarını, çağıran münadiye doğru uzatmış vaziyette, kafirler: \"Bugün çok zorlu bir gün, işimiz bitik!\" derler.",
+      "safa": "Çağırana doğru şaşkınlık içinde koşarlarken, nankörlük edenler, şöyle derler: \"İşte bu, zorlu bir gündür!\"",
+      "yuksel": "Çağırıcıya doğru koşarlarken,  inkarcılar,  \"Bu zorlu bir gündür\" derler.",
+      "aktas": "Çağırıcıya doğru koşan Kafirler: \"Bu, çok zor bir gün.\" diyecekler.",
+      "okuyan": "Boyunlarını (o) çağrıcıya uzatan kâfirler, \"Bu, ne zor bir günmüş!\" diyecekler. "
     },
     {
       "number": 4855,
@@ -152,7 +232,17 @@
       "bulac": "Kendilerinden önce Nuh kavmi de yalanlamıştı; böylece kulumuz (Nuh)u yalanladılar ve: \"Delidir\" dediler. O 'baskı altına alınıp engellenmişti.'",
       "esed": "Bunlardan, (şimdi yeniden dirilmeyi inkar edenlerden) önce Nuh'un kavmi de O'nu yalanlamıştı; onlar kulumuzu yalanlamışlar ve \"O, bir delidir!\" demişlerdi (ve bundan dolayı) o kovulup defedilmişti.",
       "suleymaniye": "Bunlardan önce Nuh'un toplumu da yalana sarılmış[1], kulumuzu yalanlamış ve \"Bu, cinlerin etkisinde[2].\" demişlerdi; görevini yapması engellenmişti[3].",
-      "ates": "Onlardan önce Nuh'un kavmi de yalanlamıştı. Kulumuzu yalanladılar ve: \"Cinlenmiştir\" dediler. Ve o(na çeşitli eziyetler yapılarak tebliğden) menedildi."
+      "ates": "Onlardan önce Nuh'un kavmi de yalanlamıştı. Kulumuzu yalanladılar ve: \"Cinlenmiştir\" dediler. Ve o(na çeşitli eziyetler yapılarak tebliğden) menedildi.",
+      "hulusi": "Onlardan önce Nuh'un kavmi de yalanlamıştı. Kulumuzu yalanladılar ve: \"Cinlenmiştir\" dediler; (görevinden) engellediler.",
+      "bayrakli": "Onlardan önce Nuh'un toplumu da yalanladı, hem de kulumuzun yalancı olduğuna ısrar ederek. \"O, delirdi\" dediler ve davetten vazgeçmeye zorlandı.",
+      "elmali_sade": "Onlardan önce Nuh'un kavmi de yalanladı; o kulumuza yalancı dediler, delidir, dediler; çok incittiler.",
+      "cantay": "Onlardan evvel Nuuh kavmi tekzib etdi; onlar kulumuzu yalancı saymakda ısrar etdiler. \"Mecnun\" dediler. O, (da'vetden cebren) vaz geçirilmişdi.",
+      "piris": "Onlar önce Nuh kavmini de yalanladı. Kulumuzu yalanladılar da \"mecnun (cinlenmiş)\" dediler. Onu incittiler.",
+      "yildirim": "Kendilerinden önce Nuh kavmi de Peygamberi yalancı saydı ve: \"Bu delinin teki!\" dediler. Onu incittiler, tebliğini engellediler.",
+      "safa": "Onlardan önce, Nuh toplumu da yalanlamıştı. Kulumuzu yalanlayarak; \"Delirmiş!\" dediler ve engellediler.",
+      "yuksel": "Onlardan önce de Nuh'un halkı yalanlamıştı. Kulumuzu yalanlayıp,  \"Delidir\" dediler. Nitekim o engellendi.",
+      "aktas": "Onlardan önce Nuh'un halkı da yalanladı. Kulumuzu, \"O delinin biridir.\" diye yalanladılar. Kulumuz zorluk çıkarılarak engellendi.",
+      "okuyan": "Onlardan önce Nuh'un halkı da (gerçeği) yalanlamış, kulumuzu yalanlayarak \"(O) cinlenmiştir.\" demişlerdi. (Tebliğden vazgeçirilmeye) zorlanmıştı."
     },
     {
       "number": 4856,
@@ -168,7 +258,17 @@
       "bulac": "Sonunda Rabbine dua etti: \"Gerçekten ben, yenik düşmüş durumdayım. Artık Sen (bu kafir toplumdan) intikam al.\"",
       "esed": "Bunun üzerine (Nuh,) Rabbine: \"Doğrusu ben yenik düştüm, artık Sen gel ve bana yardım et!\" şeklinde yalvardı.",
       "suleymaniye": "O da: \"Ben yenik düştüm, yardım et[1]!\" diye Rabbine yalvarmıştı.",
-      "ates": "Bunun üzerine Rabbine: \"Ben yenik düştüm, yardım et!\" diye yalvardı."
+      "ates": "Bunun üzerine Rabbine: \"Ben yenik düştüm, yardım et!\" diye yalvardı.",
+      "hulusi": "Nihayet (Nuh da) Rabbine: \"Gerçek ki ben mağlup oldum; bana yardım et\" diye dua etti.",
+      "bayrakli": "Bunun üzerine Rabbine, \"Ben yenik düştüm, bana yardım et!\" diyerek yalvardı.",
+      "elmali_sade": "O da sonunda Rabbine dua etti: \"Ben yenik düştüm, bana yardım et!\" dedi.",
+      "cantay": "Nihayet, o da Rabbine \"Ben hakıykaten mağlubum. Artık (benim) intikaam (ımı) sen al\" diye düa etdi.",
+      "piris": "O da: -Ben, yenildim, bana yardım et, diye Rabb'ine dua etti.",
+      "yildirim": "O da: \"Ya Rabbi, ben mağlubum, artık Sen bana yardım et!\" dedi.",
+      "safa": "Bunun üzerine, Efendisine, yakarışta bulundu: \"Aslında, ben yenildim; artık bana yardım et!\"",
+      "yuksel": "Efendisini çağırdı,  \"Ben yenildim; bana yardım et.\"",
+      "aktas": "Sonunda Rabb'ine çağrıda bulundu: \"Doğrusu ben yenik düştüm, bana yardım et.\"",
+      "okuyan": "(Nuh) Rabbine \"Yenik düştüm, yardım et!\" diyerek yalvarmıştı."
     },
     {
       "number": 4857,
@@ -184,7 +284,17 @@
       "bulac": "Biz de 'bardaktan boşanırcasına akan' bir su ile göğün kapılarını açtık.",
       "esed": "Biz de seller gibi akan bir su ile göğün kapılarını açtık",
       "suleymaniye": "Biz de oluk oluk sular aksın diye göğün kapılarını açtık.",
-      "ates": "Biz de boşalan bir su ile göğün kapılarını açtık."
+      "ates": "Biz de boşalan bir su ile göğün kapılarını açtık.",
+      "hulusi": "Biz de kuvvetle dökülen bir su ile semanın kapılarını açtık!",
+      "bayrakli": "Biz de gök kapılarını, devamlı yağan bir yağmurla açtık.",
+      "elmali_sade": "Bunun üzerine göğün kapılarını şakır şakır dökülen bir su ile açtık.",
+      "cantay": "Bunun üzerine biz de şarıl şarıl dökülen bir suya gök kapılarını açdık.",
+      "piris": "Bunun üzerine biz de göğün kapılarını şiddetle boşanan sulara açtık.",
+      "yildirim": "Biz de derhal, boşalan bir su ile göğün kapılarını açtık.",
+      "safa": "Bu yüzden, seller gibi akan bir suyla gök kapılarını açtık.",
+      "yuksel": "Bunun üzerine göğün kapılarını boşalan sularla açtık.",
+      "aktas": "Biz de hemen göğün kapılarını gürül gürül boşalan su ile açtık.",
+      "okuyan": "Biz de boşanan bir su ile göğün kapılarını açmıştık."
     },
     {
       "number": 4858,
@@ -200,7 +310,17 @@
       "bulac": "Yeri de 'coşkun kaynaklar' halinde fışkırttık. Derken su, takdir edilmiş bir işe karşı (hükmümüzü gerçekleştirmek üzere) birleşti.",
       "esed": "ve toprağın pınarlar halinde fışkırmasını sağladık ki sular önceden belirlenmiş bir amaca hizmet etsin",
       "suleymaniye": "Yerden de kaynaklar fışkırttık[1]. Böylece kararlaştırılmış bir iş (tufan) için sular birbirine kavuştu[2].",
-      "ates": "Yeri kaynaklar halinde fışkırttık, (göğün ve yerin) su(ları) takdir edilmiş bir işin olması için birleşti."
+      "ates": "Yeri kaynaklar halinde fışkırttık, (göğün ve yerin) su(ları) takdir edilmiş bir işin olması için birleşti.",
+      "hulusi": "Arzı da kaynaklarıyla fışkırttık da takdir edilmiş hükümle sular (birbirine) kavuştu!",
+      "bayrakli": "Yerden kaynaklar fışkırttık. Her iki su, karar verilmiş bir işin gerçekleşmesi için birleşmişti.",
+      "elmali_sade": "Yeri de kaynaklar halinde fışkırttık, derken sular önceden takdir edilmiş bir iş için birleşti.",
+      "cantay": "Yeri de kaynaklar haalinde (tamamen) fışkırtdık da (Her iki) su (ezelde) takdir edilmiş bir emr üzerinde birleşiverdi.",
+      "piris": "Yerden de pınarlar fışkırttık. Böylece sular takdir edilen bir iş için birleşti.",
+      "yildirim": "Yeri pınar pınar fışkırttık. Öyle ki her iki su kütlesi, takdir edilen o işin olması için birleşti.",
+      "safa": "Ve yeryüzünü kaynaklar biçiminde fışkırttık. Ardından, belirlenmiş bir olgu için sular birleşti.",
+      "yuksel": "Yerden de pınarlar fışkırttık. Nihayet sular,  daha önce belirlenmiş seviyeye ulaştılar.",
+      "aktas": "Yeryüzünde de kaynakları fışkırttık. Böylece sular kararlaştırılan amaç için birleşti.",
+      "okuyan": "Yerden de (su) kaynakları fışkırtmıştık. Böylece (bu iki) su, belirlenmiş bir iş (tufan) için birleşmişti."
     },
     {
       "number": 4859,
@@ -216,7 +336,17 @@
       "bulac": "Ve onu da tahtalar ve çiviler(le inşa edilmiş gemi) üzerinde taşıdık;",
       "esed": "ama o'nu (sadece) tahtalar ve çivilerden yapılmış o (gemi) ile taşıdık,",
       "suleymaniye": "Nuh'u, levhalı ve perçinli bir gemide taşıdık[1].",
-      "ates": "Nuh'u da tahtalar ve çiviler(le yapılmış gemi) üzerinde taşıdık."
+      "ates": "Nuh'u da tahtalar ve çiviler(le yapılmış gemi) üzerinde taşıdık.",
+      "hulusi": "Onu (Nuh'u) tahta ve çivilerle oluşmuş (tekne) ile taşıdık.",
+      "bayrakli": "Nuh'u da, tahtadan yapılmış, çivilerle çakılmış gemiye bindirdik.",
+      "elmali_sade": "Ve onu elvahlı ve kenetli (tahta ve çivilerden yapılı) bir gemi üzerinde taşıdık,",
+      "cantay": "Onu (Nuuhu) levhalar ve mıhlarla yapılmış (gemiy) e yükledik,",
+      "piris": "Onu gözümüzün önünde akıp giden tahta ve mıhtan yapılmış (gemi)de taşıdık.",
+      "yildirim": "Biz Nuh'u, levha halindeki tahtalar ve çivilerle yapılmış gemiye bindirdik.",
+      "safa": "Onu, tahtalar ve çivilerden yapılmış şey üzerinde taşıdık.[471]",
+      "yuksel": "Onu ağaç lifleri ile (bağlanmış) kütükler üzerinde taşıdık.[1]",
+      "aktas": "Onu ağaç lifi ile birbirine bağlanmış tahtalar üzerinde taşıdık.",
+      "okuyan": "Onu (Nuh'u) levhalar ve çivilerle (çakılmış gemide) taşımıştık."
     },
     {
       "number": 4860,
@@ -232,7 +362,17 @@
       "bulac": "Gözlerimiz önünde akıp gitmekteydi. (Kendisi ve getirdikleri) İnkar edilmiş/nankörlük edilmiş olan (Nuh)a bir mükafaat olmak üzere.",
       "esed": "ve (gemi), gözlerimizin önünde akıp gitti. (Bu,) nankörce reddedilmiş olan o (Nuh) için bir ödüldü.",
       "suleymaniye": "Gemi, gözetimimiz altında akıp gidiyordu. Bunu, görmezden gelinen kişiye (Nuh'a) bir ödül olsun diye yaptık[1].",
-      "ates": "(Kendisine karşı) Nankörlük edilen (kulumuz)a (bizden) bir mükafat olmak üzere (gemi), gözlerimizin önünde akıp gidiyordu."
+      "ates": "(Kendisine karşı) Nankörlük edilen (kulumuz)a (bizden) bir mükafat olmak üzere (gemi), gözlerimizin önünde akıp gidiyordu.",
+      "hulusi": "(Tekne) gözetimimizde akıp gidiyordu. Nankörlük edilene (Nuh'a) bir ceza olmak üzere!",
+      "bayrakli": "İnkar edilmiş Nuh'a bir ödül olmak üzere, gemi gözlerimizin önünde akıp gidiyordu.",
+      "elmali_sade": "gözetimimiz altında yürüyüp yol alıyordu, inkar ve nankörlüğe uğramış kimseye mükafat olmak üzere.",
+      "cantay": "ki (o gemi; hakkında) nankörlük edilmiş bulunan (o zat) e bir mükafat olmak üzere, bizim gözlerimiz önünde akıb gidiyordu.",
+      "piris": "Gözlerimizin önünde akıp gitti. İnkar edilen (Nuh'a) bir ödül olarak.",
+      "yildirim": "O kadri bilinmemiş değerli insana, bir mükafat olarak gemi, Bizim inayetimiz altında akıp gidiyordu.",
+      "safa": "Nankörlük edilene bir ödül olarak, gözlerimizin önünde akıp gidiyordu.",
+      "yuksel": "Reddedilmiş olan kişiye bir ödül olarak gözetimimiz altında akıp gidiyordu.",
+      "aktas": "Yalanlanan kimseye bir ödül olarak, gözetimimiz altında yüzüp gidiyordu.",
+      "okuyan": "(O gemi) inkar edilmiş olana (Nuh'a) bir karşılık olarak gözlerimizin önünde akıp gidiyordu."
     },
     {
       "number": 4861,
@@ -248,7 +388,17 @@
       "bulac": "Andolsun, Biz bunu bir ayet olarak bıraktık. Fakat öğüt alıp düşünen var mı?",
       "esed": "Ve böyle (yüzen gemi)leri (insana rahmetimizin) ebedi bir işareti kıldık. Öyleyse, yok mudur ondan ders almak isteyen?",
       "suleymaniye": "Şurası bir gerçek ki gemiyi, bir ayet /belge olarak bıraktık. Peki, (bu konuda) bir bilgisi olan var mı[1]?",
-      "ates": "Bunu bir ibret olarak bıraktık, ibret alan yok mudur?"
+      "ates": "Bunu bir ibret olarak bıraktık, ibret alan yok mudur?",
+      "hulusi": "Andolsun ki onu (tekneyi insanlar için) bir işaret olarak (geride) bıraktık! Düşünen yok mu?",
+      "bayrakli": "Andolsun ki, gemiyi bir ibret olarak bıraktık, ibret alan yok mudur?",
+      "elmali_sade": "Andolsun ki, o gemiyi bir ibret olarak bıraktık. Fakat düşünen mi var ki,",
+      "cantay": "Andolsun ki biz bunu bir ayet olarak bırakmışızdır. O halde bir düşünüb ibret alan var mı?",
+      "piris": "Onu bir ayet (işaret) olarak bırakmıştık. İbret alan var mı?",
+      "yildirim": "Biz bir ibret olsun diye, o gemiyi geriye bıraktık. Haydi, var mı ibret alan?",
+      "safa": "Üstelik gerçek şu ki, onu, bir kanıt olarak bıraktık. Artık, öğüt alan var mı?[472]",
+      "yuksel": "Bunu bir ders olarak bıraktık. Öğüt alan yok mudur?",
+      "aktas": "Ant olsun ki onu[1] bir ayet[2] olarak bıraktık. İbret alan yok mudur?",
+      "okuyan": "Yemin olsun ki onu (gemiyi) bir ibret olarak bırakmıştık; hani gerçeği hatırlayan var mı?"
     },
     {
       "number": 4862,
@@ -264,7 +414,17 @@
       "bulac": "Şu halde Benim azabım ve uyarıp korkutmam nasılmış?",
       "esed": "Ve uyarılarım gözardı edildiğinde verdiğim azap ne şiddetlidir!",
       "suleymaniye": "(Gördünüz mü) benim azabım ve uyarılarım nasıl olmuş[1]!",
-      "ates": "Benim azabım ve uyarılarım nasılmış (görsünler diye)."
+      "ates": "Benim azabım ve uyarılarım nasılmış (görsünler diye).",
+      "hulusi": "Benim azabım ve uyarmalarım bak nasıl oldu!",
+      "bayrakli": "Benim azabım ve uyarılarım nasılmış?",
+      "elmali_sade": "azabım ve uyarılarım nasılmış!",
+      "cantay": "Ki benim azabım ve (bundan evvel) tehdidlerim nice imiş (düşünün).",
+      "piris": "-Azabım ve uyarılarım nasılmış?",
+      "yildirim": "Nasılmış Benim cezalandırmam ve tehdidim! Görsünler bakalım!",
+      "safa": "Sonunda, cezalandırmam ve uyarılarım nasıl oldu?",
+      "yuksel": "Cezalandırmam ve uyarılarım nasılmış!",
+      "aktas": "Ama azabım ve uyarılarım nasıl oldu?[1]",
+      "okuyan": "Benim azabım ve benim uyarılarım (bak) nasıl olmuştu!"
     },
     {
       "number": 4863,
@@ -280,7 +440,17 @@
       "bulac": "Andolsun Biz Kur'an'ı zikr (öğüt alıp düşünmek) için kolaylaştırdık. Fakat öğüt alıp düşünen var mı?",
       "esed": "Bu nedenle Biz bu Kuran'ı akılda kolay tutulur kıldık. Öyleyse, yok mudur ondan ders almak isteyen?",
       "suleymaniye": "Biz Kur'an'ı, doğru bilgi[1] edinilmesi için gerçekten kolaylaştırdık[2]. Peki, o bilgiyi alan var mı?",
-      "ates": "Andolsun biz, Kur'an'ı öğüt almak için kolaylaştırdık. Öğüt alan yok mudur?"
+      "ates": "Andolsun biz, Kur'an'ı öğüt almak için kolaylaştırdık. Öğüt alan yok mudur?",
+      "hulusi": "Andolsun ki Kuran'ı kolaylaştırdık, hakikatin hatırlanması ve tefekkürü için! Düşünen yok mu?",
+      "bayrakli": "Andolsun ki Kur'an'ı,düşünenler için kolaylaştırdık. Düşünen var mı?",
+      "elmali_sade": "Andolsun ki, Kur'an'ı düşünmek için kolaylaştırdık; fakat düşünen mi var?",
+      "cantay": "Andolsun ki biz Kur'anı düşünmek için kolaylaşdırmışızdır. O halde bir düşünen var mı?",
+      "piris": "Andolsun ki Kur'an'ı da öğüt olması için kolaylaştırdık, öğüt alan var mı?",
+      "yildirim": "Yemin olsun: Biz, ders alınsın diye Kur'an'ın anlaşılmasını kolaylaştırdık. Haydi var mı düşünen ve ibret alan?",
+      "safa": "Üstelik gerçek şu ki, Kur'an'ı, düşünmek için kolaylaştırdık. Artık, öğüt alan var mı?[473]",
+      "yuksel": "Kuran'ı mesaj için kolaylaştırdık; öğüt alan yok mudur?",
+      "aktas": "Ant olsun Biz, Kur'an'ı öğüt alınsın diye kolaylaştırdık.[1] Var mı öğüt alıp düşünen?",
+      "okuyan": "Yemin olsun ki Kur'an'ı (gerçeği) hatırla(t)mak için kolaylaştırdık. Hatırlayan var mı?[1]"
     },
     {
       "number": 4864,
@@ -296,7 +466,17 @@
       "bulac": "Ad (kavmi) de yalanladı. Şu halde Benim azabım ve uyarmam nasılmış?",
       "esed": "Ad (kavmi de) hakikati yalanlamıştı ve uyarılarım gözardı edildiğinde verdiğim azap ne şiddetliydi!",
       "suleymaniye": "(Hud'un toplumu) Ad da yalana sarılmıştı[1]. (Bakın bakalım) benim azabım ve uyarılarım nasıl olmuş[2]!",
-      "ates": "'Ad da yalanladı, ama azabım ve uyarılarım nasıl oldu?"
+      "ates": "'Ad da yalanladı, ama azabım ve uyarılarım nasıl oldu?",
+      "hulusi": "Ad da yalanladı! (Peki) benim azabım ve uyarmalarım nasıl oldu?",
+      "bayrakli": "'Ad toplumu da yalanlamıştı. Benim cezalandırmam ve uyarmam nasıl oldu?",
+      "elmali_sade": "Ad kavmi de yalanladı, azabım ve uyarılarım nasıl oldu?",
+      "cantay": "Aad (kavmi, peygamberleri Hud'ü) tekzib etdi. İşte benim azabım (ve bundan evvel) tehdidlerim nice imiş (düşünün).",
+      "piris": "Ad da yalanlanmıştı. Benim azabım ve uyarılarım nasılmış?",
+      "yildirim": "Ad kavmi de Peygamberlerini yalancı saydı. Nasılmış Benim cezalandırmam ve tehdidim! Görsünler bakalım!",
+      "safa": "Âd da yalanlamıştı. Sonunda, cezalandırmam ve uyarılarım nasıl oldu?",
+      "yuksel": "Ad da yalanladı. Cezalandırmam ve uyarılarım nasılmış!",
+      "aktas": "Ad da yalanladı. Ama azabım ve uyarılarım nasıl oldu?",
+      "okuyan": "Âd (halkı) da (Hud'u) yalanlamıştı. Benim azabım ve benim uyarılarım (bak) nasıl olmuştu! "
     },
     {
       "number": 4865,
@@ -312,7 +492,17 @@
       "bulac": "Biz, o uğursuz (felaket yüklü ve) sürekli bir günde üzerlerine 'kulakları patlatan bir kasırga' gönderdik.",
       "esed": "Biz onların üstüne müthiş uğursuz bir günde şiddetli bir kasırga gönderdik,",
       "suleymaniye": "Kötülüğü sürüp giden kara günde üstlerine soğuk ve şiddetli bir rüzgar gönderdik[1];",
-      "ates": "Biz onların üstüne uğursuz mu uğursuz bir günde uğultulu bir kasırga saldık."
+      "ates": "Biz onların üstüne uğursuz mu uğursuz bir günde uğultulu bir kasırga saldık.",
+      "hulusi": "Muhakkak ki biz onların üzerine, uğursuz bir gün içinde sürekli helak edici bir kasırga irsal ettik.",
+      "bayrakli": "Biz onların üzerine, uğursuzluğu devamlı bir günde, dondurucu bir rüzgar gönderdik.",
+      "elmali_sade": "Çünkü üzerlerine uğursuzluğu devam eden bir günde dondurucu bir rüzgar salıverdik.",
+      "cantay": "Çünkü biz (haklarında) uğursuz (ve uğursuzluğu) sürekli bir günde onların üstüne çok gürültülü fırtına gönderdik.",
+      "piris": "Onların üzerine zor ve meşakkatli baskın süren bir günde kavuran rüzgarları göndermiştik.",
+      "yildirim": "Biz onların üstüne o pek talihsiz günde, her şeyi söküp atan bir kasırga gönderdik.",
+      "safa": "Uğursuzluğu gün boyunca süren, uğultulu bir kasırgayı, onların üzerine gönderdik.",
+      "yuksel": "Uğursuzluk üstüne uğursuzluğa sahip bir günde üzerlerine vahşi bir rüzgar gönderdik.",
+      "aktas": "Biz, onların üzerine felaketleri gün boyu süren çok sarsıcı rüzgarı gönderdik.",
+      "okuyan": "(19, 20) Sürekliliği olan kara bir günde onların üzerine, insanları sökülmüş hurma kütükleri gibi yere seren bir kasırga göndermiştik.[1]"
     },
     {
       "number": 4866,
@@ -328,7 +518,17 @@
       "bulac": "İnsanları söküp atıyordu; sanki onlar, kökünden sökülüp kopmuş hurma kütükleriymiş gibi.",
       "esed": "(bu kasırga,) insanları köklerinden koparılmış hurma kütükleri gibi savurup attı.",
       "suleymaniye": "insanları kaldırıp atıyordu. Sanki onlar köklerinden sökülmüş hurma kütükleri gibiydiler[1].",
-      "ates": "İnsanları sanki köklerinden sökülmüş hurma kütükleri imişler gibi koparıp deviriyordu."
+      "ates": "İnsanları sanki köklerinden sökülmüş hurma kütükleri imişler gibi koparıp deviriyordu.",
+      "hulusi": "İnsanları, sanki sökülmüş hurma kütükleri gibi koparıp atıyordu.",
+      "bayrakli": "O rüzgar, insanları, sanki köklerinden koparılmış, hurma kütükleri gibi yere seriyordu.",
+      "elmali_sade": "İnsanları, kökünden devrilen hurma kütükleri gibi yoluyordu.",
+      "cantay": "(Öyle bir fırtına ki) insanları, sanki onlar köklerinden sökülmüş hurma kütükleri imiş gibi, ta temelinden kopar (ıb helake uğrat) ıyordu.",
+      "piris": "Sanki kökünden sökülmüş hurma ağacının kökleri gibi insanları yerlerinden koparıp atıyordu.",
+      "yildirim": "Öyle ki insanları, kökü sökülmüş, içi boş hurma kütükleri gibi fırlatıp atıyordu.",
+      "safa": "Köklerinden koparılmış hurma kütükleri gibi insanları savurup attı.",
+      "yuksel": "İnsanları,  sanki köklerinden koparılmış hurma kütükleriymiş gibi yıkıyordu.",
+      "aktas": "İnsanları, kökünden sökülmüş hurma kütükleri gibi savurup atıyordu.",
+      "okuyan": "(19, 20) Sürekliliği olan kara bir günde onların üzerine, insanları sökülmüş hurma kütükleri gibi yere seren bir kasırga göndermiştik.[1]"
     },
     {
       "number": 4867,
@@ -344,7 +544,17 @@
       "bulac": "Şu halde Benim azabım ve uyarmam nasılmış?",
       "esed": "Zaten uyarılarım gözardı edildiğinde verdiğim azap ne şiddetlidir!",
       "suleymaniye": "(Gördünüz mü) benim azabım ve uyarılarım nasıl olmuş[1]!",
-      "ates": "Benim azabım ve uyarılarım nasıl oldu?"
+      "ates": "Benim azabım ve uyarılarım nasıl oldu?",
+      "hulusi": "Benim azabım ve uyarmalarım bak nasıl oldu!",
+      "bayrakli": "Nasılmış benim azabım ve uyarılarım?",
+      "elmali_sade": "Bak nasılmış azabım ve uyarılarım?",
+      "cantay": "İşte benim azabım ve (bundan evvel) tehdidlerim nice imiş(düşünün).",
+      "piris": "-Azabım ve uyarılarım nasılmış?",
+      "yildirim": "Nasılmış Benim cezalandırmam ve tehdidim, görsünler bakalım!",
+      "safa": "Sonunda, cezalandırmam ve uyarılarım nasıl oldu?",
+      "yuksel": "Cezalandırmam ve uyarılarım nasılmış!",
+      "aktas": "Ama azabım ve uyarılarım nasıl oldu?",
+      "okuyan": "Benim azabım ve benim uyarılarım (bak) nasıl olmuştu!"
     },
     {
       "number": 4868,
@@ -360,7 +570,17 @@
       "bulac": "Andolsun Biz Kur'an'ı zikr (öğüt alıp düşünmek) için kolaylaştırdık. Fakat öğüt alıp düşünen var mı?",
       "esed": "Bu nedenle Biz bu Kuran'ı akılda kolay tutulur kıldık. Öyleyse, yok mudur ondan ders almak isteyen?",
       "suleymaniye": "Biz Kur'an'ı, doğru bilgi edinilmesi için gerçekten kolaylaştırdık. Peki, o bilgiyi alan var mı[1]?",
-      "ates": "Andolsun biz Kur'an'ı öğüt almak için kolaylaştırdık. Öğüt alan yok mudur?"
+      "ates": "Andolsun biz Kur'an'ı öğüt almak için kolaylaştırdık. Öğüt alan yok mudur?",
+      "hulusi": "Andolsun ki Kuran'ı kolaylaştırdık hakikatin hatırlanması ve tefekkürü için! Düşünen yok mu?",
+      "bayrakli": "Andolsun ki Kur'an'ı,düşünenler için kolaylaştırdık. Düşünen var mı?",
+      "elmali_sade": "Andolsun ki, Kur'an'ı düşünmek için kolaylaştırdık, fakat düşünen mi var?",
+      "cantay": "Andolsun ki biz Kur'anı düşünmek için kolaylaşdırmışızdır. O halde var mı bir düşünen?",
+      "piris": "Andolsun ki Kur'an'ı öğüt olması için kolaylaştırdık. Öğüt alan var mı?",
+      "yildirim": "Yemin olsun! Biz ders alınsın diye Kur'an'ın anlaşılmasını kolaylaştırdık. Haydi var mı düşünen ve ibret alan?",
+      "safa": "Üstelik gerçek şu ki, Kur'an'ı, düşünmek için kolaylaştırdık. Artık, öğüt alan var mı?",
+      "yuksel": "Kuran'ı mesaj için kolaylaştırdık; öğüt alan yok mudur?",
+      "aktas": "Ant olsun Biz, Kur'an'ı öğüt alınsın diye kolaylaştırdık. Var mı öğüt alıp düşünen?",
+      "okuyan": "Yemin olsun ki Kur'an'ı (gerçeği) hatırla(t)mak için kolaylaştırdık. Hatırlayan var mı?"
     },
     {
       "number": 4869,
@@ -376,7 +596,17 @@
       "bulac": "Semud (kavmi) de uyarıları yalanladı.",
       "esed": "Semud (kavmi de) bütün uyarılarımızı yalanlamıştı;",
       "suleymaniye": "(Salih'in toplumu) Semud da uyarılar karşısında yalana sarılmıştı[1].",
-      "ates": "Semud da uyarıları yalandı:"
+      "ates": "Semud da uyarıları yalandı:",
+      "hulusi": "Semud da uyarıcıları yalanladı.",
+      "bayrakli": "Semud kavmi de uyarıcıları yalanladı.",
+      "elmali_sade": "Semud da o uyarıları yalanladılar,",
+      "cantay": "Semud (kavmi, kendilerini azab ile) korkutan (emir) leri yalan saydı (lar) da,",
+      "piris": "Semud da tehdidine kulak asmadı.",
+      "yildirim": "(23-25) Semud kavmi de Peygamberlerini yalancı saydılar ve: \"Yani biz,\" dediler, \"içimizden bir adamın peşinden mi gideceğiz? Böyle yaparsak doğrusu sapıtmış ve çıldırmış oluruz! Ne o, yani bu kitap, içimizden bula bula onu mu buldu, o mu buna layık görülmüş? Hiç de öyle değil, bilakis o, yalancının, küstahın tekidir!\"",
+      "safa": "Semud da uyarıları yalanlamıştı.",
+      "yuksel": "Semud da uyarıları yalanladı.",
+      "aktas": "Semud da uyarıcıları yalanladı.",
+      "okuyan": "(23, 24) Semûd (kavmi) de uyarı(cı)ları yalanlamıştı ve \"Aramızdan bir insana mı uyacağız?[1] Bu durumda biz sapkınlık ve çılgınlık içinde oluruz!\" demişlerdi."
     },
     {
       "number": 4870,
@@ -392,7 +622,17 @@
       "bulac": "Dediler ki: \"Bizden biri olan bir beşere mi uyacağız? Bu durumda gerçekten biz bir sapıklık (delalet) ve çılgınlık içinde kalmış oluruz.\"",
       "esed": "ve şöyle demişlerdi: \"Biz kendi içimizden çıkan bir faniye mi uyacağız? O takdirde biz mutlaka hataya ve ahmaklığa duçar oluruz!",
       "suleymaniye": "Şöyle demişlerdi: \"İçimizden, tek başına kalmış bir beşere mi uyacağız[1]! O zaman kesinlikle bir sapkınlık ve çılgınlık içine girmiş oluruz.",
-      "ates": "\"Bizden bir insana mı uyacağız? O takdirde biz apaçık bir sapıklık ve çılgınlık içine düşmüş oluruz\" dediler."
+      "ates": "\"Bizden bir insana mı uyacağız? O takdirde biz apaçık bir sapıklık ve çılgınlık içine düşmüş oluruz\" dediler.",
+      "hulusi": "Dediler ki: \"Bizden bir beşere mi tabi olacağız? O takdirde muhakkak ki inancımızdan sapıp ahmaklık içinde kalırız. \"",
+      "bayrakli": "\"Aramızdan bir beşere mi uyacağız? O takdirde biz apaçık bir sapıklık ve çılgınlık etmiş oluruz\" dediler.",
+      "elmali_sade": "Şöyle dediler: \"İçimizden bir insana mı uyacağız? Şüphesiz biz o vakit şaşkınlık içinde kalır, ateşlere yanarız!",
+      "cantay": "\"Biz (im cinsimiz) den bir tek insana, ona mı tabi' olacağız? Bu takdirde biz muhakkak ki bir sapıklık ve delilik içinde (kalmış oluruz)\", dediler.",
+      "piris": "-İçimizden bir adama mı uyacağız? O vakit sapıtmış ve delilik etmiş oluruz, dediler.",
+      "yildirim": "(23-25) Semud kavmi de Peygamberlerini yalancı saydılar ve: \"Yani biz,\" dediler, \"içimizden bir adamın peşinden mi gideceğiz? Böyle yaparsak doğrusu sapıtmış ve çıldırmış oluruz! Ne o, yani bu kitap, içimizden bula bula onu mu buldu, o mu buna layık görülmüş? Hiç de öyle değil, bilakis o, yalancının, küstahın tekidir!\"",
+      "safa": "Şöyle demişlerdi: \"Kendi aramızdan bir insanoğluna mı uyacağız? Aslında, o zaman, aymazlık ve çılgınlık yapmış oluruz!\"",
+      "yuksel": "Dediler ki,  \"Bizden bir insana mı uyalım? O zaman biz sapar ve cehenneme gireriz.\"",
+      "aktas": "Şöyle dediler: \"Bizden biri olan bir beşere mı biz ona mı uyacağız? Öyle yaparsak kesinlikle bir sapkınlık ve çılgınlık yapmış oluruz.",
+      "okuyan": "(23, 24) Semûd (kavmi) de uyarı(cı)ları yalanlamıştı ve \"Aramızdan bir insana mı uyacağız?[1] Bu durumda biz sapkınlık ve çılgınlık içinde oluruz!\" demişlerdi."
     },
     {
       "number": 4871,
@@ -408,7 +648,17 @@
       "bulac": "\"Zikr (vahy) içimizden ona mı bırakıldı? Hayır, o çok yalan söyleyen, kendini beğenmiş bir şımarıktır.\"",
       "esed": "Neden içimizden bir tek o'na (ilahi) öğüt ve uyarı indirildi? Hayır, o küstah bir yalancıdan başka bir şey değil!\"",
       "suleymaniye": "O zikir[1] /o doğru bilgiler aramızdan ona mı verilmiş[2]! Aslında o; yalancının ve ukalanın tekidir[3]!\"",
-      "ates": "\"Zikir, aramızdan ona mı bırakıldı? Hayır o, yalancı küstahın biridir!\""
+      "ates": "\"Zikir, aramızdan ona mı bırakıldı? Hayır o, yalancı küstahın biridir!\"",
+      "hulusi": "\"Zikir (hakikat ilmini hatırlatıcı) aramızdan Ona mı ilka olundu? Bilakis O küstah bir yalancıdır!\"",
+      "bayrakli": "\"Vahiy, aramızda ona mı verildi? Hayır, o yalancı ve şımarığın biridir\" dediler.",
+      "elmali_sade": "O zikir (vahiy) aramızdan ona mı bırakılıyor? Belki o bir şımarık yalancıdır!",
+      "cantay": "\"Bizim aramızdan vahy ona mı verildi? Hayır, o, şımarık, aşırı bir yalancıdır\".",
+      "piris": "-Aramızdan, vahiy ona mı gönderilmiş? Hayır, O, yalancı küstahın biridir.",
+      "yildirim": "(23-25) Semud kavmi de Peygamberlerini yalancı saydılar ve: \"Yani biz,\" dediler, \"içimizden bir adamın peşinden mi gideceğiz? Böyle yaparsak doğrusu sapıtmış ve çıldırmış oluruz! Ne o, yani bu kitap, içimizden bula bula onu mu buldu, o mu buna layık görülmüş? Hiç de öyle değil, bilakis o, yalancının, küstahın tekidir!\"",
+      "safa": "\"Öğreti, aramızdan Ona mı verildi?\" \"Hayır, O, saygısız bir yalancı!\"",
+      "yuksel": "\"Mesaj aramızdan ona mı verildi? O,  yalancı küstahın biridir.\"",
+      "aktas": "Zikir.[1] aramızdan bula bula onu mu buldu? Hayır! O küstah bir yalancıdır.",
+      "okuyan": "(Devamla:) \"Vahiy, aramızdan ona mı verildi?[1] Aslında o, şımarık yalancının biridir!\" demişlerdi."
     },
     {
       "number": 4872,
@@ -424,7 +674,17 @@
       "bulac": "Onlar yarın, kimin çok yalan söyleyen, kendini beğenmiş bir şımarık olduğunu bilip öğreneceklerdir.",
       "esed": "(Allah:) \"Onlar yarın kimin küstah ve yalancı olduğunu görecekler!\" dedi,",
       "suleymaniye": "Kimin yalancı ve ukala olduğunu yarın öğrenecekler.",
-      "ates": "(Salih'e dedik ki): Yarın onlar, yalancı, küstahın kim olduğunu bilecekler."
+      "ates": "(Salih'e dedik ki): Yarın onlar, yalancı, küstahın kim olduğunu bilecekler.",
+      "hulusi": "Yarın kimin küstah bir yalancı olduğunu bilecekler!",
+      "bayrakli": "Yarın onlar, yalancı ve şımarığın kim olduğunu bileceklerdir.",
+      "elmali_sade": "İleride o şımarık yalancı kimdir bilecekler.",
+      "cantay": "Şımarık, aşırı yalancı kimmiş, yarın bilecekler onlar.",
+      "piris": "-Yarın onlar kimin yalancı küstah olduğunu görecekler.",
+      "yildirim": "Biz de Peygamberleri Salih'e dedik ki: \"Sen hiç üzülme! Asıl kimin yalancı ve küstah olduğunu yarın öğrenirler!\"",
+      "safa": "\"Kimin saygısız bir yalancı olduğunu yarın görecekler!\"",
+      "yuksel": "Yalancı küstahın kim olduğunu yarın öğreneceklerdir.",
+      "aktas": "Onlar, yarın[1] küstah yalancının kim olduğunu anlayacaklar!",
+      "okuyan": "Yarın (yakında) onlar şımarık yalancının kim olduğunu göreceklerdir."
     },
     {
       "number": 4873,
@@ -440,7 +700,17 @@
       "bulac": "Gerçek şu ki Biz, bir fitne (imtihan ve deneme konusu) olarak o dişi deveyi kendilerine göndereniz. Şu halde sen onları gözleyip bekle ve sabret.",
       "esed": "\"Bak (ey Salih,) Biz bu dişi deveyi onlar için bir sınama olsun diye gönderiyoruz; sen onları sadece seyret ve sabırlı ol.",
       "suleymaniye": "(Salih'e şöyle dedik:) \"Biz, onları imtihan etmek[1] için bir dişi deve göndereceğiz[2]. Sen de onları gözetle ve sabırlı ol.",
-      "ates": "Biz onlara, kendilerini sınamak için dişi deveyi göndereceğiz. Hele sen onları gözetle, sabret."
+      "ates": "Biz onlara, kendilerini sınamak için dişi deveyi göndereceğiz. Hele sen onları gözetle, sabret.",
+      "hulusi": "Muhakkak ki biz, onlara bir sınav objesi olarak dişi deve irsal ettik. . . Artık onları gözetle ve sabret.",
+      "bayrakli": "Gerçekten, onları denemek için dişi deveyi gönderen biziz. Sen onları gözetle ve sabret!",
+      "elmali_sade": "İşte Biz onları imtihan etmek için o dişi deveyi salıyoruz; onun için onları gözet ve sabırlı ol!",
+      "cantay": "Hakıykat, biz onlara, bir imtihaan olmak üzere, o dişi deveyi gönderenleriz. \"Onları gözetle ve fezalarına) sabret\".",
+      "piris": "-Biz onları sınamak için dişi deveyi gönderiyoruz; Onları gözet ve sabret!",
+      "yildirim": "\"Biz imtihan etmek için onlara bir deve göndereceğiz. Şimdi sen onların ne yapacağını bekle ve eziyetlerine sabret.\"",
+      "safa": "\"Aslında, onları sınamak için, dişi deveyi göndereceğiz. Artık, onları seyret ve dirençli ol!\"",
+      "yuksel": "Deveyi bir sınav olarak göndereceğiz. Onları gözetle,  sabırlı ol.",
+      "aktas": "Biz, fitne[1] olsun diye onlara dişi deveyi[2] gönderdik. Artık onları gözetle ve sabret.",
+      "okuyan": "(Ey Salih)! Onları imtihan etmek için dişi devenin göndericileri biziz (onu biz belirledik). Sen onları sadece gözetle ve sabırlı olmaya devam et!"
     },
     {
       "number": 4874,
@@ -456,7 +726,17 @@
       "bulac": "\"Ve onlara, suyun aralarında kesin olarak pay edildiğini haber ver. Su alış sırası (kiminse, o) hazır bulunsun.\"",
       "esed": "Onlara (kuyu) sularının aralarında paylaştırılacağını bildir; her birine eşit paylar (şeklinde.)\"",
       "suleymaniye": "Onlara suyun, o deve ile aralarında paylaştırıldığını bildir. İçme sırası gelen, suyun başında bulunsun[1].\"",
-      "ates": "Onlara, suyun aralarında paylaştırılacağını, (bir gün devenin, bir gün de kendilerinin su içme nöbeti olacağını) haber ver; içme sırası kiminse o gelip suyunu alsın."
+      "ates": "Onlara, suyun aralarında paylaştırılacağını, (bir gün devenin, bir gün de kendilerinin su içme nöbeti olacağını) haber ver; içme sırası kiminse o gelip suyunu alsın.",
+      "hulusi": "Onlara haber ver ki, su aralarında paylaştırılmıştır. . . Her kısım sudan, nöbetleşe payını alsın.",
+      "bayrakli": "Onlara, suyun aralarında paylaştırdığını haber ver! Her biri, kendi içme sırasında gelsin.",
+      "elmali_sade": "Onlara haber ver ki su aralarında nöbetleşe taksim edilmiştir. Herkes suyu sırasına göre alacaktır.",
+      "cantay": "\"Bir de suyun her halde aralarında taksimli olduğunu kendilerine haber ver. Her su nevbetinde (saahibi) haazır (bulunsun\" dedik.)",
+      "piris": "Onlara suyun aralarında taksim edildiğini de haber ver. Su içme sırası gelen hazır bulunsun.",
+      "yildirim": "\"Hem onlara bildir ki su, aralarında nöbetleşe olacak, her su nöbetinde, sahibi hazır bulunacaktır.\"",
+      "safa": "\"Ve suyun aralarında paylaştırılacağını onlara haber ver; içecek olan hazır bulunsun!\"",
+      "yuksel": "Onlara,  suyun (deveyle) aralarında paylaşılacağını bildir. Her içim sırayla sunulacaktır.",
+      "aktas": "Onlara, suyun bölüşüldüğünü haber ver. Her içiş hazır kılınmıştır.",
+      "okuyan": "Onlara, her biri kendi nöbetinde sudan yararlanacak şekilde suyun aralarında paylaşılarak kullanılacağını bildir! "
     },
     {
       "number": 4875,
@@ -472,7 +752,17 @@
       "bulac": "Derken arkadaşlarını çağırdılar, o da bıçağını kapıp 'hayvanı ayağından biçip yere devirdi.'",
       "esed": "Ama onlar (en yakın) adamlarını çağırdılar; o (gelir gelmez kötü bir işe) kalkıştı ve (hayvanı) vahşice boğazladı.",
       "suleymaniye": "Fakat onlar bir arkadaşlarını çağırdılar; o da işi üstlendi ve deveyi ayaklarını keserek öldürdü[1].",
-      "ates": "Bir arkadaşlarını çağırdılar, o da bıçağı çekip (deveyi) kesti."
+      "ates": "Bir arkadaşlarını çağırdılar, o da bıçağı çekip (deveyi) kesti.",
+      "hulusi": "Arkadaşlarına seslenip çağırdılar. Onlar da payını aldı, deveyi de vahşi şekilde boğazladılar!",
+      "bayrakli": "Arkadaşlarını çağırdılar, o da kılıcını kaptı ve deveyi kesti.",
+      "elmali_sade": "Bunun üzerine arkadaşlarına bağırdılar, o da silaha sarıldı ve ayaklarını çırptı (biçti).",
+      "cantay": "Binnetice, arkadaşlarını çağırdılar. O da (kılıca) sarılarak (deveyi) kesdi.",
+      "piris": "Arkadaşlarını çağırdılar, o da elini uzatıp deveyi vahşice boğazladı.",
+      "yildirim": "Onlar en yakın arkadaşlarını çağırdılar, o da bıçağı çıkarıp deveyi kesti.",
+      "safa": "Böylece, arkadaşlarını çağırdılar. Ardından, işe koyulup kesti.",
+      "yuksel": "Bir arkadaşlarını çağırdılar,  o da çekip (deveyi) kesti.",
+      "aktas": "Derken arkadaşlarını çağırdılar,[1] o da bıçağa sarıldı ve kesti.",
+      "okuyan": "Onlar arkadaşlarını çağırmışlar, (içlerinden biri) hemen ileri atılmış ve deveyi vahşice katletmişti.[1]"
     },
     {
       "number": 4876,
@@ -488,7 +778,17 @@
       "bulac": "Şu halde Benim azabım ve uyarmam nasılmış?",
       "esed": "uyarım gözardı edildiğinde verdiğim azap ne şiddetlidir!",
       "suleymaniye": "(Bakın bakalım) benim azabım ve uyarılarım nasıl olmuş[1]!",
-      "ates": "Ama azabım ve uyarılarım nasıl oldu?"
+      "ates": "Ama azabım ve uyarılarım nasıl oldu?",
+      "hulusi": "Benim azabım ve uyarmalarım bak nasıl oldu!",
+      "bayrakli": "Nasılmış benim azabım ve uyarılarım?",
+      "elmali_sade": "Fakat bak nasıl oldu azabım ve uyarılarım?",
+      "cantay": "İşte benim azabım ve (bundan evvel) tehdidlerim nice imiş (düşünün).",
+      "piris": "-Bak şimdi, azabım ve uyarılarım nasıl oldu?",
+      "yildirim": "Nasılmış Benim cezalandırmam ve tehdidim! Görsünler bakalım!",
+      "safa": "Sonunda, cezalandırmam ve uyarılarım nasıl oldu?",
+      "yuksel": "Cezalandırmam ve uyarılarım nasılmış!",
+      "aktas": "Ama azabım ve uyarılarım nasıl oldu?",
+      "okuyan": "Benim azabım ve benim uyarılarım (bak) nasıl olmuştu!"
     },
     {
       "number": 4877,
@@ -504,7 +804,17 @@
       "bulac": "Çünkü Biz onların üzerine bir tek çığlık gönderdik. Böylece onlar, ağıldaki çalı çırpı olan kuru ot gibi oluverdiler.",
       "esed": "Biz onlara (ceza olarak) bir tek darbe vurduk ve bir çiftliğin kurumuş, kırılmış fidanlarına döndüler.",
       "suleymaniye": "Üzerlerine yüksek bir ses gönderdik. Hepsi ağılcının kullandığı kuru ot parçaları gibi oldular[1].",
-      "ates": "Biz onların üzerine tek sayha (korkunç bir ses) gönderdik; ağılcının topladığı kuru ot gibi kırılıp döküldüler."
+      "ates": "Biz onların üzerine tek sayha (korkunç bir ses) gönderdik; ağılcının topladığı kuru ot gibi kırılıp döküldüler.",
+      "hulusi": "Muhakkak ki biz onların üzerine sayha-i vahide (bir tek şiddetli titreşimli ses) irsal ettik de (davarların önüne) konmuş çöp kırıntısı gibi oldular.",
+      "bayrakli": "Biz onların üzerine korkunç bir ses gönderdik. Hemen hayvan ağılına konan kuru ot gibi oluverdiler.",
+      "elmali_sade": "Çünkü Biz üzerlerine tek bir sayha gönderiverdik; ağılcı çırpısı gibi kırılıp dökülüverdiler.",
+      "cantay": "Çünkü biz onların üzerine korkunç bir ses gönderdik de hayvan ağılına konan kuru çalı çırpı ve otlar gibi oluverdiler.",
+      "piris": "Onların üstüne tek bir çığlık gönderdik de deve ağılındaki kuru ot gibi oldular.",
+      "yildirim": "Biz onlara bir sayha, müthiş bir ses gönderdik, davar ağılındaki kuru ot ve çırpı gibi oldular.",
+      "safa": "Aslında, benzersiz bir gürlemeyi, onların üzerine gönderdik. Hayvan barınaklarındaki ufalanmış kuru otlar gibi oldular.",
+      "yuksel": "Üzerlerine bir tek patlama gönderdik ve onlar ağılcının topladığı saman yığınına döndüler.",
+      "aktas": "Biz, onların üzerlerine tek bir sayha gönderdik. Böylece ağıldaki ufalanmış kuru ot gibi oldular.",
+      "okuyan": "(Deveyi kesince) biz de üzerlerine korkunç bir ses göndermiştik. Anında ağıla konulan kuru ot gibi olmuşlardı.[1]"
     },
     {
       "number": 4878,
@@ -520,7 +830,17 @@
       "bulac": "Andolsun Biz Kur'an'ı zikr (öğüt alıp düşünmek) için kolaylaştırdık. Fakat öğüt alıp düşünen var mı?",
       "esed": "Bu nedenle Biz bu Kuran'ı akılda kolay tutulur kıldık. Öyleyse, yok mudur ondan ders almak isteyen?",
       "suleymaniye": "Biz Kur'an'ı, bilgi edinilmesi için gerçekten kolaylaştırdık. Peki, o bilgiyi alan var mı[1]?",
-      "ates": "Andolsun Biz Kur'an'ı öğüt almak için kolaylaştırdık. Öğüt alan yok mudur?"
+      "ates": "Andolsun Biz Kur'an'ı öğüt almak için kolaylaştırdık. Öğüt alan yok mudur?",
+      "hulusi": "Andolsun ki Kuran'ı kolaylaştırdık, hakikatin hatırlanması ve tefekkürü için! Buna göre bir düşünen yok mu?",
+      "bayrakli": "Andolsun ki Kur'an'ı,düşünenler için kolaylaştırdık. Düşünen var mı?",
+      "elmali_sade": "Andolsun ki, Kur'an'ı düşünmek için kolaylaştırdık, fakat düşünen mi var?",
+      "cantay": "Andolsun ki biz Kur'anı düşünmek için kolaylaşdırmışızdır. O halde bir düşünen var mı?",
+      "piris": "Andolsun ki Kur'an'ı öğüt olsun diye kolaylaştırdık. Öğüt alan var mı?",
+      "yildirim": "Yemin olsun, Biz, ders alınsın diye Kur'an'ın anlaşılmasını kolaylaştırdık. Haydi var mı düşünen ve ibret alan?",
+      "safa": "Üstelik gerçek şu ki, Kur'an'ı, düşünmek için kolaylaştırdık. Artık, öğüt alan var mı?",
+      "yuksel": "Kuran'ı mesaj için kolaylaştırdık; öğüt alan yok mudur?",
+      "aktas": "Ant olsun Biz, Kur'an'ı öğüt alınsın diye kolaylaştırdık. Var mı öğüt alıp düşünen?",
+      "okuyan": "Yemin olsun ki Kur'an'ı (gerçeği) hatırla(t)mak için kolaylaştırdık. Hatırlayan var mı? "
     },
     {
       "number": 4879,
@@ -536,7 +856,17 @@
       "bulac": "Lut kavmi de uyarıları yalanladı.",
       "esed": "Lut halkı (da) bütün uyarılar(ımız)ı gözardı etmişti;",
       "suleymaniye": "Lut'un toplumu da uyarılar karşısında yalana sarıldı[1].",
-      "ates": "Lut'un kavmi de uyarıları yalanladı."
+      "ates": "Lut'un kavmi de uyarıları yalanladı.",
+      "hulusi": "Lut kavmi de uyarıcıları yalanladı.",
+      "bayrakli": "Lut'un toplumu da uyarıcıları yalanladı.",
+      "elmali_sade": "Lut'un kavmi o uyarılara yalan dediler.",
+      "cantay": "Lut kavmi (kendilerini azab ile) korkutan (emir) leri yalan saydılar.",
+      "piris": "Lut'un kavmi de tehditlerine kulak asmamıştı.",
+      "yildirim": "Lut kavmi de peygamberlerini yalancı saydılar.",
+      "safa": "Lut toplumu da uyarıları yalanlamıştı.",
+      "yuksel": "Lut halkı da uyarıları yalanlamıştı.",
+      "aktas": "Lut'un halkı da uyarıcılarını yalanladı.",
+      "okuyan": "Lut'un halkı da uyarıları yalanlamıştı."
     },
     {
       "number": 4880,
@@ -552,7 +882,17 @@
       "bulac": "Biz de onların üzerine taş yağdıran bir kasırga gönderdik. Yalnız Lut ailesini (bu azabtan ayrı tuttuk;) onları seher vakti kurtardık;",
       "esed": "Onların üzerine de öldürücü bir kasırga saldık ve şafak vakti yalnız Lut'un ailesini kurtardık,",
       "suleymaniye": "Lut'un ailesi dışında kalanlara, (lav çamurlarından oluşmuş[1]) taş ve toprak savuran bir kasırga gönderdik. Lut'un ailesini ise[2] seher vaktinde[3] kurtardık,",
-      "ates": "Biz de üstlerine (taşlar savuran) bir fırtına gönderdik, yalnız Lut ailesini seher vakti kurtardık;"
+      "ates": "Biz de üstlerine (taşlar savuran) bir fırtına gönderdik, yalnız Lut ailesini seher vakti kurtardık;",
+      "hulusi": "Muhakkak ki biz onlara taşlar fırlatan kasırga irsal ettik. . . Lut'un ailesi müstesna. . . Onları seherde kurtardık.",
+      "bayrakli": "- Lut ailesi hariç, biz de onların üzerine taş yağdırdık. Katımızdan bir nimet olarak, Lut ailesini seher vakti kurtardık. Şükredenleri işte böyle ödüllendiririz.",
+      "elmali_sade": "Biz de üzerlerine taşlar yağdıran (kasırga) gönderdik. Yalnız Lut ailesini bir seher vakti kurtardık,",
+      "cantay": "Biz onlara taş (yağdıran bir fırtına) gönderdik (helak etdik). Lutun ailesi müstesna. Onları bir sehar vakti kurtardık.",
+      "piris": "Biz de üzerlerine taş yağdıran fırtına gönderdik. Ancak Lut'un ailesini, seher vakti kurtarmıştık.",
+      "yildirim": "(34-35) Biz de Lut'un ailesi dışında, hepsinin üzerine taş savuran bir fırtına gönderdik. Onları ise, tarafımızdan bir nimet olarak seher vakti kurtardık. İşte şükredenleri Biz böyle ödüllendiririz.",
+      "safa": "Aslında, taş savuran bir kasırgayı, onların üzerine gönderdik. Ve güneşin doğmasına yakın, yalnızca Lut'un ailesini kurtardık.",
+      "yuksel": "Üzerlerine taş yağdıran bir fırtına gönderdik,  yalnız Lut'un ailesini seher vakti kurtardık.",
+      "aktas": "Biz de onların üzerlerine yok edici kasırga[1] gönderdik. Lut'un yanında yer alanlar bunun dışında tutuldu. Seher vakti onları kurtardık.",
+      "okuyan": "(34, 35) Lut'un ailesi (destekçileri) hariç, üzerlerine taş göndermiştik (yağdırmıştık). Onları (Lut'un destekçilerini) ise katımızdan bir nimet olarak seher vakti kurtarmıştık. Biz şükredenin karşılığını işte böyle veririz."
     },
     {
       "number": 4881,
@@ -568,7 +908,17 @@
       "bulac": "Tarafımızdan bir nimet olarak. İşte Biz, şükredenleri böyle ödüllendiririz.",
       "esed": "katımızdan bir nimet olarak; işte biz şükredenleri böyle ödüllendiririz.",
       "suleymaniye": "katımızdan bir nimet olarak... Şükredenleri /görevlerini yerine getirenleri işte böyle ödüllendiririz[1].",
-      "ates": "Katımızdan bir ni'met olarak. Biz şükredeni böyle mükafatlandırırız."
+      "ates": "Katımızdan bir ni'met olarak. Biz şükredeni böyle mükafatlandırırız.",
+      "hulusi": "İndimizden bir nimet olmak üzere. . . Şükredeni işte böyle cezalandırırız!",
+      "bayrakli": "- Lut ailesi hariç, biz de onların üzerine taş yağdırdık. Katımızdan bir nimet olarak, Lut ailesini seher vakti kurtardık. Şükredenleri işte böyle ödüllendiririz.",
+      "elmali_sade": "Tarafımızdan bir nimet olarak! İşte şükredeni böyle karşılarız.",
+      "cantay": "Tarafımızdan bir ni'met olarak. İşte şükredenleri biz böyle mükafatlandırırız.",
+      "piris": "Katımızdan bir nimet olarak. Şükredenleri işte böyle ödüllendiririz.",
+      "yildirim": "(34-35) Biz de Lut'un ailesi dışında, hepsinin üzerine taş savuran bir fırtına gönderdik. Onları ise, tarafımızdan bir nimet olarak seher vakti kurtardık. İşte şükredenleri Biz böyle ödüllendiririz.",
+      "safa": "Bizim katımızdan bir nimet olarak. Şükredenleri, işte böyle ödüllendiririz.",
+      "yuksel": "Katımızdan bir iyilik olarak. Şükredeni işte böyle ödüllendiririz.",
+      "aktas": "İşte şükredenleri katımızdan bir nimet olarak böyle ödüllendiririz.",
+      "okuyan": "(34, 35) Lut'un ailesi (destekçileri) hariç, üzerlerine taş göndermiştik (yağdırmıştık). Onları (Lut'un destekçilerini) ise katımızdan bir nimet olarak seher vakti kurtarmıştık. Biz şükredenin karşılığını işte böyle veririz."
     },
     {
       "number": 4882,
@@ -584,7 +934,17 @@
       "bulac": "Oysa andolsun, zorlu yakalamamıza karşı onları uyarmıştı. Fakat onlar, bu uyarıları kuşkuyla karşılayıp yalanlamakta direttiler.",
       "esed": "Aslında o, Bizim cezalandırma gücümüz konusunda onları uyarmıştı; ama onlar bu uyarılara hep şüpheyle baktılar,",
       "suleymaniye": "Lut, vuracağımız darbe hakkında onları uyarmıştı[1] ama uyarıları kuşkuyla karşıladılar.",
-      "ates": "Lut, onları bizim yakalamamıza karşı uyarmıştı, fakat uyarılara karşı kuşku duydular."
+      "ates": "Lut, onları bizim yakalamamıza karşı uyarmıştı, fakat uyarılara karşı kuşku duydular.",
+      "hulusi": "Andolsun ki (Lut) onları şiddetle yakalamamız konusunda uyardı da, onlar uyarıcıları kuşkuyla karşıladılar!",
+      "bayrakli": "Andolsun ki, Lut, onları bu yakalayışımıza karşı uyardı. Onlar bu uyarıları şüphe ile karşıladılar.",
+      "elmali_sade": "Andolsun ki (Lut) tutuşumuzun şiddetini kendilerine ihtar da etmişti. Fakat o ihtarları kavga ve şüphe ile karşıladılar.",
+      "cantay": "Andolsun ki (Lut) onlara (kendilerini) azab ile yakalayacağımızı da haber vermişdi. Fakat onlar bu korkutmaları şübhe ile tekzib etdiler.",
+      "piris": "Lut, onları şiddetli azabımız hakkında uyarmıştı. Ama onlar, uyarıları şüphe ile karşıladılar.",
+      "yildirim": "Lut onları Bizim yakalarından tutup azaba çarptıracağımızı söyleyerek tehdit etmişti. Ama onlar uyarmalara karşı şüpheye düştüler.",
+      "safa": "Oysa gerçek şu ki, bu yakalayışımıza ilişkin onları uyarmıştı. Ama bu uyarılardan kuşku duydular.",
+      "yuksel": "Onları bu yakalayışımıza karşı uyarmıştı; ancak onlar uyarıları kuşkuyla karşıladılar.",
+      "aktas": "Ant olsun ki yakalayıp tutuşumuza karşı onları uyarmıştı. Ne var ki onlar bu uyarıları kuşku ile karşıladılar.",
+      "okuyan": "Yemin olsun ki yakalamamızla ilgili (Lut daha önceden) kendilerini uyarmıştı, (ama) onlar bu tehditleri kuşkuyla karşılamışlardı. "
     },
     {
       "number": 4883,
@@ -600,7 +960,17 @@
       "bulac": "Andolsun onlar, onun konuklarından da murad almak için baskı yaptılar. Biz de onların gözlerini silip kör ettik. \"İşte azabımı ve uyarmamı tadın.\"",
       "esed": "Ve hatta o'ndan misafirlerini (kendilerine) teslim etmesini istediler. Bunun üzerine onları (gerçeği) görmekten yoksun bıraktık. \"Uyarılarım gözardı edildiğinde başınıza gelen azabı tadın bakalım!\" (diye seslendik.)",
       "suleymaniye": "Üstelik Lut'tan, ısrarla onun konukları ile birlikte olmayı istediler[1]. Biz de onların gözlerini kör ettik[2]. \"Azabımı ve uyarılarımı şimdi tadın bakalım.\"",
-      "ates": "Onun (güzel delikanlılar şeklinde görünen melek) konuklarından murad almağa kalkıştılar. Biz de gözlerini siliverdik: \"Haydi azabımı ve uyarılarımı tadın!\""
+      "ates": "Onun (güzel delikanlılar şeklinde görünen melek) konuklarından murad almağa kalkıştılar. Biz de gözlerini siliverdik: \"Haydi azabımı ve uyarılarımı tadın!\"",
+      "hulusi": "Andolsun ki Onun (Lut'un) konuklarından (şehvetle) zevk almak istediler de bu yüzden (görüşlerini) tam bir körlüğe soktuk! \"Şimdi tadın azabımı ve uyarmalarımı!\"",
+      "bayrakli": "Andolsun ki, onlar Lut'tan misafirlerini kendilerine teslim etmesini istediler. Bunun üzerine biz de onların gözlerini kör ettik. \"Cezamı ve uyarımı tadın!\" dedik.",
+      "elmali_sade": "Ve onun konuklarından murad almaya kalkıştılar. Biz de gözlerini siliverdik (kör ettik) ve: \"Tadın bakalım azabımı ve uyanlarımı.\" dedik.",
+      "cantay": "Andolsun ki onlar müsafirlerine (bile) kötülük yapmayı kasd etmişlerdi. Biz de gözlerini silme kör ediverdik. \"İşte, (dedik,) azabımı ve tehdidlerimi (n akıbetini) tadın\".",
+      "piris": "Onlar, Lut'un misafirlerinden murat almak istemişlerdi. Biz de onların gözlerini kör ettik. -Şimdi tadına bakın azabımın ve tehdidimin!",
+      "yildirim": "Onlar Lut'un misafirlerine karşı niyetlerini bozdular, onlarla yalnız kalmak için gidip gidip geldiler. Biz de gözlerini silme kör ettik. Haydi tadın Benim cezalandırmamı ve tehditlerimi!",
+      "safa": "Üstelik gerçek şu ki, Onun konuklarına göz koydular. Bunun üzerine, onları, görmekten yoksun bıraktık.[474] \"Artık tadın, cezamı ve uyardıklarımı!\"",
+      "yuksel": "Onun konuklarına göz diktiler,  biz de onları kör ettik. Azabımı ve uyarılarımı tadın bakalım.",
+      "aktas": "Ant olsun ki onun misafirlerinden cinsel yönden yararlanmak istediler. Bunun üzerine gözlerini sildik.[1] Azabımı ve uyarılarımı tadın.",
+      "okuyan": "Yemin olsun ki onlar (Lut'un) misafirlerinden (ahlaksızca) yararlanmak bile istemişlerdi de gözlerini kör etmiştik. (Kendilerine) \"Benim azabımı ve benim uyarılarım(a itibar etmemenizin sonucunu) tadın!\" (demiştik). "
     },
     {
       "number": 4884,
@@ -616,7 +986,17 @@
       "bulac": "Andolsun onları bir sabah vakti erkenden, üzerlerinde kararını kılmış bir azab yakalayıp bastırıverdi.",
       "esed": "Nitekim sabahın erken vaktinde (etkileri) kalıcı bir azap onları yakaladı:",
       "suleymaniye": "Sabahleyin erkenden onlara kalıcı bir azap indi[1].",
-      "ates": "Sabah erken, onları kararlı bir azab yakaladı."
+      "ates": "Sabah erken, onları kararlı bir azab yakaladı.",
+      "hulusi": "Andolsun ki yerini bulmuş azap onlara sabahleyin bastırdı.",
+      "bayrakli": "Andolsun ki, bir sabah kendilerine, yakalarını bir daha bırakmayacak olan bir azap gelip çattı.",
+      "elmali_sade": "Andolsun ki, kendilerini kararlı bir azap bir sabah bastırıverdi.",
+      "cantay": "Andolsun ki onlara bir sabah, (yakalarını) asla bırakmayacak olan bir azab baskın yapdı.",
+      "piris": "Andolsun ki bir sabah erkenden, bir azap çöküverdi.",
+      "yildirim": "Bir sabah kendilerini, yakalarını hiç bırakmayacak bir azap bastırıverdi.",
+      "safa": "Ve gerçek şu ki, kalıcı bir ceza, sabah erkenden onları yakaladı.",
+      "yuksel": "Ertesi gün,  yaman bir azap sabahlarını kutladı.",
+      "aktas": "Ant olsun ki, onları sabahleyin kalıcı bir azap yakaladı.",
+      "okuyan": "Bir sabah erkenden onları kararlı bir azap yakalamıştı. "
     },
     {
       "number": 4885,
@@ -632,7 +1012,17 @@
       "bulac": "Şimdi azabımı ve uyarmamı tadın.",
       "esed": "\"Uyarılarım gözardı edildiğinde başınıza gelen azabı tadın bakalım!\"",
       "suleymaniye": "\"Azabımı ve uyarılarımı şimdi tadın bakalım.\"",
-      "ates": "\"Azabımı ve uyarılarımı(n akıbetini) tadın!\""
+      "ates": "\"Azabımı ve uyarılarımı(n akıbetini) tadın!\"",
+      "hulusi": "Şimdi tadın azabımı ve uyarmalarımı!",
+      "bayrakli": "İşte, azabımı ve uyarımı tadın!",
+      "elmali_sade": "Tadın bakalım azabımı ve uyarılarımı!",
+      "cantay": "\"İşte tadın benim azabımı ve tehdidlerimi (n akıbetini)\".",
+      "piris": "-Tadın azabımı ve tehdidimi!",
+      "yildirim": "Haydi tadın Benim cezalandırmamı ve tehditlerimi!",
+      "safa": "\"Artık, tadın, cezamı ve uyardıklarımı!\"",
+      "yuksel": "Azabımı ve uyarılarımı tadın bakalım.",
+      "aktas": "Haydi! Tadın bakalım, azabımı ve uyarılarımı!",
+      "okuyan": "(Kendilerine) \"Azabımı ve uyarılarım(a itibar etmemenizin sonucunu) tadın!\" (demiştik)."
     },
     {
       "number": 4886,
@@ -648,7 +1038,17 @@
       "bulac": "Andolsun Biz Kur'an'ı zikr (öğüt alıp düşünmek) için kolaylaştırdık. Fakat öğüt alıp düşünen var mı?",
       "esed": "Bu nedenle, Biz bu Kuran'ı akılda kolay tutulur kıldık. Öyleyse, yok mudur ondan ders almak isteyen?",
       "suleymaniye": "Biz Kur'an'ı, bilgi edinilmesi için gerçekten kolaylaştırdık. Peki, o bilgiyi alan var mı[1]?",
-      "ates": "Andolsun biz Kur'an'ı öğüt almak için kolaylaştırdık. Öğüt alan yok mudur?"
+      "ates": "Andolsun biz Kur'an'ı öğüt almak için kolaylaştırdık. Öğüt alan yok mudur?",
+      "hulusi": "Andolsun ki Kuran'ı kolaylaştırdık, hakikatin hatırlanması ve tefekkürü için! Buna göre bir düşünen yok mu?",
+      "bayrakli": "Andolsun ki Kur'an'ı,düşünenler için kolaylaştırdık. Düşünen var mı?",
+      "elmali_sade": "Andolsun ki, Kur'an'ı düşünmek için kolaylaştırdık, fakat düşünen mi var?",
+      "cantay": "Andolsun ki biz Kur'anı düşünmek için kolaylaşdırmışızdır. O halde var mı düşünen?",
+      "piris": "Andolsun ki öğüt olması için Kur'an'ı kolaylaştırdık. İbret alan var mı?",
+      "yildirim": "Yemin olsun: Biz, ders alınsın diye Kur'an'ın anlaşılmasını kolaylaştırdık. Haydi, var mı düşünen ve ibret alan?",
+      "safa": "Üstelik gerçek şu ki, Kur'an'ı, düşünmek için kolaylaştırdık. Artık, öğüt alan var mı?",
+      "yuksel": "Kuran'ı mesaj için kolaylaştırdık; öğüt alan yok mudur?",
+      "aktas": "Ant olsun Biz, Kur'an'ı öğüt alınsın diye kolaylaştırdık. Var mı öğüt alıp düşünen?",
+      "okuyan": "Yemin olsun ki Kur'an'ı (gerçeği) hatırla(t)mak için kolaylaştırdık. Hatırlayan var mı?"
     },
     {
       "number": 4887,
@@ -664,7 +1064,17 @@
       "bulac": "Andolsun Firavun ailesi (ve çevresi ile kavmi)ne de uyarılar geldi.",
       "esed": "Firavun halkına (da) kesinlikle bu tür uyarılar gelmişti;",
       "suleymaniye": "Firavun hanedanına da uyarılar geldi[1].",
-      "ates": "Fir'avn'ın kavmine de uyarılar gelmiştir."
+      "ates": "Fir'avn'ın kavmine de uyarılar gelmiştir.",
+      "hulusi": "Andolsun ki Firavun ailesine de uyarıcılar geldi.",
+      "bayrakli": "Firavun ailesine de uyarıcılar gelmişti.",
+      "elmali_sade": "Andolsun ki, Firavun'un ailesine de uyarıcı peygamberler geldi.",
+      "cantay": "Andolsun ki Fir'avn haanedanına da tehdidler gelmişdir.",
+      "piris": "Firavun Hanedanına da uyarıcılar gelmişti.",
+      "yildirim": "Firavun hanedanına da uyaran peygamberler geldi.",
+      "safa": "Oysa gerçek şu ki, Firavun ailesine de uyarıcılar gelmişti.",
+      "yuksel": "Firavunun erkanına da uyarıcılar gitmişti.",
+      "aktas": "Ant olsun ki, Firavun ailesine[1] de uyarıcılar gelmişti.",
+      "okuyan": "Şüphesiz ki Firavun'un ailesine (destekçilerine) de uyarı(cı)lar gelmişti."
     },
     {
       "number": 4888,
@@ -680,7 +1090,17 @@
       "bulac": "Onlar Bizim ayetlerimizin tümünü yalanladılar. Biz de onları üstün ve güçlü, kudretli olanın yakalayışıyla yakalayıverdik.",
       "esed": "Onlar Bizim bütün mesajlarımızı yalanlamışlardı. Bunun üzerine, yalnızca, her şeyin belirleyicisi olan Kudret Sahibinin hesap soracağı şekilde onlara hesap sorduk.",
       "suleymaniye": "Ayetlerimizin tamamı karşısında yalana sarıldılar. Biz de onları, daima üstün ve iktidar sahibi olana yaraşır biçimde yakaladık[1].",
-      "ates": "Bütün ayetlerimizi yalanladılar. Biz de onları, galib ve güçlü (padişah)ın yakalaması gibi yakaladık."
+      "ates": "Bütün ayetlerimizi yalanladılar. Biz de onları, galib ve güçlü (padişah)ın yakalaması gibi yakaladık.",
+      "hulusi": "İşaretlerimizin hepsini yalanladılar! Biz de onları karşı konulmaz kudretle yakaladık!",
+      "bayrakli": "Bütün mucizelerimizi yalanladılar. Bunun üzerine biz de, her şeye gücü yeten ve her şeyin üstesinden gelene yaraşır bir biçimde yakaladık.",
+      "elmali_sade": "Ayetlerimizin hepsini yalanladılar. Biz de onları üstün ve güçlü birine yaraşır bir tutuşla alıverdik.",
+      "cantay": "Onlar bizim ayetlerimizin hepsini tekzib etdiler. Biz de kendilerini çok kuvvetli, kudretli bir yakalayışla yakaladık.",
+      "piris": "Bütün ayetlerimizi yalanladılar. Onları da mutlak güç ve iktidar sahibine yakışır bir şekilde yakalayıverdik.",
+      "yildirim": "Onlar ayet ve delillerimizin hepsini yalan saydılar. Biz de onları mutlak galip, tam muktedir olan Allah'ın şanına yaraşır tarzda cezalandırdık.",
+      "safa": "Tüm kanıtlarımızı yalanladılar. Sonunda, Üstün Olanın; Dilediğini Yapanın yakalayışıyla onları yakaladık.",
+      "yuksel": "Tüm mucizelerimizi yalanladılar ve biz de onları En Üstün ve Her şeye Gücü Yetenin yakalayışı gibi yakaladık.",
+      "aktas": "Ayetlerimizin tamamını yalanladılar. Biz de onları gücümüze, üstünlüğümüze yaraşır bir yakalayışla yakalayıverdik.",
+      "okuyan": "(Fakat) onlar da bütün ayetlerimizi yalanlamışlardı. (Bunun üzerine) biz de onları, güç ve kudretimize uygun bir şekilde yakalamıştık."
     },
     {
       "number": 4889,
@@ -696,7 +1116,17 @@
       "bulac": "Sizin kafirleriniz onlardan daha hayırlı mıdır? Yoksa sizin için Kitaplarda bir beraat mi var?",
       "esed": "Öyleyse, (şimdi) sizden hakikati inkar edenler diğerlerinden daha mı iyidirler; yoksa (kadim ilahi) hikmet belgelerinde sizin için dokunulmazlık (sözü) mü verildi?",
       "suleymaniye": "(Ey Mekkeliler!) Sizin kafirleriniz onlardan iyi mi[1]? Yoksa zeburlarda[2] /kitaplarda sizin lehinize bir beraat /aklanma kararı mı var!",
-      "ates": "Şimdi sizin kafirleriniz, ötekilerinizden hayırlı mı? Yoksa Kitaplarda sizin için bir beraet (inkarınızdan dolayı size sorumsuzluk) mu var?"
+      "ates": "Şimdi sizin kafirleriniz, ötekilerinizden hayırlı mı? Yoksa Kitaplarda sizin için bir beraet (inkarınızdan dolayı size sorumsuzluk) mu var?",
+      "hulusi": "Sizin hakikat bilgisini inkar edenleriniz bunlardan daha mı hayırlıdır? Yoksa zeburlarda (hikmetli bilgilerde) sizin için bir kurtuluş müjdesi mi var?",
+      "bayrakli": "Sizin kafirleriniz onlardan daha mı iyidir? Yoksa sizin için, eski kitaplarda azaptan kurtuluş belgesi mi var?",
+      "elmali_sade": "Sizin kafirleriniz onlardan hayırlı mı? Yoksa (önceki) kitaplarda sizin için bir beraat (kararı) mı var?",
+      "cantay": "(Ey Kureyş), sizin kafirleriniz (bütün) bunlardan daha mı hayırlıdır? Yoksa (semavi) kitablarda sizin için bir beraet mi var?",
+      "piris": "-Sizin kafirleriniz, onlardan daha mı iyi? Yoksa, kitaplarda sizin (azaptan) kurtulacağınız bir ayrıcalığınız mı var?",
+      "yildirim": "Şimdi söyleyin (ey Mekkeliler!) Sizin kafirleriniz onlardan daha mı güçlüdür! Yoksa ilahi kitaplarda sizin ebedi olan ahirette kurtulacağınıza dair berat senedi mi var?",
+      "safa": "Sizin nankörlük edenleriniz, onlardan daha mı iyi? Yoksa sizin için, kitaplarda dokunulmazlık mı var?",
+      "yuksel": "Sizin inkarcılarınız onlarınkinden daha mı iyi? Yoksa kitaplarda kendiniz için bir af ilanına mı rastladınız?",
+      "aktas": "Sizin[1] kafirleriniz onlardan daha mı hayırlı; yoksa kitaplarda size dokunulmayacağına dair söz mü verildi?",
+      "okuyan": "Sizin kâfirleriniz onlardan daha mı iyidir? Yoksa sizin için kitaplarda (azaptan) uzak olma (bilgisi) mi var! "
     },
     {
       "number": 4890,
@@ -712,7 +1142,17 @@
       "bulac": "\"Biz, 'birbiriyle yardımlaşıp öcünü alan' bir toplumuz\" mu diyorlar?",
       "esed": "Yoksa onlar, \"Biz yek vücut olmuş bir grubuz, (ve bundan dolayı) üstünlük bizim hakkımız!\" mı diyorlar?",
       "suleymaniye": "Yoksa bunlar: \"Biz birbiriyle yardımlaşan bir topluluğuz.\" mu diyorlar?",
-      "ates": "Yoksa \"Biz muzaffer (yenilmez) bir topluluğuz\" mu diyorlar?"
+      "ates": "Yoksa \"Biz muzaffer (yenilmez) bir topluluğuz\" mu diyorlar?",
+      "hulusi": "Yoksa: \"Biz yardımlaşan (yenilmez) topluluğuz\" mu diyorlar?",
+      "bayrakli": "Yoksa onlar, \"Biz üstün olan bir toplumuz\" mu diyorlar?",
+      "elmali_sade": "Yoksa: \"Biz yardımlaşan bir topluluğuz.\" mu diyorlar?",
+      "cantay": "Yoksa onlar \"Biz (peygamberlerden) intikaam olmıya muktedir bir cem'iyyet iz\" mi diyorlar?.",
+      "piris": "Yoksa onlar: -Biz, yenilmez bir toplumuz mu diyorlar?",
+      "yildirim": "Ne o, \"Biz tam dayanışma halinde olan, muzaffer bir topluluğuz\" mu diyorlar?",
+      "safa": "Yoksa şöyle mi diyorlar: \"Biz, yardımlaşan bir cemaatiz!\"",
+      "yuksel": "Yoksa,  \"Biz,  zafere ulaşacak bir cemaatiz\" mi diyorlar?",
+      "aktas": "Yoksa: \"Biz, güç birliği etmiş yenilmez bir toplumuz.\" mu diyorlar?",
+      "okuyan": "Yoksa \"Biz güçlü bir topluluğuz!\" mu diyorlar?"
     },
     {
       "number": 4891,
@@ -728,7 +1168,17 @@
       "bulac": "Yakında o toplum bozguna uğratılacak ve arkalarını dönüp kaçacaklardır.",
       "esed": "(Ama hakikati inkar edenlerin) ordusu bozguna uğrayacak, arkalarını dönecek (ve kaçacak)lar!",
       "suleymaniye": "Toplulukları yakında bozguna uğratılacak ve birbirlerine sırt çevirecekler[1].",
-      "ates": "O topluluk bozulacak ve geriye dönüp kaçacaklardır."
+      "ates": "O topluluk bozulacak ve geriye dönüp kaçacaklardır.",
+      "hulusi": "Yakında o topluluk (Bedir'de) yenilecek ve arkalarını dönüp kaçacaklar!",
+      "bayrakli": "Yakında o topluluk mağlup olacak ve sırtlarını dönüp kaçacaklardır.",
+      "elmali_sade": "Her halde o topluluk bozulacak ve arkalarını dönüp gidecekler.",
+      "cantay": "Yakında o cem'iyyet bozulacak, onlar arkalarını dönüb kaçacaklardır.",
+      "piris": "Bu topluluk hezimete uğrayacak ve arkalarını dönüp kaçacaklardır.",
+      "yildirim": "İyi bilsinler: Onların toplu kuvvetleri bozguna uğrayacak ve arkalarını dönüp kaçacaklardır.",
+      "safa": "O cemaat bozguna uğratılacak ve arkalarına dönüp kaçacaklar.",
+      "yuksel": "O cemaat bozguna uğratılacak; dönüp kaçacaklar.",
+      "aktas": "Yakında o topluluk bozguna uğrayacak ve darmadağın olacaklar.[1]",
+      "okuyan": "O topluluk, ileride bozguna uğratılacak ve arkalarını dönüp kaçacaklardır. "
     },
     {
       "number": 4892,
@@ -744,7 +1194,17 @@
       "bulac": "Daha doğrusu onlara va'dedilen (asıl azab) (kıyamet) saatidir. O saat, 'kurtuluş olmayan daha korkunç bir bela' ve daha acıdır.",
       "esed": "Evet! Son Saat, onların kaderleriyle gerçekten buluşacakları andır; ve o Son Saat en korkunç ve en acı (an) olacaktır;",
       "suleymaniye": "Yeniden diriliş saati, asıl tehdit edildikleri saattir[1]. O saat (dünyada yaşayacaklarından) daha dehşetli ve daha acıdır[2].",
-      "ates": "Hayır, buluşma zamanları o (uyarıldıkları) sa'attir. O sa'at cidden çok feci ve acıdır;"
+      "ates": "Hayır, buluşma zamanları o (uyarıldıkları) sa'attir. O sa'at cidden çok feci ve acıdır;",
+      "hulusi": "Hayır, onların azapla buluşma zamanı O Saat'tir (ölüm)! O saat, (savaş yenilgisinden) daha şiddetli ve daha acıdır.",
+      "bayrakli": "Doğrusu kıyamet saati onların azap vaktidir. O saat daha dehşetli ve daha acıdır.",
+      "elmali_sade": "Daha doğrusu onların asıl buluşma zamanları kıyamettir. Kıyamet ise daha acı ve daha bela ve beterdir.",
+      "cantay": "Daha doğrusu onlara va'd olunan asıl (azabın) vakti, o saatdir. O saat (in azabı) daha belalı, daha acıdır.",
+      "piris": "Onlara asıl vaat edilen kıyamettir. Kıyamet daha korkunç ve daha acıdır.",
+      "yildirim": "Daha doğrusu, onların asıl buluşma zamanları, kıyamet saatidir. Kıyamet saatinin dehşeti ise tarif edilemeyecek kadar müthiş ve acıdır!",
+      "safa": "Hayır! Onlara, evrenlerin sonunun sözü verilmiştir. Evrenlerin sonu, çok korkunç ve çok acı olacaktır.",
+      "yuksel": "O an onları beklemektedir,  daha korkunç ve acıdır.",
+      "aktas": "Hayır! Asıl onlara vaat edilen o Sa'at'tir.[1] Ve o Sa'at, daha korkunç daha dehşetlidir.",
+      "okuyan": "Aslında o (Son) Saat, onların buluşma zamanıdır ve o (Son) Saat daha dehşetlidir; daha acıdır. "
     },
     {
       "number": 4893,
@@ -760,7 +1220,17 @@
       "bulac": "Hiç şüphesiz suçlular günahkarlar, bir sapmışlık (dalalet) ve çılgınlık içindedirler.",
       "esed": "çünkü, günaha batmış olanlar (o zaman, görecekler ki) sapıklıkta ve ahmaklıkta kaybolup gitmişler!",
       "suleymaniye": "Suça batanlar, gerçekten sapkınlık ve çılgınlık içindedirler[1].",
-      "ates": "Suçlular bir sapıklık ve çılgınlık içindedir."
+      "ates": "Suçlular bir sapıklık ve çılgınlık içindedir.",
+      "hulusi": "Muhakkak ki suçlular bir sapma ve ahmaklık içindedirler.",
+      "bayrakli": "Şüphesiz suçlular bir sapıklık ve çılgınlık içerisindedirler.",
+      "elmali_sade": "Muhakkak ki, suçlular şaşkınlık ve çılgınlıklar içindedirler.",
+      "cantay": "Şübhe yok ki günahkarlar (dünyada) sapıklık ve (ahiretde) çılgın ateşler içindedirler.",
+      "piris": "Şüphesiz günahkarlar sapıklık ve çılgınlık içindedirler.",
+      "yildirim": "Mücrimler tam bir şaşkınlık ve çılgınlık içindedirler.",
+      "safa": "Kuşkusuz, suçlular, sapkınlık ve çılgınlık içindeler.",
+      "yuksel": "Suçlular bir sapıklık ve cehennem içindedir.",
+      "aktas": "Kuşkusuz, mücrimler sapkınlık ve çılgınlık içindedirler.",
+      "okuyan": "Şüphesiz ki suçlular sapkınlık ve çılgınlık içindedir."
     },
     {
       "number": 4894,
@@ -776,7 +1246,17 @@
       "bulac": "Ateşin içinde yüzükoyun sürüklenecekleri gün \"Cehennemin dokunuşunu tadın\" (denecek.)",
       "esed": "Yüzükoyun ateşe sürüklenecekleri o Gün (onlara denilecek:) \"Cehennem ateşinin dokunuşunu tadın bakalım şimdi!\"",
       "suleymaniye": "Ateşin içinde yüzüstü süründürülecekleri gün[1] onlara: \"Sakarın[2] /Cehennemin dokunuşlarını tadın bakalım!\" (denir).",
-      "ates": "O gün yüzükoyun ateşe sürüklenecekler: \"Cehennemin dokunuşunu tadın!\" diye."
+      "ates": "O gün yüzükoyun ateşe sürüklenecekler: \"Cehennemin dokunuşunu tadın!\" diye.",
+      "hulusi": "O süreçte yüzleri üzere ateşte sürüklenirler! \"Sakar'ın (cehennemin) yakışını tadın!\" (denilir).",
+      "bayrakli": "Yüzüstü ateşe sürüklendikleri gün kendilerine: \"Cehennemin dokunuşunu tadın!\" denir.",
+      "elmali_sade": "O gün yüz üstü ateşe sürüklenecekler! \"Tadın neymiş cehennemin dokunuşu!\" diye.",
+      "cantay": "O gün onlar yüzleri üstü ateşde sürüklenirler. (Onlara) \"Tadın cehennemin dokunuşunu\" (denilir).",
+      "piris": "O gün cehenneme yüzüstü sürüleceklerdir. -Tadın ateşin dokunuşunu!",
+      "yildirim": "O gün cehennemde yüzleri üstü süründürülürler ve kendilerine: \"Tadın cehennemin temasını!\" denilir.",
+      "safa": "O gün, yüzüstü ateşe sürüklenecekler: \"Tadın, yakıcı ateşin dokunuşunu!\"",
+      "yuksel": "Yüzükoyun ateşe sürüklenecekleri gün: \"Sakar'ın dokunuşunu tadın.\"[1]",
+      "aktas": "O Gün yüz üstü sürülerek ateşe atılırlar. \"Cehennem ateşinin dokunuşunu tadın!\"",
+      "okuyan": "O gün ateşe yüzüstü sürüklenip (kendilerine) \"Sekar (cehennemin)in dokunuşunu tadın!\" (denecektir)."
     },
     {
       "number": 4895,
@@ -792,7 +1272,17 @@
       "bulac": "Hiç şüphesiz, biz her şeyi kader ile yarattık.",
       "esed": "Bakın, Biz her şeyi gerekli ölçü ve nisbette yarattık;",
       "suleymaniye": "Şüphesiz ki biz, her şeyi bir ölçüye göre yarattık[1].",
-      "ates": "Biz her şeyi bir kadere (bir düzene, ölçüye, plana) göre yarattık."
+      "ates": "Biz her şeyi bir kadere (bir düzene, ölçüye, plana) göre yarattık.",
+      "hulusi": "Muhakkak ki biz her şeyi kaderiyle (yazılı - programlanmış) yarattık!",
+      "bayrakli": "Şüphesiz biz, her şeyi bir ölçüye göre yarattık.",
+      "elmali_sade": "Haberiniz olsun ki, Biz her şeyi bir kaderle yaratmışızdır.",
+      "cantay": "Şübhesiz ki biz herşey'i bir takdir ile yaratdık.",
+      "piris": "Biz her şeyi bir ölçüye göre yarattık.",
+      "yildirim": "Muhakkak ki Biz her şeyi bir kaderle, bir ölçü ile yarattık.",
+      "safa": "Kuşkusuz, her şeyi bir ölçüyle yarattık.",
+      "yuksel": "Biz her şeyi belli bir ölçüyle yaratmışızdır.",
+      "aktas": "Biz, her şeyi bir yasayla yarattık.[1]",
+      "okuyan": "Şüphesiz ki biz her şeyi bir ölçüyle yarattık.[1]"
     },
     {
       "number": 4896,
@@ -808,7 +1298,17 @@
       "bulac": "Bizim emrimiz, bir göz kırpma gibi yalnızca 'bir keredir.'",
       "esed": "Bizim (bir şeyi) takdir etmemiz ve (onun meydana gelmesi) göz kırpması gibi bir anlık bir (fiil)dir.",
       "suleymaniye": "(Sizi öldürüp tekrar diriltme) İşimiz, bir tek emre bakar; (sizin için) göz açıp kapama gibidir[1].",
-      "ates": "Bizim buyruğumuz yalnız bir tektir, göz açıp yumma gibidir."
+      "ates": "Bizim buyruğumuz yalnız bir tektir, göz açıp yumma gibidir.",
+      "hulusi": "Emrimiz (hüküm ve oluş) tektir; göz kırpması gibidir (Allah'a göre \"AN\" içinde olmuştur)!",
+      "bayrakli": "Bizim buyruğumuz, göz açıp kapama gibi anlık bir iştir.",
+      "elmali_sade": "Emrimiz (işimiz, buyrultumuz) yalnız bir tekdir, göz açıp yumma gibidir!",
+      "cantay": "Ve bizim emrimiz (başka değil), birdir, bir göz kırpması gibi (sür'atli) dir.",
+      "piris": "Emrimiz göz açıp kapaması gibidir.",
+      "yildirim": "Bizim emrimiz sadece bir kere, hem de göz açıp kapama gibi pek hızlıdır.",
+      "safa": "Çünkü buyruğumuz göz kırpması gibi bir anlıktır.",
+      "yuksel": "Buyruğumuz göz kırpması gibi anidir.",
+      "aktas": "Ve buyruğumuz bir tek buyruktur. Gözün bir anlık bakışı gibidir.",
+      "okuyan": "Bizim (Son Saat) emrimiz, sadece göz açıp kapamak gibi tektir (bir anda olur).[1]"
     },
     {
       "number": 4897,
@@ -824,7 +1324,17 @@
       "bulac": "Andolsun Biz sizin benzerlerinizi yıkıma uğrattık. Fakat öğüt alıp düşünen var mı?",
       "esed": "Nitekim, (geçmişte) sizin gibi toplumları yok ettik. Öyleyse, yok mudur ondan ders almak isteyen?",
       "suleymaniye": "Sizin gibi gruplaşanları helak ettik. Peki, bu bilgiyi alan var mı[1]?",
-      "ates": "Andolsun biz sizin benzerlerinizi hep helak ettik. Öğüt alan yok mudur?"
+      "ates": "Andolsun biz sizin benzerlerinizi hep helak ettik. Öğüt alan yok mudur?",
+      "hulusi": "Andolsun ki sizin benzerlerinizi helak ettik. . . Bunu bir düşünen yok mu?",
+      "bayrakli": "Andolsun ki, sizin benzerlerinizi hep helak ettik. Düşünüp öğüt alan var mı?",
+      "elmali_sade": "Andolsun ki, emsalinizi hep helak ettik, fakat hani düşünen?",
+      "cantay": "Andolsun ki biz, sizin benzerlerinizi helak etmişizdir. O halde bir düşünen var mı?",
+      "piris": "Andolsun ki benzerlerinizi helak ettik. İbret alan var mı?",
+      "yildirim": "Gerçekten Biz sizin nice benzerlerinizi imha ettik! Haydi var mı düşünen ve ibret alan?",
+      "safa": "Üstelik gerçek şu ki, sizin gibi olanları yıkıma uğrattık. Artık, öğüt alan var mı?",
+      "yuksel": "Sizin benzerlerinizi yok etmiştik. Yok mu öğüt alan?",
+      "aktas": "Ant olsun ki size benzer nicelerini yok ettik. Buna rağmen düşünen mi var?",
+      "okuyan": "Yemin olsun ki sizin gibi grupları helak etmiştik. Hatırlayan var mı?"
     },
     {
       "number": 4898,
@@ -840,7 +1350,17 @@
       "bulac": "Onların işlemiş oldukları her şey kitaplarda (yazılı)dır.",
       "esed": "(Onlar gerçekten suçluydular,) çünkü yaptıkları bütün (kötülükler), (ilahi) hikmetin (kadim) belgelerinde (kendilerine gösterilmiştir);",
       "suleymaniye": "Yaptıkları her şey amel defterlerindedir[1].",
-      "ates": "İşledikleri her şey, Kitaplarda mevcuttur."
+      "ates": "İşledikleri her şey, Kitaplarda mevcuttur.",
+      "hulusi": "İşledikleri her şeyin bilgisi zeburlardadır (hikmet dolu bilgi metinlerinde).",
+      "bayrakli": "Yaptıkları her şey kitaplarda mevcuttur.",
+      "elmali_sade": "Bununla beraber işledikleri herşey defterlerdedir.",
+      "cantay": "Bununla beraber işledikleri her şey defterlerde (kayıdlı) dır.",
+      "piris": "Onların yaptıkları her şey kayıtlardadır.",
+      "yildirim": "(52-53) Onların yaptıkları her şey, defterlerde kayıtlıdır. Küçük, büyük her şey, satır satır yazılıdır.",
+      "safa": "Ve yaptıklarının tümü, Kitaplarda yazılıdır.",
+      "yuksel": "Tüm yaptıkları kitaplarda kayıtlıdır.",
+      "aktas": "Onların yaptığı her şey kitaplardadır.",
+      "okuyan": "Yaptıkları her şey kitaplarda (amel defterlerinde) mevcuttur."
     },
     {
       "number": 4899,
@@ -856,7 +1376,17 @@
       "bulac": "Küçük, büyük her şey satır satır (yazılı)dır.",
       "esed": "ve (insanın yaptığı) her şey, ister küçük isterse büyük olsun, (Allah'ın nezdinde) kaydedilmektedir.",
       "suleymaniye": "Küçük, büyük her şey satır satır yazılmıştır[1].",
-      "ates": "Küçük, büyük hepsi satır satır yazılmıştır."
+      "ates": "Küçük, büyük hepsi satır satır yazılmıştır.",
+      "hulusi": "Küçük - büyük hepsi satır satırdır!",
+      "bayrakli": "Küçük büyük her şey, satır satır yazılmıştır.",
+      "elmali_sade": "Küçük, büyük hepsi satıra geçmiştir!",
+      "cantay": "Küçük, büyük her şey yazılıdır.",
+      "piris": "Büyük, küçük... satır, satır...",
+      "yildirim": "(52-53) Onların yaptıkları her şey, defterlerde kayıtlıdır. Küçük, büyük her şey, satır satır yazılıdır.",
+      "safa": "Küçüğü de büyüğü de yazılmıştır.",
+      "yuksel": "Küçük ve büyük hepsi yazılmıştır.",
+      "aktas": "Ve küçük büyük her şey yazılmıştır.",
+      "okuyan": "Küçük büyük her şey satır satır yazılmıştır.[1]"
     },
     {
       "number": 4900,
@@ -872,7 +1402,17 @@
       "bulac": "Hiç şüphesiz muttakiler, cennetlerde ve nehir (çevresin)dedirler.",
       "esed": "(Bu nedenle,) Allah'a karşı sorumluluklarının bilincinde olanlar, kendilerini bir bahçeler ve akarsular (cennetin)de bulacaklar,",
       "suleymaniye": "Kendini yanlışlardan koruyanlar bahçelerde ve ırmaklarda olacak[1],",
-      "ates": "Korunanlar cennetlerde ırmaklar(ın kenarın)dadırlar."
+      "ates": "Korunanlar cennetlerde ırmaklar(ın kenarın)dadırlar.",
+      "hulusi": "Muhakkak ki korunanlar cennetlerde ve nehir kıyılarındadırlar.",
+      "bayrakli": "Takva sahipleri cennetlerde ve ırmakların kenarlarındadır.",
+      "elmali_sade": "Şüphesiz takva sahipleri cennetlerde nur içindedirler.",
+      "cantay": "Şübhesiz ki takva saahibleri cennetlerde, ırmaklar (kenarların) da,",
+      "piris": "Korunanlar ise cennetlerde ve ırmaklarda.",
+      "yildirim": "Ama müttakiler ise cennetlerde, bahçelerde ve ırmak kenarındadırlar.",
+      "safa": "Kuşkusuz, sorumluluk bilinci taşıyanlar, cennetlerde ve ırmaklardadır.",
+      "yuksel": "Erdemliler,  bahçeler ve ırmaklar içindedir.",
+      "aktas": "Takva sahipleri cennetlerde[1] ve nehir kenarlarındadır.",
+      "okuyan": "(54, 55) Muttakîler (duyarlı olanlar) ise güçlü hükümdarın (Allah'ın) huzurunda ‘doğruluk makamındaki'[1] bahçelerde ve ırmak(ların kenarların)da olacaklardır. "
     },
     {
       "number": 4901,
@@ -888,7 +1428,17 @@
       "bulac": "Çok kudretli, mülkünün sonu olmayan (Allah)ın yanında doğruluk makamındadırlar.",
       "esed": "her şeyin belirleyicisi olan Kudret Sahibi'nin huzurunda, (saf) gerçeğin tahtı üzerinde...",
       "suleymaniye": "Doğru olanların makamında, iktidar sahibi hükümdarın /Allah'ın huzurunda bulunacaklardır.",
-      "ates": "Güçlü padişahın huzurunda doğruluk koltuklarında (memnunluk içinde)dirler."
+      "ates": "Güçlü padişahın huzurunda doğruluk koltuklarında (memnunluk içinde)dirler.",
+      "hulusi": "Melik-i Muktedir'in kuvveleriyle hakikati yaşam boyutundadırlar!",
+      "bayrakli": "Güçlü ve Yüce Allah'ın huzurunda, hak meclisindedirler/doğruluk makamındadırlar.",
+      "elmali_sade": "Kudretine nihayet olmayan padişahlar padişahının yüce huzurunda doğrulara has mecliste!",
+      "cantay": "Hak meclisinde (ve) kudret saahibi, mülkü çok yüce olan (Allah) ın yanındadırlar.",
+      "piris": "Doğruluk makamında, tüm gücü elinde bulunduran bir hükümdarın yanındadırlar.",
+      "yildirim": "Son derece kuvvetli o Hükümdarın, hak ve dürüstlük meclisinde yerlerini alırlar.",
+      "safa": "Egemen; Dilediğini Yapanın katında; doğruların konumunda.",
+      "yuksel": "Güçlü Yönetici yanında onurlu makamlardadırlar.",
+      "aktas": "Sonsuz Güç Sahibi yöneticinin katında, sadakat makamındadırlar.[1]",
+      "okuyan": "(54, 55) Muttakîler (duyarlı olanlar) ise güçlü hükümdarın (Allah'ın) huzurunda ‘doğruluk makamındaki'[1] bahçelerde ve ırmak(ların kenarların)da olacaklardır. "
     }
   ]
 }

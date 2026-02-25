@@ -24,7 +24,17 @@
       "bulac": "Asr'a andolsun;",
       "esed": "Düşün zamanın akıp gidişini!",
       "suleymaniye": "Akıp giden zamana yemin olsun ki[1]",
-      "ates": "Asr'a andolsun ki,"
+      "ates": "Asr'a andolsun ki,",
+      "hulusi": "Yemin ederim O Asra (içinde akıp giden insan ömrüne) ki,",
+      "bayrakli": "Zamana yemin olsun ki,",
+      "elmali_sade": "Andolsun Asr'a ki,",
+      "cantay": "Andolsun asra ki,",
+      "piris": "Andolsun Asr'a!",
+      "yildirim": "Yemin ederim zamana:",
+      "safa": "Yemin olsun; Akıp Giden Zamana![615]",
+      "yuksel": "Ant olsun akıp giden zamana ki;",
+      "aktas": "Asra[1] ant olsun,",
+      "okuyan": "Asra yemin olsun ki"
     },
     {
       "number": 6178,
@@ -40,7 +50,17 @@
       "bulac": "Gerçekten insan, ziyandadır.",
       "esed": "Gerçek şu ki, insan ziyandadır;",
       "suleymaniye": "insan kesin olarak kayıptadır.[1]",
-      "ates": "İnsan ziyandadır."
+      "ates": "İnsan ziyandadır.",
+      "hulusi": "Muhakkak ki insan, hüsran içindedir!",
+      "bayrakli": "Elbette insan ziyandadır.",
+      "elmali_sade": "insan mutlaka bir ziyandadır.",
+      "cantay": "muhakkak insan kat'i bir ziyandadır.",
+      "piris": "İnsanlık hüsranda.",
+      "yildirim": "İnsanlar hüsranda.",
+      "safa": "Aslında, insan, gerçekten yitime uğramıştır.",
+      "yuksel": "İnsanlar zarardadır.",
+      "aktas": "Kuşkusuz o insan kesinlikle hüsrandadır.",
+      "okuyan": "Şüphesiz insan zarardadır. "
     },
     {
       "number": 6179,
@@ -56,7 +76,17 @@
       "bulac": "Ancak iman edip salih amellerde bulunanlar, birbirlerine hakkı tavsiye edenler ve birbirlerine sabrı tavsiye edenler başka.",
       "esed": "meğer ki imana erip doğru ve yararlı işler yapanlardan olsun ve birbirlerine hakkı tavsiye edenlerden, birbirlerine sabrı tavsiye edenlerden...",
       "suleymaniye": "Ancak, inanıp güvenen ve iyi işler yapan, birbirlerine hakka /Allah'tan gelen gerçeklere[1] uymayı tembih eden ve sabırlı olmayı/ duruşunu bozmamayı tembih eden kimseler bunun dışındadır.[2]",
-      "ates": "Ancak inanıp iyi işler yapanlar, birbirlerine hakkı tavsiye edenler ve birbirlerine sabrı tavsiye edenler ziyanda değillerdir."
+      "ates": "Ancak inanıp iyi işler yapanlar, birbirlerine hakkı tavsiye edenler ve birbirlerine sabrı tavsiye edenler ziyanda değillerdir.",
+      "hulusi": "Ancak (hakikatlerine) iman edip imanın gereğini uygulayanlar, birbirlerine Hak olarak tavsiye edenler ve birbirlerine Sabrı tavsiye edenler hariç!",
+      "bayrakli": "Ancak, inanıp iyi işler yapanlar, hakkı birbirine tavsiye edenler ve sabrı birbirine tavsiye edenler ziyanda değillerdir.",
+      "elmali_sade": "Ancak iman edip iyi işler yapanlar, birbirlerine hep hakkı tavsiye edenler ve sabrı tavsiyeleşenler başka.",
+      "cantay": "Ancak iman edenlerle güzel güzel amel (ve hareket) lerde bulunanlar, bir de birbirine hakkı tavsiye, sabrı tavsiye edenler böyle değil (Onlar ziyandan müstesnadırlar).",
+      "piris": "Ancak iman edenler ve doğruları yapanlar, birbirlerine hakkı ve sabrı tavsiye edenler müstesna.",
+      "yildirim": "Ancak şunlar müstesna: İman edip makbul ve güzel işler yapanlar, bir de birbirlerine hakkı ve sabrı tavsiye edenler.",
+      "safa": "İnanmış olarak erdemli edimler yapanlar, gerçeği öğütleyenler ve dirençli olmayı öğütleyenler başkadır.",
+      "yuksel": "Ancak gerçeği onaylayıp erdemli davrananlar,  birbirlerine gerçeği öğütleyenler ve birbirlerine sabretmeyi öğütleyenler hariç.",
+      "aktas": "Ancak iman edenler, salihatı[1] yapanlar, hakkı tavsiye edenler ve sabrı tavsiye edenler hariç.",
+      "okuyan": "İman edip iyi işler yapanlar, birbirlerine doğruyu tavsiye edenler ve birbirlerine sabrı tavsiye edenler hariç."
     }
   ]
 }

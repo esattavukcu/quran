@@ -22,20 +22,40 @@ export interface Ayah {
   esed?: string;
   suleymaniye?: string;
   ates?: string;
+  hulusi?: string;
+  bayrakli?: string;
+  elmali_sade?: string;
+  cantay?: string;
+  piris?: string;
+  yildirim?: string;
+  safa?: string;
+  yuksel?: string;
+  aktas?: string;
+  okuyan?: string;
   juz: number;
   page: number;
   sajda: boolean | { recommended: boolean; obligatory: boolean };
 }
 
 export const TRANSLATION_OPTIONS = [
-  { key: 'diyanet',     label: 'Diyanet',              isDefault: true },
-  { key: 'ozturk',      label: 'Yaşar Nuri Öztürk',   isDefault: true },
-  { key: 'elmali',      label: 'Elmalılı Hamdi Yazır', isDefault: false },
-  { key: 'islamoglu',   label: 'Mustafa İslamoğlu',   isDefault: false },
-  { key: 'bulac',       label: 'Ali Bulaç',            isDefault: false },
-  { key: 'esed',        label: 'Muhammed Esed',        isDefault: false },
-  { key: 'suleymaniye', label: 'Süleymaniye Vakfı',    isDefault: false },
-  { key: 'ates',        label: 'Süleyman Ateş',        isDefault: false },
+  { key: 'diyanet',     label: 'Diyanet',                    isDefault: true },
+  { key: 'ozturk',      label: 'Yaşar Nuri Öztürk',         isDefault: true },
+  { key: 'elmali',      label: 'Elmalılı Hamdi Yazır',       isDefault: false },
+  { key: 'islamoglu',   label: 'Mustafa İslamoğlu',          isDefault: false },
+  { key: 'bulac',       label: 'Ali Bulaç',                   isDefault: false },
+  { key: 'esed',        label: 'Muhammed Esed',               isDefault: false },
+  { key: 'suleymaniye', label: 'Süleymaniye Vakfı',           isDefault: false },
+  { key: 'ates',        label: 'Süleyman Ateş',               isDefault: false },
+  { key: 'hulusi',      label: 'Ahmed Hulusi',                 isDefault: false },
+  { key: 'bayrakli',    label: 'Bayraktar Bayraklı',          isDefault: false },
+  { key: 'elmali_sade', label: 'Elmalılı (Sadeleştirilmiş)', isDefault: false },
+  { key: 'cantay',      label: 'Hasan Basri Çantay',          isDefault: false },
+  { key: 'piris',       label: 'Şaban Piriş',                 isDefault: false },
+  { key: 'yildirim',    label: 'Suat Yıldırım',               isDefault: false },
+  { key: 'safa',        label: 'Ali Rıza Safa',               isDefault: false },
+  { key: 'yuksel',      label: 'Edip Yüksel',                 isDefault: false },
+  { key: 'aktas',       label: 'Erhan Aktaş',                 isDefault: false },
+  { key: 'okuyan',      label: 'Mehmet Okuyan',               isDefault: false },
 ] as const;
 
 export type TranslationKey = typeof TRANSLATION_OPTIONS[number]['key'];

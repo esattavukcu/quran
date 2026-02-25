@@ -24,7 +24,17 @@
       "bulac": "Kaari'a...",
       "esed": "Ah! Apansız (gelen) bir bela!.",
       "suleymaniye": "Gümbürdeyecek olan![1]",
-      "ates": "Çarpan olay!"
+      "ates": "Çarpan olay!",
+      "hulusi": "El Karia!",
+      "bayrakli": "Kapı çalan!",
+      "elmali_sade": "O apaçık bela (Kıyamet)...",
+      "cantay": "Felaket kapısını çalacak olan (kıyamet).",
+      "piris": "Korkunç olay ..",
+      "yildirim": "Kari'a,",
+      "safa": "Apansız Gelen Yıkım![612]",
+      "yuksel": "Şok.",
+      "aktas": "Kari'a.[1]",
+      "okuyan": "Büyük çarpma! "
     },
     {
       "number": 6159,
@@ -40,7 +50,17 @@
       "bulac": "Nedir kaari'a?",
       "esed": "Ne korkunçtur apansız (gelen) bela!",
       "suleymaniye": "Nedir o gümbürdeyecek olan?",
-      "ates": "Nedir o çarpan olay?"
+      "ates": "Nedir o çarpan olay?",
+      "hulusi": "Ne dehşet verici olaydır el Karia!",
+      "bayrakli": "Nedir o kapı çalan?",
+      "elmali_sade": "Nedir o çarpacak bela?",
+      "cantay": "Nedir o felaket kapısını çalacak (kıyamet)?",
+      "piris": "Nedir korkunç olay?",
+      "yildirim": "Nedir o kari'a?",
+      "safa": "Apansız gelen yıkım, nedir?",
+      "yuksel": "Hem de ne şok!",
+      "aktas": "Karia nedir?",
+      "okuyan": "Nedir o büyük çarpma!"
     },
     {
       "number": 6160,
@@ -56,7 +76,17 @@
       "bulac": "Sana o kaaria'yı bildiren nedir?",
       "esed": "Bilir misin nedir, nasıl olacaktır o apansız bela?",
       "suleymaniye": "Gümbürdeyecek olanın ne olduğunu sana kim bildirebilir![1]",
-      "ates": "O çarpan olayın ne olduğunu sen nereden bileceksin?"
+      "ates": "O çarpan olayın ne olduğunu sen nereden bileceksin?",
+      "hulusi": "El Karia'yı bilir misin nedir?",
+      "bayrakli": "O kapı çalanın ne olduğunu bilir misin?",
+      "elmali_sade": "O çarpacak belanın ne olduğunu ne bildirdi ki sana?",
+      "cantay": "O felaket kapısını çalacak (kıyametin dehşet ve azametin) sana bildiren nedir?",
+      "piris": "Korkunç olayın ne olduğunu nereden bileceksin?",
+      "yildirim": "Kari'ayı, o kapıları döven ve dehşetiyle kalplere çarpan o kıyamet felaketini sen nereden bileceksin ki!",
+      "safa": "Ve apansız gelen yıkımı, sana bildiren nedir?",
+      "yuksel": "Şoke edenin niteliği sana bildirildi mi?",
+      "aktas": "Karia'nın ne olduğunu sen nereden bileceksin?",
+      "okuyan": "O büyük çarpmanın ne olduğunu sana bildiren ne olabilir ki! "
     },
     {
       "number": 6161,
@@ -72,7 +102,17 @@
       "bulac": "İnsanların, 'her yana dağılmış' pervaneler gibi olacakları gün,",
       "esed": "(O,) insanların şaşkın vaziyette uçuşan pervanelere benzeyeceği Gün,",
       "suleymaniye": "O (gümbürdemenin olduğu) gün insanlar yayılmış kelebekler gibi olur;[1]",
-      "ates": "O gün insanlar, yayılmış pervaneler gibi olur(lar)."
+      "ates": "O gün insanlar, yayılmış pervaneler gibi olur(lar).",
+      "hulusi": "O süreçte insanlar, yayılmış (ateşe koşan) pervaneler gibi olur.",
+      "bayrakli": "O gün insanlar, saçılmış kelebekler gibi olurlar.",
+      "elmali_sade": "O gün insanlar çırpınıp yayılan pervaneler gibi olacak.",
+      "cantay": "O gün insanlar yaygın (ve salgın) pervaneler gibi olacak.",
+      "piris": "O gün, insanlar, dağılmış pervaneler gibi olur.",
+      "yildirim": "O gün insanlar uçuşan kelebekler gibi şuraya buraya fırlatılır.",
+      "safa": "O gün, insanlar, yayılmış pervaneler gibi olur.",
+      "yuksel": "O gün halk,  yayılmış kelebekler gibi olur.",
+      "aktas": "O gün insanlar sağa sola uçuşan pervaneler[1] gibi olurlar.",
+      "okuyan": "O gün insanlar (dört bir yana) yayılmış pervaneler gibi olurlar."
     },
     {
       "number": 6162,
@@ -88,7 +128,17 @@
       "bulac": "Ve dağların 'etrafa saçılmış' renkli yünler gibi olacakları (gün),",
       "esed": "ve dağların yumuşak yün topaklarını andıracağı Gün (vuku bulacaktır).",
       "suleymaniye": "dağlar ise çırpılmış renkli yünler gibi olmuş olur.[1]",
-      "ates": "Dağlar atılmış renkli yün gibi olur."
+      "ates": "Dağlar atılmış renkli yün gibi olur.",
+      "hulusi": "Dağlar (gibi benlikler), dağılmış renkli yün gibi (yumuşamış, alı al moru mor) olur!",
+      "bayrakli": "Dağlar atılmış yün gibi olurlar.",
+      "elmali_sade": "Dağlar da didilmiş renkli yünler gibi atılacaktır.",
+      "cantay": "dağlar atılmış renkli yünler gibi olacak.",
+      "piris": "Dağlar ise saçılmış yün gibi olur.",
+      "yildirim": "Dağlar atılmış yüne döner,",
+      "safa": "Ve dağlar, atılmış renkli yün gibi olur.",
+      "yuksel": "Dağlar da atılmış yün gibi olur.",
+      "aktas": "Dağlar etrafa saçılmış renkli yün gibi olur.",
+      "okuyan": "Dağlar da atılmış yün gibi olur.[1]"
     },
     {
       "number": 6163,
@@ -104,7 +154,17 @@
       "bulac": "İşte, kimin tartıları ağır basarsa,",
       "esed": "O zaman, (iyiliklerinin) tartısı ağır basan",
       "suleymaniye": "Artık kimin tartıları (sevapları) ağır gelirse",
-      "ates": "Kimin tartıları ağır gelirse,"
+      "ates": "Kimin tartıları ağır gelirse,",
+      "hulusi": "(İşte o süreçte) kimin getirisi ağır basarsa,",
+      "bayrakli": "-Tartıları ağır gelenler, mutlu bir yaşam içerisinde olacaklardır.",
+      "elmali_sade": "İşte o zaman tartıları ağır basan kimse,",
+      "cantay": "İşte (o gün) kimin tartıları ağır gelirse,",
+      "piris": "Kimin tartıları ağır gelirse ..",
+      "yildirim": "Artık kimin tartıları ağır basarsa,",
+      "safa": "Sonunda, kimin tartıları ağır gelirse.",
+      "yuksel": "Kimin tartıları ağır gelirse, ",
+      "aktas": "Kimin tartısı ağır gelirse,[1]",
+      "okuyan": "Tera­zi(de sevap)ları ağır gelen kişi,"
     },
     {
       "number": 6164,
@@ -120,7 +180,17 @@
       "bulac": "Artık o, hoşnut olunan bir hayat içindedir.",
       "esed": "kendisini mutlu bir hayat içinde bulacak;",
       "suleymaniye": "o, bütün beklentileri karşılayan bir yaşayış içindedir.[1]",
-      "ates": "O, memmun edici bir hayat içindedir."
+      "ates": "O, memmun edici bir hayat içindedir.",
+      "hulusi": "O, razı (olduğu) bir yaşayış içindedir!",
+      "bayrakli": "-Tartıları ağır gelenler, mutlu bir yaşam içerisinde olacaklardır.",
+      "elmali_sade": "artık hoşnut olacağı bir hayat içindedir o.",
+      "cantay": "artık o hoşnuud (olacağı) bir yaşayışdadır.",
+      "piris": "O, hoşnut olacağı bir hayat içinde.",
+      "yildirim": "Memnun kalacağı bir hayata girer.",
+      "safa": "Artık, hoşnutluk veren bir yaşam içindedir.",
+      "yuksel": "O,  mutlu bir hayat içinde olacaktır.",
+      "aktas": "O hoşnut edici bir yaşayış içindedir.",
+      "okuyan": "Memnun olacağı bir hayat içinde (olacak)tır.[1]"
     },
     {
       "number": 6165,
@@ -136,7 +206,17 @@
       "bulac": "Kimin tartıları hafif kalırsa,",
       "esed": "tartısı hafif gelen ise",
       "suleymaniye": "Kimin de tartıları (sevapları) hafif gelirse",
-      "ates": "Kimin tartıları hafif gelirse,"
+      "ates": "Kimin tartıları hafif gelirse,",
+      "hulusi": "Ama kimin de getirisi hafif kalırsa,",
+      "bayrakli": "- Fakat tartıları hafif gelenler ise, onların da yeri Haviye'dir.",
+      "elmali_sade": "Fakat tartıları hafif gelen kimse.",
+      "cantay": "Amma kimin de tartıları hafif gelirse,",
+      "piris": "Kimin de tartıları hafif gelirse ..",
+      "yildirim": "Kimin tartıları da hafif gelirse,",
+      "safa": "Ve kimin tartıları az gelirse.",
+      "yuksel": "Kimin de tartıları hafif gelirse, ",
+      "aktas": "Kimin tartısı hafif gelirse,[1]",
+      "okuyan": "(8, 9) Terazi(de sevap)ları hafif olana gelince,[1] işte onun anası (yeri) Hâviye'dir.[2]"
     },
     {
       "number": 6166,
@@ -152,7 +232,17 @@
       "bulac": "Artık onun da anası (son durağı) \"haviye\"dir (uçurum).",
       "esed": "bir uçurumun girdabına sürüklenecektir..",
       "suleymaniye": "onun anası (onu sarıp sarmalayacak olan) Haviye'dir.[1]",
-      "ates": "Onun anası (bağrına atılacağı) haviye (uçurum)dur."
+      "ates": "Onun anası (bağrına atılacağı) haviye (uçurum)dur.",
+      "hulusi": "Onun anası, Haviye'dir (çok derin bir çukur).",
+      "bayrakli": "- Fakat tartıları hafif gelenler ise, onların da yeri Haviye'dir.",
+      "elmali_sade": "O vakit onun anası Haviyedir.",
+      "cantay": "artık onun anası \"Haviye\" (uçurum) dur.",
+      "piris": "Onun da anası Haviye ..",
+      "yildirim": "Onun barınağı da Haviye olur.",
+      "safa": "Artık, onun anası uçurumdur.[613]",
+      "yuksel": "Onun da varacağı yer uçurumdur.",
+      "aktas": "Artık onun anası haviyedir.",
+      "okuyan": "(8, 9) Terazi(de sevap)ları hafif olana gelince,[1] işte onun anası (yeri) Hâviye'dir.[2]"
     },
     {
       "number": 6167,
@@ -168,7 +258,17 @@
       "bulac": "Onun ne olduğunu (mahiyetini) sana bildiren nedir?",
       "esed": "Bilir misin nedir o (uçurum)?",
       "suleymaniye": "Haviye'nin ne olduğunu sana kim bildirebilir![1]",
-      "ates": "Onun ne olduğunu sen nereden bileceksin?"
+      "ates": "Onun ne olduğunu sen nereden bileceksin?",
+      "hulusi": "Onun ne olduğunu bilir misin?",
+      "bayrakli": "Haviye'nin ne olduğunu sen ne bilirsin?",
+      "elmali_sade": "Ve bildin mi, Haviye nedir?",
+      "cantay": "Onun mahiyyetini sana bildiren nedir?",
+      "piris": "Onun ne olduğunu sana bildiren ne?",
+      "yildirim": "Onun ne olduğunu bilir misin?",
+      "safa": "Ve onun ne olduğunu, sana bildiren nedir?",
+      "yuksel": "O uçurumun ne olduğunu bilir misin?",
+      "aktas": "Onun ne olduğunu sen nereden bileceksin?",
+      "okuyan": "Onun ne olduğunu[1] sana bildiren ne olabilir ki! "
     },
     {
       "number": 6168,
@@ -184,7 +284,17 @@
       "bulac": "O, kızgın bir ateştir.",
       "esed": "Dağlayan bir ateş!.",
       "suleymaniye": "O, kızgın bir ateştir.[1]",
-      "ates": "Kızgın bir ateştir!"
+      "ates": "Kızgın bir ateştir!",
+      "hulusi": "(O) yakıcılığı pik noktasında, ateştir!",
+      "bayrakli": "O, son derece kızgın bir ateştir.",
+      "elmali_sade": "Kızışmış bir ateştir!",
+      "cantay": "(O), haraareti çetin bir ateşdir.",
+      "piris": "O, kızgın bir ateştir.",
+      "yildirim": "Haviye bir ateştir! Kızgın mı kızgın!",
+      "safa": "Kızgın bir ateş!",
+      "yuksel": "O,  kızgın bir ateştir!",
+      "aktas": "O, kızgın bir ateştir.",
+      "okuyan": "(O), kızgın bir ateş(tir)! "
     }
   ]
 }

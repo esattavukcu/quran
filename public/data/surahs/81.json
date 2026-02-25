@@ -24,7 +24,17 @@
       "bulac": "Güneş, köreltildiği zaman,",
       "esed": "Güneş, karanlığa gömüldüğünde,",
       "suleymaniye": "Güneş çepeçevre sarıldığında[1],",
-      "ates": "Güneş büzüldüğü zaman,"
+      "ates": "Güneş büzüldüğü zaman,",
+      "hulusi": "Güneş dürüldüğünde (Akıl karşılaştığı gerçeklik ile kaplanıp gücünü yitirdiğinde),",
+      "bayrakli": "Güneş katlanıp karanlığa gömüldüğünde,",
+      "elmali_sade": "O güneş dürüldüğünde,",
+      "cantay": "Güneş dürül (üb söndürül) düğü zaman,",
+      "piris": "Güneş dürüldüğü zaman..",
+      "yildirim": "Güneş dürülüp ışığı söndüğü zaman;",
+      "safa": "Güneş Dürüldüğünde.",
+      "yuksel": "Güneş yuvarlandığı zaman, ",
+      "aktas": "Güneş köreltildiği zaman[1],",
+      "okuyan": "Güneş dürüldüğünde,"
     },
     {
       "number": 5802,
@@ -40,7 +50,17 @@
       "bulac": "Yıldızlar, bulanıklaşıp döküldüğü zaman,",
       "esed": "ve yıldızlar ışıklarını yitirdiğinde,",
       "suleymaniye": "yıldızlar karardığında[1],",
-      "ates": "Yıldızlar kararıp döküldüğü zaman,"
+      "ates": "Yıldızlar kararıp döküldüğü zaman,",
+      "hulusi": "Yıldızlar karardığında (Düşünme işlevi durup - fikirler ışık tutmaz olduğunda),",
+      "bayrakli": "Yıldızlar dökülüp ışıklarını yitirdiğinde,",
+      "elmali_sade": "yıldızlar bulandığında,",
+      "cantay": "Yıldızlar (kararıb) düşdüğü zaman,",
+      "piris": "Yıldızlar, saçılıp dağıldığı zaman..",
+      "yildirim": "Yıldızlar yerlerinden düşüp dağıldığı zaman,",
+      "safa": "Ve yıldızlar ışıklarını yitirdiğinde.",
+      "yuksel": "Yıldızlar solduğu zaman, ",
+      "aktas": "Yıldızlar bulanıklaştığı zaman,",
+      "okuyan": "Yıldızlar (sönüp) döküldüğünde, "
     },
     {
       "number": 5803,
@@ -56,7 +76,17 @@
       "bulac": "Dağlar, yürütüldüğü zaman,",
       "esed": "dağlar kaybolup gittiğinde,",
       "suleymaniye": "dağlar yürütüldüğünde[1],",
-      "ates": "Dağlar yürütüldüğü zaman,"
+      "ates": "Dağlar yürütüldüğü zaman,",
+      "hulusi": "Dağlar yürütüldüğünde (organlar çalışmaz olduğunda),",
+      "bayrakli": "Dağlar yürütülüp kaybolduğunda,",
+      "elmali_sade": "dağlar yürütüldüğünde,",
+      "cantay": "Dağlar (yer yüzünden koparılıb) yürütüldüğü zaman,",
+      "piris": "Dağlar yürütüldüğü zaman..",
+      "yildirim": "Dağlar yürütüldüğü zaman,",
+      "safa": "Dağlar yürütüldüğünde.",
+      "yuksel": "Dağlar yürütüldüğü zaman, ",
+      "aktas": "Dağlar yürütüldüğü zaman,",
+      "okuyan": "Dağlar yürütüldüğünde,"
     },
     {
       "number": 5804,
@@ -72,7 +102,17 @@
       "bulac": "Gebe develer, kendi başına terkedildiği zaman,",
       "esed": "ve doğurmak üzere olan dişi develer başıboş bırakıldığında,",
       "suleymaniye": "toplumsal ilişkiler kesildiğinde[1],",
-      "ates": "On aylık gebe develer başı boş bırakıldığı zaman,"
+      "ates": "On aylık gebe develer başı boş bırakıldığı zaman,",
+      "hulusi": "Işar (en gözde develer; zenginlik ve statü nesneleri) başıboş bırakılıp terk edildiğinde (dünya değerlerinden geçildiğinde),",
+      "bayrakli": "Değerli mallar terkedildiğinde,",
+      "elmali_sade": "kıyılmaz mallar bırakıldığında,",
+      "cantay": "Gebe develer (başı boş) salıverildiği zaman,",
+      "piris": "On aylık gebe develer başıboş bırakıldığı zaman..",
+      "yildirim": "Doğurmak üzere olan develer, kıyılmaz mallar terk edildiği zaman,",
+      "safa": "Değerli mallar arkada bırakıldığında.[574]",
+      "yuksel": "En değerli mallar terkedildiği zaman, ",
+      "aktas": "Gebe develer başıboş bırakıldığı[1] zaman,",
+      "okuyan": "On aylık (değerli) gebe develer bırakıldığında,"
     },
     {
       "number": 5805,
@@ -88,7 +128,17 @@
       "bulac": "Vahşi hayvanlar, toplandığı zaman,",
       "esed": "bütün hayvanlar bir araya toplandığında,",
       "suleymaniye": "yabani hayvanlar (tekrar diriltilip) bir araya getirildiğinde[1],",
-      "ates": "Vahşi hayvanlar bir araya toplandığı zaman,"
+      "ates": "Vahşi hayvanlar bir araya toplandığı zaman,",
+      "hulusi": "Vahşiler haşrolunduğunda (hayvani duygular toplanıp güçlerini kaybettiklerinde),",
+      "bayrakli": "Yabani hayvanlar bir araya toplandığında,",
+      "elmali_sade": "vahşi hayvanlar bir araya toplandığında,",
+      "cantay": "Vahşi hayvanlar bir araya toplandığı zaman,",
+      "piris": "Vahşi hayvanlar toplandığı zaman..",
+      "yildirim": "Vahşi hayvanlar diriltilip toplandığı zaman,",
+      "safa": "Yabani hayvanlar bir araya toplandığında.",
+      "yuksel": "Yabani hayvanlar toplandığı zaman, ",
+      "aktas": "Vahşi hayvanlar bir araya toplandıkları zaman,[1]",
+      "okuyan": "Yabani hayvanlar bir araya toplandığında,"
     },
     {
       "number": 5806,
@@ -104,7 +154,17 @@
       "bulac": "Denizler, tutuşturulduğu zaman,",
       "esed": "ve denizler kaynadığında,",
       "suleymaniye": "denizler doldurulduğunda,[1]",
-      "ates": "Denizler kaynatıldığı zaman,"
+      "ates": "Denizler kaynatıldığı zaman,",
+      "hulusi": "Denizler kaynadığında (şartlanma yollu edinilmiş bilgiler açığa çıkan gerçekler karşısında tutuşup kaynadığında),",
+      "bayrakli": "Denizler kaynayıp kabardığında,",
+      "elmali_sade": "denizler ateşlendiğinde,",
+      "cantay": "Denizler ateşlendiği zaman,",
+      "piris": "Denizler kaynatıldığı/ fışkırtıldığı zaman..",
+      "yildirim": "Denizler ateşlenip kaynatıldığı zaman,",
+      "safa": "Denizler kaynatıldığında.",
+      "yuksel": "Denizler kaynatıldığı zaman, ",
+      "aktas": "Denizler kaynatıldığı zaman,",
+      "okuyan": "Denizler kaynatıldığında (Son Saat gerçekleşmiş olacaktır). "
     },
     {
       "number": 5807,
@@ -120,7 +180,17 @@
       "bulac": "Nefisler, birleştiği zaman,",
       "esed": "bütün insanlar (yaptıklarıyla) eşleştirildiğinde,",
       "suleymaniye": "nefisler /ruhlarla bedenler eşleştirildiğinde,[1]",
-      "ates": "Nefisler çiftleştirildiği zaman."
+      "ates": "Nefisler çiftleştirildiği zaman.",
+      "hulusi": "Nefsler tezvic edildiğinde (bilinçler ölümün bu tadılışıyla birlikte yeni ruh bedenleriyle eşleştirildiğinde),",
+      "bayrakli": "Canlar bedenlerle birleştirildiğinde,",
+      "elmali_sade": "ruhlar eşleştirildiğinde.",
+      "cantay": "Ruuhlar çiftleşdiği zaman,",
+      "piris": "Nefisler birleştirildiği/eşleştirildiği zaman..",
+      "yildirim": "Nefisler eşleştirildiği, ruhlar bedenlere girdiği zaman,",
+      "safa": "Benlikler eşleştirildiğinde.",
+      "yuksel": "Nefisler/kişiler çiftleştirildiği zaman, [1]",
+      "aktas": "Nefisler eşleştirildiği[1] zaman,",
+      "okuyan": "Ruhlar (bedenlerle) eşleştirildiğinde,"
     },
     {
       "number": 5808,
@@ -136,7 +206,17 @@
       "bulac": "Ve 'diri diri toprağa gömülen kızcağıza' sorulduğu zaman:",
       "esed": "ve diri diri gömülen kız çocuklarına sorulduğunda",
       "suleymaniye": "diri diri gömülen kız çocuğuna sorulduğunda",
-      "ates": "Ve sorulduğu zaman o diri diri toprağa gömülen kıza:"
+      "ates": "Ve sorulduğu zaman o diri diri toprağa gömülen kıza:",
+      "hulusi": "Diri diri toprağa gömülen (kız çocuklara) sorulduğunda,",
+      "bayrakli": "- Diri diri toprağa gömülen kıza, hangi günah sebebiyle öldürüldüğü sorulduğunda,",
+      "elmali_sade": "Diri diri gömülen kıza sorulduğunda;",
+      "cantay": "(8-9) Diri diri gömülen kızın hangi suç (ların) dan dolayı öldürüldüğü sorulduğu zaman,",
+      "piris": "Diri diri gömülen kız çocuğuna sorulduğu zaman..",
+      "yildirim": "Diri diri gömülen kız çocuğuna,",
+      "safa": "Ve canlı gömülen kız çocuğuna sorulduğunda.",
+      "yuksel": "Doğduktan hemen sonra öldürülen kız çocuğu sorulduğu zaman:[1]",
+      "aktas": "O diri diri toprağa gömülen kıza sorulduğu zaman;",
+      "okuyan": "(8, 9) Diri diri gömülen kız çocuğuna hangi günah(ı) yüzünden öldürüldüğü sorulduğunda,[1]"
     },
     {
       "number": 5809,
@@ -152,7 +232,17 @@
       "bulac": "\"Hangi suçtan dolayı öldürüldü?\"",
       "esed": "hangi suçtan dolayı öldürüldükleri,",
       "suleymaniye": "hangi günahından (!) dolayı öldürüldü diye;[1]",
-      "ates": "\"Hangi günah(ı) yüzünden öldürüldü?\" diye."
+      "ates": "\"Hangi günah(ı) yüzünden öldürüldü?\" diye.",
+      "hulusi": "\"Hangi suçundan dolayı öldürüldü?\" diye.",
+      "bayrakli": "- Diri diri toprağa gömülen kıza, hangi günah sebebiyle öldürüldüğü sorulduğunda,",
+      "elmali_sade": "hangi suçtan öldürüldü diye,",
+      "cantay": "(8-9) Diri diri gömülen kızın hangi suç (ların) dan dolayı öldürüldüğü sorulduğu zaman,",
+      "piris": "Hangi suçtan öldürüldüğü..",
+      "yildirim": "Hangi suçtan ötürü öldürüldüğü sorulduğu zaman,",
+      "safa": "Hangi suçtan dolayı öldürüldü?",
+      "yuksel": "Hangi suçtan ötürü öldürüldü diye.",
+      "aktas": "Hangi suçtan dolayı öldürüldüğü!",
+      "okuyan": "(8, 9) Diri diri gömülen kız çocuğuna hangi günah(ı) yüzünden öldürüldüğü sorulduğunda,[1]"
     },
     {
       "number": 5810,
@@ -168,7 +258,17 @@
       "bulac": "Sahifeler (amel defterleri) açıldığı zaman,",
       "esed": "(insanların yapıp ettiklerinin) dosyaları açıldığında,",
       "suleymaniye": "ve (amellerin yazıldığı) sayfalar dağıtıldığında,[1]",
-      "ates": "(Amel) defterler(i) açılıp yayıldığı zaman,"
+      "ates": "(Amel) defterler(i) açılıp yayıldığı zaman,",
+      "hulusi": "Kaydedilmiş sayfaları açıldığında,",
+      "bayrakli": "Amel defterleri açıldığında,",
+      "elmali_sade": "defterler açıldığında,",
+      "cantay": "(Amel) defterler (i) açılıb yayıldığı zaman,",
+      "piris": "Sahifeler (amel defterleri) açıldığı zaman.",
+      "yildirim": "Hesap defterleri açıldığı zaman...",
+      "safa": "Sayfalar açıldığında.",
+      "yuksel": "Kayıtlar yayımlandığı zaman, ",
+      "aktas": "Defterler açıldığı zaman,",
+      "okuyan": "(Amel) defterler(i) açıldığında,"
     },
     {
       "number": 5811,
@@ -184,7 +284,17 @@
       "bulac": "Gök, sıyrılıp yüzüldüğü zaman",
       "esed": "ve gökyüzü açılıp ortaya serildiğinde,",
       "suleymaniye": "gök (dürülmek için)[1] sıyrıldığında,[2]",
-      "ates": "Gök sıyrılıp açıldığı zaman,"
+      "ates": "Gök sıyrılıp açıldığı zaman,",
+      "hulusi": "Sema sökülüp giderildiğinde (bilinç muhakemesini yitirdiğinde),",
+      "bayrakli": "Gökyüzü sıyrıldığında,",
+      "elmali_sade": "gökyüzü sıyrılıp açıldığında,",
+      "cantay": "Gök (yerinden) koparıldığı zaman,",
+      "piris": "Gök, perdelerinden sıyrıldığı zaman,",
+      "yildirim": "Gök cisimleri yerlerinden kaydırıldığı zaman,",
+      "safa": "Gök yerinden kaydırıldığında.",
+      "yuksel": "Gök yerinden oynatıldığı zaman, ",
+      "aktas": "Gök soyulduğu[1] zaman,",
+      "okuyan": "Gök sıyrıldığında, "
     },
     {
       "number": 5812,
@@ -200,7 +310,17 @@
       "bulac": "Cehennem ateşi çılgınca kızıştırıldığı zaman,",
       "esed": "(cehennemin) yakıcı ateşi parladığında,",
       "suleymaniye": "o yakıcı ateş /cehennem tutuşturulduğunda,[1]",
-      "ates": "Cehennem alevlendirildiği zaman,"
+      "ates": "Cehennem alevlendirildiği zaman,",
+      "hulusi": "Cahim tutuşturulup alevlendirildiğinde (pişmanlık yangını alevlendiğinde), (Not: Yaptığımız yorum, ayetlerin kişinin kıyametini sembolize etmesi yönündendir. A. H. )",
+      "bayrakli": "Cehennem tutuşturulduğunda,",
+      "elmali_sade": "cehennem kızıştırıldığında,",
+      "cantay": "O alevli ateş (cehernem) daha ziyade kızışdırıldığı zaman,",
+      "piris": "Cehennem alevlendirildiği zaman,",
+      "yildirim": "Cehennem alev alev kızıştırıldığı zaman...",
+      "safa": "Cehennem alevlendirildiğinde.",
+      "yuksel": "Cehennem alevlendirildiği zaman, ",
+      "aktas": "Cehennem kızıştırıldığı zaman,",
+      "okuyan": "Cehennem alevlendirildiğinde,"
     },
     {
       "number": 5813,
@@ -216,7 +336,17 @@
       "bulac": "Cennet de yakınlaştırıldığı zaman,",
       "esed": "ve cennet gözler önüne getirildiğinde,",
       "suleymaniye": "cennet yaklaştırıldığında,[1]",
-      "ates": "Cennet yaklaştırıldığı zaman,"
+      "ates": "Cennet yaklaştırıldığı zaman,",
+      "hulusi": "Cennet yaklaştırıldığında,",
+      "bayrakli": "Cennet yaklaştırıldığında,",
+      "elmali_sade": "cennet yaklaştırıldığında,",
+      "cantay": "Cennet (mü'minlere) yaklaşdırıldığı zaman,",
+      "piris": "Cennet yaklaştırıldığı zaman,",
+      "yildirim": "Cennet yaklaştırıldığı zaman...",
+      "safa": "Ve cennet yaklaştırıldığında.",
+      "yuksel": "Bahçe yaklaştırıldığı zaman, ",
+      "aktas": "Cennet yaklaştırıldığı zaman,",
+      "okuyan": "Cennet yaklaştırıldığında[1]"
     },
     {
       "number": 5814,
@@ -232,7 +362,17 @@
       "bulac": "(Artık her) Nefis, neyi hazırladığını bilip öğrenmiştir.",
       "esed": "(o Gün) her insan, (kendisi için) ne hazırlamış olduğunu görecektir.",
       "suleymaniye": "her nefis (o gün için) ne hazırladığını öğrenecektir.[1]",
-      "ates": "Her can, ne yapıp getirdiğini bilir."
+      "ates": "Her can, ne yapıp getirdiğini bilir.",
+      "hulusi": "Her nefs (bilinç) hazırladığı şeyi bilmiştir (biyolojik bedenli yaşamında yaptıklarının getirisini algılamıştır).",
+      "bayrakli": "Her can, kendine ne hazırladığını bilecektir.",
+      "elmali_sade": "bir nefis (herkes) ne hazırladığını anlar.",
+      "cantay": "(her) nefs ne hazırlamışsa (artık hepsini görüb) bilmişdir (bilecekdir.)",
+      "piris": "Herkes ne hazırladığını bilecektir.",
+      "yildirim": "İşte o zaman... Her insan hazırladığını, ortaya ne koyduğunu anlayacaktır.",
+      "safa": "Benlik, ne hazırladığını öğrenmiştir.",
+      "yuksel": "Her kişi ne yapıp getirdiğini bilir.",
+      "aktas": "İnsan, kendisi ile ne getirdiğini görecektir.",
+      "okuyan": "Her can (ahiret için dünyada) neler hazırladığını bilmiş (olacak)tır."
     },
     {
       "number": 5815,
@@ -248,7 +388,17 @@
       "bulac": "Artık hayır; yemin ederim (gündüz) sinip (gece) dönen (gezegen)lere,",
       "esed": "Hayır! Hayır! Dönüp duran yıldızları tanıklığa çağırırım,",
       "suleymaniye": "Hayır (iddia ettiğiniz gibi değil)! Gözden kaybolanlara yemin ederim,",
-      "ates": "Yoo, yemin ederim o geri kalıp gizlenenlere;"
+      "ates": "Yoo, yemin ederim o geri kalıp gizlenenlere;",
+      "hulusi": "Kasem ederim El Hünnes olarak (Güneş'in ışığından gündüz görünmeyen yıldızlar), Not: Hz. Ali r. a. \"El Hünnes\"i şöyle tefsir eder: \"Bunlar gündüzün sinen - görünmeyen, geceleyin zahir olan - çıkan yıldızlardır (gezegenlerdir). \"",
+      "bayrakli": "-Kara deliklere, ak deliklere yemin olsun,",
+      "elmali_sade": "Şimdi yemin ederim o sinenlere,",
+      "cantay": "(Demek ki hakıykat, ey kafirler, sizin dediğiniz gibi değildir). Andederim o (geceleri) geri dön (üb aydınlık neşr eden),",
+      "piris": "Hayır, Yemin ederim gizlenene..",
+      "yildirim": "Bakın: Gündüzün sinip gizlenen yıldızlara...",
+      "safa": "Yoo! Yemin olsun; saklanan dönüşlülere![575]",
+      "yuksel": "Ant olsun gizlenen yıldızlara, [1]",
+      "aktas": "Hayır, ant olsun sinenlere,[1]",
+      "okuyan": "Hayır! Yemin ederim: Kaybolan (yıldız)lara,"
     },
     {
       "number": 5816,
@@ -264,7 +414,17 @@
       "bulac": "Bir akış içinde yerini alanlara;",
       "esed": "yörüngelerinde akan ve kaybolan gezegenleri,",
       "suleymaniye": "(yörüngesinde) akıp (zaman zaman) görülmeyenlere;[1]",
-      "ates": "Akıp gidenlere, dönüp saklananlara,"
+      "ates": "Akıp gidenlere, dönüp saklananlara,",
+      "hulusi": "El Cevar'e, El Künnes'e (yörüngelerinde seyrederken aynı zamanda burçların etki alanlarında dolaşanlar - gezegenler),",
+      "bayrakli": "-Kara deliklere, ak deliklere yemin olsun,",
+      "elmali_sade": "o akıp akıp yuvasına girenlere,",
+      "cantay": "Akıb akıb yuvalarına giden (yıldız) lara,",
+      "piris": "Bir akış içinde yerini alanlara.",
+      "yildirim": "Dolaşıp dolaşıp yuvalarına, yörüngelerine giren gezegenlere...",
+      "safa": "Akarak yerinde kalanlara!",
+      "yuksel": "Akıp deliklerine girenlere.",
+      "aktas": "Yörüngesinde dönenlere,",
+      "okuyan": "(Yörüngelerinde) akıp gizlenen (gezegen)lere,[1]"
     },
     {
       "number": 5817,
@@ -280,7 +440,17 @@
       "bulac": "Kararmaya ilk başladığı zaman, geceye andolsun,",
       "esed": "ve kararan geceyi,",
       "suleymaniye": "başladığı ve bittiği vakitlerde geceye,[1]",
-      "ates": "Sırtını dönen geceye,"
+      "ates": "Sırtını dönen geceye,",
+      "hulusi": "Geri döndüğünde geceye,",
+      "bayrakli": "- Çöken geceye, söken şafaklara yemin olsun ki,",
+      "elmali_sade": "yöneldiği zaman o geceye,",
+      "cantay": "Karanlığa yöneldiği zaman geceye,",
+      "piris": "Karardığında geceye,",
+      "yildirim": "Geçmeye başladığı dem geceye...",
+      "safa": "Kararmaya başladığında geceye!",
+      "yuksel": "Ant olsun kararmaya başlayan geceye, ",
+      "aktas": "Kararmaya başladığı an geceye,",
+      "okuyan": "Kararmaya başlayan geceye,"
     },
     {
       "number": 5818,
@@ -296,7 +466,17 @@
       "bulac": "Ve nefes almaya başladığı zaman, sabaha;",
       "esed": "ve soluk almaya başlayan sabahı:",
       "suleymaniye": "ve (seher yeli esip) nefeslenince sabah vaktine yemin olsun ki[1]",
-      "ates": "Soluk almağa başlayan sabaha,"
+      "ates": "Soluk almağa başlayan sabaha,",
+      "hulusi": "Teneffüs ettiğinde sabaha,",
+      "bayrakli": "- Çöken geceye, söken şafaklara yemin olsun ki,",
+      "elmali_sade": "nefeslendiği zaman o sabaha ki,",
+      "cantay": "Nefeslendiği dem sabaha ki,",
+      "piris": "Aydınlanmaya başladığında sabaha andolsun ki.",
+      "yildirim": "Nefes almaya başladığı dem sabaha kasem ederim ki:",
+      "safa": "Ve soluk almaya başladığında sabaha![576]",
+      "yuksel": "Ve nefes almaya başlayan sabaha, ",
+      "aktas": "Soluk almaya başladığı zaman sabaha ant olsun ki,",
+      "okuyan": "Nefes almaya (aydınlanmaya) başlayan sabaha ki[1]"
     },
     {
       "number": 5819,
@@ -312,7 +492,17 @@
       "bulac": "Şüphesiz o (Kur'an), üstün onur sahibi bir elçinin gerçekten (Allah'tan getirdiği) sözüdür;",
       "esed": "bakın, bu (ilahi kelam), gerçekten soylu bir elçinin (vahyedilmiş) sözüdür,",
       "suleymaniye": "Kur'an, kesinlikle değerli bir elçinin /Cebrail'in getirdiği sözdür[1].",
-      "ates": "(Andolsun bunlara) Ki o, değerli bir elçinin (Cebrail'in) sözüdür."
+      "ates": "(Andolsun bunlara) Ki o, değerli bir elçinin (Cebrail'in) sözüdür.",
+      "hulusi": "Ki, muhakkak O, şerefli bir Rasulün sözüdür;",
+      "bayrakli": "- Kur'an kesinlikle değerli bir elçinin/Cebrail'in peygambere ilettiği sözdür. Arşın sahibinin katında güçlü ve değerli elçinin/Cebrail'in -ki o yüksek makam sahibidir-.",
+      "elmali_sade": "muhakkak o (Kur'an), şerefli bir elçinin getirdiği bir sözdür.",
+      "cantay": "Şüphesiz, muhakkak o (Kur'an) çok şerefli bir elçinin (getirdiği) kelamdır.",
+      "piris": "Şüphesiz o, şerefli bir elçinin sözüdür.",
+      "yildirim": "Kur'an, değerli bir Elçinin, Cebrail'in getirip okuduğu sözdür!",
+      "safa": "Kuşkusuz, O, kesinlikle, onurlu bir elçinin sözüdür.",
+      "yuksel": "Bu,  onurlu bir elçinin sözüdür.",
+      "aktas": "Kuşkusuz o[1] çok şerefli bir resul sözüdür;[2]",
+      "okuyan": "Şüphesiz o (Kur'an), değerli bir elçinin (Cebrail'in ulaştırdığı) sözüdür.[1]"
     },
     {
       "number": 5820,
@@ -328,7 +518,17 @@
       "bulac": "(Bu elçi,) Bir güç sahibidir, arşın sahibi katında şereflidir.",
       "esed": "güç bahşedilmiş, kudret ve egemenlik tahtının Sahibi nezdinde emin kılınmış,",
       "suleymaniye": "Güçlü ve arşın/ yönetim merkezinin sahibi yanında itibarlı olan,[1]",
-      "ates": "(O elçi,) Güçlüdür, Arşın sahibi (Allah) katında yücedir."
+      "ates": "(O elçi,) Güçlüdür, Arşın sahibi (Allah) katında yücedir.",
+      "hulusi": "Kuvvet sahibi (bir Rasulün)! Arş sahibi'nin indinde güvencede!",
+      "bayrakli": "- Kur'an kesinlikle değerli bir elçinin/Cebrail'in peygambere ilettiği sözdür. Arşın sahibinin katında güçlü ve değerli elçinin/Cebrail'in -ki o yüksek makam sahibidir-.",
+      "elmali_sade": "O elçi, pek güçlü, Arş'ın sahibinin katında itibarlıdır.",
+      "cantay": "(Bir elçi ki) çetin bir kudrete maliktir. Arşın saahibi (olan Allah) nezdinde çok i'tibarlıdır.",
+      "piris": "Güçlü, Arşın sahibi yanında itibarlı..",
+      "yildirim": "O Elçi ki çok kuvvetlidir. Yüce Arş sahibi Allah'ın nezdinde pek itibarlıdır.",
+      "safa": "Güçlüdür; Egemen Erkin Sahibinin katında saygınlığı vardır.",
+      "yuksel": "Güçlüdür; Yönetimin Sahibi katından yetkilidir.",
+      "aktas": "Güç sahibi, arşın sahibi yanında itibarlıdır.",
+      "okuyan": "(O elçi), arşın sahibi (olan Allah) katında çok itibarlıdır. "
     },
     {
       "number": 5821,
@@ -344,7 +544,17 @@
       "bulac": "Ona itaat edilir, sonra güvenilirdir.",
       "esed": "itaat edilen ve güvene layık birinin (sözü)!",
       "suleymaniye": "orada kendisine itaat edilen ve güvenilir olan elçinin…[1]",
-      "ates": "Orada (kendisine) ita'at edilen, güvenilendir."
+      "ates": "Orada (kendisine) ita'at edilen, güvenilendir.",
+      "hulusi": "İtaat edilendir orada (Sema'da), Emin'dir.",
+      "bayrakli": "İtaatli ve de güvenilir elçidir.",
+      "elmali_sade": "Orada kendisine itaat edilendir, güvenilendir.",
+      "cantay": "Orada kendisine itaat olunandır, bir emindir.",
+      "piris": "Sözü dinlenir, sonra güvenilir de..",
+      "yildirim": "Göklerde ona itaat edilir, vahiyler ona emanet edilir.",
+      "safa": "Orada, boyun eğilir; güvenilirdir.",
+      "yuksel": "Kendisine uyulmalı ve güvenilmeli.",
+      "aktas": "Kendisine itaat edilen, orada güvenilendir.",
+      "okuyan": "Orada (kendisine) itaat edilen, güvenilendir."
     },
     {
       "number": 5822,
@@ -360,7 +570,17 @@
       "bulac": "Sizin sahibiniz bir deli değildir.",
       "esed": "Çünkü, bu arkadaşınız bir deli değil:",
       "suleymaniye": "Arkadaşınız (Muhammed) cinlerin etkisinde değildir[1].",
-      "ates": "Arkadaşınız cinli değildir."
+      "ates": "Arkadaşınız cinli değildir.",
+      "hulusi": "Sahibiniz (Hz. Muhammed) bir cin etkisi altında olan değildir!",
+      "bayrakli": "- Sizin arkadaşınız Muhammed, kesinlikle deli değildir. O, meleği apaçık ufukta görmüştü. O, gaypten gelen bilgileri sizden esirgeyemez.",
+      "elmali_sade": "Yoksa sizin arkadaşınız (Muhammed), delirmiş değildir.",
+      "cantay": "Sizin saahibiniz bir mecnun değil.",
+      "piris": "Arkadaşınız mecnun değildir.",
+      "yildirim": "Şunu da bilin ki, içinizden biri olan bu arkadaşınız deli değildir.",
+      "safa": "Arkadaşınız, delirmiş değildir.",
+      "yuksel": "Arkadaşınız deli değildir.",
+      "aktas": "Arkadaşınız mecnun[1] değildir.",
+      "okuyan": "Arkadaşınız asla cinlenmiş değildir."
     },
     {
       "number": 5823,
@@ -376,7 +596,17 @@
       "bulac": "Andolsun o (peygamber), onu apaçık bir ufukta görmüştür.",
       "esed": "o gerçekten (meleği) gördü, berrak bir ufukta (gördü) onu;",
       "suleymaniye": "Cebrail'i, o açık ufukta (Nur Dağı'nda) kesinlikle gördü[1].",
-      "ates": "Andolsun (Muhammed) onu apaçık ufukta görmüştür."
+      "ates": "Andolsun (Muhammed) onu apaçık ufukta görmüştür.",
+      "hulusi": "Andolsun ki Onu apaçık ufuk olarak müşahede etti!",
+      "bayrakli": "- Sizin arkadaşınız Muhammed, kesinlikle deli değildir. O, meleği apaçık ufukta görmüştü. O, gaypten gelen bilgileri sizden esirgeyemez.",
+      "elmali_sade": "Vallahi onu (Cebrail) açık ufukta gördü.",
+      "cantay": "Andolsun ki O (saahibiniz) onu apaçık ufukda görmüşdür.",
+      "piris": "Onu (Cebrail'i) apaçık ufukta görmüştür.",
+      "yildirim": "O, vahyi getiren elçi Cebrail'i, apaçık ufukta görmüştü.",
+      "safa": "Gerçek şu ki, Onu, ufukta apaçık görmüştür.",
+      "yuksel": "Onu apaçık bir ufukta görmüştür.[1]",
+      "aktas": "Ant olsun o, onu açık ufukta gördü.",
+      "okuyan": "Yemin olsun ki onu (Cebrail'i) apaçık ufukta görmüştü.[1]"
     },
     {
       "number": 5824,
@@ -392,7 +622,17 @@
       "bulac": "O, gayb (haberlerin)e karşı (söylediklerinden dolayı) suçlanamaz (ya da cimrilikte bulunup kıskançlık yapmaz.)",
       "esed": "o, (başka birine vahyedilmiş olan) insan kavrayışının ötesindeki şeylerin bilgisinden dolayı onları kıskanan biri değildir.",
       "suleymaniye": "O, (kendisine bildirilen) gaybı /Kur'an'daki bilgileri[1] kimseden saklayacak değildir.",
-      "ates": "O, gayb hakkında (verdiği haberlerden dolayı) suçlanamaz."
+      "ates": "O, gayb hakkında (verdiği haberlerden dolayı) suçlanamaz.",
+      "hulusi": "O, gayb hakkında cimri değildir!",
+      "bayrakli": "- Sizin arkadaşınız Muhammed, kesinlikle deli değildir. O, meleği apaçık ufukta görmüştü. O, gaypten gelen bilgileri sizden esirgeyemez.",
+      "elmali_sade": "O, gayb hakkında kıskanılır da değildir.",
+      "cantay": "O gaybden dolayı asla suçlu da değildir.",
+      "piris": "O, gayb hakkında suçlanacak değildir.",
+      "yildirim": "O, vahiy hususunda cimri davranan, vahyi sizden esirgeyen bir zat değildir. Vahiy hakkında her türlü töhmetten de uzaktır.",
+      "safa": "Gizli gerçeklerin bilgisinden dolayı kıskanan birisi değildir.[577]",
+      "yuksel": "O,  hiçbir haberi gizlemiyor.",
+      "aktas": "O vahyi gizlemez.[1]",
+      "okuyan": "O, gayb (bilinemeyenler) hakkında cimri değildir.[1]"
     },
     {
       "number": 5825,
@@ -408,7 +648,17 @@
       "bulac": "O (Kur'an) da kovulmuş şeytanın sözü değildir.",
       "esed": "Bu (mesaj), lanetlenmiş bir şeytani gücün sözü de değildir.",
       "suleymaniye": "Bu Kur'an, kovulmuş şeytanın sözü değildir[1].",
-      "ates": "O (Kur'an) kovulmuş şeytanın sözü değildir."
+      "ates": "O (Kur'an) kovulmuş şeytanın sözü değildir.",
+      "hulusi": "Ve O, recm olunmuş (hakikatten uzaklaştırılmış) şeytanın lafı da değildir!",
+      "bayrakli": "Bu Kur'an, kovulmuş şeytanın sözü değildir.",
+      "elmali_sade": "Ve o (Kur'an), kovulmuş şeytanın sözü değildir.",
+      "cantay": "O (Kur'an) da taşlanmış (koğulmuş) bir şeytanın sözü değil.",
+      "piris": "O, koğulmuş şeytanın sözü de değildir.",
+      "yildirim": "Bu söz, hele hele, kovulmuş şeytanın sözü hiç değildir!",
+      "safa": "Ve O, kovulmuş şeytanın sözü değildir.",
+      "yuksel": "O,  kovulan sapkının sözü olamaz.",
+      "aktas": "O, taşlanmış şeytanın sözü değildir.",
+      "okuyan": "O (Kur'an), asla kovulmuş şeytanın sözü değildir."
     },
     {
       "number": 5826,
@@ -424,7 +674,17 @@
       "bulac": "Şu halde, siz nereye kaçıp gidiyorsunuz?",
       "esed": "Öyleyse nereye gidiyorsunuz?",
       "suleymaniye": "Öyleyse nereye gidiyorsunuz![1]",
-      "ates": "O halde nereye gidiyorsunuz?"
+      "ates": "O halde nereye gidiyorsunuz?",
+      "hulusi": "O halde (Kuran'ı bırakıp) nereye gidiyorsunuz?",
+      "bayrakli": "O halde nereye gidiyorsunuz?",
+      "elmali_sade": "Böyle iken siz nereye gidiyorsunuz?",
+      "cantay": "O halde nereye gidiyorsunuz?",
+      "piris": "-Öyleyse nereye gidiyorsunuz?",
+      "yildirim": "O halde siz nereye gidiyorsunuz öyle, neden bahsediyorsunuz?",
+      "safa": "Öyleyse nereye gidiyorsunuz?",
+      "yuksel": "Öyleyse nereye gidiyorsunuz?",
+      "aktas": "O halde nereye gidiyorsunuz?[1]",
+      "okuyan": "Gidişiniz nereye!"
     },
     {
       "number": 5827,
@@ -440,7 +700,17 @@
       "bulac": "O (Kur'an), alemler için yalnızca bir zikirdir;",
       "esed": "Bu (mesaj), bütün insanlık için bir öğüt ve hatırlatmadan başka bir şey değildir,",
       "suleymaniye": "Kur'an, herkes için akılda tutulması gereken bir bilgiden /zikirden başka bir şey değildir;[1]",
-      "ates": "O, alemlere öğüttür."
+      "ates": "O, alemlere öğüttür.",
+      "hulusi": "O alemler (insanlar) için yalnızca Zikir'dir (hatırlatmadır)!",
+      "bayrakli": "- Bu Kur'an, sizden doğru yola gitmek isteyenleriniz için, bütün insanlara bir öğütten ibarettir.",
+      "elmali_sade": "O, sadece bir öğüttür, alemler için.",
+      "cantay": "(27-28) O, aalemler için, (hele) sizden doğruluk isteyenler için bir öğüdden başkası değildir.",
+      "piris": "O, ancak alemler için bir zikir/uyarıdır.",
+      "yildirim": "(27-28) Bu, olsa olsa bütün alemlere bir öğüttür, bir uyarıdır. İstikamet sahibi olmak isteyenler onu dinlerler.",
+      "safa": "O, evrenler için yalnızca bir öğretidir.",
+      "yuksel": "Bu,  tüm halklara bir mesajdır.",
+      "aktas": "O alemler için zikirden[1] başka bir şey değildir.",
+      "okuyan": "(27, 28) O (Kur'an) âlemler için, yani içinizden doğru yolda gitmek isteyenler için ancak bir hatırla(t)madır.[1]"
     },
     {
       "number": 5828,
@@ -456,7 +726,17 @@
       "bulac": "Sizden dosdoğru bir yön (istikamet) tutturmak dileyenler için.",
       "esed": "doğru yolda yürümek isteyen her biriniz için.",
       "suleymaniye": "içinizden dosdoğru olmayı tercih eden herkes için...[1]",
-      "ates": "Aranızdan doğru hareket etmek isteyen için;"
+      "ates": "Aranızdan doğru hareket etmek isteyen için;",
+      "hulusi": "Sizden bilfiil gerçek üzere yaşamayı dileyenler için!",
+      "bayrakli": "- Bu Kur'an, sizden doğru yola gitmek isteyenleriniz için, bütün insanlara bir öğütten ibarettir.",
+      "elmali_sade": "Ve içinizden dosdoğru olmayı dileyenler için.",
+      "cantay": "(27-28) O, aalemler için, (hele) sizden doğruluk isteyenler için bir öğüdden başkası değildir.",
+      "piris": "Sizden doğru yolu isteyenler için..",
+      "yildirim": "(27-28) Bu, olsa olsa bütün alemlere bir öğüttür, bir uyarıdır. İstikamet sahibi olmak isteyenler onu dinlerler.",
+      "safa": "Aranızdan, doğru olmak isteyenler için.",
+      "yuksel": "Sizden doğru davranmak isteyenler için...",
+      "aktas": "Sizden doğru yoldan gitmek isteyenler için.",
+      "okuyan": "(27, 28) O (Kur'an) âlemler için, yani içinizden doğru yolda gitmek isteyenler için ancak bir hatırla(t)madır.[1]"
     },
     {
       "number": 5829,
@@ -472,7 +752,17 @@
       "bulac": "Alemlerin Rabbi olan Allah dilemedikçe siz dileyemezsiniz.",
       "esed": "Ama Allah, bütün alemlerin Rabbi, (o yolu size göstermeyi) istemedikçe siz onu isteyemezsiniz.",
       "suleymaniye": "Sizin bir şey yapmanız, ancak varlıkların sahibi olan Allah'ın, şartları oluşturması ile mümkündür[1].",
-      "ates": "Alemlerin Rabbi Allah dilemedikçe siz dileyemezsiniz."
+      "ates": "Alemlerin Rabbi Allah dilemedikçe siz dileyemezsiniz.",
+      "hulusi": "Rabb-ül alemin olan Allah dilemedikçe, siz dileyemezsiniz!",
+      "bayrakli": "Siz zaten ancak, alemlerin Rabbi olan Allah'ın dilediğini dilersiniz.",
+      "elmali_sade": "Fakat o alemlerin Rabbi olan Allah dilemeyince siz dileyemezsiniz!",
+      "cantay": "(Bununla beraber o doğruluğu) alemlerin Rabbi olan Allah dilemeyince siz dileyemezsiniz.",
+      "piris": "Alemlerin Rabbi Allah dilemedikçe, siz de dileyemezsiniz.",
+      "yildirim": "Ama bu iş sizin istemenizle değil, ancak Rabbülalemin olan Allah'ın dilemesiyle tamam olur.",
+      "safa": "Evrenlerin Efendisi Allah dilemedikçe, siz zaten dileyemezsiniz.",
+      "yuksel": "Ne dilerseniz,  ancak evrenlerin Efendisi olan ALLAH'ın dilediğine göredir.[1]",
+      "aktas": "Alemlerin Rabb'i Allah dilemedikçe[1] siz dileyemezsiniz.",
+      "okuyan": "(Böylece), âlemlerin Rabbi olan Allah'ın dilediğinden başkasını dilememiş olursunuz.[1]"
     }
   ]
 }

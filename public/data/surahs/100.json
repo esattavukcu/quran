@@ -24,7 +24,17 @@
       "bulac": "Soluk soluğa koşan (at)lara andolsun,",
       "esed": "Ooo! Nefes nefese koşan binek atları,",
       "suleymaniye": "(Allah yolunda) nefes nefese koşturup duranlara yemin olsun![1]",
-      "ates": "Andolsun nefesleriyle (güp güp) ses çıkararak koşan (at)lara,"
+      "ates": "Andolsun nefesleriyle (güp güp) ses çıkararak koşan (at)lara,",
+      "hulusi": "Andolsun o nefesleri zorlanarak (dünyalık biriktirmek için) koşan (azgın atlara benzer insanlara),",
+      "bayrakli": "Öfkesinden dolayı soluk soluğa kalan düşmanlara,",
+      "elmali_sade": "Andolsun o harıl harıl koşular koşanlara,",
+      "cantay": "Andolsun o harıl harıl koşan (at) lara,",
+      "piris": "Andolsun, soluya soluya koşanlara ..",
+      "yildirim": "Gazilerin nefes nefese koşan,",
+      "safa": "Yemin olsun; soluk soluğa Koşanlara![611]",
+      "yuksel": "Ant olsun soluyarak aşanlara, [1]",
+      "aktas": "Soluk soluğa koşanlara ant olsun,",
+      "okuyan": "Yemin olsun: Soluk soluğa koşan düşmanlara"
     },
     {
       "number": 6148,
@@ -40,7 +50,17 @@
       "bulac": "(Tırnaklarıyla) Ateş saçanlara,",
       "esed": "ateş saçan kıvılcımlar,",
       "suleymaniye": "Kıvılcımlar çaktıranlara,",
-      "ates": "(Tırnaklariyle yerden) Ateş çıkaranlara,"
+      "ates": "(Tırnaklariyle yerden) Ateş çıkaranlara,",
+      "hulusi": "(Koşuşurken hırsından, öfkesinden) çakıp ateş çıkaranlara,",
+      "bayrakli": "İçindeki kin ateşini etrafındakilere püskürenlere,",
+      "elmali_sade": "(tırnaklarını) çakarak ateşler saçanlara,",
+      "cantay": "o (tırnaklarıyle) çakarak ateş çıkaran (on) lara,",
+      "piris": "(Koşarken) kıvılcım saçanlara ..",
+      "yildirim": "Koşarken tırnaklarıyla kıvılcımlar saçan,",
+      "safa": "Ve hızla çarparak kıvılcım saçanlara!",
+      "yuksel": "Ateş saçarak gidenlere, ",
+      "aktas": "Çarparak ateş çıkaranlara,",
+      "okuyan": "Kıvılcım (öfke) saçanlara,"
     },
     {
       "number": 6149,
@@ -56,7 +76,17 @@
       "bulac": "Sabah vakti baskın yapanlara.",
       "esed": "sabah vakti akına koşan,",
       "suleymaniye": "sabahleyin harekete geçenlere,",
-      "ates": "Sabahleyin akın edenlere,"
+      "ates": "Sabahleyin akın edenlere,",
+      "hulusi": "Sabahın seherinde akına kalkıp,",
+      "bayrakli": "Kin ve öfkeleriyle sabahlayanlara yazıklar olsun!",
+      "elmali_sade": "sabahleyin baskın basanlara,",
+      "cantay": "sabahlayın baskın yapanlara,",
+      "piris": "Sabah vakti baskın yapanlara ..",
+      "yildirim": "Sabah erkenden baskın basan,",
+      "safa": "Sonra, sabah zamanı ansızın akın edenlere!",
+      "yuksel": "Sabah sabah akın edenlere, ",
+      "aktas": "Sabahleyin akın edenlere,",
+      "okuyan": "Sabah vakti baskın yapanlara."
     },
     {
       "number": 6150,
@@ -72,7 +102,17 @@
       "bulac": "Derken, orada tozu dumana katanlara,",
       "esed": "böylece toz bulutları yükselten,",
       "suleymaniye": "bu çabaları ile kalıcı bir eser bırakanlara,",
-      "ates": "(Koşarak) Toz koparanlara,"
+      "ates": "(Koşarak) Toz koparanlara,",
+      "hulusi": "O hırsla ortalığı toza bulayanlara,",
+      "bayrakli": "Onlar tozu dumana katıp bozgunculuk yaparlar,",
+      "elmali_sade": "derken savurup da bir toz duman (tozu dumana katanlara),",
+      "cantay": "derken orada (ayaklarıyle) toz koparanlara,",
+      "piris": "Tozu dumana katanlara ..",
+      "yildirim": "O esnada tozu dumana katan,",
+      "safa": "Böylece, toz duman koparanlara!",
+      "yuksel": "Toz koparanlara, ",
+      "aktas": "Sonra toz koparanlara,",
+      "okuyan": "Bu sebeple, onlar tozu dumana katmışlardı"
     },
     {
       "number": 6151,
@@ -88,7 +128,17 @@
       "bulac": "Bununla bir (düşman) topluluğun orta yerine kadar dalanlara.",
       "esed": "(körcesine) bir ordunun içine dalan!",
       "suleymaniye": "böylece yaptıklarıyla, bir topluluk olarak merkezde yer alanlara yemin olsun ki",
-      "ates": "Derken bir topluluğun ortasına dalanlara."
+      "ates": "Derken bir topluluğun ortasına dalanlara.",
+      "hulusi": "Böylece o hal ile halkın içine dalanlara (çok yazık)!",
+      "bayrakli": "Toplumu derinden yaralarlar.",
+      "elmali_sade": "o anda bir derneği ortalayanlara (topluluğun ortasına dalanlara) ki,",
+      "cantay": "Bununla bir topluluğun ta ortasına girenlere (ya'ni atlara) ki,",
+      "piris": "Topluluğun ortasına dalanlara ..",
+      "yildirim": "Derken düşman kuvvetinin ortasına dalan atların hakkı için ki:",
+      "safa": "Sonra, bir topluluğun içine dalanlara!",
+      "yuksel": "Ve topluluğun ortasına dalanlara ki;",
+      "aktas": "Sonra onunla bir topluluğa dalanlara ki,",
+      "okuyan": "Topluluğun ortasına dalmışlardı.[1]"
     },
     {
       "number": 6152,
@@ -104,7 +154,17 @@
       "bulac": "Gerçekten insan, Rabbine karşı nankördür.",
       "esed": "Gerçek şu ki, insan Rabbine karşı çok nankördür;",
       "suleymaniye": "(çoğu) insan, Rabbine karşı gerçekten iyilikbilmezdir.[1]",
-      "ates": "(Bunlara andolsun) Ki insan, Rabbine karşı çok nankördür."
+      "ates": "(Bunlara andolsun) Ki insan, Rabbine karşı çok nankördür.",
+      "hulusi": "Gerçektir ki insan Rabbine karşı elbette çok nankördür!",
+      "bayrakli": "İnsan, Rabbine karşı çok nankördür.",
+      "elmali_sade": "o insan Rabbine karşı pek nankördür.",
+      "cantay": "muhakkak insan Rabbine karşı çok nankördür.",
+      "piris": "İnsan, Rabbine karşı gerçekten nankördür.",
+      "yildirim": "Gerçekten insan, Rabbine karşı çok nankördür!",
+      "safa": "Aslında, insan, Efendisine karşı gerçekten çok nankördür.",
+      "yuksel": "İnsan Efendisine karşı çok nankördür.",
+      "aktas": "Kuşkusuz o insan[1] Rabb'ine karşı çok nankördür.",
+      "okuyan": "Şüphesiz ki böylesi insan, Rabbine karşı çok nankördür. "
     },
     {
       "number": 6153,
@@ -120,7 +180,17 @@
       "bulac": "Ve gerçekten, kendisi buna şahiddir.",
       "esed": "ve kendisi (de) buna şahittir:",
       "suleymaniye": "Şüphesiz buna kendisi de şahittir.[1]",
-      "ates": "Ve o da buna şahiddir."
+      "ates": "Ve o da buna şahiddir.",
+      "hulusi": "Kesinlikle kendisi de buna şahittir!",
+      "bayrakli": "Kendisi de buna şahittir.",
+      "elmali_sade": "Ve kendisi de şahittir buna.",
+      "cantay": "Hiç şübhesiz O buna hakkıyle şahiddir.",
+      "piris": "Kendisi de buna şahittir.",
+      "yildirim": "Kendisi de buna şahittir.",
+      "safa": "Üstelik kendisi, kesinlikle buna tanıktır.",
+      "yuksel": "Üstelik buna da tanıktır.",
+      "aktas": "Ve o[1] da buna tanıktır.[2]",
+      "okuyan": "Şüphesiz ki buna kendisi de şahittir. "
     },
     {
       "number": 6154,
@@ -136,7 +206,17 @@
       "bulac": "Muhakkak o, mal sevgisinden dolayı (bencil ve cimri tutumundan) çok katıdır.",
       "esed": "çünkü servet hırsına kapılmıştır.",
       "suleymaniye": "Çünkü ondaki mal ve makam[1] sevgisi çok güçlüdür.",
-      "ates": "Doğrusu o, malı çok sever."
+      "ates": "Doğrusu o, malı çok sever.",
+      "hulusi": "Kesinlikle onda zenginlik sevgisi çok şiddetlidir!",
+      "bayrakli": "Onun mala karşı tutku derecesinde sevgisi vardır.",
+      "elmali_sade": "Ve o serveti sevdiği için katıdır, çetindir ona.",
+      "cantay": "Gerçek o, mal sevgisinden dolayı pek katıdır.",
+      "piris": "Şüphesiz onun mal sevgisi de çok şiddetlidir.",
+      "yildirim": "Ondaki mal hırsı pek şiddetlidir.",
+      "safa": "Zaten mal sevgisine gerçekten çok düşkündür.",
+      "yuksel": "O mala çok düşkündür.",
+      "aktas": "Doğrusu o hayrı[1] aşırı derecede sever.",
+      "okuyan": "Şüphesiz ki onun mal sevgisi çok şiddetlidir."
     },
     {
       "number": 6155,
@@ -152,7 +232,17 @@
       "bulac": "Yine de bilmeyecek mi? Kabirlerde olanların 'deşilip dışa atıldığı,'",
       "esed": "Ama bilmez mi ki (Ahiret Günü,) herkes mezarından ayağa kalkıp dışarı çıktığında,",
       "suleymaniye": "O hiç bilmiyor mu ki kabirlerde olanlar dışarı çıkarıldığında[1]",
-      "ates": "Bilmez mi o, kabirlerde olanlar dışarı atıldığı,"
+      "ates": "Bilmez mi o, kabirlerde olanlar dışarı atıldığı,",
+      "hulusi": "Bilmez mi (insan), kabirlerin (bedenlerin) içindekiler deşilip dışarı çıkartıldığında,",
+      "bayrakli": "Bilmez mi kabirlerde olanlar yeniden diriltilip dışarı atıldığı zaman!",
+      "elmali_sade": "Bilmiyor mu ki, kabirdekiler deşildiği zaman,",
+      "cantay": "Haala o, (hakıykatı görüp) bilmeyecek mi, kabirlerin içindekiler (eşilib) çıkarıldığı zaman,",
+      "piris": "Hala bilmiyor mu? Mezardakilerin dışa çıkarıldığında ..",
+      "yildirim": "(9-10) Peki o insan, kendisinin ve malının akıbetini hala bilip anlamayacak mı? Kabirlerde olanlar diriltilip dışarı atıldığı zaman, sinelerin içinde bulunan her şey derlenip ortaya konulduğu zaman,",
+      "safa": "Artık, bilmeyecek mi; mezardakiler dışarı çıkarıldığında?",
+      "yuksel": "Bilmez mi ki,  mezardakiler ortaya atıldığı, ",
+      "aktas": "Bilmez mi kabirlerde olanlar çıkarıldığı zaman,",
+      "okuyan": "Bilmez mi ki mezarlarda olanlar dışarı atıldığında,"
     },
     {
       "number": 6156,
@@ -168,7 +258,17 @@
       "bulac": "Göğüslerde olanların derlenip devşirildiği zamanı?",
       "esed": "ve insanların kalplerinde (gizli) olan her şey ortaya döküldüğünde,",
       "suleymaniye": "ve sinelerde olanlar toparlanıp ortaya konulduğunda[1]",
-      "ates": "Göğüslerde bulunanlar devşirildiği zaman,"
+      "ates": "Göğüslerde bulunanlar devşirildiği zaman,",
+      "hulusi": "Sadırların içindekiler açığa çıkartıldığında,",
+      "bayrakli": "Sinelerde olanlar ortaya konduğu zaman.",
+      "elmali_sade": "o göğüslerdekiler derlendiğinde,",
+      "cantay": "göğüslerde ne varsa onlar da derlenib toparlandığı (zaman)?",
+      "piris": "Kalplerdeki ortaya konduğunda.",
+      "yildirim": "(9-10) Peki o insan, kendisinin ve malının akıbetini hala bilip anlamayacak mı? Kabirlerde olanlar diriltilip dışarı atıldığı zaman, sinelerin içinde bulunan her şey derlenip ortaya konulduğu zaman,",
+      "safa": "Ve yüreklerde olanlar ortaya döküldüğünde.",
+      "yuksel": "Ve göğüslerde gizlenenler açığa çıkarıldığı zaman, ",
+      "aktas": "Ve göğüslerde olanlar açığa çıkarıldığı zaman,",
+      "okuyan": "Göğüslerde (kalplerde) olanlar (gizlenenler) ortaya döküldüğünde,"
     },
     {
       "number": 6157,
@@ -184,7 +284,17 @@
       "bulac": "Şüphesiz, o gün Rableri, kendilerinden gerçekten haberdardır.",
       "esed": "işte o Gün Rableri, onların her halinden haberdar (olduğunu gösterecek)tir?",
       "suleymaniye": "ٍişte o gün Rableri onlara (neler yaptıklarını) kesinlikle bildirecektir![1]",
-      "ates": "O gün Rabbleri onların her halini haber almış (gizli ve açık bütün yaptıklarını bilmiş)tir."
+      "ates": "O gün Rabbleri onların her halini haber almış (gizli ve açık bütün yaptıklarını bilmiş)tir.",
+      "hulusi": "İşte o süreçte Rableri, Esma boyutu itibarıyla, onlar olarak elbette Habiyr'dir.",
+      "bayrakli": "Şüphesiz, Rableri o gün onların yaptıklarından haberdardır.",
+      "elmali_sade": "O gün, Rableri onlardan elbette haberdardır!",
+      "cantay": "Hakıykat, o gün Rableri onlar (ın her haalin) den elbette tamamiyle haberdardır.",
+      "piris": "Şüphesiz o gün, Rab'leri kendilerinden haberdardır.",
+      "yildirim": "İşte bilhassa o gün, Rab'leri, onların bütün yaptıklarından haberdardır.",
+      "safa": "Kuşkusuz, Efendileri, o gün, kesinlikle Haberlidir.",
+      "yuksel": "Evet o gün Efendi'leri onların her şeyinden haberlidir.",
+      "aktas": "O Gün Rabb'lerinin her şeylerinden haberdar olduğunu.",
+      "okuyan": "Şüphesiz ki Rableri o gün onlardan haberdardır."
     }
   ]
 }

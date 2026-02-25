@@ -24,7 +24,17 @@
       "bulac": "Battığı zaman yıldıza andolsun;",
       "esed": "Düşün yücelerden inen (Allah'ın mesajının) gözler önüne serdiğini!",
       "suleymaniye": "Ortaya çıktığında o yıldıza[1] (kutup yıldızına) yemin olsun ki[2]",
-      "ates": "Aşağı kayan yıldıza andolsun ki:"
+      "ates": "Aşağı kayan yıldıza andolsun ki:",
+      "hulusi": "Necm'e (bölüm bölüm açığa çıkararak tüm hakikati anlatana) yemin olsun ki,",
+      "bayrakli": "- Battığı zaman yıldıza andolsun ki, arkadaşınız Muhammed sapmadı, azmadı. O, arzusuna göre de konuşmuyor. Bildirdikleri, kendisine vahyolunan bir vahiyden ibarettir.",
+      "elmali_sade": "İnmekte olan necme (yıldıza, Kur'an'ın inen miktarına) yemin ederim ki,",
+      "cantay": "Batdığı dem yıldıza and olsun ki,",
+      "piris": "Yıldıza andolsun batarken.",
+      "yildirim": "Kayan yıldıza yemin olsun ki.",
+      "safa": "Yemin olsun; battığı zaman Yıldıza!",
+      "yuksel": "Düşerken yıldızlara ant olsun.",
+      "aktas": "Batan yıldıza ant olsun ki,",
+      "okuyan": "(Parça parça) indiğinde necm'e (Kur'an'a) yemin olsun."
     },
     {
       "number": 4786,
@@ -40,7 +50,17 @@
       "bulac": "Sahibiniz (arkadaşınız olan peygamber) sapmadı ve azmadı.",
       "esed": "Sizin bu arkadaşınız ne sapmış, ne de aldatılmıştır,",
       "suleymaniye": "Arkadaşınız doğru yoldan sapmadı[1], yanlış kurgulara da kapılmadı[2].",
-      "ates": "Arkadaşınız sapmadı, azmadı."
+      "ates": "Arkadaşınız sapmadı, azmadı.",
+      "hulusi": "Arkadaşınız ne saptı ne de azdı!",
+      "bayrakli": "- Battığı zaman yıldıza andolsun ki, arkadaşınız Muhammed sapmadı, azmadı. O, arzusuna göre de konuşmuyor. Bildirdikleri, kendisine vahyolunan bir vahiyden ibarettir.",
+      "elmali_sade": "arkadaşınız şaşırmadı, azıtmadı da!",
+      "cantay": "saahibiniz (doğru yoldan) sapmadı. Baatıla da inanmadı.",
+      "piris": "Arkadaşınız sapıtmadı, azdırılmadı.",
+      "yildirim": "Arkadaşınız (Muhammed) yanılmadı, sapmadı, aldanmadı.",
+      "safa": "Arkadaşınız, ne sapmış ne de azmıştır.",
+      "yuksel": "Arkadaşınız (Muhammed) ne sapmıştır,  ne de azmıştır.",
+      "aktas": "Arkadaşınız sapkın ve azgın değil.",
+      "okuyan": "Arkadaşınız (Muhammed), sapmamış ve azgınlaşmamıştır."
     },
     {
       "number": 4787,
@@ -56,7 +76,17 @@
       "bulac": "O, hevadan (kendi istek, düşünce ve tutkularına göre) konuşmaz.",
       "esed": "ve ne de kendi arzu ve heveslerine göre konuşmaktadır:",
       "suleymaniye": "O, kendi arzusuna göre konuşmuyor[1].",
-      "ates": "O heva'dan konuşmaz."
+      "ates": "O heva'dan konuşmaz.",
+      "hulusi": "(O), hevasından (hayali şeyleri) konuşmaz!",
+      "bayrakli": "- Battığı zaman yıldıza andolsun ki, arkadaşınız Muhammed sapmadı, azmadı. O, arzusuna göre de konuşmuyor. Bildirdikleri, kendisine vahyolunan bir vahiyden ibarettir.",
+      "elmali_sade": "Hevadan (arzusuna göre) söylemiyor.",
+      "cantay": "Kendi (re'y-ü) hevasından söylemez o.",
+      "piris": "Kendi hevasından konuşmuyor.",
+      "yildirim": "O kendi heva ve hevesiyle konuşmuyor.",
+      "safa": "Ne de kendi isteklerine göre konuşuyor.",
+      "yuksel": "Ne de fanteziden konuşmaktadır.",
+      "aktas": "Ve o, hevasından[1] konuşmaz.",
+      "okuyan": "Arzusundan konuşmuyor."
     },
     {
       "number": 4788,
@@ -72,7 +102,17 @@
       "bulac": "O (söyledikleri), yalnızca vahyolunmakta olan bir vahiydir.",
       "esed": "bu (size ilettiği), kendisine indirilen (ilahi) vahiyden başka bir şey değildir;",
       "suleymaniye": "Konuştuğu o şey, kendisine yapılan vahiyden /Kur'an'dan ibarettir[1].",
-      "ates": "O(nun okuduğu Kur'an) kendisine vahyedilen vahiyden başka bir şey değildir."
+      "ates": "O(nun okuduğu Kur'an) kendisine vahyedilen vahiyden başka bir şey değildir.",
+      "hulusi": "O yalnızca vahyolunan bir vahiydir!",
+      "bayrakli": "- Battığı zaman yıldıza andolsun ki, arkadaşınız Muhammed sapmadı, azmadı. O, arzusuna göre de konuşmuyor. Bildirdikleri, kendisine vahyolunan bir vahiyden ibarettir.",
+      "elmali_sade": "O (Kur'an) sadece vahyolunan bir vahiydir.",
+      "cantay": "O, kendisine (Allahdan) ilkaa edilegelen bir vahyden başkası değildir.",
+      "piris": "O ancak kendisine vahyedilen bir vahiydir.",
+      "yildirim": "O, kendisine vahyedilen bir vahiyden başka bir şey değildir.",
+      "safa": "Ancak, Ona bildirilen, Tanrısal bildirimdir.",
+      "yuksel": "O (Kuran) ancak ve ancak bildirilen bir vahiydir.",
+      "aktas": "Onun size söyledikleri, kendisine vahyedilen vahiyden başkası değildir.[1]",
+      "okuyan": "O (Kur'an) kendisine vahyedilmekte olan vahiyden başka bir şey değildir."
     },
     {
       "number": 4789,
@@ -88,7 +128,17 @@
       "bulac": "Ona (bu Kur'an'ı) üstün (oldukça çetin) bir güç sahibi (Cebrail) öğretmiştir.",
       "esed": "son derece kudretli birinin ona öğrettiği (bir vahiy):",
       "suleymaniye": "Onu ona, pek güçlü olan (Cebrail) öğretti[1].",
-      "ates": "Onu, mühtiş kuvvetleri olan biri öğretti;"
+      "ates": "Onu, mühtiş kuvvetleri olan biri öğretti;",
+      "hulusi": "O'na kuvveleri şiddetli olan talim etti!",
+      "bayrakli": "- Ona, bunu çok güçlü akıl sahibi olan Cebrail öğretmiştir. Doğrulup dikildi. O, en yüksek ufuktaydı. Sonra iyice yaklaştı ve sarktı. İki yayın arası kadar, hatta daha da yakın. Böylece kuluna vahyedeceğinivahyetti.",
+      "elmali_sade": "Ona, kuvvetleri çok güçlü olan öğretti.",
+      "cantay": "Onu müdhiş kuvvetlere malik olan öğretdi.",
+      "piris": "Bunu ona çok güçlü biri öğretti.",
+      "yildirim": "(5-7) Onu kendisine pek güçlü ve kuvvetli, o üstün akıl ve kemal sahibi olan (melek Cebrail) öğretti. Melek kendi asli suretine girip doğruldu. İşte o zaman kendisi en yüce ufukta idi.",
+      "safa": "Büyük Gücü Olan, Ona öğretmiştir.",
+      "yuksel": "Onu,  büyük güce sahip olan öğretmiştir.",
+      "aktas": "Ona Üstün Güç Sahibi ve Kudretli Olan öğretti.[1]",
+      "okuyan": "(5, 6, 7) Çünkü o (Kur'an'ı) müthiş kuvvetleri olan, donanımlı (Cebrail) öğretmiştir. (Cebrail) en yüksek ufuktayken belirmişti."
     },
     {
       "number": 4790,
@@ -104,7 +154,17 @@
       "bulac": "(Ki O,) Görünümüyle çarpıcı bir güzelliğe sahiptir. Hemen doğruldu.",
       "esed": "(o,) fevkalade bir güçle donatılmış (bir melektir) ki o an geldiğinde kendini gerçek şekli ve hüviyeti ile gösterdi,",
       "suleymaniye": "Heybetli olan[1] (Cebrail)... Gerçek görüntüsü ile doğruldu.",
-      "ates": "Üstün akıl sahibi (melek). Doğruldu;"
+      "ates": "Üstün akıl sahibi (melek). Doğruldu;",
+      "hulusi": "O (kuvve) kendini fark ettirdi, böylece de istiva etti (böylece de vahye açık hale geldi)!",
+      "bayrakli": "- Ona, bunu çok güçlü akıl sahibi olan Cebrail öğretmiştir. Doğrulup dikildi. O, en yüksek ufuktaydı. Sonra iyice yaklaştı ve sarktı. İki yayın arası kadar, hatta daha da yakın. Böylece kuluna vahyedeceğinivahyetti.",
+      "elmali_sade": "Bir kuvvet sahibi; hemen duruklandı (doğruldu).",
+      "cantay": "(Ki o) akıl ve re'yinde kamil (bir melek) dir. Hemen (kendi suretine girib) doğruldu.",
+      "piris": "Üstün akıl sahibidir. Hemen doğruluverdi.",
+      "yildirim": "(5-7) Onu kendisine pek güçlü ve kuvvetli, o üstün akıl ve kemal sahibi olan (melek Cebrail) öğretti. Melek kendi asli suretine girip doğruldu. İşte o zaman kendisi en yüce ufukta idi.",
+      "safa": "Üstün Akıl Yetisi Olan; ardından doğruldu.[459]",
+      "yuksel": "Üstün otoritenin sahibi göründü, ",
+      "aktas": "Üstün Akla[1] Sahip, Egemenlik Kurmuş Olan.",
+      "okuyan": "(5, 6, 7) Çünkü o (Kur'an'ı) müthiş kuvvetleri olan, donanımlı (Cebrail) öğretmiştir. (Cebrail) en yüksek ufuktayken belirmişti."
     },
     {
       "number": 4791,
@@ -120,7 +180,17 @@
       "bulac": "O, en yüksek bir ufuktaydı.",
       "esed": "ufkun en uç noktasında görünerek,",
       "suleymaniye": "O sırada o, en yüksek ufukta[1] (Nur Dağı'nda)[2] idi.",
-      "ates": "Kendisi yüksek ufukta iken."
+      "ates": "Kendisi yüksek ufukta iken.",
+      "hulusi": "O, Ufuk-u Ala (tüm dışsallığı kaplamış - afakta) olduğu halde!",
+      "bayrakli": "- Ona, bunu çok güçlü akıl sahibi olan Cebrail öğretmiştir. Doğrulup dikildi. O, en yüksek ufuktaydı. Sonra iyice yaklaştı ve sarktı. İki yayın arası kadar, hatta daha da yakın. Böylece kuluna vahyedeceğinivahyetti.",
+      "elmali_sade": "O en yüksek ufukta idi.",
+      "cantay": "O, en yüksek ufukda idi.",
+      "piris": "O, en yüksek ufukta idi.",
+      "yildirim": "(5-7) Onu kendisine pek güçlü ve kuvvetli, o üstün akıl ve kemal sahibi olan (melek Cebrail) öğretti. Melek kendi asli suretine girip doğruldu. İşte o zaman kendisi en yüce ufukta idi.",
+      "safa": "Ve O, en yüksek ufuktaydı.",
+      "yuksel": "En yüksek ufukta.",
+      "aktas": "O, yüksek bir ufuktaydı.",
+      "okuyan": "(5, 6, 7) Çünkü o (Kur'an'ı) müthiş kuvvetleri olan, donanımlı (Cebrail) öğretmiştir. (Cebrail) en yüksek ufuktayken belirmişti."
     },
     {
       "number": 4792,
@@ -136,7 +206,17 @@
       "bulac": "Sonra yaklaştı, derken sarkıverdi.",
       "esed": "ve sonra yaklaşarak yanına geldi,",
       "suleymaniye": "Sonra yaklaştı ve aşağıya süzüldü.",
-      "ates": "Sonra yaklaştı, (yere doğru) sarktı."
+      "ates": "Sonra yaklaştı, (yere doğru) sarktı.",
+      "hulusi": "Sonra yaklaştı, tedelli etti (afaktan enfüse dönüştü müşahedesi).",
+      "bayrakli": "- Ona, bunu çok güçlü akıl sahibi olan Cebrail öğretmiştir. Doğrulup dikildi. O, en yüksek ufuktaydı. Sonra iyice yaklaştı ve sarktı. İki yayın arası kadar, hatta daha da yakın. Böylece kuluna vahyedeceğinivahyetti.",
+      "elmali_sade": "Sonra yaklaştı ve sarktı.",
+      "cantay": "Sonra (Cebrail, ona) yaklaşdı. Derken sarkdı.",
+      "piris": "Sonra yaklaşıp indi",
+      "yildirim": "(8-9) Sonra yaklaştı ve iyice sarktı. Öyle ki araları yayın iki ucu arası kadar veya daha az kaldı.",
+      "safa": "Sonra yaklaştı; artık, daha da yakınlaştı.",
+      "yuksel": "Sonra inip yaklaştı.",
+      "aktas": "Sonra yaklaştı ve sarktı.",
+      "okuyan": "Sonra yaklaşmış, (ona doğru) sarkmıştı."
     },
     {
       "number": 4793,
@@ -152,7 +232,17 @@
       "bulac": "Nitekim (ikisi arasındaki uzaklık) iki yay kadar (oldu) veya daha yakınlaştı.",
       "esed": "aralarında iki yay mesafesi kalıncaya kadar, hatta daha da yakınına.",
       "suleymaniye": "(Muhammed'e) İki zira (yaklaşık bir kol mesafesi) kadar[1] hatta daha da yaklaştı.",
-      "ates": "(Muhammed ile arasındaki mesafe) İki yay uzunluğu kadar, yahut daha az kaldı."
+      "ates": "(Muhammed ile arasındaki mesafe) İki yay uzunluğu kadar, yahut daha az kaldı.",
+      "hulusi": "İki yayın birleşimi (kab-ı kavseyn) veya Edna (daha da yakın) oldu!",
+      "bayrakli": "- Ona, bunu çok güçlü akıl sahibi olan Cebrail öğretmiştir. Doğrulup dikildi. O, en yüksek ufuktaydı. Sonra iyice yaklaştı ve sarktı. İki yayın arası kadar, hatta daha da yakın. Böylece kuluna vahyedeceğinivahyetti.",
+      "elmali_sade": "Aradaki mesafe iki yay boyu oldu, hatta daha yakın;",
+      "cantay": "(Bu suretle o, peygamberlere) iki yay kadar, yahud daha yakın oldu da,",
+      "piris": "Araları iki yay kadar veya daha yakın idi.",
+      "yildirim": "(8-9) Sonra yaklaştı ve iyice sarktı. Öyle ki araları yayın iki ucu arası kadar veya daha az kaldı.",
+      "safa": "İki yay uzaklığı ölçüsünde veya daha yakın.",
+      "yuksel": "Mesafe iki yay kadar veya daha yakın oldu.",
+      "aktas": "Böylece iki yay aralığı kadar, hatta daha yakın oldu.",
+      "okuyan": "İki yay arası kadar, hatta[1]daha da yakın olmuştu."
     },
     {
       "number": 4794,
@@ -168,7 +258,17 @@
       "bulac": "Böylece O'nun kuluna vahyettiğini vahyetti.",
       "esed": "Böylece (Allah), vahyedilmesini uygun gördüğü her şeyi kuluna vahyetmiş oldu.",
       "suleymaniye": "Sonra o, vahyedeceği şeyi, Allah'ın kuluna (Muhammed'e) vahyetti[1].",
-      "ates": "Kuluna, vahyettiğini vahyetti."
+      "ates": "Kuluna, vahyettiğini vahyetti.",
+      "hulusi": "Böylece kuluna vahyettiğini vahyetti.",
+      "bayrakli": "- Ona, bunu çok güçlü akıl sahibi olan Cebrail öğretmiştir. Doğrulup dikildi. O, en yüksek ufuktaydı. Sonra iyice yaklaştı ve sarktı. İki yayın arası kadar, hatta daha da yakın. Böylece kuluna vahyedeceğinivahyetti.",
+      "elmali_sade": "kuluna verdiği vahyi verdi.",
+      "cantay": "(Allahın) kuluna vahy etdiği neyse onu vahyetdi.",
+      "piris": "O anda (Allah'ın) kuluna vahyettiğini iletti.",
+      "yildirim": "O da kuluna vahyetmek istediği her şeyi vahyetti.",
+      "safa": "Sonunda, O'nun, kuluna bildirdiğini bildirdi.",
+      "yuksel": "Ve sonra kuluna ne bildirilecekse onu vahiy etti.",
+      "aktas": "Kuluna[1] vahyedeceği şeyi vahyetti.[2]",
+      "okuyan": "(Böylece Cebrail, Allah'ın) kendisine vahyettiğini kuluna (Peygamber'e) vahyetmişti."
     },
     {
       "number": 4795,
@@ -184,7 +284,17 @@
       "bulac": "Onun gördüğünü gönül yalanlamadı.",
       "esed": "(Kulunun) kalbi gördüğünü yalanlamadı.",
       "suleymaniye": "Gördüğü şeyi gönlü yalanlamadı.",
-      "ates": "Gönül gördüğünde yanılmadı (yalan söylemedi, gerçeği gördü)."
+      "ates": "Gönül gördüğünde yanılmadı (yalan söylemedi, gerçeği gördü).",
+      "hulusi": "FUAD (Kalbindeki nöronların beyinde açtığı gerçeklikle bütünleşti dıştan gelen bilgi) yalanlamadı (inkar etmedi) gördüğünü!",
+      "bayrakli": "- Kalp gördüğünü yalanlamadı. O'nun gördükleri hakkında onunla tartışıyor musunuz? Andolsun ki Cebrail'i bir başka inişte de görmüştü. Son sınır ağacı, sidretü'l-münteha yanında. O ağacın yanında Me'va cenneti vardır. Sidre'yi neler kaplamıştı neler! Ne gözü kaydı ne de belirlenen sınırı aştı. Andolsun ki Rabbinin en büyük ayetlerinden bir kısmını gördü.",
+      "elmali_sade": "Gözün gördüğüne kalp yalan demedi.",
+      "cantay": "Onun gördüğünü kalb (i) yalana çıkarmadı.",
+      "piris": "Gördüğünü gönül yalanlamadı.",
+      "yildirim": "Gözlerinin gördüğünü kalbi yalan saymadı.",
+      "safa": "Yüreği, gördüğünü yalanlamadı.",
+      "yuksel": "Gördüğünü gönlü yalanlamadı.",
+      "aktas": "Gönlü, gördüğünü yalanlamadı.",
+      "okuyan": "(Gözünün) gördüğünü kalbi yalanlamamıştı."
     },
     {
       "number": 4796,
@@ -200,7 +310,17 @@
       "bulac": "Yine de siz gördüğü (şey) üzerinde onunla tartışacak mısınız?",
       "esed": "Peki siz, ne gördüğü konusunda o'nunla tartışmaya mı giriyorsunuz?",
       "suleymaniye": "Şimdi siz, (Muhammed'in) gözüyle gördüğü şey üzerinde onunla tartışıyor musunuz?",
-      "ates": "Onun gördüğünden kuşku mu duyuyorsunuz?"
+      "ates": "Onun gördüğünden kuşku mu duyuyorsunuz?",
+      "hulusi": "Gördüğü hakkında O'nunla tartışıyor musunuz?",
+      "bayrakli": "- Kalp gördüğünü yalanlamadı. O'nun gördükleri hakkında onunla tartışıyor musunuz? Andolsun ki Cebrail'i bir başka inişte de görmüştü. Son sınır ağacı, sidretü'l-münteha yanında. O ağacın yanında Me'va cenneti vardır. Sidre'yi neler kaplamıştı neler! Ne gözü kaydı ne de belirlenen sınırı aştı. Andolsun ki Rabbinin en büyük ayetlerinden bir kısmını gördü.",
+      "elmali_sade": "Gördüğü hakkında şimdi siz, onunla tartışıyor musunuz?",
+      "cantay": "Şimdi siz onun bu görüşüne karşı da kendisiyle mücadele mi edeceksiniz?",
+      "piris": "-Onunla gördüğü şey hususunda tartışıyor musunuz?",
+      "yildirim": "Şimdi siz kalkmış da onun gördükleri hakkında şüphe edip kendisiyle münakaşa mı ediyorsunuz?",
+      "safa": "Gördüğü şey hakkında, Onunla tartışıyor musunuz?",
+      "yuksel": "Onun gördüğü hakkında kendisiyle tartışıyor musunuz?",
+      "aktas": "Onun gördüğü şeyden kuşku mu duyuyorsunuz?",
+      "okuyan": "Gördüğü (melek) konusunda şimdi kendisi ile tartışıyor musunuz?"
     },
     {
       "number": 4797,
@@ -216,7 +336,17 @@
       "bulac": "Andolsun, onu bir de diğer inişte görmüştü.",
       "esed": "Ve onu bir kez daha gördü,",
       "suleymaniye": "(Muhammed) Cebrail'i (gerçek görüntüsüyle[1]) bir defa daha gördü.",
-      "ates": "Andolsun, onu bir inişinde daha görmüştü;"
+      "ates": "Andolsun, onu bir inişinde daha görmüştü;",
+      "hulusi": "Andolsun ki Onu bir daha gördü (hakikatin bilincine inişiyle fark edilmesinde).",
+      "bayrakli": "- Kalp gördüğünü yalanlamadı. O'nun gördükleri hakkında onunla tartışıyor musunuz? Andolsun ki Cebrail'i bir başka inişte de görmüştü. Son sınır ağacı, sidretü'l-münteha yanında. O ağacın yanında Me'va cenneti vardır. Sidre'yi neler kaplamıştı neler! Ne gözü kaydı ne de belirlenen sınırı aştı. Andolsun ki Rabbinin en büyük ayetlerinden bir kısmını gördü.",
+      "elmali_sade": "Andolsun ki, o onu bir kez daha inişinde gördü;",
+      "cantay": "(13-14) Andolsun ki onu diğer bir defa da Sidre-tül müntehanın yanında gördü o,",
+      "piris": "Hakikaten onu diğer bir inişte de gördü.",
+      "yildirim": "(13-14) Onun bir başka inişini Sidretu'l-Münteha'nın yanında görmüştü.",
+      "safa": "Zaten gerçek şu ki, diğer inişinde de Onu görmüştü.",
+      "yuksel": "Onu bir kez daha görmüştü.",
+      "aktas": "Ant olsun ki, onu başka bir inişinde de gördü.",
+      "okuyan": "(13, 14, 15) Yemin olsun ki bir başka inişinde onu, cennetü'l-me'vâ (durmaya değer bahçe)nin yanındaki sidretü'l-müntehâ (uzaktaki sedir ağacı)'nın yanında bir kez daha görmüştü. "
     },
     {
       "number": 4798,
@@ -232,7 +362,17 @@
       "bulac": "Sidretü'l-Münteha'nın yanında.",
       "esed": "en uzak noktadaki sidre ağacının yanında,",
       "suleymaniye": "Sidret'ül-münteha'nın[1] yakınında.",
-      "ates": "Sidretü'l-Münteha (uzak ağaç)ın yanında,"
+      "ates": "Sidretü'l-Münteha (uzak ağaç)ın yanında,",
+      "hulusi": "Sidret-ül Münteha (şuur olarak sonsuz yaşam hissedişi) indinde.",
+      "bayrakli": "- Kalp gördüğünü yalanlamadı. O'nun gördükleri hakkında onunla tartışıyor musunuz? Andolsun ki Cebrail'i bir başka inişte de görmüştü. Son sınır ağacı, sidretü'l-münteha yanında. O ağacın yanında Me'va cenneti vardır. Sidre'yi neler kaplamıştı neler! Ne gözü kaydı ne de belirlenen sınırı aştı. Andolsun ki Rabbinin en büyük ayetlerinden bir kısmını gördü.",
+      "elmali_sade": "Sidretu'l-Munteha'nın yanında.",
+      "cantay": "(13-14) Andolsun ki onu diğer bir defa da Sidre-tül müntehanın yanında gördü o,",
+      "piris": "Sidre-i Münteha'nın yanında",
+      "yildirim": "(13-14) Onun bir başka inişini Sidretu'l-Münteha'nın yanında görmüştü.",
+      "safa": "Sınırın en sonundaki sedir ağacının yanında.[460]",
+      "yuksel": "En son noktada.",
+      "aktas": "Sidretu'l Münteha'nın[1] yanında.",
+      "okuyan": "(13, 14, 15) Yemin olsun ki bir başka inişinde onu, cennetü'l-me'vâ (durmaya değer bahçe)nin yanındaki sidretü'l-müntehâ (uzaktaki sedir ağacı)'nın yanında bir kez daha görmüştü. "
     },
     {
       "number": 4799,
@@ -248,7 +388,17 @@
       "bulac": "Ki Cennetü'l-Me'va onun yanındadır.",
       "esed": "vaad edilen bahçenin yakınında,",
       "suleymaniye": "Onun yakınında Cennet'ül-me'va /yerleşip kalınacak Cennet vardır[1].",
-      "ates": "Ki onun yanında oturulacak bahçe vardır."
+      "ates": "Ki onun yanında oturulacak bahçe vardır.",
+      "hulusi": "Cennet-ül Me'va da Onun (Sidret-ül Münteha'nın) indinde yaşanır!",
+      "bayrakli": "- Kalp gördüğünü yalanlamadı. O'nun gördükleri hakkında onunla tartışıyor musunuz? Andolsun ki Cebrail'i bir başka inişte de görmüştü. Son sınır ağacı, sidretü'l-münteha yanında. O ağacın yanında Me'va cenneti vardır. Sidre'yi neler kaplamıştı neler! Ne gözü kaydı ne de belirlenen sınırı aştı. Andolsun ki Rabbinin en büyük ayetlerinden bir kısmını gördü.",
+      "elmali_sade": "ki, Cennetu'l-Me'va onun yanındadır.",
+      "cantay": "ki Cennet-ül me'va onun yanındadır.",
+      "piris": "Onun yanında da Me'va bahçesi vardır.",
+      "yildirim": "Me'va cenneti de onun yanındadır.",
+      "safa": "Sığınılacak cennetin yakınında.[461]",
+      "yuksel": "Ki yanında barınılacak bahçe vardır.",
+      "aktas": "Onun yanında me'va[1] cenneti[2] vardır.",
+      "okuyan": "(13, 14, 15) Yemin olsun ki bir başka inişinde onu, cennetü'l-me'vâ (durmaya değer bahçe)nin yanındaki sidretü'l-müntehâ (uzaktaki sedir ağacı)'nın yanında bir kez daha görmüştü. "
     },
     {
       "number": 4800,
@@ -264,7 +414,17 @@
       "bulac": "Sidreyi örten örtmekte iken,",
       "esed": "meçhul bir parlaklığın çevresini sarıp kuşattığı sidre ağacının başında.",
       "suleymaniye": "O sırada Sidre'yi (Sidret'ül-müntehayı) kaplayan şey kaplıyordu[1].",
-      "ates": "Sidre'yi kaplayan kaplıyordu."
+      "ates": "Sidre'yi kaplayan kaplıyordu.",
+      "hulusi": "O an ki, Sidre'yi (varlığını) bürüyen (hakikat nuru) bürüyordu (beden hissi kaybolmuş bir halde)!",
+      "bayrakli": "- Kalp gördüğünü yalanlamadı. O'nun gördükleri hakkında onunla tartışıyor musunuz? Andolsun ki Cebrail'i bir başka inişte de görmüştü. Son sınır ağacı, sidretü'l-münteha yanında. O ağacın yanında Me'va cenneti vardır. Sidre'yi neler kaplamıştı neler! Ne gözü kaydı ne de belirlenen sınırı aştı. Andolsun ki Rabbinin en büyük ayetlerinden bir kısmını gördü.",
+      "elmali_sade": "O zaman ki, o Sidre'yi bürüyen bürüyordu.",
+      "cantay": "O (gördüğü) zaman Sidreyi bürüyordu onu bürümekde olan.",
+      "piris": "Sidre'yi bürüyen bürüyordu.",
+      "yildirim": "O dem ki Sidre'yi bir feyiz sarıyor, sardıkça sarıyordu...",
+      "safa": "Sedir ağacı, kaplayan bir şeyle kaplandığında.[462]",
+      "yuksel": "Tüm bölge olağanüstü biçimde kuşatılmıştı.",
+      "aktas": "O zaman kaplayan şey, Sidre'yi[1] kaplıyordu.",
+      "okuyan": "Hani o sidre'yi (sedir ağacını) neler kaplıyordu neler![1]"
     },
     {
       "number": 4801,
@@ -280,7 +440,17 @@
       "bulac": "Göz kayıp şaşmadı ve (sınırı) aşmadı.",
       "esed": "(Dikkat edin,) göz ne kaydı, ne de (başka yöne) çevrildi:",
       "suleymaniye": "(Muhammed'in) Gözü başka tarafa kaymadı, haddini de aşmadı.",
-      "ates": "(Muhammed'in) Göz(ü) şaşmadı ve azmadı."
+      "ates": "(Muhammed'in) Göz(ü) şaşmadı ve azmadı.",
+      "hulusi": "Görüşü ne kaydı (gayrı kavramına); ne de haddi aştı (hakikati müşahededen dolayı tanrılık davasına düşüp, Firavunlaştı)!",
+      "bayrakli": "- Kalp gördüğünü yalanlamadı. O'nun gördükleri hakkında onunla tartışıyor musunuz? Andolsun ki Cebrail'i bir başka inişte de görmüştü. Son sınır ağacı, sidretü'l-münteha yanında. O ağacın yanında Me'va cenneti vardır. Sidre'yi neler kaplamıştı neler! Ne gözü kaydı ne de belirlenen sınırı aştı. Andolsun ki Rabbinin en büyük ayetlerinden bir kısmını gördü.",
+      "elmali_sade": "Göz ne şaştı, ne (de sınırı) aştı.",
+      "cantay": "(Peygamberin) göz (ü, gördüğünden) ağmadı, (onu) aşmadı da.",
+      "piris": "Göz, ne şaştı; ne aştı.",
+      "yildirim": "Peygamberin gözü kaymadı, şaşmadı, aşmadı da.",
+      "safa": "Göz, ne şaştı ne de sınırı aştı.",
+      "yuksel": "Göz şaşmadı,  sınırı da aşmadı.",
+      "aktas": "Bakış şaşmadı ve haddi aşmadı.",
+      "okuyan": "(Peygamber'in) gözü ne (sağa sola) kaymış ne de sınırı aşmıştı. "
     },
     {
       "number": 4802,
@@ -296,7 +466,17 @@
       "bulac": "Andolsun, o, Rabbinin en büyük ayetlerinden olanı gördü.",
       "esed": "ve o, gerçekten de Rabbinin en muhteşem sembollerinden bir kısmını gördü.",
       "suleymaniye": "O, Rabbinin en büyük ayetlerinden bir kısmını gerçekten gördü[1].",
-      "ates": "Andolsun, Rabbinin büyük ayetlerinden bazılarını gördü."
+      "ates": "Andolsun, Rabbinin büyük ayetlerinden bazılarını gördü.",
+      "hulusi": "Andolsun ki, Rabbinin (Hakikatini var kılan Esma özelliklerinin) işaretlerinden en büyüğünü gördü!",
+      "bayrakli": "- Kalp gördüğünü yalanlamadı. O'nun gördükleri hakkında onunla tartışıyor musunuz? Andolsun ki Cebrail'i bir başka inişte de görmüştü. Son sınır ağacı, sidretü'l-münteha yanında. O ağacın yanında Me'va cenneti vardır. Sidre'yi neler kaplamıştı neler! Ne gözü kaydı ne de belirlenen sınırı aştı. Andolsun ki Rabbinin en büyük ayetlerinden bir kısmını gördü.",
+      "elmali_sade": "Andolsun ki, Rabbinin ayetlerinden en büyüğünü gördü.",
+      "cantay": "Andolsun ki o, Rabbinin en büyük ayetlerinden bir kısmını görmüşdür.",
+      "piris": "Rabbinin ayetlerinden en büyüğünü gördü.",
+      "yildirim": "Vallahi gördü, hem de Rabbinin ayetlerinden en büyüğünü gördü!",
+      "safa": "Gerçek şu ki, Efendisinin en büyük kanıtlarından gördü.",
+      "yuksel": "Efendisinin büyük ayetlerini gördü.",
+      "aktas": "Ant olsun, Rabb'inin ayetlerinin[1] en büyüğünü gördü.",
+      "okuyan": "Şüphesiz ki (orada) Rabbinin en büyük delillerinden (birini, Cebrail'i) görmüştü. "
     },
     {
       "number": 4803,
@@ -312,7 +492,17 @@
       "bulac": "Gördünüz mü? Haber verin; Lat ve Uzza'yı.",
       "esed": "Hiç düşündünüz mü (neden taptığınızı) Lat ve 'Uzza'ya?",
       "suleymaniye": "Peki siz, Lat'ı ve Uzza'yı gördünüz mü?",
-      "ates": "Gördünüz mü o Lat ve 'Uzza'yı?"
+      "ates": "Gördünüz mü o Lat ve 'Uzza'yı?",
+      "hulusi": "Gördünüz mü Lat'ı, Uzza'yı?",
+      "bayrakli": "Gördünüz mü o Lat ve 'Uzza'yı?",
+      "elmali_sade": "Siz de gördünüz değil mi Lat ve Uzza'yı?",
+      "cantay": "(19-20) (Allahı bırakıb tapdığınız) Lat(ın), Uzza (nın) ve (bunların) üçüncüsü olan diğer Menat (ın her hangi birşey hakkında zerrece kudretleri var mı?) Bize haber verin.",
+      "piris": "-Gördünüz mü Uzza'yı ve Lat'ı?",
+      "yildirim": "(19-20) Şimdi baksanıza şu Lat'a, Uzza'ya! Ve bir de şu geride olan üçüncüleri Menat'a!",
+      "safa": "Lat ve Uzza'yı görüyor musunuz?",
+      "yuksel": "Gördünüz mü (dişi putlarınız olan) Lat ve Uzza'yı?[1]",
+      "aktas": "Görüyor musunuz Lat'ı ve Uzza'yı?",
+      "okuyan": "(19, 20) Lât'a, Uzzâ'ya ve diğer üçüncüsü olan Menât'a (neden taptığınızı) hiç düşündünüz mü?"
     },
     {
       "number": 4804,
@@ -328,7 +518,17 @@
       "bulac": "Ve üçüncü (put) olan Menat'ı(n herhangi bir güçleri var mı)?",
       "esed": "Ve (üçlünün) üçüncüsü ve sonuncusu olan Menat(a)?",
       "suleymaniye": "Ya üçüncü ve sonuncuları olan Menat'ı?",
-      "ates": "Ve üçüncü(leri olan) öteki (put) Menat'ı?"
+      "ates": "Ve üçüncü(leri olan) öteki (put) Menat'ı?",
+      "hulusi": "Diğer üçüncüleri Menat'ı (böyle bir mi'rac yaşatabilirler mi)?",
+      "bayrakli": "Üçüncüleri olan ötekini, Menat'ı.",
+      "elmali_sade": "Üçüncü olarak da öteki Menat'ı?",
+      "cantay": "(19-20) (Allahı bırakıb tapdığınız) Lat(ın), Uzza (nın) ve (bunların) üçüncüsü olan diğer Menat (ın her hangi birşey hakkında zerrece kudretleri var mı?) Bize haber verin.",
+      "piris": "Diğer bir üçüncüsü Menat'ı?..",
+      "yildirim": "(19-20) Şimdi baksanıza şu Lat'a, Uzza'ya! Ve bir de şu geride olan üçüncüleri Menat'a!",
+      "safa": "Ve diğerini; üçüncüsü Menat'ı?",
+      "yuksel": "Ve üçüncüleri olan Menat'ı?",
+      "aktas": "Diğer üçüncü Menat'ı?[1]",
+      "okuyan": "(19, 20) Lât'a, Uzzâ'ya ve diğer üçüncüsü olan Menât'a (neden taptığınızı) hiç düşündünüz mü?"
     },
     {
       "number": 4805,
@@ -344,7 +544,17 @@
       "bulac": "Erkek (evlat) sizin, dişi O'nun mu?",
       "esed": "Neden kendiniz için (yalnız) erkek çocuklar (istersiniz de) O'na kız çocuklar (isnad edersiniz?)",
       "suleymaniye": "Erkekler sizin de kızlar Allah'ın mı?[1]",
-      "ates": "Demek erkek size, kadın Allah'a mı?"
+      "ates": "Demek erkek size, kadın Allah'a mı?",
+      "hulusi": "Erkek sizin, dişi O'nun mu?",
+      "bayrakli": "- Demek ki erkek size, dişi Allah'a, öyle mi? O zaman bu, insafsızca bir taksim!",
+      "elmali_sade": "Size erkek, O'na dişi öylemi?",
+      "cantay": "Erkek sizin de dişi Onun mu?!",
+      "piris": "Erkekler sizin dişiler O'nun mu?",
+      "yildirim": "Erkek evlatlar size, kızlar O'na olsun, öyle mi?",
+      "safa": "Erkekler sizin de dişiler O'nun mu?",
+      "yuksel": "Erkekler sizin de dişiler O'nun mu?",
+      "aktas": "Erkek sizin, dişi O'nun mu?",
+      "okuyan": "Erkek(ler) sizin de dişi(ler) mi O'nun?"
     },
     {
       "number": 4806,
@@ -360,7 +570,17 @@
       "bulac": "Eğer böyleyse, bu, çarpık bir paylaşma.",
       "esed": "Bakın, bu kesinlikle haksız bir taksimdir!",
       "suleymaniye": "O zaman bu, adaletsiz bir paylaşımdır!",
-      "ates": "O halde bu insafsızca bir taksim!"
+      "ates": "O halde bu insafsızca bir taksim!",
+      "hulusi": "Öyle ise bu insafsız paylaşmadır!",
+      "bayrakli": "- Demek ki erkek size, dişi Allah'a, öyle mi? O zaman bu, insafsızca bir taksim!",
+      "elmali_sade": "Öyle ise bu çok hayıflı (haksız) bir taksim!",
+      "cantay": "O takdirde bu, insafsızca bir taksim!",
+      "piris": "Öyleyse bu haksız bir taksim.",
+      "yildirim": "O zaman bu insafsız bir taksim olmaz mı?",
+      "safa": "İşte bu, alçakça bir paylaşım!",
+      "yuksel": "Ne de insafsız bir paylaşma!",
+      "aktas": "O halde bu insafsız bir paylaştırmadır.",
+      "okuyan": "O zaman şu (yaptığınız) haksız bir paylaşımdır!"
     },
     {
       "number": 4807,
@@ -376,7 +596,17 @@
       "bulac": "Bu (putlar ise,) sizin ve atalarınızın (kendi istek ve öngörünüze göre) isimlendirdiğiniz (keyfi) isimlerden başkası değildir. Allah, onlarla ilgili 'hiçbir delil' indirmemiştir. Onlar, yalnızca zanna ve nefislerinin (alçak) heva (istek ve tutku) olarak arzu ettiklerine uyuyorlar. Oysa andolsun, onlara Rablerinden yol gösterici gelmiştir.",
       "esed": "Bu (sözde ilahi varlık)lar sizin ve atalarınızın uydurduğu boş isimlerden başka şeyler değildir; (ve) Allah onlara hiçbir yetki vermemiştir. Onlar, (o putlara tapanlar,) sadece zannın ve kuruntuların peşine takılıyorlar; halbuki şimdi onlara Rablerinden bir yol gösterici gelmiştir.",
       "suleymaniye": "Bunlar, sizin ve atalarınızın taktığı isimlerden başka bir şey değildir[1]. Bunlar hakkında Allah bir delil indirmemiştir[2]. Bu isimleri takanlar sadece varsayımlara ve kendi arzu ettikleri şeylere uyuyorlar[3]. Halbuki onlara Rablerinden bir rehber geldi.",
-      "ates": "Onlar, sizin ve babalarınızın, (tanrı) diye isimlendirdiğiniz (boş, kavramsız) isimlerden başka bir şey değildir. Allah, onlara hiçbir güç (tanrı oldukları hakkında hiçbir delil) indirmemiştir. O(putlara tapa)nlar zanna ve nefislerin hevesine uyuyorlar. Oysa kendilerine, Rableri tarafından yol gösterici gelmiştir."
+      "ates": "Onlar, sizin ve babalarınızın, (tanrı) diye isimlendirdiğiniz (boş, kavramsız) isimlerden başka bir şey değildir. Allah, onlara hiçbir güç (tanrı oldukları hakkında hiçbir delil) indirmemiştir. O(putlara tapa)nlar zanna ve nefislerin hevesine uyuyorlar. Oysa kendilerine, Rableri tarafından yol gösterici gelmiştir.",
+      "hulusi": "Onlar ancak sizin ve atalarınızın isimlendirdiği, Allah'ın hiçbir delil inzal etmediği (arkası - müsemması olmayan yalnızca) isimlerden ibarettirler! Onlar, ancak zanna ve nefslerin hoşlandığı kuruntulara uyarlar. . . Andolsun ki kendilerine Rablerinden hakikat ilmi gelmiştir!",
+      "bayrakli": "- Bunlar sizin babalarınızın verdiği isimlerden başka bir şey değildir. Allah bu konuda bir delil indirmemiştir. Onlar sadece zanna ve nefislerinin arzularına uymaktadırlar. Halbuki, onlara Rablerinden doğru yolu gösteren bir rehber gelmiştir. Yoksa insan, her aklına eseni yapamaz.",
+      "elmali_sade": "Onlar hiçbir şey değil, sırf sizin ve babalarınızın taktığı kuru isimlerdir. Allah onlara öyle bir saltanat indirmedi. Onlar yalnız zanna ve nefislerinin sevdasına uyuyorlar. Oysa Rablerinden kendilerine doğru yolu gösteren geldi.",
+      "cantay": "Bu (putlar) sizin ve atalarınızın takdığınız adlardan başkası değildir. Allah onlara hiçbir hüccet indirmedi. Onlar, kuruntudan ve nefisler (in) in arzuu etdiği heva (ve heves) den başkasına tabi' olmuyorlar. Halbuki andolsun, kendilerine Rablerinden o hidayet (rehberi) gelmişdir.",
+      "piris": "Onlar, sizin ve atalarınızın adlandırılmasından başka bir şey değildir. Allah, onlar hakkında bir belge indirmemiştir. Kuruntudan ve canlarının arzu ettiğinden başka bir şeye dayanmıyorlar. Oysa, onlara Rab'lerinden kılavuz gelmiştir.",
+      "yildirim": "Aslında bu putlar sizin ve atalarınızın uydurduğu, kuru isimlerden, boş lafızlardan başka bir şey değildir. Allah onların tanrılıklarına delil olabilecek hiçbir şey indirmemiştir. Onlar sadece zanlarına ve nefislerinin heva ve heveslerine uyarlar. Halbuki onlara Rab'leri tarafından uyacakları mükemmel rehber çoktan gelmiş bulunuyor!",
+      "safa": "Bunlar, sizin ve atalarınızın uydurduğu isimlerden başka bir şey değildir. Allah, onlar hakkında hiçbir kanıt indirmemiştir. Yalnızca sanıya ve benliklerinin isteklerine uyuyorlar. Oysa gerçek şu ki, onlara, Efendilerinden, yol gösteren gelmiştir.",
+      "yuksel": "Onlar,  sizin ve atalarınızın taktığı isimlerden başka bir şey değildir ve ALLAH onlar için hiçbir delil indirmemiştir. Kendilerine,  Efendi'lerinden bir yol gösterici geldiği halde,  sadece kuruntuları ve fantezileri izliyorlar.",
+      "aktas": "Bu isimler, sizin ve atalarınızın onlara yakıştırdığı isimlerden başka bir şey değildir. Allah, onlar için hiçbir yetkilendirmede bulunmadı. Ant olsun ki, onlara Rabb'lerinden doğru yolu gösterici[1] geldiği halde, onlar yalnızca zanna[2] ve benliklerinin hevasına uyuyorlar.",
+      "okuyan": "Bu (putlar), haklarında Allah'ın hiçbir delil indirmediği, sizin ve atalarınızın taktığı isimlerden başka bir şey değildir.[1] (Müşrikler) zanna ve nefislerinin arzuladığından başka hiçbir şeye uymuyorlar. Yemin olsun ki onlara Rablerinden bir rehber gelmiştir. "
     },
     {
       "number": 4808,
@@ -392,7 +622,17 @@
       "bulac": "Yoksa insana 'her arzu edip dilekte bulunduğu' şey mi var?",
       "esed": "İnsan, her dilediğini elde etme hakkına sahip olduğunu mu sanır?",
       "suleymaniye": "Yoksa insan umduğu şeye (uydurduğu ilahların desteğine) ulaşabilir mi?[1]",
-      "ates": "Yoksa insan, her arzu ettiğine sahip mi olacaktır?"
+      "ates": "Yoksa insan, her arzu ettiğine sahip mi olacaktır?",
+      "hulusi": "Yoksa insanın her dilediği olacak diye bir kural mı var?",
+      "bayrakli": "- Bunlar sizin babalarınızın verdiği isimlerden başka bir şey değildir. Allah bu konuda bir delil indirmemiştir. Onlar sadece zanna ve nefislerinin arzularına uymaktadırlar. Halbuki, onlara Rablerinden doğru yolu gösteren bir rehber gelmiştir. Yoksa insan, her aklına eseni yapamaz.",
+      "elmali_sade": "Yoksa insana her kurduğu hülya mı var?",
+      "cantay": "Yoksa insana her umduğu şey' (e nail olma imkanı) mı var?",
+      "piris": "Yoksa her umduğu şey insanın mıdır?",
+      "yildirim": "Ne o, insanoğlu kurduğu her hülyaya, içinden geçen her şeye nail olur mu sanıyor?",
+      "safa": "Yoksa insana, her dilediği şey var mı?",
+      "yuksel": "İnsan her umduğuna kavuşacak mıdır?",
+      "aktas": "Yoksa insan için yalnızca temenni ettiği şey mi var?",
+      "okuyan": "Yoksa insan, her arzu ettiğine sahip olduğunu (mu sanıyor)! "
     },
     {
       "number": 4809,
@@ -408,7 +648,17 @@
       "bulac": "İşte son da, ilk de (ahiret ve dünya) Allah'ındır.",
       "esed": "Halbuki hem ötekisi, hem de bu dünya, (yalnız) Allah'a aittir!",
       "suleymaniye": "Hayır, Ahiret de Allah'ındır, dünya da.[1]",
-      "ates": "Son da ilk de (ahiret de, dünya da) Allah'ındır."
+      "ates": "Son da ilk de (ahiret de, dünya da) Allah'ındır.",
+      "hulusi": "Allah (Esma'sının özelliklerinin açığa çıkması) içindir sonsuz gelecek yaşam da dünya da!",
+      "bayrakli": "Ahiret de, bu dünya da yalnız Allah'ındır.",
+      "elmali_sade": "Ama ahiret ve dünya Allah'ındır.",
+      "cantay": "İşte ahiret de, dünya da Allahındır.",
+      "piris": "Ahiret de dünya da Allah'ındır.",
+      "yildirim": "Hayır, öyle değil! Ahiret hayatı da, dünya hayatı da Allah'ın elindedir. Kime ve neyi vereceğini, Kendisi takdir eder.",
+      "safa": "Hem son hem de başlangıç, Allah'a özgüdür.",
+      "yuksel": "Son da ilk de ALLAH'ındır.",
+      "aktas": "Ahiret de dünya da Allah'ındır.",
+      "okuyan": "Oysa ahiret de ilki (dünya) da yalnızca Allah'a aittir."
     },
     {
       "number": 4810,
@@ -424,7 +674,17 @@
       "bulac": "Göklerde nice melekler vardır ki, onların şefaatleri hiçbir şeyle yarar sağlamaz; ancak Allah'ın dileyip razı olduğu kimseye izin verdikten sonra başka.",
       "esed": "Çünkü, göklerde ne kadar çok melek olsa da, onların şefaati (hiç kimseye) en ufak bir fayda sağlamayacaktır; meğer ki Allah dilediği ve razı olduğu kimse için (şefaat) izni vermiş olsun.",
       "suleymaniye": "Göklerde nice melek var! Onların[1] şefaati[2] ancak, Allah'ın tercih ettiği ve razı olduğu kişi lehine onay vermesinden sonra işe yarar.",
-      "ates": "Göklerde nice melek var ki onların şefa'ati hiçbir işe yaramaz. Meğer Allah'ın dilediği ve razı olduğu kimseye izin verdikten sonra olsun (ancak o zaman şefa'atin faydası olur)."
+      "ates": "Göklerde nice melek var ki onların şefa'ati hiçbir işe yaramaz. Meğer Allah'ın dilediği ve razı olduğu kimseye izin verdikten sonra olsun (ancak o zaman şefa'atin faydası olur).",
+      "hulusi": "Semalarda nice melek vardır ki, Allah'ın dilediği ve razı olduğu için verdiği izin dışında, onların şefaati hiçbir fayda vermez!",
+      "bayrakli": "Göklerde nice melek var ki, Allah, kendilerine izin vermedikçe Allah'ın isteği ve rızası dışında kimseye şefaat edemezler.",
+      "elmali_sade": "Göklerde nice melekler vardır ki, Allah'ın dileyip razı olduğuna izin vermeden önce şefaatleri hiçbir işe yaramaz.",
+      "cantay": "Göklerde nice melek vardır ki onların şefaatleri bile hiçbir şey'e yaramaz. Meğer ki (o şefaat) Allahın dileyeceği ve raazi olacağı kimseler için (ve ancak Onun) izin vermesinden sonra ola.",
+      "piris": "Göklerde nice melekler var ki, Allah dilediği ve razı olduğu kimseler için izin vermedikçe, onların şefaatı hiçbir işe yaramaz.",
+      "yildirim": "Nitekim göklerde nice melaike var ki, Allah'ın dilediği ve razı olduğu kimseler hakkında geçerli olması için izin çıkmadıkça, onların şefaatleri asla fayda vermez.",
+      "safa": "Göklerde nice melekler vardır ki, onların bile ara buluculuğu yarar sağlamaz; Allah'ın dilediği ve hoşnut olduğu kimse için izin vermesinin dışında.",
+      "yuksel": "Göklerdeki meleklerin bile şefaati bir yarar sağlamaz. Ancak ALLAH'ın dilediği kimse için izin vermesinden ve O'nun rızasına uygun olduktan sonra...[1]",
+      "aktas": "Göklerde nice melekler var ki, Allah'ın dilediği ve hoşnut olduğu kimseler için izin vermesi dışında onların şefaatleri[1] hiçbir yarar sağlamaz.",
+      "okuyan": "Göklerde nice melekler vardır ki onların şefaatleri hiçbir işe yaramaz. Ancak Allah'ın dilediği ve razı olduğuna izin vermesinden sonraki durum hariç.[1]"
     },
     {
       "number": 4811,
@@ -440,7 +700,17 @@
       "bulac": "Gerçek şu ki, ahirete iman etmeyenler, melekleri dişi isimlerle isimlendiriyorlar.",
       "esed": "Bakın, (ancak) öteki dünyaya (samimiyetle) inanmayanlar, melekleri dişi varlıklar olarak görürler;",
       "suleymaniye": "Ahirete inanıp güvenmeyenler melekleri hep kız ismi ile isimlendirirler[1].",
-      "ates": "Ahirete inanmayanlar, meleklere dişilerin adlarını takıyorlar."
+      "ates": "Ahirete inanmayanlar, meleklere dişilerin adlarını takıyorlar.",
+      "hulusi": "Muhakkak ki sonsuz geleceklerine iman etmeyenler, melekleri elbette dişi olarak tanımlarlar.",
+      "bayrakli": "Ahiret hayatına inanmayanlar, meleklere kız adı veriyorlar.",
+      "elmali_sade": "Evet ahirete inanmayanlar meleklere dişi adı takıp duruyorlar.",
+      "cantay": "Hakıykat, ahirete iman etmez olanlar, meleklere alabildiğine dişi adı takarlar.",
+      "piris": "Doğrusu ahirete inanmayanlar, melekleri dişi olarak isimlendiriyorlar.",
+      "yildirim": "Evet, ahirete inanmayanlardır ki melaikeyi Allah'ın kızları iddia ederek onlara kız isimleri takarlar.",
+      "safa": "Aslında, melekleri kız isimleriyle isimlendirenler, sonsuz yaşama inanmayanlardır.",
+      "yuksel": "Ahiret gerçeğini onaylamayanlar melekleri dişi olarak nitelendirmektedirler.",
+      "aktas": "Kuşkusuz ahirete inanmayanlar, melekleri dişi varlıkların adları ile adlandırıyorlar.[1]",
+      "okuyan": "Şüphesiz ki ahirete inanmayanlar, meleklere dişi isimleri takıyorlar."
     },
     {
       "number": 4812,
@@ -456,7 +726,17 @@
       "bulac": "Oysa onların bununla ilgili hiçbir bilgileri yoktur. Onlar, yalnızca zanna uymaktadırlar. Oysa gerçekte zan, haktan yana hiçbir yarar sağlamaz.",
       "esed": "ve onların bu konuda hiçbir bilgileri olmadığından yalnızca zannın ardından giderler ama zan, hiçbir zaman gerçeğin yerini tutmaz.",
       "suleymaniye": "Bu konuda hiçbir bilgileri yoktur, onlar sadece varsayımlarının peşinden giderler. Varsayım, gerçeğin yerini hiçbir şekilde tutmaz[1].",
-      "ates": "Onların bu hususta bir bilgileri yoktur. Sadece zanna uyuyorlar. Zan ise haktan hiçbir gerçek kazandırmaz. (Zan ile gerçeğe ulaşılmaz.)"
+      "ates": "Onların bu hususta bir bilgileri yoktur. Sadece zanna uyuyorlar. Zan ise haktan hiçbir gerçek kazandırmaz. (Zan ile gerçeğe ulaşılmaz.)",
+      "hulusi": "Oysa bu hususta onların bir ilmi (delilleri) yoktur. . . Onlar ancak zanna uyuyorlar! Muhakkak ki zan, gerçeği yansıtmaz!",
+      "bayrakli": "Halbuki onların bu hususta hiç bilgileri yoktur. Sadece zanna uyuyorlar. Zan ise asla gerçeği ifade etmez.",
+      "elmali_sade": "Aslında onların buna dair bilgileri yoktu, sadece zanna uyuyorlar. Oysa zan gerçekten yana hiçbir şey ifade etmez.",
+      "cantay": "Halbuki onların buna dair de bilgisi yokdur. Onlar kuruntudan başkasına tabi' olmazlar. Kuruntu ise, şübhesiz, hakdan hiç birşey'i ifade etmez.",
+      "piris": "Oysa, bu konuda bir bilgileri yoktur. Sadece zanna tabi oluyorlar. Zan ise gerçekten bir şey ifade etmez.",
+      "yildirim": "Onların buna dair hiçbir bilgileri yoktur. Sadece ve sadece zanna tabi oluyorlar. Oysa zan, hakikat karşısında ne ifade eder ki!",
+      "safa": "Oysa bu konuda bilgileri yoktur; yalnızca yakıştırıyorlar. Aslında, yakıştırmak, gerçek hakkında hiçbir yarar sağlamaz.",
+      "yuksel": "Onların bu konuda bir bilgileri yoktur,  sadece sanıları izlemektedirler ve sanılar gerçeğin yerini tutmaz.",
+      "aktas": "Oysaki onların bu konuda hiçbir bilgileri yoktur. Onlar yalnızca zanna uyuyorlar. Oysaki zan, \"gerçekten\" yana hiçbir değer taşımaz.",
+      "okuyan": "Onların bu konuda hiçbir bilgisi yoktur. Zandan başka bir şeye uymuyorlar. Şüphesiz ki zan, gerçeklik bakımından hiçbir şey ifade etmez.[1]"
     },
     {
       "number": 4813,
@@ -472,7 +752,17 @@
       "bulac": "Şu halde sen, Bizim zikrimize sırt çeviren ve dünya hayatından başkasını istemeyenden yüz çevir.",
       "esed": "O halde, Bizi anmaktan uzak duran ve bu dünya hayatından başka bir şeye önem vermeyenlere mani ol,",
       "suleymaniye": "Bizim zikrimize[1] /Kitabımıza sırtını dönen ve dünya hayatından başkasını istemeyen kişilere karşı mesafeli ol[2]!",
-      "ates": "Bizi anmaktan yüz çeviren ve dünya hayatından başka bir şey istemeyen kimseden yüz çevir."
+      "ates": "Bizi anmaktan yüz çeviren ve dünya hayatından başka bir şey istemeyen kimseden yüz çevir.",
+      "hulusi": "Bizim zikrimize (hatırlattığımız hakikate) sırtını dönen ve dünya hayatının zevklerinden başka bir şey istemeyenden yüz çevir!",
+      "bayrakli": "Kitabımızdan yüz çevirenlerden ve dünya hayatından başka bir şey istemeyen kimselerden yüz çevir!",
+      "elmali_sade": "O halde sen de Bizi anmaktan yüz çevirip de dünya hayatından ötesini istemeyen kimselere bakma!",
+      "cantay": "Onun için sen (Habibim) bizim zikrimize arka çeviren, dünya hayatından başkasını arzuu etmeyen kimselerden yüz çevir.",
+      "piris": "Bu sebeple sen, uyarımızdan yüz çevirenden ve dünya hayatından başka bir şey istemeyenden uzak dur.",
+      "yildirim": "O halde Bizi anmaktan, bu Yüce Kitabımızı dinlemekten uzak duran ve dünya zevkinden başka bir şey istemeyen kimseleri sen de bir tarafa bırak!",
+      "safa": "Bizim Öğretimizden yüz çeviren ve dünya yaşamının dışında başka bir şey istemeyenlerden artık uzaklaş.",
+      "yuksel": "Mesajımızdan yüz çeviren ve dünya hayatından başkasını arzulamayan kimseyi önemseme.",
+      "aktas": "Dünya hayatından başka bir şey istemeyen, zikrimizden[1] yüz çevirenlerden sen de yüz çevir.[2]",
+      "okuyan": "Zikrimizden (Kur'an'dan) yüz çeviren ve yakın (dünya) hayatından başka bir şey istemeyen kişilere aldırış etme![1]"
     },
     {
       "number": 4814,
@@ -488,7 +778,17 @@
       "bulac": "İşte onların ilimden yana ulaşabildikleri (son sınır) budur. Şüphesiz, senin Rabbin; kendi yolundan sapanı en iyi bilen O'dur ve hidayet bulanı da en iyi bilen O'dur.",
       "esed": "ki bu onlar için bilinmeye değer tek şeydir. Şüphe yok ki Rabbin, kimin O'nun yolundan saptığını ve kimin O'nun rehberliğine uyduğunu hakkıyla bilir.",
       "suleymaniye": "Onların bilgi seviyesi işte bu kadar (sadece varsayım)! Senin Rabbin, yolundan sapanları iyi bilir. O, doğru yolda olanları da iyi bilir[1].",
-      "ates": "İşte onların erişebilecekleri bilgi (sınırı) budur. (Bundan ötesine akılları ermez). Şüphesiz Rabbin, yolundan sapanı da iyi bilir ve O, yola geleni de iyi bilir."
+      "ates": "İşte onların erişebilecekleri bilgi (sınırı) budur. (Bundan ötesine akılları ermez). Şüphesiz Rabbin, yolundan sapanı da iyi bilir ve O, yola geleni de iyi bilir.",
+      "hulusi": "Bilgilerinin onları ulaştıracağı son nokta işte budur (dünya zevkleriyle yaşayıp vefat etmek, başkasını düşünemezler)! Muhakkak ki Rabbin \"HU\" yolundan sapanı daha iyi bilir! \"HU\" daha iyi bilir hakikate ereni!",
+      "bayrakli": "Onların ilimde aldıkları mesafe bu kadardır. Şüphesiz Rabbin yoldan çıkanı da doğru yola geleni de hakkıyla bilmektedir.",
+      "elmali_sade": "İşte budur onların ilimde erişebildikleri son sınır!. Şüphesiz Rabbin, O en iyi bilendir yolundan sapanı, hem de O en iyi bilendir hidayet yolunu tutanı.",
+      "cantay": "Onların ilimden erebildikleri (son had) işte budur. Şübhesiz ki Rabbin, yolundan sapan kimseleri çok iyi bilenin ta kendisidir. O, hidayet bulan kimseleri de pek iyi bilendir.",
+      "piris": "İşte onların bilgi seviyeleri budur. Şüphesiz Rabbin, kimin yolundan saptığını en iyi bilen O'dur. Kimin doğru yolda olduğunu da en iyi bilen O'dur.",
+      "yildirim": "Onların bilgi seviyesi ancak bu kadardır; bildikleri bilecekleri budur. Senin Rabbin, kimin Allah'ın yolundan saptığını, kimin doğru yolda yürüdüğünü pek iyi bilir.",
+      "safa": "Onların erişebilecekleri bilgi, işte bu kadardır. Kuşkusuz, Efendin; O, yolundan sapanı bilir. Ve O, doğru yolda olanı da bilir.",
+      "yuksel": "İşte onların ulaştıkları bilgilerinin düzeyi budur. Elbette,  Efendin yolundan sapanı iyi bilir,  doğru yolda olanı da iyi bilir.",
+      "aktas": "Onların bilgi düzeyi bu kadardır. Rabb'in, kimin kendi yolundan sapmış olduğunu en iyi bilendir ve O, iletildiği doğru yolda olanı da en iyi bilendir.",
+      "okuyan": "İşte onların bilgisi bundan ibarettir. Şüphesiz ki Rabbin -evet yalnızca O- kendi yolundan kimin saptığını çok iyi bilendir ve O kimin doğru yola ulaştığını da çok iyi bilendir.[1]"
     },
     {
       "number": 4815,
@@ -504,7 +804,17 @@
       "bulac": "Göklerde ve yerde olanlar Allah'ındır; öyle ki, kötülükte bulunanları, yaptıkları dolayısıyla cezalandırır, güzel davranışta bulunanları da daha güzeliyle ödüllendirir.",
       "esed": "Göklerde ve yerde ne varsa hepsi Allah'a aittir: O, kötülük yapanlara yaptıklarının karşılığını verecek ve iyilik yapanları da katıksız iyilikle ödüllendirecektir.",
       "suleymaniye": "Göklerde ne var, yerde ne varsa hepsi Allah'ındır[1]. Sonunda Allah, kötülük edenleri yaptıklarına karşılık cezalandıracak, güzel davrananları da en güzeli ile ödüllendirecektir[2].",
-      "ates": "Göklerde ve yerde bulunan herşey Allah'ındır. (Bunları yaratmıştır) Ki kötülük edenleri, yaptıklarıyle cezalandırsın, güzel davrananları da güzellikle mükafatlandırsın."
+      "ates": "Göklerde ve yerde bulunan herşey Allah'ındır. (Bunları yaratmıştır) Ki kötülük edenleri, yaptıklarıyle cezalandırsın, güzel davrananları da güzellikle mükafatlandırsın.",
+      "hulusi": "Semalarda her ne varsa ve arzda her ne varsa Allah (Esma'sının işaret ettiği özelliklerin açığa çıkması) içindir! (Bu) kötü fiilleri açığa çıkaranlara yaptıklarının sonuçlarını yaşatması, güzel davrananları da en güzeli ile cezalandırması içindir!",
+      "bayrakli": "Göklerde ve yerde olanlar Allah'ındır. Sonunda, işlerini kötü yapanları cezalandıracak ve iyi yapanları da daha güzeli ile ödüllendirecektir.",
+      "elmali_sade": "Bütün göklerde ve yerde ne varsa hepsi Allah'ındır! Sonunda kötülük yapanları yaptıkları ile cezalandıracak; güzellik yapanları da daha güzeliyle mükafatlandıracak!",
+      "cantay": "Göklerde ne var, yerde ne varsa Allahındır. (Bunların yaratılması ve nizaama getirilmesi ise Allahın) kötülük edenleri, yapdıklarına mukaabil cezalandırılması, güzel hareket edenleri de daha güzeliyle mükafatlandırması içindir.",
+      "piris": "Göklerde olan da yerde olan da Allah'ındır. Kötülük işleyenleri yaptıkları sebebiyle cezalandıracak, iyilik edenleri de en iyisi ile ödüllendirecektir.",
+      "yildirim": "Göklerde ne var, yerde ne varsa hep Allah'ındır. Böyle olduğu için, sapanı ve doğru yolda olanı pek iyi bildiği, yaptıklarını kaydettiği içindir ki, kötülük işleyenleri, yaptıklarının karşılığı ile cezalandırarak, iyi hareket edenlere de en güzel mükafatı verecektir.",
+      "safa": "Göklerde olan her şey ve yeryüzünde olan her şey, Allah'ın malıdır. Kötülük yapanları, yaptıklarından dolayı cezalandıracaktır. Güzel davrananları da daha güzeliyle ödüllendirecektir.",
+      "yuksel": "Göklerde ve yerde ne varsa ALLAH'ındır. Kötülük işleyenleri yaptıklarından dolayı cezalandıracaktır ve güzel davrananları da ödüllendirecektir.",
+      "aktas": "Göklerde ve yerde olan her şey Allah'ındır. Bu, kötülük yapanların cezalandırılması ve iyilik yapanların daha iyisiyle ödüllendirilmesi içindir.[1]",
+      "okuyan": "Göklerde ve yerde bulunan her şey, yalnızca Allah'a aittir. En sonunda (Allah) kötülük edenleri yaptıklarıyla cezalandıracak ve güzel işler yapanları da daha güzeliyle ödüllendirecektir."
     },
     {
       "number": 4816,
@@ -520,7 +830,17 @@
       "bulac": "Ki onlar, ufak tefek günahlar dışında, günahın büyük olanından ve çirkin utanmazlıklardan kaçınırlar. Şüphesiz senin Rabbin, mağfireti geniş olandır. O, sizi daha iyi bilendir; hem sizi topraktan inşa ettiği (yarattığı) ve siz daha annelerinizin karnında cenin halinde bulunduğunuz zaman da. Öyleyse kendinizi temize çıkarıp durmayın. O, sakınanı daha iyi bilendir.",
       "esed": "Büyük günahlardan ve çirkin fiillerden kaçınanlara gelince, onlar arada bir hataya düşseler de (bilsinler ki) Rabbin bağışlamada cömerttir. O, sizi toz topraktan var ederken de, annelerinizin rahminde saklı bulunduğunuzda da sizinle ilgili her bilgiye sahiptir. O halde kendinizi saf ve temiz görmeyin; (çünkü) O, kimin Kendisine karşı sorumluluk bilinci taşıdığını en iyi bilendir.",
       "suleymaniye": "Onlar, büyük günahlardan[1] ve fuhuş çeşitlerinden[2] kaçınanlardır ama küçük günahları olabilir. Çünkü Rabbin, bağışlaması geniş olandır[3]. Yerden /topraktan oluşturup geliştirdiğinde de analarınızın karnında birer cenin olduğunuzda da sizi en iyi bilen odur[4]. Kendinizi temize çıkarmayın. O, yanlışlardan kimin daha fazla sakındığını en iyi bilendir[5].",
-      "ates": "Onlar, günahın büyüklerinden ve çirkin işlerden kaçınırlar, yalnız bazı küçük hatalar işleyebilirler. Şüphesiz Rabbinin affı geniştir (O kendisine yönelen kulunu affeder). O sizi daha iyi bilir: Gerek sizi topraktan inşa ettiği, gerek annelerinizin karınlarında bulunduğunuz zaman biçim verdiği sırada (sizin her halinizi bilmiştir), artık kendinizi övüp yüceltmeyin, çünkü O, korunanı daha iyi bilir."
+      "ates": "Onlar, günahın büyüklerinden ve çirkin işlerden kaçınırlar, yalnız bazı küçük hatalar işleyebilirler. Şüphesiz Rabbinin affı geniştir (O kendisine yönelen kulunu affeder). O sizi daha iyi bilir: Gerek sizi topraktan inşa ettiği, gerek annelerinizin karınlarında bulunduğunuz zaman biçim verdiği sırada (sizin her halinizi bilmiştir), artık kendinizi övüp yüceltmeyin, çünkü O, korunanı daha iyi bilir.",
+      "hulusi": "Onlar ki, büyük suçlardan (şirk, iftira, öldürmek vb. gibi) ve fevahişten (zina vb. gibi) uzak dururlar; beşeriyetin sonucu ufak suçlar dışında. . . Muhakkak ki Rabbinin mağfireti geniştir! O varlığınızı Esma'sıyla oluşturan olarak sizi daha iyi bilir; arzdan (bedeniniz) sizi inşa ettiğinde ve analarınızın karınlarında ceninler halindeyken! O halde nefslerinizi (benliğinizi) temize çıkarmaya çalışmayın! O, korunanın kim olduğunu (Esma'sıyla yaratanı olarak) bilendir!",
+      "bayrakli": "Onlar, basit hatalar hariç büyük günahlardan ve yüz kızartıcı davranışlardan kaçınanlardır. Şüphesiz Rabbinin bağışlaması geniştir. O sizi topraktan var ederken de, annelerinizin rahminde saklı bulunduğunuzda da, sizinle ilgili her bilgiye sahiptir. Öyleyse kendinizi temize çıkarmayınız. O, Allah'a saygı duyanı en iyi bilendir.",
+      "elmali_sade": "Onlar ki günahın büyüklerinden (vebalden) ve çirkef davranışlardan kaçınırlar, ancak ufak tefek kusurlar hariç; şüphesiz ki, Rabbin geniş mağfiretlidir. O sizin her halinizi en iyi bilendir, sizi topraktan meydana getirdiğinde ve sizler analarınızın karınlarında cenin halinde iken. Şimdi nefislerinizi temize çıkarmaya kalkışmayın! O'dur en iyi bilen günahtan korkup sakınanı!",
+      "cantay": "(O güzel hareket edenler), ufak ufak suçlar (ı) haaric olmak üzere, günahın büyüklerinden ve fuhuşlardan kaçınanlardır. Şübhesiz ki Rabbin, mağfireti bol olandır. O, sizi daha toprakdan yaratdığı zaman ve siz henüz analarınızın karınlarında döller haalinde olduğunuz sırada siz (in ne olduğunuzu) çok iyi bilendir. Bunun için kendinizi (beğenib) temize çıkarmayın. O, (fenalıkdan) sakınan kimdir, çok iyi bilendir.",
+      "piris": "O iyilik edenler, ufak tefek kusurları dışında, günahın büyüklerinden ve fuhşiyattan kaçarlar. Şüphesiz Rabbinin mağfireti geniştir. Sizi topraktan meydana getirdiği zaman da ve siz, annelerinizin karnında cenin halinde iken de sizi en iyi O bilir. Öyleyse, kendi kendinizi temize çıkarmayın. Kimin takvalı olduğunu en iyi o bilir.",
+      "yildirim": "O iyiler, ufak kusur ve günahlardan olmasa da, büyük günahlardan, aşikar hayasızlıklardan kaçınırlar. Senin Rabbinin mağfireti boldur. O sizi topraktan yaratırken ve siz annelerinizin karınlarında döl halinde iken mayanızın ne olduğunu gayet iyi bilir. Öyleyse kendinizi temize çıkarmayın, övünüp durmayın. Çünkü kimin Allah'ı daha çok sayıp O'na karşı gelmekten sakındığını O pek iyi bilmektedir.",
+      "safa": "Küçük suçlar dışında, büyük suçlardan ve sağtöreye uygun olmayan edimlerden kaçınanlar için, kuşkusuz, Efendinin bağışlaması çok geniştir. O, sizi topraktan yarattığında da annelerinizin karınlarında dölüt durumundayken da sizi bilir. Öyleyse kendinizi temiz görmeyin. O, kimin sorumluluk bilinci taşıdığını da bilir.",
+      "yuksel": "Onlar,  büyük günahlardan ve kötülüklerden kaçınırlar,  yalnız küçük suçlar işlerler. Efendinin bağışlaması engindir. Sizi topraktan yaratırken ve annelerinizin karınlarında cenin (fetus) durumundayken sizi iyi bilmektedir. Öyleyse kendinizi (övüp) temize çıkarmayın. O,  erdemlileri iyi bilir.",
+      "aktas": "Onlar, ufak-tefek hatalara düşmek hariç, büyük günahlardan ve aşırılıklardan kaçınırlar. Kuşkusuz Rabb'in, bağışlaması bol olandır. O, sizi topraktan inşa ederken de annelerinizin karnında cenin halindeyken de ne olduğunuzu en iyi bilendir. O halde kendinizi temize çıkarmayın. O, takva1 sahibi olan kimseyi en iyi bilendir.",
+      "okuyan": "Ufak tefek kusurlar dışında, büyük günahlardan ve çirkinliklerden kaçınanlara gelince,[1] Rabbinin bağışlaması çok geniştir. O, sizi topraktan yarattığı zaman[2] ve siz annelerinizin karınlarında saklı (ceninler hâlinde) bulunduğunuz sırada (bile) sizi iyi bilendir. (Bu nedenle) kendinizi temize çıkarmayın![3] O, takvâlı (duyarlı) olanı iyi bilendir. "
     },
     {
       "number": 4817,
@@ -536,7 +856,17 @@
       "bulac": "Şimdi, o yüz çevireni gördün mü?",
       "esed": "Peki, hiç düşündün mü (Bizi hatırlamaktan) uzak duranı (ve bu dünya hayatından başka şeye değer vermeyeni),",
       "suleymaniye": "Sen, sırt çeviren o adamı gördün mü[1],",
-      "ates": "Gördün mü şu adamı ki arkasını döndü?"
+      "ates": "Gördün mü şu adamı ki arkasını döndü?",
+      "hulusi": "Yüz çevirip geri döneni gördün mü?",
+      "bayrakli": "Gördün mü yüz çevireni?",
+      "elmali_sade": "Şimdi gördün ya, o haktan yüz çevireni?",
+      "cantay": "(33-34) Şimdi (imandan) dönen, (malından) biraz (ını) verib de gerisini sert kaya gibi elinde tutan adamı gördün mü?",
+      "piris": "Yüz çeviren kimseyi gördün mü?",
+      "yildirim": "Şimdi iyice dikkat edin şu sırtını çevirip uzaklaşana!",
+      "safa": "Yüz çevireni görüyor musun?",
+      "yuksel": "Gördün mü o yüz çevireni?",
+      "aktas": "Peki, yüz çevireni görüyor musun?",
+      "okuyan": "(33, 34) (Gerçeğe) sırt dönen, azıcık verip sonra vermemekte direneni bir düşün!"
     },
     {
       "number": 4818,
@@ -552,7 +882,17 @@
       "bulac": "Azıcık verdi ve gerisini kaya gibi sımsıkı elinde tuttu.",
       "esed": "ve (kendi ruhunun temizliği için kendisinden) bu kadar az ve bu kadar gönülsüzce vereni?",
       "suleymaniye": "biraz verip sonra (yardımı) tümden keseni[1]?",
-      "ates": "Azıcık verdi, gerisini elinde sıkı sıkı tuttu?"
+      "ates": "Azıcık verdi, gerisini elinde sıkı sıkı tuttu?",
+      "hulusi": "Az (bir şey) verip, (sonra vermeyi - infakı kesip) sımsıkı tutanı!",
+      "bayrakli": "Az verip sonra vermemekte direneni?",
+      "elmali_sade": "Biraz verip de dayatıvereni?",
+      "cantay": "(33-34) Şimdi (imandan) dönen, (malından) biraz (ını) verib de gerisini sert kaya gibi elinde tutan adamı gördün mü?",
+      "piris": "Biraz meyletmiş ve sonra katılaşmıştır/direnmiştir.",
+      "yildirim": "Azıcık verip de sonra cimrilik ederek vermeyene!",
+      "safa": "Birazcık verip de çoğunu elinde tutanı?",
+      "yuksel": "Ender olarak ve pek az verdi.",
+      "aktas": "Azıcık verip, inatla cimrilik edeni?",
+      "okuyan": "(33, 34) (Gerçeğe) sırt dönen, azıcık verip sonra vermemekte direneni bir düşün!"
     },
     {
       "number": 4819,
@@ -568,7 +908,17 @@
       "bulac": "Gaybın ilmi onun yanında da o mu görüyor?",
       "esed": "O, insan kavrayışının ötesindeki şeyin bilgisine sahip (olduğunu) ve böylece (onu açıkça) görebil(diğini mi iddia ed)iyor?",
       "suleymaniye": "Gaybın /gizli saklı şeylerin bilgisi onda da o kişi (olacakları) mı görüyor (bu yüzden mi böyle davranıyor[1])?",
-      "ates": "Gayb'ın bilgisi kendi yanında da o mu (alemin esrarını) görüyor?"
+      "ates": "Gayb'ın bilgisi kendi yanında da o mu (alemin esrarını) görüyor?",
+      "hulusi": "Gaybın ilmi onun indinde de, o mu görüyor?",
+      "bayrakli": "Gaybın bilgisi o adamın yanında da, o görüyor mu?",
+      "elmali_sade": "Gaybın bilgisi yanında da görüyor mu?",
+      "cantay": "Gaybın ilmi onun nezdindedir de kendisi mi görüyor?!",
+      "piris": "Gaybın ilmi onun yanında da, o mu görüyor?",
+      "yildirim": "Gaypların bilgisi onun yanındadır da onları kendisi mi görüyor?",
+      "safa": "Yoksa gizli gerçeklerin bilgisi onun yanında da o mu görüyor?",
+      "yuksel": "Gizemlerin bilgisine mi sahiptir ki (geleceği) görüyor?",
+      "aktas": "Yoksa o gaybın bilgisine[1] sahip de onu mu görüyor?",
+      "okuyan": "(Yoksa) gaybın (bilinemeyenin) bilgisi sadece kendi yanındadır da (bunu sadece) o mu görüyor!"
     },
     {
       "number": 4820,
@@ -584,7 +934,17 @@
       "bulac": "Yoksa Musa'nın sahifelerinde olan kendisine haber verilmedi mi?",
       "esed": "Yoksa henüz kendisine bildirilmedi mi Musa'ya gelen vahiylerde ne vardı,",
       "suleymaniye": "Yoksa Musa'nın sayfalarında olanlar ona haber verilmedi mi,",
-      "ates": "Yoksa kendisine haber mi verilmedi: Musa'nın sahifelerinde bulunan,"
+      "ates": "Yoksa kendisine haber mi verilmedi: Musa'nın sahifelerinde bulunan,",
+      "hulusi": "Yoksa Musa'nın sayfalarında olanlar (bilgiler - hükümler) haber verilmedi mi?",
+      "bayrakli": "Yoksa ona Musa'nın sayfalarındaki şu bilgiler haber verilmedi mi?",
+      "elmali_sade": "Yoksa haber mi verilmedi Musa'nın sahifelerinde yazılı olanlar?",
+      "cantay": "(36-37) Yoksa Musanın ve (Allahdan aldığı emri) vazifesini tastamam ifa eden İbrahimin sahifelerinde olan (şun) lardan haberdar mı edilmedi?",
+      "piris": "Yoksa, Musa'nın sahifelerinde olan şeyin haberi gelmedi mi?",
+      "yildirim": "(36-44) Yoksa o Musa'nın ve o çok vefalı İbrahim'in sahifelerinde bulunan şu kesin gerçekler hakkında bilgi edinmedi mi ki: Hiçbir kimse başkasının günah yükünü çekemez. İnsan, emek ve gayretinin neticesinden başka şey elde edemez. Bu gayretinin semeresi de ileride ortaya çıkacaktır. Emeğinin karşılığı kendisine tam tamına ödenecektir. Elbette son durak, Rabbinin huzuru olacaktır. O'dur güldüren ve ağlatan; O'dur öldüren ve yaşatan.",
+      "safa": "Yoksa Musa'nın sayfalarında olan şey, ona haber verilmedi mi?",
+      "yuksel": "Ona Musa'nın öğretisi hakkında bilgi verilmedi mi?",
+      "aktas": "Musa'nın sayfalarında olanlar haber verilmedi mi?",
+      "okuyan": "(36, 37) Yoksa Musa'nın ve çok vefalı İbrahim'in sahifelerinde bulunan(lar, ona) bildirilmedi mi?[1]"
     },
     {
       "number": 4821,
@@ -600,7 +960,17 @@
       "bulac": "Ve vefa eden İbrahim'in (sahifelerinde) olan...",
       "esed": "ve her türlü güvene layık olan İbrahim'e;",
       "suleymaniye": "görevini tam yapan İbrahim'in sayfalarında da olanlar[1]!",
-      "ates": "Ve çok vefalı İbrahim'in (sahifelerinde bulunan şu gerçekler):"
+      "ates": "Ve çok vefalı İbrahim'in (sahifelerinde bulunan şu gerçekler):",
+      "hulusi": "O çok vefalı İbrahim (-in sayfalarında olanlar)?",
+      "bayrakli": "Sözünü tam olarak yerine getiren İbrahim'in sayfalarındaki şu bilgiler de mi?",
+      "elmali_sade": "Ve çok vefakar olan İbrahim'inkindeki?",
+      "cantay": "(36-37) Yoksa Musanın ve (Allahdan aldığı emri) vazifesini tastamam ifa eden Ibrahimin sahifelerinde olan (şun) lardan haberdar mı edilmedi?",
+      "piris": "Ya vefakar İbrahim'in?..",
+      "yildirim": "(36-44) Yoksa o Musa'nın ve o çok vefalı İbrahim'in sahifelerinde bulunan şu kesin gerçekler hakkında bilgi edinmedi mi ki: Hiçbir kimse başkasının günah yükünü çekemez. İnsan, emek ve gayretinin neticesinden başka şey elde edemez. Bu gayretinin semeresi de ileride ortaya çıkacaktır. Emeğinin karşılığı kendisine tam tamına ödenecektir. Elbette son durak, Rabbinin huzuru olacaktır. O'dur güldüren ve ağlatan; O'dur öldüren ve yaşatan.",
+      "safa": "Ya sözünde duran İbrahim'in?[463]",
+      "yuksel": "Ve sözünü gerçekleştiren İbrahim'in?:",
+      "aktas": "Ve de çok vefalı İbrahim'in.",
+      "okuyan": "(36, 37) Yoksa Musa'nın ve çok vefalı İbrahim'in sahifelerinde bulunan(lar, ona) bildirilmedi mi?[1]"
     },
     {
       "number": 4822,
@@ -616,7 +986,17 @@
       "bulac": "Doğrusu, hiçbir günahkar, bir başkasının günah yükünü yüklenmez.",
       "esed": "ve hiç kimse, kimsenin yükünü taşıyacak değildir;",
       "suleymaniye": "Hiçbir günahkar başkasının günahını yüklenmez[1],",
-      "ates": "Ki hiçbir günahkar, başkasının günah yükünü yüklenmez."
+      "ates": "Ki hiçbir günahkar, başkasının günah yükünü yüklenmez.",
+      "hulusi": "Hiçbir günahkar bir başkasının günahını yüklenmez!",
+      "bayrakli": "\"Gerçekten hiçbir günahkar, başkasının günah yükünü yüklenemez.\"",
+      "elmali_sade": "Ki, doğrusu hiçbir günahkar başkasının günahını çekecek değildir.",
+      "cantay": "Hakıykaten hiçbir günahkar diğerinin günah yükünü çekmez.",
+      "piris": "Hiçbir günahkar başkasının günahını çekmez.",
+      "yildirim": "(36-44) Yoksa o Musa'nın ve o çok vefalı İbrahim'in sahifelerinde bulunan şu kesin gerçekler hakkında bilgi edinmedi mi ki: Hiçbir kimse başkasının günah yükünü çekemez. İnsan, emek ve gayretinin neticesinden başka şey elde edemez. Bu gayretinin semeresi de ileride ortaya çıkacaktır. Emeğinin karşılığı kendisine tam tamına ödenecektir. Elbette son durak, Rabbinin huzuru olacaktır. O'dur güldüren ve ağlatan; O'dur öldüren ve yaşatan.",
+      "safa": "Gerçekte, hiçbir suçlu, bir başkasının suçunu yüklenmez.[464]",
+      "yuksel": "Ki hiçbir kimse bir başkasının günah yükünü taşımaz, ",
+      "aktas": "Gerçek şu ki, hiçbir günahkar, başka bir günahkarın yükünü yüklenemez.",
+      "okuyan": "Hiçbir (günah) yüklüsü, başkasının (günah) yükünü yüklenemez.[1]"
     },
     {
       "number": 4823,
@@ -632,7 +1012,17 @@
       "bulac": "Şüphesiz insana kendi emeğinden başkası yoktur.",
       "esed": "ve insana uğrunda çaba gösterdiği dışında bir şey verilmeyecektir;",
       "suleymaniye": "insanın çalışmasından başkası kendinin değildir[1],",
-      "ates": "İnsana çalışmasından başka bir şey yoktur."
+      "ates": "İnsana çalışmasından başka bir şey yoktur.",
+      "hulusi": "İnsan için yalnızca çalışmalarının (kendisinden açığa çıkanların) sonucu oluşacaktır!",
+      "bayrakli": "Bilsin ki, insan için kendi çalışmasından başka bir şey yoktur.",
+      "elmali_sade": "Doğrusu insanın çalıştığından başkası kendinin değildir.",
+      "cantay": "Hakıykaten insan için kendi çalışdığından başkası yokdur.",
+      "piris": "İnsan için çalıştığından başkası yoktur.",
+      "yildirim": "(36-44) Yoksa o Musa'nın ve o çok vefalı İbrahim'in sahifelerinde bulunan şu kesin gerçekler hakkında bilgi edinmedi mi ki: Hiçbir kimse başkasının günah yükünü çekemez. İnsan, emek ve gayretinin neticesinden başka şey elde edemez. Bu gayretinin semeresi de ileride ortaya çıkacaktır. Emeğinin karşılığı kendisine tam tamına ödenecektir. Elbette son durak, Rabbinin huzuru olacaktır. O'dur güldüren ve ağlatan; O'dur öldüren ve yaşatan.",
+      "safa": "Ve insan için kendi çalışmasından başkası yoktur.",
+      "yuksel": "İnsan için ancak kendi çalışması vardır.",
+      "aktas": "Ve gerçek şu ki, insan için çalışmasından başka bir şey yoktur.",
+      "okuyan": "İnsan için kendi yaptığından başka bir şey yoktur."
     },
     {
       "number": 4824,
@@ -648,7 +1038,17 @@
       "bulac": "Şüphesiz kendi emeği (veya çabası) görülecektir.",
       "esed": "ve zamanı geldiğinde kendisine çabası(nın gerçek anlamı) gösterilecek,",
       "suleymaniye": "çalışması, daha sonra kendisine gösterilecektir[1],",
-      "ates": "Ve çalışması da yakında görülecektir."
+      "ates": "Ve çalışması da yakında görülecektir.",
+      "hulusi": "Onun çalışmasının sonucu da yakında görülecektir!",
+      "bayrakli": "Çalışması da ileride görülecektir.",
+      "elmali_sade": "Ve elbette çalışması yarın görülecek,",
+      "cantay": "Hakıykaten çalışdığı ileride (kıyamet gününde mizanından) görülecek,",
+      "piris": "Çalışması da mutlaka gösterilecektir.",
+      "yildirim": "(36-44) Yoksa o Musa'nın ve o çok vefalı İbrahim'in sahifelerinde bulunan şu kesin gerçekler hakkında bilgi edinmedi mi ki: Hiçbir kimse başkasının günah yükünü çekemez. İnsan, emek ve gayretinin neticesinden başka şey elde edemez. Bu gayretinin semeresi de ileride ortaya çıkacaktır. Emeğinin karşılığı kendisine tam tamına ödenecektir. Elbette son durak, Rabbinin huzuru olacaktır. O'dur güldüren ve ağlatan; O'dur öldüren ve yaşatan.",
+      "safa": "Ve kuşkusuz, onun çalışması yakında görülecektir.",
+      "yuksel": "Ve onun çalışması da yakında görülecektir.",
+      "aktas": "Ve onun çalışması yakında görülecektir.",
+      "okuyan": "Yaptığı ileride (ahirette) görülecektir."
     },
     {
       "number": 4825,
@@ -664,7 +1064,17 @@
       "bulac": "Sonra ona en eksiksiz karşılık verilecektir.",
       "esed": "ve sonra ona tam karşılığı verilecektir;",
       "suleymaniye": "sonra karşılığı ona tastamam verilecek[1],",
-      "ates": "Sonra ona tastamam karşılığı verilecektir."
+      "ates": "Sonra ona tastamam karşılığı verilecektir.",
+      "hulusi": "Sonra ona tastamam (yaptıklarının) sonuçları yaşatılacaktır!",
+      "bayrakli": "Sonra ona karşılığı tastamam ödenecektir.",
+      "elmali_sade": "Sonra ona en değerli mükafat verilecek.",
+      "cantay": "Sonra buna en kamil mükafat verilecekdir.",
+      "piris": "Sonra da karşılığı eksiksiz ödenecektir.",
+      "yildirim": "(36-44) Yoksa o Musa'nın ve o çok vefalı İbrahim'in sahifelerinde bulunan şu kesin gerçekler hakkında bilgi edinmedi mi ki: Hiçbir kimse başkasının günah yükünü çekemez. İnsan, emek ve gayretinin neticesinden başka şey elde edemez. Bu gayretinin semeresi de ileride ortaya çıkacaktır. Emeğinin karşılığı kendisine tam tamına ödenecektir. Elbette son durak, Rabbinin huzuru olacaktır. O'dur güldüren ve ağlatan; O'dur öldüren ve yaşatan.",
+      "safa": "Sonra, karşılığı, eksiksiz olarak kendisine verilecektir.",
+      "yuksel": "Sonra kendisine ödülü tam olarak verilecektir.",
+      "aktas": "Sonra karşılığı kendisine eksiksiz olarak verilecektir.",
+      "okuyan": "Sonra da ona karşılığı tastamam verilecektir."
     },
     {
       "number": 4826,
@@ -680,7 +1090,17 @@
       "bulac": "Elbette son varış Rabbine olacaktır.",
       "esed": "ve (bütün mevcudatın) başı ve sonu Rabbinin katındadır;",
       "suleymaniye": "varılacak son nokta Rabbinin huzuru olacaktır[1].",
-      "ates": "Ve sonunda senin Rabbine varılacaktır."
+      "ates": "Ve sonunda senin Rabbine varılacaktır.",
+      "hulusi": "Muhakkak ki gidişin sonu rabbinedir!",
+      "bayrakli": "Şüphesiz sonunda varış sadece Rabbine olacaktır.",
+      "elmali_sade": "Ve elbette sonunda Rabbine gidilecektir.",
+      "cantay": "Şübhesiz ki en son gidiş ancak Rabbinedir.",
+      "piris": "Kuşkusuz en son varış Rabbinedir.",
+      "yildirim": "(36-44) Yoksa o Musa'nın ve o çok vefalı İbrahim'in sahifelerinde bulunan şu kesin gerçekler hakkında bilgi edinmedi mi ki: Hiçbir kimse başkasının günah yükünü çekemez. İnsan, emek ve gayretinin neticesinden başka şey elde edemez. Bu gayretinin semeresi de ileride ortaya çıkacaktır. Emeğinin karşılığı kendisine tam tamına ödenecektir. Elbette son durak, Rabbinin huzuru olacaktır. O'dur güldüren ve ağlatan; O'dur öldüren ve yaşatan.",
+      "safa": "Kuşkusuz, son varış, Efendine olacaktır.",
+      "yuksel": "Son varış Efendinedir.",
+      "aktas": "Sonunda dönüş yalnızca Rabb'inedir.",
+      "okuyan": "Şüphesiz ki son (varış) sadece Rabbinedir."
     },
     {
       "number": 4827,
@@ -696,7 +1116,17 @@
       "bulac": "Doğrusu, güldüren ve ağlatan O'dur.",
       "esed": "(sizi) güldüren ve ağlatan yalnız O'dur;",
       "suleymaniye": "Güldüren de ağlatan da O'dur[1],",
-      "ates": "Güldüren de O'dur, ağlatan da O'dur."
+      "ates": "Güldüren de O'dur, ağlatan da O'dur.",
+      "hulusi": "Muhakkak ki \"HU\"dur, güldüren de ağlatan da!",
+      "bayrakli": "Güldürecek ve ağlatacak olan da O'dur.",
+      "elmali_sade": "Doğrusu güldüren, ağlatan O'dur.",
+      "cantay": "Hakıykat şu: Güldüren de, ağlatan da Odur.",
+      "piris": "Güldüren de O'dur, ağlatan da!",
+      "yildirim": "(36-44) Yoksa o Musa'nın ve o çok vefalı İbrahim'in sahifelerinde bulunan şu kesin gerçekler hakkında bilgi edinmedi mi ki: Hiçbir kimse başkasının günah yükünü çekemez. İnsan, emek ve gayretinin neticesinden başka şey elde edemez. Bu gayretinin semeresi de ileride ortaya çıkacaktır. Emeğinin karşılığı kendisine tam tamına ödenecektir. Elbette son durak, Rabbinin huzuru olacaktır. O'dur güldüren ve ağlatan; O'dur öldüren ve yaşatan.",
+      "safa": "Kuşkusuz, O, güldüren ve ağlatandır.",
+      "yuksel": "O'dur seni güldüren ve ağlatan.",
+      "aktas": "Güldüren de ağlatan da O'dur.",
+      "okuyan": "Güldüren de yalnızca O'dur, ağlatan da."
     },
     {
       "number": 4828,
@@ -712,7 +1142,17 @@
       "bulac": "Doğrusu, öldüren ve dirilten O'dur.",
       "esed": "ölümü getiren ve hayatı bağışlayan yalnız O'dur;",
       "suleymaniye": "Canı alan da hayat veren de O'dur [1].",
-      "ates": "Öldüren de O'dur, yaşatan da O'dur."
+      "ates": "Öldüren de O'dur, yaşatan da O'dur.",
+      "hulusi": "Muhakkak ki \"HU\"dur, ölümü tattıran da (ilimle) dirilten (ba's eden) de!",
+      "bayrakli": "Öldürecek ve diriltecek olan da O'dur.",
+      "elmali_sade": "Doğrusu öldüren, dirilten O'dur.",
+      "cantay": "Hakıykat şu: (Dünyada) öldüren de, (ahiretde) dirilten de Odur.",
+      "piris": "Öldüren O'dur, dirilten de!",
+      "yildirim": "(36-44) Yoksa o Musa'nın ve o çok vefalı İbrahim'in sahifelerinde bulunan şu kesin gerçekler hakkında bilgi edinmedi mi ki: Hiçbir kimse başkasının günah yükünü çekemez. İnsan, emek ve gayretinin neticesinden başka şey elde edemez. Bu gayretinin semeresi de ileride ortaya çıkacaktır. Emeğinin karşılığı kendisine tam tamına ödenecektir. Elbette son durak, Rabbinin huzuru olacaktır. O'dur güldüren ve ağlatan; O'dur öldüren ve yaşatan.",
+      "safa": "Kuşkusuz, O, öldüren ve yeniden yaşam verendir.",
+      "yuksel": "O'dur öldüren ve dirilten.",
+      "aktas": "Öldüren de dirilten de O'dur.",
+      "okuyan": "Öldüren de yalnızca O'dur, dirilten de. "
     },
     {
       "number": 4829,
@@ -728,7 +1168,17 @@
       "bulac": "Doğrusu, çiftleri; erkek ve dişiyi, yaratan O'dur.",
       "esed": "ve O'dur iki cinsi -erkeği ve dişiyi- yaratan,",
       "suleymaniye": "İki eşi, erkeği ve dişiyi O yarattı[1].",
-      "ates": "O yarattı iki çifti: erkeği ve dişiyi,"
+      "ates": "O yarattı iki çifti: erkeği ve dişiyi,",
+      "hulusi": "Muhakkak ki \"HU\", iki cinsi erkek ve dişi yaratan. . .",
+      "bayrakli": "- Atıldığı zaman döl suyundan çifti, yani erkeği ve dişiyi yaratan da O'dur.",
+      "elmali_sade": "Şüphesiz erkeği, dişiyi iki eş yaratan O'dur.",
+      "cantay": "(45-46) Hakıykaten meniden, (rahme) döküldüğü zaman, erkek ve dişi iki çifti o yaratdı.",
+      "piris": "Erkek ve dişi olarak iki cinsi yaratan O'dur.",
+      "yildirim": "(45-54) Rahime atılan nutfeden (spermden) erkek ve dişi çiftini yaratma, öldükten sonra diriltme, tekrar yaratma O'na aittir. İnsanı zengin, kanaat sahibi ve halinden memnun etmek de O'na aittir. Müşriklerin taptığı Şi'ra yıldızının Rabbi de O'dur. Önceki Ad milletini yok eden de O'dur. Semud milletini yok edip geriye hiçbir şey bırakmayan da O'dur. Daha önce Nuh milletini yok eden de O. Çünkü bunlar çok zalim, çok azgındılar. Altı üstüne getirilen Lut milletinin şehirlerini yerle bir etti. Onları ne azaplar, ne musibetler, neler kapladı neler!",
+      "safa": "Kuşkusuz, O, erkeği ve dişiyi çift olarak yaratandır.",
+      "yuksel": "O'dur iki çifti yaratan; erkeği ve dişiyi...[1]",
+      "aktas": "O, erkek ve dişi çiftler yarattı.",
+      "okuyan": "(45, 46) Şüphesiz ki erkek ve dişi iki eşi, atıldığı zaman nutfeden (spermden) yaratan O'dur.[1]"
     },
     {
       "number": 4830,
@@ -744,7 +1194,17 @@
       "bulac": "Bir damla sudan (döl yatağına) meni döküldüğü zaman.",
       "esed": "(sadece) bir sperm damlasından,",
       "suleymaniye": "Ölçüsü konduğu sırada döllenmiş yumurtadan[1] (yarattı).",
-      "ates": "Atıldığı zaman nutfe (sperm)den."
+      "ates": "Atıldığı zaman nutfe (sperm)den.",
+      "hulusi": "Sperm olarak atıldığında (Rahime)!",
+      "bayrakli": "- Atıldığı zaman döl suyundan çifti, yani erkeği ve dişiyi yaratan da O'dur.",
+      "elmali_sade": "(Rahime) ekildiği zaman bir nutfeden.",
+      "cantay": "(45-46) Hakıykaten meniden, (rahme) döküldüğü zaman, erkek ve dişi iki çifti o yaratdı.",
+      "piris": "Atıldığında bir damladan.",
+      "yildirim": "(45-54) Rahime atılan nutfeden (spermden) erkek ve dişi çiftini yaratma, öldükten sonra diriltme, tekrar yaratma O'na aittir. İnsanı zengin, kanaat sahibi ve halinden memnun etmek de O'na aittir. Müşriklerin taptığı Şi'ra yıldızının Rabbi de O'dur. Önceki Ad milletini yok eden de O'dur. Semud milletini yok edip geriye hiçbir şey bırakmayan da O'dur. Daha önce Nuh milletini yok eden de O. Çünkü bunlar çok zalim, çok azgındılar. Altı üstüne getirilen Lut milletinin şehirlerini yerle bir etti. Onları ne azaplar, ne musibetler, neler kapladı neler!",
+      "safa": "Atmık olarak dökülen bir damlacıktan.",
+      "yuksel": "Atıldığı zaman bir damlacık meniden.",
+      "aktas": "Atıldığında, nutfeden.[1]",
+      "okuyan": "(45, 46) Şüphesiz ki erkek ve dişi iki eşi, atıldığı zaman nutfeden (spermden) yaratan O'dur.[1]"
     },
     {
       "number": 4831,
@@ -760,7 +1220,17 @@
       "bulac": "Gerçek şu ki, diğer diriltme (yeniden neş'et) de O'na aittir.",
       "esed": "ve O'nun kudretindedir ikinci bir hayatı da var etmek;",
       "suleymaniye": "(Ahirette) en son oluşturup geliştirme işi de ona aittir[1].",
-      "ates": "Şüphesiz tekrar yaratmak da O'nun işidir."
+      "ates": "Şüphesiz tekrar yaratmak da O'nun işidir.",
+      "hulusi": "Muhakkak ki neş'e-i uhra (ikinci yaşam) O'nadır!",
+      "bayrakli": "Öldükten sonra tekrar diriltme de O'na aittir.",
+      "elmali_sade": "Şüphesiz sonraki yaratmada O'na aittir.",
+      "cantay": "Şübhesiz ki (ölümden sonra) tekrar diriltmek de Ona aiddir.",
+      "piris": "Tekrar diriltmek de O'na aittir.",
+      "yildirim": "(45-54) Rahime atılan nutfeden (spermden) erkek ve dişi çiftini yaratma, öldükten sonra diriltme, tekrar yaratma O'na aittir. İnsanı zengin, kanaat sahibi ve halinden memnun etmek de O'na aittir. Müşriklerin taptığı Şi'ra yıldızının Rabbi de O'dur. Önceki Ad milletini yok eden de O'dur. Semud milletini yok edip geriye hiçbir şey bırakmayan da O'dur. Daha önce Nuh milletini yok eden de O. Çünkü bunlar çok zalim, çok azgındılar. Altı üstüne getirilen Lut milletinin şehirlerini yerle bir etti. Onları ne azaplar, ne musibetler, neler kapladı neler!",
+      "safa": "Kuşkusuz, yeniden yaratmak da O'na özgüdür.",
+      "yuksel": "O'na aittir tekrar yaratmak.",
+      "aktas": "Ve kuşkusuz bundan sonraki diriltme[1] de yalnızca O'na aittir.",
+      "okuyan": "Şüphesiz ki diğer yaratılış (insanı diriltmek) de yalnızca O'na aittir. "
     },
     {
       "number": 4832,
@@ -776,7 +1246,17 @@
       "bulac": "Doğrusu, muhtaç olmaktan O kurtardı ve sermaye verip hoşnut kıldı.",
       "esed": "isteklerden arındıran ve mülk sahibi kılan yalnız O'dur;",
       "suleymaniye": "Zengin eden de fakir düşüren de O'dur[1].",
-      "ates": "Zengin eden O'dur, bol verip memnun eden O."
+      "ates": "Zengin eden O'dur, bol verip memnun eden O.",
+      "hulusi": "Muhakkak ki \"HU\"dur, gani eden de fakir kılan da.",
+      "bayrakli": "Zengin eden de yoksul kılan da O'dur.",
+      "elmali_sade": "Doğrusu zengin eden, sermaye veren de O'dur.",
+      "cantay": "Hakıykat şu (İnsanları) başkalarına muhtac olmakdan o kurtardı ve O, sermaye saahibi kıldı.",
+      "piris": "Zengin kılan da O'dur. Kanaatkar eden de.",
+      "yildirim": "(45-54) Rahime atılan nutfeden (spermden) erkek ve dişi çiftini yaratma, öldükten sonra diriltme, tekrar yaratma O'na aittir. İnsanı zengin, kanaat sahibi ve halinden memnun etmek de O'na aittir. Müşriklerin taptığı Şi'ra yıldızının Rabbi de O'dur. Önceki Ad milletini yok eden de O'dur. Semud milletini yok edip geriye hiçbir şey bırakmayan da O'dur. Daha önce Nuh milletini yok eden de O. Çünkü bunlar çok zalim, çok azgındılar. Altı üstüne getirilen Lut milletinin şehirlerini yerle bir etti. Onları ne azaplar, ne musibetler, neler kapladı neler!",
+      "safa": "Kuşkusuz, O, hem varlıklı yapan hem de yoksulluk verendir.[465]",
+      "yuksel": "O'dur Zengin eden,  yoksul yapan.",
+      "aktas": "Zenginlik veren de O'dur, sınırlayan da.",
+      "okuyan": "Zengin eden de yalnızca O'dur; kısarak veren de."
     },
     {
       "number": 4833,
@@ -792,7 +1272,17 @@
       "bulac": "Doğrusu, 'Şi'ra (yıldızı)nın' Rabbi O'dur.",
       "esed": "ve yalnız O'dur en parlak yıldıza destek veren;",
       "suleymaniye": "Şi'ra'nın[1] Rabbi de O'dur.",
-      "ates": "(Taptıkları) Şi'ra (yıldızı)nın Rabbi O'dur."
+      "ates": "(Taptıkları) Şi'ra (yıldızı)nın Rabbi O'dur.",
+      "hulusi": "Muhakkak ki \"HU\"dur, Rabbüş Şi'ra (Sirius yıldızının Rabbi)!",
+      "bayrakli": "Şı'ra yıldızının Rabbi de O'dur.",
+      "elmali_sade": "Şüphesiz Şi'ra (yıldızı)nın Rabbi O'dur.",
+      "cantay": "Hakıykat şu: \"Şi'ra\" yıldızının Rabbi de O.",
+      "piris": "Şi'ra (yıldızı)nın Rabbi de O'dur.",
+      "yildirim": "(45-54) Rahime atılan nutfeden (spermden) erkek ve dişi çiftini yaratma, öldükten sonra diriltme, tekrar yaratma O'na aittir. İnsanı zengin, kanaat sahibi ve halinden memnun etmek de O'na aittir. Müşriklerin taptığı Şi'ra yıldızının Rabbi de O'dur. Önceki Ad milletini yok eden de O'dur. Semud milletini yok edip geriye hiçbir şey bırakmayan da O'dur. Daha önce Nuh milletini yok eden de O. Çünkü bunlar çok zalim, çok azgındılar. Altı üstüne getirilen Lut milletinin şehirlerini yerle bir etti. Onları ne azaplar, ne musibetler, neler kapladı neler!",
+      "safa": "Ve kuşkusuz, O, Şira'nın Efendisidir.[466]",
+      "yuksel": "O'dur Şira galaksisinin Efendisi.",
+      "aktas": "Şi'ra'nın[1] Rabb'i de O'dur.",
+      "okuyan": "Doğrusu Şi‘ra (yıldızı)nın[1] Rabbi de yalnızca O'dur."
     },
     {
       "number": 4834,
@@ -808,7 +1298,17 @@
       "bulac": "Doğrusu, önce gelen Ad (halkın)ı O yıkıma uğrattı.",
       "esed": "ve O'dur yok eden kadim (kabileler) 'Ad",
       "suleymaniye": "(Nuh kavminden sonra) ilk gelen Ad'ı (Hud'un kavmini) O helak etti.",
-      "ates": "O helak etti, önce gelen 'Ad'ı,"
+      "ates": "O helak etti, önce gelen 'Ad'ı,",
+      "hulusi": "Muhakkak ki \"HU\"dur, önceki Ad'ı helak eden.",
+      "bayrakli": "Şüphesiz 'Ad kavmini O helak etti.",
+      "elmali_sade": "Nitekim O helak etti önce gelen Ad'ı.",
+      "cantay": "Hakıykat şu: Evvelki Aadi O helak etdi,",
+      "piris": "O helak etti evvelki Ad'ı...",
+      "yildirim": "(45-54) Rahime atılan nutfeden (spermden) erkek ve dişi çiftini yaratma, öldükten sonra diriltme, tekrar yaratma O'na aittir. İnsanı zengin, kanaat sahibi ve halinden memnun etmek de O'na aittir. Müşriklerin taptığı Şi'ra yıldızının Rabbi de O'dur. Önceki Ad milletini yok eden de O'dur. Semud milletini yok edip geriye hiçbir şey bırakmayan da O'dur. Daha önce Nuh milletini yok eden de O. Çünkü bunlar çok zalim, çok azgındılar. Altı üstüne getirilen Lut milletinin şehirlerini yerle bir etti. Onları ne azaplar, ne musibetler, neler kapladı neler!",
+      "safa": "Kuşkusuz, O, daha önce, Âd'ı yıkıma uğrattı.",
+      "yuksel": "O'dur helak eden eski Ad halkını, ",
+      "aktas": "Önceki Ad'ı[1] yok etti.",
+      "okuyan": "(50, 51) Şüphesiz ki önceki Âd kavmini ve Semûd'u O helak etmişti ve (onlardan) geriye hiçbir şey bırakmamıştı."
     },
     {
       "number": 4835,
@@ -824,7 +1324,17 @@
       "bulac": "Semud'u da. Böylelikle (o halklardan kimseyi) bırakmadı.",
       "esed": "ve Semud'u, hiçbir iz bırakmayacak şekilde,",
       "suleymaniye": "(Salih'in kavmi) Semud'u da helak etti. Onlardan geriye kimseyi bırakmadı[1].",
-      "ates": "Semud'u, komadı (onları)."
+      "ates": "Semud'u, komadı (onları).",
+      "hulusi": "Semud'u da. . . (Öyle ki) geriye (onlardan kimse) bırakmadı!",
+      "bayrakli": "Semud'u da O helak etti ve geriye hiçbir şey bırakmadı.",
+      "elmali_sade": "Ve Semud'u da hiç bırakmadı!.",
+      "cantay": "Semuudu da. Öyle ki (onlardan hiçbirini) bırakmadı.",
+      "piris": "Semud'u da baki bırakmadı..",
+      "yildirim": "(45-54) Rahime atılan nutfeden (spermden) erkek ve dişi çiftini yaratma, öldükten sonra diriltme, tekrar yaratma O'na aittir. İnsanı zengin, kanaat sahibi ve halinden memnun etmek de O'na aittir. Müşriklerin taptığı Şi'ra yıldızının Rabbi de O'dur. Önceki Ad milletini yok eden de O'dur. Semud milletini yok edip geriye hiçbir şey bırakmayan da O'dur. Daha önce Nuh milletini yok eden de O. Çünkü bunlar çok zalim, çok azgındılar. Altı üstüne getirilen Lut milletinin şehirlerini yerle bir etti. Onları ne azaplar, ne musibetler, neler kapladı neler!",
+      "safa": "Ve Semud'u; geriye hiçbir şey bırakmayacak biçimde.",
+      "yuksel": "Semud'u da bırakmadı, ",
+      "aktas": "Ve Semud'u da. Geride kimseyi bırakmadı.",
+      "okuyan": "(50, 51) Şüphesiz ki önceki Âd kavmini ve Semûd'u O helak etmişti ve (onlardan) geriye hiçbir şey bırakmamıştı."
     },
     {
       "number": 4836,
@@ -840,7 +1350,17 @@
       "bulac": "Daha önce Nuh kavmini de. Çünkü onlar, daha zalim ve daha azgındılar.",
       "esed": "ve onlardan önce Nuh kavmini -(çünkü,) hepsi de kötülükte çok iştahlı ve çok azgın olmuşlardı-",
       "suleymaniye": "Bunlardan önce de Nuh'un toplumunu yok ettiği. Onlar daha yanlış davranan ve daha çok taşkınlık eden kimselerdi-[1]",
-      "ates": "Önceden de Nuh kavmini (helak etmişti). Çünkü onlar daha zalim ve azgın idiler."
+      "ates": "Önceden de Nuh kavmini (helak etmişti). Çünkü onlar daha zalim ve azgın idiler.",
+      "hulusi": "Daha önce de Nuh kavmini. . . Muhakkak ki onlar, evet onlar daha zalim ve nefsani yaşamda daha beterdiler.",
+      "bayrakli": "Onlardan önce, Nuh toplumunu da helak etmiştir. Onların hepsi çok zalim ve çok azgın kimselerdi.",
+      "elmali_sade": "Daha önce de Nuh kavmini (helak etmişti); çünkü onlar çok zalim ve çok azgındılar.",
+      "cantay": "Daha evvel Nuuh kavmini de (O helak etdi) çünkü bunlar çok zaalim ve çok azgın (insan) ların ta kendileri idi.",
+      "piris": "Daha önce de Nuh'un kavmini... onlar, daha zalim daha azgın idiler...",
+      "yildirim": "(45-54) Rahime atılan nutfeden (spermden) erkek ve dişi çiftini yaratma, öldükten sonra diriltme, tekrar yaratma O'na aittir. İnsanı zengin, kanaat sahibi ve halinden memnun etmek de O'na aittir. Müşriklerin taptığı Şi'ra yıldızının Rabbi de O'dur. Önceki Ad milletini yok eden de O'dur. Semud milletini yok edip geriye hiçbir şey bırakmayan da O'dur. Daha önce Nuh milletini yok eden de O. Çünkü bunlar çok zalim, çok azgındılar. Altı üstüne getirilen Lut milletinin şehirlerini yerle bir etti. Onları ne azaplar, ne musibetler, neler kapladı neler!",
+      "safa": "Daha önce, Nuh toplumunu da. Aslında, onlar, daha çok haksızlık yapanlar ve daha azgın olanlardı.",
+      "yuksel": "Ve ondan önce Nuh'un halkını da; onlar çok zalim ve çok azgın kimselerdi.",
+      "aktas": "Daha önce de Nuh'un halkını. Onlar, daha zalim ve daha azgın olanlardı.",
+      "okuyan": "Daha önce Nuh kavmini de (O helak etmişti). Şüphesiz ki onlar haksızlık etmiş ve azgınlık yapmışlardı."
     },
     {
       "number": 4837,
@@ -856,7 +1376,17 @@
       "bulac": "Altı üstüne gelen (Lut kavminin) şehirlerini de O yerin dibine geçirdi.",
       "esed": "(işte Rabbin onları yok etti,) tıpkı yıkılıp altüst olan öteki şehirleri yok olmaya terk ettiği",
       "suleymaniye": "Altı üstüne getirilen şehri (Lut kavmini) onun yok etti, yere batırdı[1],",
-      "ates": "Altı üstüne getirilen kentleri (Lut kavminin oturduğu bölgeleri) devirip yıktı."
+      "ates": "Altı üstüne getirilen kentleri (Lut kavminin oturduğu bölgeleri) devirip yıktı.",
+      "hulusi": "Mü'tefikat'ı (helak olmuş şehirleri; Sodom ve Gomore'yi) yerin dibine batırdı!",
+      "bayrakli": "Alt-üst olan şehirleri de O böyle yaptı.",
+      "elmali_sade": "Mü'tefikey'i de haviyeye attı (altını üstüne getirdi).",
+      "cantay": "(Lut kavminin) altı üstüne gelen kasabalarını da O kaldırıb yere çarpdı da,",
+      "piris": "Alt üst edilmiş, yok olup gitmiştir.",
+      "yildirim": "(45-54) Rahime atılan nutfeden (spermden) erkek ve dişi çiftini yaratma, öldükten sonra diriltme, tekrar yaratma O'na aittir. İnsanı zengin, kanaat sahibi ve halinden memnun etmek de O'na aittir. Müşriklerin taptığı Şi'ra yıldızının Rabbi de O'dur. Önceki Ad milletini yok eden de O'dur. Semud milletini yok edip geriye hiçbir şey bırakmayan da O'dur. Daha önce Nuh milletini yok eden de O. Çünkü bunlar çok zalim, çok azgındılar. Altı üstüne getirilen Lut milletinin şehirlerini yerle bir etti. Onları ne azaplar, ne musibetler, neler kapladı neler!",
+      "safa": "Altı üstüne getirilen kentleri de yerin dibine geçirdi.",
+      "yuksel": "Yıkılıp batırılmış olanlar (Sodom ve Gomora),  en bayağılardı.",
+      "aktas": "Alt üst edilen beldeyi de yerin dibine geçirdi.",
+      "okuyan": "Alt üst olan şehirleri de O yok etmişti."
     },
     {
       "number": 4838,
@@ -872,7 +1402,17 @@
       "bulac": "Böylece ona (o toplumun başına) sardırdığını sardırdı.",
       "esed": "ve sonra ebediyyen görünmez hale getirdiği (gibi).",
       "suleymaniye": "Sonra orayı kaplayan şeyin (volkanik küllerin) kapladığı[1] (Musa'nın ve İbrahim'in sayfalarındaki bu bilgiler ona haber verilmedi mi[2]!)",
-      "ates": "Onların üstüne neler çöktü, neler!"
+      "ates": "Onların üstüne neler çöktü, neler!",
+      "hulusi": "Böylece bürüdü onları, bürüdükleriyle (suçlarının karşılığı olarak)!",
+      "bayrakli": "Onları neler kapladı neler!",
+      "elmali_sade": "Sardırttı da onlara o sardırdığını.",
+      "cantay": "Onlara giydirdiğini giydirdi!",
+      "piris": "Onlara şiddetli bir azap bürüdü.",
+      "yildirim": "(45-54) Rahime atılan nutfeden (spermden) erkek ve dişi çiftini yaratma, öldükten sonra diriltme, tekrar yaratma O'na aittir. İnsanı zengin, kanaat sahibi ve halinden memnun etmek de O'na aittir. Müşriklerin taptığı Şi'ra yıldızının Rabbi de O'dur. Önceki Ad milletini yok eden de O'dur. Semud milletini yok edip geriye hiçbir şey bırakmayan da O'dur. Daha önce Nuh milletini yok eden de O. Çünkü bunlar çok zalim, çok azgındılar. Altı üstüne getirilen Lut milletinin şehirlerini yerle bir etti. Onları ne azaplar, ne musibetler, neler kapladı neler!",
+      "safa": "Böylece, ona, sardırdığını sardırdı.[467]",
+      "yuksel": "Onları örten örttü.",
+      "aktas": "Artık onu kaplayan şey kapladı.",
+      "okuyan": "Böylece kuşatan şey (felaket) onları da kuşatmıştı."
     },
     {
       "number": 4839,
@@ -888,7 +1428,17 @@
       "bulac": "Öyleyse, Rabbinin hangi nimetlerinden şüphe ediyorsun?",
       "esed": "O halde Rabbinin hangi nimet ve kudretinden (hala) şüphe duyabilirsin?",
       "suleymaniye": "(O kişiye de ki:) Artık Rabbinin hangi nimetinden kuşku duyabilirsin?",
-      "ates": "O halde Rabbinin hangi ni'metinden kuşku duyuyorsun?"
+      "ates": "O halde Rabbinin hangi ni'metinden kuşku duyuyorsun?",
+      "hulusi": "Şimdi Rabbinin nimetlerinin hangisinden kuşku duyarsın!",
+      "bayrakli": "Artık, Rabbinin hangi nimetinden şüphe ediyorsun?",
+      "elmali_sade": "Şimdi Rabbinin hangi nimetlerine kuşku duyarsın?",
+      "cantay": "Şimdi (ey insan) Rabbinin ni'metlerinden hangisi hakkında şübhe edersin ?",
+      "piris": "O halde, Rabbinin hangi nimetinden şüphe ediyorsun?",
+      "yildirim": "Artık, ey insan, şimdi Rabbinin hangi nimetinde şüphe edersin?",
+      "safa": "Öyleyse Efendinin, hangi nimetlerinden kuşku duyuyorsun?",
+      "yuksel": "O halde Efendinin hangi nimetlerinden kuşkulanırsın?",
+      "aktas": "O halde Rabb'inin hangi nimetinden kuşku duyuyorsun?",
+      "okuyan": "Rabbinin hangi nimetleri hakkında şüphe duyabilirsin ki!"
     },
     {
       "number": 4840,
@@ -904,7 +1454,17 @@
       "bulac": "Bu önceki uyarıcılardan bir uyarıcıdır.",
       "esed": "Bu, önceki uyarılar gibi bir uyarıdır.",
       "suleymaniye": "Bu (kitap) da önceki uyarıcılar gibi bir uyarıcıdır[1].",
-      "ates": "Bu (Kur'an veya peygamber) de ilk uyarıcılar gibi bir uyarıcıdır."
+      "ates": "Bu (Kur'an veya peygamber) de ilk uyarıcılar gibi bir uyarıcıdır.",
+      "hulusi": "İşte bu da önceki uyarıcılar gibi bir uyarıcıdır!",
+      "bayrakli": "Bu peygamber de eski uyarıcılar gibi bir uyarıcıdır.",
+      "elmali_sade": "İşte bu, ilk uyarmalardan bir uyarmadır.",
+      "cantay": "İşte bu (zat) de (Allahın azabından) korkutan evvelki (peygamber) lerden (sonuncusu olmak üzere ayni şeyle) korkutucu (bir peygamber) dir.",
+      "piris": "İşte bu, önceki uyarıcılar gibi bir uyarıcıdır.",
+      "yildirim": "(56-58) İşte bu Peygamber de, önceki rehberlerden ve uyaranlardan biridir. O yaklaşan (kıyamet) yaklaştı. O gelmeden, ne zaman olacağını bildirecek, geldiğinde de onu giderecek Allah'tan başka kimse yoktur.",
+      "safa": "İşte bu, önceki uyarılar gibi bir uyarıdır.[468]",
+      "yuksel": "Bu,  eski uyarıcılardan bir uyarıcıdır.",
+      "aktas": "Bu uyarıcı da ilk uyarıcılar gibi bir uyarıcıdır.",
+      "okuyan": "İşte bu, önceki uyarılardan bir uyarıdır."
     },
     {
       "number": 4841,
@@ -920,7 +1480,17 @@
       "bulac": "O yaklaşmakta olan yaklaştı.",
       "esed": "Yakın olan şu (Son Saat) daha da yaklaşıyor,",
       "suleymaniye": "Yaklaşmakta olan (hesap günü) yaklaştı[1].",
-      "ates": "O yaklaşıcı, yaklaştı."
+      "ates": "O yaklaşıcı, yaklaştı.",
+      "hulusi": "O yaklaşan (ölüm) yaklaştı!",
+      "bayrakli": "- Kıyamet yaklaştı. Allah'tan başka, onun vaktini ortaya çıkaracak yoktur.",
+      "elmali_sade": "Yaklaşan yaklaştı.",
+      "cantay": "Yaklaşan yaklaşdı.",
+      "piris": "Yaklaşan yaklaşıyor.",
+      "yildirim": "(56-58) İşte bu Peygamber de, önceki rehberlerden ve uyaranlardan biridir. O yaklaşan (kıyamet) yaklaştı. O gelmeden, ne zaman olacağını bildirecek, geldiğinde de onu giderecek Allah'tan başka kimse yoktur.",
+      "safa": "Yaklaşan, yaklaştı.",
+      "yuksel": "Kaçınılmaz olan yaklaşmıştır.",
+      "aktas": "Yaklaşan, yaklaştı.[1]",
+      "okuyan": "Yaklaşmakta olan (Son Saat) yaklaştı."
     },
     {
       "number": 4842,
@@ -936,7 +1506,17 @@
       "bulac": "Onu Allah'ın dışında ortaya çıkaracak başka (hiçbir güç yoktur).",
       "esed": "(Ama) onu Allah'tan başka kimse açığa çıkaramaz...",
       "suleymaniye": "Onu, Allah'ın dışında ortaya çıkaracak biri yoktur[1].",
-      "ates": "Onu Allah'tan başka açacak (geldiği zaman kaldıracak, vaktini erteleyecek veya onun ne zaman geleceğini belirleyecek) kimse yoktur."
+      "ates": "Onu Allah'tan başka açacak (geldiği zaman kaldıracak, vaktini erteleyecek veya onun ne zaman geleceğini belirleyecek) kimse yoktur.",
+      "hulusi": "Onu Allah dununda (ölüm sıkıntısını) açacak biri yoktur.",
+      "bayrakli": "- Kıyamet yaklaştı. Allah'tan başka, onun vaktini ortaya çıkaracak yoktur.",
+      "elmali_sade": "Ona Allah'tan başka açıcı yoktur.",
+      "cantay": "Onu Allahdan başka açığa çıkaracak yokdur.",
+      "piris": "Onu Allah'tan başkası açığa çıkaracak değildir.",
+      "yildirim": "(56-58) İşte bu Peygamber de, önceki rehberlerden ve uyaranlardan biridir. O yaklaşan (kıyamet) yaklaştı. O gelmeden, ne zaman olacağını bildirecek, geldiğinde de onu giderecek Allah'tan başka kimse yoktur.",
+      "safa": "Allah'tan başka, onu açığa çıkaracak yoktur.",
+      "yuksel": "ALLAH'tan başkası onu kaldıramaz.",
+      "aktas": "Onu, Allah'tan başkası çeviremez.",
+      "okuyan": "Onu (zamanını) Allah'tan başka kimse açığa çıkaramaz.[1]"
     },
     {
       "number": 4843,
@@ -952,7 +1532,17 @@
       "bulac": "Şimdi siz, bu sözden mi şaşkınlığa düşüyorsunuz?",
       "esed": "Siz bu haberleri tuhaf mı buluyorsunuz?",
       "suleymaniye": "Yoksa bu sözden /Kur'an'dan dolayı hayrete mi düşüyorsunuz[1]?",
-      "ates": "Şimdi siz bu söze mi hayret ediyorsunuz?"
+      "ates": "Şimdi siz bu söze mi hayret ediyorsunuz?",
+      "hulusi": "Şimdi siz bu olayı (ölümle başlayan ölümsüz hayatı) acayip mi buluyorsunuz?",
+      "bayrakli": "Şimdi bu kitaba mı hayret ediyorsunuz?",
+      "elmali_sade": "Şimdi siz bu söze mi şaşıyorsunuz?",
+      "cantay": "Şimdi siz bu söze mi şaşıyorsunuz?",
+      "piris": "Bu söze mi şaşıyorsunuz?",
+      "yildirim": "(59-62) Şimdi siz bu söze mi şaşırıyorsunuz? Hep gülüyorsunuz, ama ağlamıyorsunuz. Üstelik kafa tutuyor, oyalanıyorsunuz. Haydi artık (bırakın bu gafleti de) Allah'a secde ve ibadet edin!",
+      "safa": "Şimdi, bu söze şaşırıyorsunuz; öyle mi?",
+      "yuksel": "Bu sözü mü tuhaf karşılıyorsunuz?",
+      "aktas": "Bu hadislere[1] mi şaşırıyorsunuz?",
+      "okuyan": "Şimdi siz bu sözü mü tuhaf buluyorsunuz!"
     },
     {
       "number": 4844,
@@ -968,7 +1558,17 @@
       "bulac": "(Alayla) Gülüyorsunuz ve ağlamıyorsunuz.",
       "esed": "Ağlayacağınıza gülüyorsunuz;",
       "suleymaniye": "(Halinize) Gülüyor da ağlamıyor musunuz[1]!",
-      "ates": "Ve gülüyorsunuz da ağlamıyorsunuz?"
+      "ates": "Ve gülüyorsunuz da ağlamıyorsunuz?",
+      "hulusi": "Gülüyorsunuz, ağlamıyorsunuz!",
+      "bayrakli": "Gülüyorsunuz da ağlamıyorsunuz.",
+      "elmali_sade": "Gülüyorsunuz da ağlamıyorsunuz?",
+      "cantay": "Ve (istihza ederek) gülüyorsunuz, (günahlarınıza) ağlamıyorsunuz?",
+      "piris": "Gülüyorsunuz, ağlamıyorsunuz?!",
+      "yildirim": "(59-62) Şimdi siz bu söze mi şaşırıyorsunuz? Hep gülüyorsunuz, ama ağlamıyorsunuz. Üstelik kafa tutuyor, oyalanıyorsunuz. Haydi artık (bırakın bu gafleti de) Allah'a secde ve ibadet edin!",
+      "safa": "Üstelik gülüyorsunuz; ağlayacağınıza.",
+      "yuksel": "Gülüyorsunuz da ağlamıyorsunuz?",
+      "aktas": "Ağlanacak halinize gülüyorsunuz.",
+      "okuyan": "Gülüyorsunuz;[1] ağlamıyorsunuz."
     },
     {
       "number": 4845,
@@ -984,7 +1584,17 @@
       "bulac": "Ve şuursuzca baş kaldırıyorsunuz.",
       "esed": "ve eğlenip duruyorsunuz?",
       "suleymaniye": "Siz dik kafalısınız[1].",
-      "ates": "Ve siz baş kaldırıyorsunuz?"
+      "ates": "Ve siz baş kaldırıyorsunuz?",
+      "hulusi": "Siz keyfinize bakıp oyalanıyorsunuz!",
+      "bayrakli": "Gaflet içinde oyalanıp duruyorsunuz.",
+      "elmali_sade": "Siz mi kafa tutuyorsunuz ey gafiller?",
+      "cantay": "Siz gafil ve oyuna meclub (adam) larsınız.",
+      "piris": "Eğlenip duruyorsunuz!",
+      "yildirim": "(59-62) Şimdi siz bu söze mi şaşırıyorsunuz? Hep gülüyorsunuz, ama ağlamıyorsunuz. Üstelik kafa tutuyor, oyalanıyorsunuz. Haydi artık (bırakın bu gafleti de) Allah'a secde ve ibadet edin!",
+      "safa": "Ve aymazlık içinde eğleniyorsunuz.",
+      "yuksel": "Ve aylak aylak oyalanıyorsunuz?",
+      "aktas": "Ve siz gaflete dalanlarsınız![1]",
+      "okuyan": "Siz oyalanıyorsunuz!"
     },
     {
       "number": 4846,
@@ -1004,7 +1614,17 @@
       "bulac": "Hemen, Allah'a secde edin ve (yalnızca O'na) kulluk edin.",
       "esed": "(Ama artık) Allah'a secde edin ve (yalnız O'na) kulluk yapın!",
       "suleymaniye": "Artık Allah'a secde ve kulluk edin[1].",
-      "ates": "Haydi Allah'a secde edin ve kulluk edin!"
+      "ates": "Haydi Allah'a secde edin ve kulluk edin!",
+      "hulusi": "Secde edin (Esma'sıyla hakikatınız olan) Allah'a (indindeki \"yok\"luğunuzu fark edin) ve kulluğunuza devam edin. (62. ayet secde ayetidir. )",
+      "bayrakli": "Haydi! Allah'a secde edip O'na kulluk ediniz!",
+      "elmali_sade": "Haydi secdeye kapanın ve kulluk edin!",
+      "cantay": "Haydi (putlara değil, sizi yaratan) Allaha secde, edin, (Ona) kulluk edin.",
+      "piris": "Artık, Allah'a secde edin. O'na kulluk edin.",
+      "yildirim": "(59-62) Şimdi siz bu söze mi şaşırıyorsunuz? Hep gülüyorsunuz, ama ağlamıyorsunuz. Üstelik kafa tutuyor, oyalanıyorsunuz. Haydi artık (bırakın bu gafleti de) Allah'a secde ve ibadet edin!",
+      "safa": "Artık, Allah'a secde edin ve hizmet edin.",
+      "yuksel": "Haydi ALLAH'a secde edin,  hizmet edin.",
+      "aktas": "Artık bu gafletten kurtulup, Allah'a secde edin ve O'na kul olun.",
+      "okuyan": "Allah için secde edin ve (O'na) kulluk edin![1]"
     }
   ]
 }

@@ -24,7 +24,17 @@
       "bulac": "Eksik ölçüp tartanların vay haline,",
       "esed": "Vay haline ölçüyü eksik tutanların!",
       "suleymaniye": "Eksik ölçüp tartanların vay haline![1]",
-      "ates": "Ölçü ve tartıda hile yapanların vay haline!"
+      "ates": "Ölçü ve tartıda hile yapanların vay haline!",
+      "hulusi": "Vay haline ölçü ve tartıyı tam yapmayanların!",
+      "bayrakli": "Eksik ölçüp tartanların vay haline!",
+      "elmali_sade": "Veyl ölçü ve tartıda hile yapanlara!",
+      "cantay": "Ölçekde ve tartıda hile yapanların vay haaline!",
+      "piris": "Ölçüde hile yapanların vay haline!",
+      "yildirim": "Vay haline eksik ölçüp tartanların!",
+      "safa": "Ölçüde Aldatanların; vay başlarına gelene!",
+      "yuksel": "Yazıklar olsun kandıranlara.",
+      "aktas": "Hile[1] yapanların vay haline!",
+      "okuyan": "Eksik ölçenlere (yolsuzluk yapanlara) yazıklar olsun!"
     },
     {
       "number": 5850,
@@ -40,7 +50,17 @@
       "bulac": "Ki onlar, insanlardan ölçerek aldıklarında noksansız alırlar.",
       "esed": "Onlar, (öteki) insanlardan haklarını eksiksiz isterler;",
       "suleymaniye": "Onlar insanlardan alırken ölçünün tam olmasını isteyen;",
-      "ates": "Onlar insanlardan bir şey ölçüp aldıkları zaman ölçüyü tam yaparlar."
+      "ates": "Onlar insanlardan bir şey ölçüp aldıkları zaman ölçüyü tam yaparlar.",
+      "hulusi": "Onlar ki, insanlardan haklarını tam ölçüyle alırlar da;",
+      "bayrakli": "- Onlar, insanlardan bir şey aldıkları zaman tam ölçüp tartarlar. Kendileri bir şey sattıkları zaman onlara eksik ölçüp tartarlar.",
+      "elmali_sade": "Onlar ki, insanlar üzerinden kendilerine ölçtüklerinde tam basarlar.",
+      "cantay": "Ki onlar insanlardan ölçekle aldıkları zaman (haklarını) tastamam alanlar,",
+      "piris": "İnsanlardan/halktan aldıklarında tam alan..",
+      "yildirim": "Onlar ki satın alırken haklarını tam olarak alırlar.",
+      "safa": "İnsanlardan ölçerek aldıklarında eksiksiz alırlar.",
+      "yuksel": "Halktan bir şey aldıklarında ölçüyü tam uygularlar.",
+      "aktas": "Onlar, alırlarken tam olarak ölçer, tartarlar.",
+      "okuyan": "Onlar insanlardan (bir şey alırken) ölçtüklerinde (baskı yaparak) tam ölçerler.[1]"
     },
     {
       "number": 5851,
@@ -56,7 +76,17 @@
       "bulac": "Kendileri onlara ölçtüklerinde veya tarttıklarında eksiltirler.",
       "esed": "ama borçlarını ölçüp tartmaya gelince, onu azaltmaya çalışırlar.",
       "suleymaniye": "ama insanlara verirken ölçtükleri veya tarttıklarında onları zarara sokan kimselerdir.[1]",
-      "ates": "Kendileri onlara bir şey ölçtükleri veya tarttıkları zaman (ölçü ve tartıyı) eksik yaparlar."
+      "ates": "Kendileri onlara bir şey ölçtükleri veya tarttıkları zaman (ölçü ve tartıyı) eksik yaparlar.",
+      "hulusi": "Onların (hakkını vermeye gelince) ölçtüklerinde eksiltirler!",
+      "bayrakli": "- Onlar, insanlardan bir şey aldıkları zaman tam ölçüp tartarlar. Kendileri bir şey sattıkları zaman onlara eksik ölçüp tartarlar.",
+      "elmali_sade": "Onlara ölçtükleri veya tarttıklarında ise eksiltirler",
+      "cantay": "Onlara (insanlara) ölçekle, yahud tartı ile verdikleri zaman ise eksilenlerdir.",
+      "piris": "Onlara tartıp ölçtüklerinde eksik verenler..",
+      "yildirim": "Fakat kendileri başkalarına satar, ölçüp tartarken eksik yapar, hile karıştırırlar.",
+      "safa": "Ölçerek verdiklerinde ise eksik tartarlar.",
+      "yuksel": "Verdikleri zaman ise ölçüyü ve tartıyı eksik tutarlar.",
+      "aktas": "Satarlarken eksik ölçer, tartarlar.",
+      "okuyan": "Onlara (insanlara vermek için) ölçtüklerinde veya tarttıklarında ise eksiltirler."
     },
     {
       "number": 5852,
@@ -72,7 +102,17 @@
       "bulac": "Yoksa onlar, diriltileceklerini sanmıyor mu?",
       "esed": "Onlar bilmez mi ki tekrar diriltilecekler",
       "suleymaniye": "Onlar yeniden diriltileceklerini hiç mi düşünmüyorlar?",
-      "ates": "Onlar, tekrar diriltileceklerini sanmıyorlar mı?"
+      "ates": "Onlar, tekrar diriltileceklerini sanmıyorlar mı?",
+      "hulusi": "Bunlar kendilerinin (ölümü tatmanın akabinde) ba's olunacaklarını zannetmiyor mu?",
+      "bayrakli": "- Onlar,alemlerin Rabbinin huzurunda duracaklarları büyük gün için tekrar dirileceklerine inanmıyorlar mı?",
+      "elmali_sade": "Onlar, tekrar diriltileceklerini zannetmiyorlar mı?",
+      "cantay": "Saahiden onlar (öldükden sonra) diriltileceklerini sanmıyor (lar) mı,",
+      "piris": "Onlar, yeniden dirileceklerini düşünmüyor/sanmıyorlar mı?",
+      "yildirim": "(4-6) Sahi onlar, o en mühim günde, yani bütün insanların Rabbülalemin'in divanında duracakları günde, diriltilip toplanacaklarını düşünmezler mi?",
+      "safa": "Yoksa yeniden yaşama döndürülmeyeceklerini mi sanıyorlar?",
+      "yuksel": "Onlar hiç dirileceklerini sanmazlar mı?",
+      "aktas": "Onlar diriltileceklerini bilmiyorlar mı?[1]",
+      "okuyan": "(4, 5, 6) Büyük bir günde yani insanların, âlemlerin Rabbinin huzurunda duracakları günde diriltileceklerini hiç düşünmezler mi?"
     },
     {
       "number": 5853,
@@ -88,7 +128,17 @@
       "bulac": "Büyük bir günde.",
       "esed": "(ve) korkunç bir Gün'de (hesaba çekilecekler);",
       "suleymaniye": "O azametli günde;[1]",
-      "ates": "Büyük bir gün için,"
+      "ates": "Büyük bir gün için,",
+      "hulusi": "Aziym bir süreç için.",
+      "bayrakli": "- Onlar,alemlerin Rabbinin huzurunda duracaklarları büyük gün için tekrar dirileceklerine inanmıyorlar mı?",
+      "elmali_sade": "O büyük gün için.",
+      "cantay": "Büyük bir günde,",
+      "piris": "Büyük bir günde.",
+      "yildirim": "(4-6) Sahi onlar, o en mühim günde, yani bütün insanların Rabbülalemin'in divanında duracakları günde, diriltilip toplanacaklarını düşünmezler mi?",
+      "safa": "Büyük Gün'de.",
+      "yuksel": "Büyük bir günde?",
+      "aktas": "Büyük bir gün için.",
+      "okuyan": "(4, 5, 6) Büyük bir günde yani insanların, âlemlerin Rabbinin huzurunda duracakları günde diriltileceklerini hiç düşünmezler mi?"
     },
     {
       "number": 5854,
@@ -104,7 +154,17 @@
       "bulac": "İnsanların, alemlerin Rabbi için kalkacağı günde.",
       "esed": "bütün insanların alemlerin Rabbi huzuruna varacakları Gün'de?",
       "suleymaniye": "varlıkların Rabbi için bütün insanların ayağa kalkacağı günde (diriltileceklerini hiç mi düşünmüyorlar)?[1]",
-      "ates": "Ki o gün insanlar, alemlerin Rabbinin divanında dururlar."
+      "ates": "Ki o gün insanlar, alemlerin Rabbinin divanında dururlar.",
+      "hulusi": "Rabb-ül alemin için insanların kıyam ettiği süreç!",
+      "bayrakli": "- Onlar,alemlerin Rabbinin huzurunda duracaklarları büyük gün için tekrar dirileceklerine inanmıyorlar mı?",
+      "elmali_sade": "İnsanların, alemlerin Rabbi için kalkacağı günde.",
+      "cantay": "Aalemlerin Rabbi (olan Allahın hükmü) için insanların (kabirlerinden) kalkacağı günde?",
+      "piris": "O gün insanlar, alemlerin Rabbi için ayağa kalkar.",
+      "yildirim": "(4-6) Sahi onlar, o en mühim günde, yani bütün insanların Rabbülalemin'in divanında duracakları günde, diriltilip toplanacaklarını düşünmezler mi?",
+      "safa": "İnsanların, Evrenlerin Efendisinin karşısında duracakları günde.",
+      "yuksel": "O gün halk Evrenlerin Efendisinin huzurunda durur.",
+      "aktas": "O Gün İnsanlar alemlerin Rabb'inin divanında duracaklar.",
+      "okuyan": "(4, 5, 6) Büyük bir günde yani insanların, âlemlerin Rabbinin huzurunda duracakları günde diriltileceklerini hiç düşünmezler mi?"
     },
     {
       "number": 5855,
@@ -120,7 +180,17 @@
       "bulac": "Hayır; facir olanların kitabı şüphesiz \"Siccin\" dedir.",
       "esed": "Gerçek şu ki, kötü ruhluların kaydı, kayıpsız kaçaksız bir şekilde (tutulmuş)tur!",
       "suleymaniye": "Hayır, hayır! Günaha batanların kaydı Siccin'dedir.",
-      "ates": "Hayır, (ölçü ve tartıda hile yapılamaz), doğrusu sapanların yazıcısı Siccin (aşağı zindan)dadır."
+      "ates": "Hayır, (ölçü ve tartıda hile yapılamaz), doğrusu sapanların yazıcısı Siccin (aşağı zindan)dadır.",
+      "hulusi": "Hayır (asla)! Muhakkak ki füccar (Hak'tan sapanlar)'ın kayıtları elbette siccin'dedir!",
+      "bayrakli": "- Hayır! Şüphesiz, yoldan çıkanların defterleri kesinlikle Siccin'dedir. \"Siccin'in ne olduğunu sen nerden bileceksin?\" O, kodlanmış bir kitaptır.",
+      "elmali_sade": "Hayır, hayır, facirlerin yazısı Siccin'dedir.",
+      "cantay": "Sakın (hileye sapmayın. Ahiret hisabını unutmayın). Çünkü kötülerin kitabı muhakkak ki \"Siccin\" dedir.",
+      "piris": "-Hayır! Şüphesiz günahkarların kitabı siccindedir.",
+      "yildirim": "Hayır! Hileye sapmayın, ahireti inkar etmeyin! Doğrusu, yoldan sapan kafirlerin hesap defterleri Siccin'dedir.",
+      "safa": "Asla! Kötülük taşıyanların kayıtları, kesinlikle eksiksizdir.[579]",
+      "yuksel": "Doğrusu,  kötülerin yazgısı Siccin'dedir.",
+      "aktas": "Hayır! Kötülerin kayıtları kesinlikle siccindedir.[1]",
+      "okuyan": "Hayır! Şüphesiz ki (yoldan) sapanların yazısı (kaydı) Siccîn'dedir."
     },
     {
       "number": 5856,
@@ -136,7 +206,17 @@
       "bulac": "\"Siccin\"in ne olduğunu sana öğreten nedir?",
       "esed": "Bilir misin nedir o kayıpsız kaçaksız olan?",
       "suleymaniye": "Siccin'in ne olduğunu sana kim bildirebilir!",
-      "ates": "Siccin'in ne olduğunu sen nereden bileceksin?"
+      "ates": "Siccin'in ne olduğunu sen nereden bileceksin?",
+      "hulusi": "Siccin'i (ne olduğunu) sana bildiren nedir?",
+      "bayrakli": "- Hayır! Şüphesiz, yoldan çıkanların defterleri kesinlikle Siccin'dedir. \"Siccin'in ne olduğunu sen nerden bileceksin?\" O, kodlanmış bir kitaptır.",
+      "elmali_sade": "Bildin mi Siccin nedir?",
+      "cantay": "Sicciinin ne olduğunu sana hangi şey bildirdi?",
+      "piris": "Siccinin ne olduğunu nereden bileceksin?",
+      "yildirim": "Siccin nedir bilir misin?",
+      "safa": "Eksiksiz olanı, sana bildiren nedir?",
+      "yuksel": "Siccin nedir bilir misin?",
+      "aktas": "Siccinin ne olduğunu sen ne bileceksin!",
+      "okuyan": "Siccîn'in ne olduğunu sana bildiren ne olabilir ki!"
     },
     {
       "number": 5857,
@@ -152,7 +232,17 @@
       "bulac": "Yazılı bir kitaptır.",
       "esed": "O, (silinmez şekilde) tutulan bir kayıttır!",
       "suleymaniye": "O, numaralanmış kayıtlardır.[1]",
-      "ates": "Yazılmış bir Kitaptır."
+      "ates": "Yazılmış bir Kitaptır.",
+      "hulusi": "Merkum (silinmesi {İngilizce'de; erase} sözkonusu olmayan) bir kayıttır!",
+      "bayrakli": "- Hayır! Şüphesiz, yoldan çıkanların defterleri kesinlikle Siccin'dedir. \"Siccin'in ne olduğunu sen nerden bileceksin?\" O, kodlanmış bir kitaptır.",
+      "elmali_sade": "Yazılmış bir kitaptır.",
+      "cantay": "(O) yazılmış bir kitabdır.",
+      "piris": "İşaretlenmiş bir kitaptır.",
+      "yildirim": "Siccin kafirlerin yaptıkları işlerin kaydedildiği defterdir.",
+      "safa": "Sayılandırılmış Kitap'tır.[580]",
+      "yuksel": "Rakamlanmış bir kitaptır.[1]",
+      "aktas": "Her şeyin tek tek yazıldığı bir kitaptır.",
+      "okuyan": "Numaralandırılmış (açıkça yazılı) bir kitaptır."
     },
     {
       "number": 5858,
@@ -168,7 +258,17 @@
       "bulac": "O gün, yalanlayanların vay haline.",
       "esed": "Vay haline o Gün hakikati yalanlayanların,",
       "suleymaniye": "O gün, o yalancıların vay haline![1]",
-      "ates": "Yalanlayanların vay haline o gün!"
+      "ates": "Yalanlayanların vay haline o gün!",
+      "hulusi": "O süreçte (Sünnetullah'ı) yalanlayanların vay haline!",
+      "bayrakli": "- Yalanlayanların vay haline o gün! Onlar yargı gününü yalanlıyorlar. Oysa o günü, aşırı gidenler ve günahkarlardan başkası yalanlamaz.",
+      "elmali_sade": "Veyl o gün yalan diyenlere!",
+      "cantay": "Yalan sayanların o gün vay haaline!",
+      "piris": "Yalanlayanların o gün vay haline!",
+      "yildirim": "Hakkı yalan sayanların o gün, vay hallerine!",
+      "safa": "Yalanlayanların; o gün, vay başlarına gelene!",
+      "yuksel": "O gün yalanlayanlara yazıklar olsun.",
+      "aktas": "O Gün, yalanlayanların vay haline!",
+      "okuyan": "(10, 11) Hesap gününü yalanlayan yalancıların o gün vay hâline![1]"
     },
     {
       "number": 5859,
@@ -184,7 +284,17 @@
       "bulac": "Ki onlar, din gününü yalanlıyorlar.",
       "esed": "Hesap Günü'nü(n geleceğini) yalanlayanların:",
       "suleymaniye": "Onlar, her şeyin karşılığını bulacağı gün[1] hakkında yalana sarılıp duranlardır.",
-      "ates": "Onlar ceza gününü yalanlamaktadırlar."
+      "ates": "Onlar ceza gününü yalanlamaktadırlar.",
+      "hulusi": "Ki onlar, Din (yapılanların otomatik sonucunun yaşanacağı) süreçlerini yalanlarlar!",
+      "bayrakli": "- Yalanlayanların vay haline o gün! Onlar yargı gününü yalanlıyorlar. Oysa o günü, aşırı gidenler ve günahkarlardan başkası yalanlamaz.",
+      "elmali_sade": "O ceza gününü yalanlayanlara.",
+      "cantay": "ki onlar, o din gününü yalan saymakda olanlardır.",
+      "piris": "Din gününü yalanlayanların..",
+      "yildirim": "Hesap vermeyi yalan sayanların vay hallerine!",
+      "safa": "Yargı Günü'nü yalanlıyorlar.",
+      "yuksel": "Onlar Din Gününü yalanlar.[1]",
+      "aktas": "Onlar, Din Günü'nü[1] yalanlıyorlar.",
+      "okuyan": "(10, 11) Hesap gününü yalanlayan yalancıların o gün vay hâline![1]"
     },
     {
       "number": 5860,
@@ -200,7 +310,17 @@
       "bulac": "Oysa onu, 'sınır tanımaz, saldırgan', günahkar olandan başkası yalanlamaz.",
       "esed": "oysa, hak ve adalet sınırlarını ihlal edenler (ve) günaha batmış (olan)lar dışında kimse onu yalanlamaz:",
       "suleymaniye": "Sınırı aşanlar ve günahkarlar[1] dışında hiç kimse, o gün hakkında yalana sarılmaz.",
-      "ates": "Onu, saldırgan, günahkardan başkası yalanlamaz."
+      "ates": "Onu, saldırgan, günahkardan başkası yalanlamaz.",
+      "hulusi": "Onu yaşayacağını yalnızca her haddi aşan suçlular yalanlar!",
+      "bayrakli": "- Yalanlayanların vay haline o gün! Onlar yargı gününü yalanlıyorlar. Oysa o günü, aşırı gidenler ve günahkarlardan başkası yalanlamaz.",
+      "elmali_sade": "Onu ancak her bir haddini aşkın, günaha düşkün yalanlar.",
+      "cantay": "Halbuki onu haddi aşkın ve taşkın, günaha düşkün olan her kişiden başkası yalan saymaz.",
+      "piris": "Onu, her haddi aşan günahkardan başkası yalanlamaz.",
+      "yildirim": "Buna \"yalan\" diyenler, ancak zalimler, azgınlar, günaha dadananlardır.",
+      "safa": "Sınır tanımayan suçludan başkası onu yalanlamaz.",
+      "yuksel": "Onu ancak azgın günahkarlar yalanlar.",
+      "aktas": "Onu haddi aşan günahkardan başka kimse yalanlamaz.",
+      "okuyan": "Onu günahkâr azgınlardan başkası yalanlamaz."
     },
     {
       "number": 5861,
@@ -216,7 +336,17 @@
       "bulac": "Ona ayetlerimiz okunduğu zaman: \"Geçmişlerin masallarıdır\" dedi.",
       "esed": "(işte böyle,) ne zaman mesajlarımız onlara iletilse, hep \"Geçmişin masalları!\" derler.",
       "suleymaniye": "Böyle birine ayetlerimiz bağlantıları ile birlikte okununca, \"Bunlar öncekilerin yazıları![1]\" der.",
-      "ates": "Ona ayetlerimiz okunduğu zaman: \"Eskilerin masalları\" der."
+      "ates": "Ona ayetlerimiz okunduğu zaman: \"Eskilerin masalları\" der.",
+      "hulusi": "Ona işaretlerimiz bildirildiğinde: \"Evvelkilerin efsaneleri\" dedi!",
+      "bayrakli": "Onlara ayetlerimiz okunduğunda, \"Öncekilerin masallarıdır\" derler.",
+      "elmali_sade": "Karşısında ayetlerimiz okunduğunda: \"Eskilerin masalları!\" dedi.",
+      "cantay": "Onun karşısında ayetlerimiz okununca \"Evvelkilerin masallarıdır\" demişdir o.",
+      "piris": "Ona ayetlerimiz okunduğu zaman 'evvelkilerin masalları' der.",
+      "yildirim": "Kendilerine ayetlerimiz okunduğunda: \"Bunlar, eski devirde yaşamış insanların masalları!\" diyenlerdir.",
+      "safa": "Ayetlerimiz ona okunduğunda, şöyle dedi: \"Öncekilerin söylenceleri!\"",
+      "yuksel": "Kendisine ayetlerimiz iletildiğinde,  \"Efsane\" derdi.",
+      "aktas": "Ona ayetlerimiz okunduğu zaman, \"Eskilerin masalları.\" der.",
+      "okuyan": "Ona ayetlerimiz tilavet edildiği (okunup aktarıldığı) zaman \"Öncekilerin masalları!\" der.[1]"
     },
     {
       "number": 5862,
@@ -232,7 +362,17 @@
       "bulac": "Asla, hayır; onların kazandıkları, kalpleri üzerinde pas tutmuştur.",
       "esed": "Hayır, onların kalpleri, yaptıkları (kötülükler) ile pas tutmuştur!",
       "suleymaniye": "Hayır, hayır! Aslında onların elde ettikleri şeyler kalpleri üzerinde pas oluşturmuştur.[1]",
-      "ates": "Hayır, doğrusu, onların işleyip kazandıkları şeyler, kalblerinin üzerine pas olmuştur."
+      "ates": "Hayır, doğrusu, onların işleyip kazandıkları şeyler, kalblerinin üzerine pas olmuştur.",
+      "hulusi": "Hayır (asla)! Aksine yaptıklarının getirileri onların şuurlarını (bir pas gibi) örtmüştür.",
+      "bayrakli": "Hayır! Doğrusu, işledikleri günahlar, kalplerinin üzerinde pas tutmuştur.",
+      "elmali_sade": "Hayır, hayır! Onların kazançları kalplerinin üzerine pas bağlamıştır!",
+      "cantay": "Hayır (hakıykat öyle değil), bil'akis, onların kazanmakda oldukları (irtikab edegeldikleri ma'siyetler) kalblerini yenmiş (paslandırmış) dır.",
+      "piris": "-Hayır! aksine, kazandıkları onların kalplerini paslandırmıştır.",
+      "yildirim": "Hayır! Gerçek öyle değil! Onların yapageldikleri kötü işler, gitgide kalplerini paslandırmıştır. (onun için ahireti inkar ederler.)",
+      "safa": "Hayır, asla! Kazandıkları, yüreklerinin üzerinde pas tutmuştur.",
+      "yuksel": "Doğrusu,  işledikleri günahlar kalplerini kaplamış.",
+      "aktas": "Hayır, hayır! Bilakis, onların yapıp ettikleri şeyler kalplerini kararttı.",
+      "okuyan": "Hayır, aksine! Kazandıkları (kötülükler nedeniyle) kalplerinin üzerinde pas tutmuştur. "
     },
     {
       "number": 5863,
@@ -248,7 +388,17 @@
       "bulac": "Hayır; gerçekten onlar, Rablerinden perdelenerek yoksun tutulmuşlardır.",
       "esed": "Elbette onlar, o Gün Rablerin(in rahmetin)den yoksun bırakılacaklar:",
       "suleymaniye": "Hayır, hayır! O gün onlar Rablerinden (onun rahmetinden) kesinlikle mahrum kalacaklar.[1]",
-      "ates": "Hayır, doğrusu onlar, o gün Rablerinden perdelenmişlerdir."
+      "ates": "Hayır, doğrusu onlar, o gün Rablerinden perdelenmişlerdir.",
+      "hulusi": "Hayır! Muhakkak ki onlar, o gün, elbette Rablerinden perdelidirler!",
+      "bayrakli": "Hayır! Doğrusu, o gün Rablerinden perdelenmiş olacaklardır.",
+      "elmali_sade": "Hayır, hayır, doğrusu onlar o gün Rablerini görmekten mahrum kalacaklardır.",
+      "cantay": "Hayır (inanmazlar) Şübhesiz ki onlar o gün Rableri (ni görmek) den kat'iyyen mahrumdurlar.",
+      "piris": "-Hayır! Gerçek şu ki, onlar o gün Rab'lerinden mahrum olanlardır.",
+      "yildirim": "Hayır! Hayır! Bu, cezasız kalmayacak. Onlar, o gün Rab'lerini görmekten mahrum kalacaklardır.",
+      "safa": "Asla! O gün, Efendilerinden kesinlikle yoksun bırakılacaklardır.",
+      "yuksel": "Doğrusu,  o gün onlar Efendi'lerinden perdelenir.",
+      "aktas": "Hayır! Onlar, O Gün[1] Rabb'lerinden perdelenmiş olanlardır.[2]",
+      "okuyan": "Hayır! Şüphesiz ki onlar o gün Rablerinden perdelenmiş (mahrum) olacaklardır."
     },
     {
       "number": 5864,
@@ -264,7 +414,17 @@
       "bulac": "Sonra onlar, kuşkusuz cehenneme yollanacaklardır.",
       "esed": "ve sonra kesinlikle yakıcı ateşe girecekler",
       "suleymaniye": "Sonra o yakıcı ateşe kesinlikle girip kalacaklar.[1]",
-      "ates": "Sonra onlar, elbette cehenneme gireceklerdir."
+      "ates": "Sonra onlar, elbette cehenneme gireceklerdir.",
+      "hulusi": "Sonra, muhakkak ki onlar ateşe gireceklerdir.",
+      "bayrakli": "- Sonra onlar cehenneme gireceklerdir. Sonra kendilerine, \"İşte yalanladığınız budur\" denilecektir.",
+      "elmali_sade": "Sonra onlar, mutlaka cehenneme yaslanacak",
+      "cantay": "Sonra onlar muhakkak ve muhakkak o alevli cehenneme gireceklerdir.",
+      "piris": "Sonra da onlar cehenneme atılacaklardır.",
+      "yildirim": "Peşinden de elbette cehenneme gireceklerdir.",
+      "safa": "Sonra, kesinlikle yakıcı ateşe gireceklerdir.",
+      "yuksel": "Ve böylece onlar cehenneme atılır.",
+      "aktas": "Sonra onlar, Cehennem'e girecekler.",
+      "okuyan": "Sonra, şüphesiz ki onlar cehenneme girecekler."
     },
     {
       "number": 5865,
@@ -280,7 +440,17 @@
       "bulac": "Sonra onlara: \"İşte sizin yalanladığınız (şey) budur\" denir.",
       "esed": "ve kendilerine, \"Bu, işte sizin yalanlamaya düşkün olduğunuz (şey)dir!\" denilecek.",
       "suleymaniye": "Sonra onlara: \"İşte bu, hakkında yalana sarılıp durduğunuz şeydir![1]\" denilecek.",
-      "ates": "Sonra da: \"İşte yalanlamakta olduğunuz şey budur!\" denilecektir."
+      "ates": "Sonra da: \"İşte yalanlamakta olduğunuz şey budur!\" denilecektir.",
+      "hulusi": "Sonra: \"İşte bu, yalanladığınız şeydir\" denilir.",
+      "bayrakli": "- Sonra onlar cehenneme gireceklerdir. Sonra kendilerine, \"İşte yalanladığınız budur\" denilecektir.",
+      "elmali_sade": "Sonra da onlara: \"İşte bu, sizin yalanlayıp durduğunuz!\" denilecek.",
+      "cantay": "Sonra da (onlara) \"İşte (bu azab) sizin yalan saymakda devam etdiğiniz şeydir\" denilecek.",
+      "piris": "Sonra da onlara denilecek ki: -Bu yalanlamış olduğunuz şeydir.",
+      "yildirim": "Sonra kendilerine: \"İşte size yalan saydığınız cehennem!\" denilir.",
+      "safa": "Sonra, şöyle denilecek: \"İşte, yalanladığınız budur!\"",
+      "yuksel": "\"Yalanlamakta olduğunuz şey işte budur\" denir.",
+      "aktas": "Sonra da: \"İşte bu yalanlayıp durduğunuz şeydir.\" denecek.",
+      "okuyan": "Sonra (kendilerine) \"Yalanlamış olduğunuz (cehennem) işte budur.\" denecektir.[1]"
     },
     {
       "number": 5866,
@@ -296,7 +466,17 @@
       "bulac": "Hayır; ebrar olanların kitabı, \"İlliyin\"dedir.",
       "esed": "Ama, gerçek erdem sahiplerinin kaydı en yüce şekilde (tutulur)!",
       "suleymaniye": "Hayır, hayır! Erdemlilerin kaydı İlliyyun'dadır.",
-      "ates": "Hayır, iyilerin yazısı İlliyyin (yüceler)dedir."
+      "ates": "Hayır, iyilerin yazısı İlliyyin (yüceler)dedir.",
+      "hulusi": "Hayır. . . Muhakkak ki Ebrar'ın kitabı, elbette İlliyyin'dedir.",
+      "bayrakli": "- Hayır! İyilerin defteri 'Illiyyin'dedir. \"'Illiyyin'in ne olduğunu sen nerden bileceksin?\" O da kodlanmış bir kitaptır. Allah'a yakın kılınmış melekler ona tanıklık edeceklerdir.",
+      "elmali_sade": "Hayır, hayır; çünkü iyilerin yazısı İlliyyun'dadır.",
+      "cantay": "Hakkaa ki iyilerin (amel) kitab (lar) ı, hiç şübhesiz \"İlliyyin\" dedir.",
+      "piris": "-Hayır, (gerçek şu ki), iyilerin kitabı, illiyyun'dadır.",
+      "yildirim": "Fakat hayırlı insanların hesap defterleri \"illiyyun\"dadır.",
+      "safa": "Asla! İyilik taşıyanların kayıtları, kesinlikle en yüce biçimdedir.[581]",
+      "yuksel": "Doğrusu,  iyilerin kitabı İlliyyun'dadır.",
+      "aktas": "Hayır! Kuşkusuz ebrar[1] olanların kayıtları kesinlikle İlliyyin'dedir.[2]",
+      "okuyan": "Doğrusu, şüphesiz ki iyilerin kaydı ise ‘Illiyyûn'dadır."
     },
     {
       "number": 5867,
@@ -312,7 +492,17 @@
       "bulac": "\"İlliyin\"in ne olduğunu sana öğreten nedir?",
       "esed": "Bilir misin nedir o yüce şekil?",
       "suleymaniye": "İlliyyun'un ne olduğunu sana kim bildirebilir!",
-      "ates": "İlliyyin (yüceler)in ne olduğunu sen nereden bileceksin?"
+      "ates": "İlliyyin (yüceler)in ne olduğunu sen nereden bileceksin?",
+      "hulusi": "İlliyyin (-in ne olduğunu) sana bildiren nedir?",
+      "bayrakli": "- Hayır! İyilerin defteri 'Illiyyin'dedir. \"'Illiyyin'in ne olduğunu sen nerden bileceksin?\" O da kodlanmış bir kitaptır. Allah'a yakın kılınmış melekler ona tanıklık edeceklerdir.",
+      "elmali_sade": "Bildin mi nedir İlliyyun?",
+      "cantay": "\"İlliyyin\" in ne olduğunu sana hangi şey bildirdi?",
+      "piris": "İlliyyun'un ne olduğunu nereden bileceksin?",
+      "yildirim": "\"İlliyyun\" bilir misin nedir?",
+      "safa": "En yüce biçimi, sana bildiren nedir?",
+      "yuksel": "İlliyyun nedir bilir misin?",
+      "aktas": "İlliyyin'in ne olduğunu sen ne bileceksin?",
+      "okuyan": "‘Illiyyûn'un ne olduğunu sana bildiren ne olabilir ki!"
     },
     {
       "number": 5868,
@@ -328,7 +518,17 @@
       "bulac": "Yazılı bir kitaptır.",
       "esed": "O, (silinmez şekilde) tutulan bir kayıttır,",
       "suleymaniye": "O da numaralanmış kayıtlardır.[1]",
-      "ates": "Yazılmış bir Kitaptır."
+      "ates": "Yazılmış bir Kitaptır.",
+      "hulusi": "Merkum (silinmesi {İngilizce'de; erase} sözkonusu olmayan) bir kayıttır!",
+      "bayrakli": "- Hayır! İyilerin defteri 'Illiyyin'dedir. \"'Illiyyin'in ne olduğunu sen nerden bileceksin?\" O da kodlanmış bir kitaptır. Allah'a yakın kılınmış melekler ona tanıklık edeceklerdir.",
+      "elmali_sade": "O yazılmış bir kitaptır!",
+      "cantay": "(O), yazılmış bir kitabdır,",
+      "piris": "İşaretlenmiş bir kitaptır.",
+      "yildirim": "İlliyyun, müminlerin yaptıkları işlerin kaydedildiği defterdir.",
+      "safa": "Sayılandırılmış Kitap'tır.",
+      "yuksel": "Rakamlanmış bir kitaptır.",
+      "aktas": "Her şeyin tek tek yazıldığı bir kitaptır.[1]",
+      "okuyan": "Numaralandırılmış (açıkça yazılı) bir kitaptır. "
     },
     {
       "number": 5869,
@@ -344,7 +544,17 @@
       "bulac": "Ona yakınlaştırılmış (mukarreb) olanlar şahid olurlar.",
       "esed": "Allah'a yakınlaşmış herkes tarafından gözlenen.",
       "suleymaniye": "Yakınlığı onaylanmış olanlar (melekler) ona tanıklık ederler.[1]",
-      "ates": "(Allah'a) Yaklaştırılmış olanlar, ona tanık olurlar."
+      "ates": "(Allah'a) Yaklaştırılmış olanlar, ona tanık olurlar.",
+      "hulusi": "Ona mukarrebun (kurbiyet ehli - tecelli-i sıfat nasiplileri) şahit olur.",
+      "bayrakli": "- Hayır! İyilerin defteri 'Illiyyin'dedir. \"'Illiyyin'in ne olduğunu sen nerden bileceksin?\" O da kodlanmış bir kitaptır. Allah'a yakın kılınmış melekler ona tanıklık edeceklerdir.",
+      "elmali_sade": "Yakın melekler ona şahit olurlar.",
+      "cantay": "ki huzuurunda mukarreb (olan melek) ler bulunur.",
+      "piris": "Mukarrebun/yakınlaştırılmış olanların şahitlik ettiği..",
+      "yildirim": "Allah'a yakın olanlar ona şahit olurlar.",
+      "safa": "Yaklaştırılmış olanlar, Ona tanık olurlar.",
+      "yuksel": "(Tanrı'ya) yakın olanlar ona tanık olur.",
+      "aktas": "Yaklaştırılmış olanlar[1] ona tanık olurlar.",
+      "okuyan": "Onu (kitabı, Allah'a) yaklaştırılmış olanlar (sevinçle) görür."
     },
     {
       "number": 5870,
@@ -360,7 +570,17 @@
       "bulac": "Gerçek şu ki, ebrar olanlar, elbette nimetler içindedirler.",
       "esed": "Bakın, gerçek erdem sahipleri (öteki dünyada) mutlaka kutsananlardan olacaklar;",
       "suleymaniye": "Erdemliler, elbette nimetler içinde olacaklar,[1]",
-      "ates": "İyiler elbette ni'met içindedirler."
+      "ates": "İyiler elbette ni'met içindedirler.",
+      "hulusi": "Muhakkak ki Ebrar, elbette Nimet cenneti içindedir.",
+      "bayrakli": "- Şüphesiz, iyiler nimet cennetinde olacaklardır. Koltuklar üzerinde seyredeceklerdir.",
+      "elmali_sade": "Haberiniz olsun ki, iyiler bir naim (cenneti) içindedirler.",
+      "cantay": "Şübhesiz o iyiler (cennet) ni'met (leri) içinde,",
+      "piris": "İyiler, elbette nimetler içindedir.",
+      "yildirim": "İşte o hayırlı insanlar, naim cennetlerindedir.",
+      "safa": "Kuşkusuz, iyilik taşıyanlar, nimetler içindedir.",
+      "yuksel": "İyiler nimetler içindedir.",
+      "aktas": "Ebrar kesinlikle nimetler içindedir,",
+      "okuyan": "Şüphesiz ki iyiler, elbette nimet içindedir."
     },
     {
       "number": 5871,
@@ -376,7 +596,17 @@
       "bulac": "Tahtlar üzerinde bakıp seyretmektedirler.",
       "esed": "sedirler üzerinde (uzanarak) bakacaklar (Allah'a):",
       "suleymaniye": "koltukları üzerinde etrafı seyredecekler.[1]",
-      "ates": "Divanlar üzerinde oturup bakarlar."
+      "ates": "Divanlar üzerinde oturup bakarlar.",
+      "hulusi": "Koltuklar üzerinde nazar ediyor oldukları halde.",
+      "bayrakli": "- Şüphesiz, iyiler nimet cennetinde olacaklardır. Koltuklar üzerinde seyredeceklerdir.",
+      "elmali_sade": "Koltuklar üzerinde (etrafı) seyrederler.",
+      "cantay": "(süslü) tahtlar üzerinde (kendilerine verilen ni'metleri) temaşa edeceklerdir.",
+      "piris": "Tahtlar üzerinde, bakıyorlar.",
+      "yildirim": "Koltuklarına kurulup neşe ile etrafa bakınırlar.",
+      "safa": "Sedirlerin üzerinde seyrederler.",
+      "yuksel": "Koltuklar üzerinde çevreyi seyrederler.",
+      "aktas": "Tahtlar üzerinde nimetleri seyre dalarlar.",
+      "okuyan": "Koltuklar üzerinde (etrafa) bakarlar."
     },
     {
       "number": 5872,
@@ -392,7 +622,17 @@
       "bulac": "Nimetin parıltılı sevincini sen onların yüzlerinde tanırsın.",
       "esed": "ve yüzlerinde kutsanmışlığın parıltısını göreceksin.",
       "suleymaniye": "Nimetlerin verdiği sevinci yüzlerinden anlarsın.[1]",
-      "ates": "Yüzlerinde ni'metin sevinç ve parıltısını sezersin."
+      "ates": "Yüzlerinde ni'metin sevinç ve parıltısını sezersin.",
+      "hulusi": "Yüzlerinde, o nimetlerin parıltısını tanırsın.",
+      "bayrakli": "Onların yüzlerinde nimetin mutluluğunu hissedersin.",
+      "elmali_sade": "Yüzlerinde nimet ve mutluluğun parıltısını tanırsın.",
+      "cantay": "Öyle ki sen o ni'metin (herdem taze) güzelliğini yüzlerinde (görünce) tanırsın.",
+      "piris": "Onları, yüzlerindeki nimet parıltısından tanırsın.",
+      "yildirim": "Sen onlara bakınca yüzlerinde, cennet nimetlerinin verdiği sevinci okursun.",
+      "safa": "Onların yüzünde, nimetlerin parıltısını görürsün.",
+      "yuksel": "Yüzlerinden nimetlerin sevinç ve parıltısını okursun.",
+      "aktas": "Nimetlerin sevincini yüzlerinden anlarsın.",
+      "okuyan": "Nimetin parıltısını yüzlerinde sezersin (görürsün)."
     },
     {
       "number": 5873,
@@ -408,7 +648,17 @@
       "bulac": "Onlara mühürlü, katıksız bir şaraptan içirilir.",
       "esed": "Onlara (Allah'ın) mührü ile damgalanmış halis bir içki verilecek,",
       "suleymaniye": "Onlara mühürlenmiş halis bir şarap sunulur.[1]",
-      "ates": "Onlara, mühürlü, halis bir şaraptan içirilir,"
+      "ates": "Onlara, mühürlü, halis bir şaraptan içirilir,",
+      "hulusi": "Mühürlenmiş (korunmuş) halis bir şaraptan içirilirler.",
+      "bayrakli": "- Onlar, bitiminde misk kokusu olan, mühürlenmiş saf bir içecekten içerler. Yarışanlar, bunun için yarışsınlar.",
+      "elmali_sade": "Onlara mühürlenmiş halis bir içkiden sunulur.",
+      "cantay": "Onlara mühürlü, haalis bir şarabdan içirilecek,",
+      "piris": "Onlar, mühürlenmiş, katıksız bir içecekten içerler.",
+      "yildirim": "Kendilerine ağzı mühürlü saf şarap şişelerinden şarap ikram edilir.",
+      "safa": "Damgalanmış, katkısız bir içkiden sunulur.",
+      "yuksel": "Çeşni katılmış bir nektardan içirilecekler.",
+      "aktas": "Onlara mühürlenmiş[1] en leziz, en saf içecekler[2] içirilir.",
+      "okuyan": "Kendilerine (ağzı) mühürlü, katıksız (sarhoş etmeyen) bir (içki)den içirilir."
     },
     {
       "number": 5874,
@@ -424,7 +674,17 @@
       "bulac": "Ki onun sonu misktir. Şu halde yarışmak isteyenler, bunun için yarışsınlar.",
       "esed": "misk kokusu saçarak akan. Öyleyse, değerli şeylere ulaşmak için (can atanlar) bu (cennet içkisi)ni hedeflesinler;",
       "suleymaniye": "Sonu (bıraktığı koku) misk gibidir. Arzu duyacak olanlar işte buna arzu duysunlar![1]",
-      "ates": "Ki sonu misktir (içildikten sonra misk gibi kokar). İşte yarışanlar, bunun için yarışsınlar."
+      "ates": "Ki sonu misktir (içildikten sonra misk gibi kokar). İşte yarışanlar, bunun için yarışsınlar.",
+      "hulusi": "Onun hitamı (sonu) misk'tir. . . Yarışanlar işte onda yarışsınlar!",
+      "bayrakli": "- Onlar, bitiminde misk kokusu olan, mühürlenmiş saf bir içecekten içerler. Yarışanlar, bunun için yarışsınlar.",
+      "elmali_sade": "Onun sonu misktir, işte ona imrensin artık imrenenler!",
+      "cantay": "ki onun (içiminin) sonu bir miskdir. O halde nefaset isteyenler bunu arzuu etmelidir (ler).",
+      "piris": "Onun mührü misktir. Yarışanlar, işte bunun için yarışsınlar!",
+      "yildirim": "Hitamı misktir, içildiğinde sonu mis gibi kokar. İşte yarışacaklarsa insanlar, bu cennet devletine konmak için yarışsınlar!",
+      "safa": "Onun sonu misktir. Ve işte yarışanlar, artık bunun için yarışsınlar.",
+      "yuksel": "Çeşnisi misktir. Yarışanlar işte bunun için yarışsınlar.",
+      "aktas": "Onun sonu misktir.[1] Yarışanlar bunun için yarışsınlar.",
+      "okuyan": "(İçiminin) sonu misk olacaktır (güzel kokacaktır). Yarışanlar işte bunun için yarışsınlar! "
     },
     {
       "number": 5875,
@@ -440,7 +700,17 @@
       "bulac": "Onun karışımı \"tesnim\"dendir.",
       "esed": "çünkü o en yüce (madde)lerden oluşmuştur;",
       "suleymaniye": "O şarabın katkısı Tesnim'dendir.",
-      "ates": "Karışımı tesnimdendir."
+      "ates": "Karışımı tesnimdendir.",
+      "hulusi": "Onun karışımı Tesnim'dendir.",
+      "bayrakli": "- Onun karışımı, huzura yaklaştırılmış olanların içtiği yüce kaynaktandır.",
+      "elmali_sade": "Onun karışımı Tesnim'dendir.",
+      "cantay": "(O şarabın) katgısı \"Tesnim\" dendir.",
+      "piris": "Ona tesnim'den katılır.",
+      "yildirim": "O şaraba Tesnim içkisi de karıştırılır.",
+      "safa": "Çünkü onun karışımı, en yücelerdendir.[582]",
+      "yuksel": "Onun karışımı Tesnimdir.",
+      "aktas": "Onun katkısı tesnimdir[1].",
+      "okuyan": "Onun (içeceğin) karışımı Tesnîm'dendir."
     },
     {
       "number": 5876,
@@ -456,7 +726,17 @@
       "bulac": "Bir kaynak ki, yakınlaştırılmış (mukarreb) olanlar ondan içer.",
       "esed": "Allah'a yakınlaşanların içecekleri bir (nimetin) kaynağı.",
       "suleymaniye": "O, Allah'a yakınlığı onaylanmış olanların içecekleri bir kaynaktır.[1]",
-      "ates": "Bir çeşme ki (Allah'a) yaklaştırılanlar ondan içerler."
+      "ates": "Bir çeşme ki (Allah'a) yaklaştırılanlar ondan içerler.",
+      "hulusi": "Mukarrebun olarak kendisini içtiği bir kaynaktır!",
+      "bayrakli": "- Onun karışımı, huzura yaklaştırılmış olanların içtiği yüce kaynaktandır.",
+      "elmali_sade": "(Allah'a) yakın olanların içeceği bir çeşmeden.",
+      "cantay": "(O), bir pınardır ki mukarrebler (yalınız) onu içerler.",
+      "piris": "O, öncülerin/yaklaştırılanların içeceği bir kaynaktır.",
+      "yildirim": "Tesnim de, Allah'a yakın olanların içecekleri bir kaynaktır.",
+      "safa": "Yaklaştırılmış olanlar, o kaynaktan içerler.",
+      "yuksel": "Ki o,  (Tanrı'ya) yakın olanların içtiği bir pınardır.",
+      "aktas": "Bir pınardır, yakınlaştırılmış[1] olanların içtiği.",
+      "okuyan": "(Tesnîm, Allah'a) yaklaştırılmış olanların içeceği bir kaynaktır. "
     },
     {
       "number": 5877,
@@ -472,7 +752,17 @@
       "bulac": "Doğrusu, 'suç ve günah işleyenler,' kimi iman edenlere gülüp geçerlerdi.",
       "esed": "Bakın, kendilerini günaha kaptıranlar, imana erenlere gülerler",
       "suleymaniye": "Suça batanlar, inanıp güvenmiş olanlara gülüp dururlardı;[1]",
-      "ates": "Suç işleyenler, inananların üstüne gülerlerdi."
+      "ates": "Suç işleyenler, inananların üstüne gülerlerdi.",
+      "hulusi": "Muhakkak ki o suç işleyenler iman edenlere gülerlerdi.",
+      "bayrakli": "Suçlular, dünyada inananlara gülerlerdi.",
+      "elmali_sade": "Evet, o günah işleyenler, iman edenlere gülüyorlardı.",
+      "cantay": "Hakıykat, günah işleyen (o kafir) ler iman edenlerden kimine gülerlerdi.",
+      "piris": "Suç/günah işlemiş olanlar, iman edenlere gülüyorlardı.",
+      "yildirim": "Cürümlere, suçlara batanlar dünyada iken, müminlerle alay edip onlara gülerlerdi.",
+      "safa": "Aslında, suçlu olanlar, inananlara gülüyorlardı.",
+      "yuksel": "Suçlular,  iman edenlere gülerlerdi.",
+      "aktas": "Suçlular, dünyada İman Edenlere gülüyorlardı.",
+      "okuyan": "Şüphesiz ki suçlular (dünyada) iman edenlere gülerlerdi.[1]"
     },
     {
       "number": 5878,
@@ -488,7 +778,17 @@
       "bulac": "Yanlarına vardıkları zaman, birbirlerine kaş göz ederlerdi.",
       "esed": "ve ne zaman yanlarından geçseler birbirlerine (istihza ile) göz kırparlar;",
       "suleymaniye": "onların yanından geçerlerken birbirlerine kaş göz eder,[1]",
-      "ates": "Onların yanından geçtikleri zaman birbirlerine kaş göz eder(ek onları küçümser)lerdi."
+      "ates": "Onların yanından geçtikleri zaman birbirlerine kaş göz eder(ek onları küçümser)lerdi.",
+      "hulusi": "Onlara rastladıklarında, birbirlerine göz kırparlar, alay ederlerdi.",
+      "bayrakli": "Yanlarından geçtiklerinde kaş-göz işaretleriyle onlarla alay ederlerdi.",
+      "elmali_sade": "Onlara uğradıklarında birbirlerine göz kırpıyorlardı.",
+      "cantay": "(Mü'minler) yanlarından geçerlerken birbirlerine kaş göz işaretleri yaparlardı.",
+      "piris": "Onların yanlarından geçtiklerinde birbirlerine kaş göz ediyorlardı.",
+      "yildirim": "Yanlarından geçerken kaş göz hareketleriyle onları küçümserlerdi.",
+      "safa": "Üstelik yanlarından geçerken, kaş-göz oynatıyorlardı.",
+      "yuksel": "Yanlarından geçtikleri zaman da birbirlerine göz kaş edip küçümserlerdi.",
+      "aktas": "İman Edenler yanlarından geçerlerken, birbirlerine kaş-göz ederek onlarla alay ediyorlardı.",
+      "okuyan": "Onlara uğradıklarında birbirlerine kaş göz işareti yaparlardı."
     },
     {
       "number": 5879,
@@ -504,7 +804,17 @@
       "bulac": "Kendi yakınlarına döndükleri zaman neşeyle dönerlerdi.",
       "esed": "ve kendileriyle aynı görüşteki insanlara geri döndüklerinde de keyif ve neşeyle dönerler;",
       "suleymaniye": "aile ve yakınlarına dönerken de zevk içinde dönerlerdi.[1]",
-      "ates": "Ailelerine döndükleri zaman da (yaptıklarıyle övünüp) eğlenmeye başlarlardı."
+      "ates": "Ailelerine döndükleri zaman da (yaptıklarıyle övünüp) eğlenmeye başlarlardı.",
+      "hulusi": "Kendi ehillerine (ailelerine, yandaşlarına) döndüklerinde, keyiflenmiş mutlu dönerlerdi.",
+      "bayrakli": "Ailelerinin yanlarına döndüklerinde, inananlarla alay ettiklerinden dolayı sevinç içinde dönerlerdi.",
+      "elmali_sade": "Evlerine döndükleri zaman zevklenerek dönüyorlardı.",
+      "cantay": "Aailelerine döndükleri vakit (bu maskaralıklarından) zevk duyarak dönerlerdi.",
+      "piris": "Ailelerinin yanına döndüklerinde alay ederek dönerlerdi.",
+      "yildirim": "Ailelerine döndüklerinde yaptıkları bu işlerle övünüp eğlenirlerdi.",
+      "safa": "Ailelerine döndüklerinde, sevinçle dönüyorlardı.",
+      "yuksel": "Taraftarlarının yanına döndükleri zaman da alaya alırlardı.",
+      "aktas": "Yandaşlarına döndükleri zaman da neşelenmiş olarak dönüyorlardı.",
+      "okuyan": "Ailelerine döndüklerinde keyiflenerek dönerlerdi.[1]"
     },
     {
       "number": 5880,
@@ -520,7 +830,17 @@
       "bulac": "Onları gördükleri zaman ise: \"Bunlar elbette şaşkın sapıklardır\" derlerdi.",
       "esed": "ve ne zaman (inananları) görseler, onlara: \"Yazık, bu (insa)nlar doğru yoldan sapmış!\" derler.",
       "suleymaniye": "Müminleri gördükleri zaman ise: \"Bunlar, kesinlikle sapıtmış!\" derlerdi.[1]",
-      "ates": "İnananları gördüklerinde: \"Şunlar sapık insanlar\" derlerdi."
+      "ates": "İnananları gördüklerinde: \"Şunlar sapık insanlar\" derlerdi.",
+      "hulusi": "Onları (iman edenleri) gördüklerinde: \"Muhakkak ki bunlar, elbette sapkınlardır\" derlerdi.",
+      "bayrakli": "Müminleri gördüklerinde, \"Şüphesiz bunlar sapıtmışlardır\" derlerdi.",
+      "elmali_sade": "İnananları gördüklerinde: \"İşte bunlar sapıklar!\" diyorlardı.",
+      "cantay": "Onları gördükleri zaman \"Bunlar muhakkak sapıklardır\" terlerdi.",
+      "piris": "Onları gördükleri zaman: -İşte bunlar, doğru yoldan sapmış derlerdi.",
+      "yildirim": "Onları gördükleri zaman: \"Şunlar kaçık insanlar, anormal tipler!\" derlerdi.",
+      "safa": "Ve onları gördüklerinde; \"Bunlar, doğru yoldan iyice çıkmış!\" diyorlardı.",
+      "yuksel": "Onları gördüklerinde,  \"Bunlar sapıklardır!\" derlerdi.",
+      "aktas": "İman Edenleri gördükleri zaman, \"İşte bunlar, kesinlikle sapkın olanlardır.\" diyorlardı.",
+      "okuyan": "Onları (müminleri) gördüklerinde ise \"Şüphesiz ki bunlar sapkınlardır!\" derlerdi."
     },
     {
       "number": 5881,
@@ -536,7 +856,17 @@
       "bulac": "Oysa kendileri onların üzerine gözcü olarak gönderilmemişlerdi.",
       "esed": "Oysa onlara, başkaları(nın inançları) üzerinde gözetleyicilik görevi verilmiş değildir.",
       "suleymaniye": "Oysa onların başına bekçi olarak gönderilmemişlerdi.[1]",
-      "ates": "Oysa kendileri, onların üzerine bekçi gönderilmemişlerdi."
+      "ates": "Oysa kendileri, onların üzerine bekçi gönderilmemişlerdi.",
+      "hulusi": "Halbuki onlar (iman edenler) üzerine koruyucular olarak irsal olunmadılar!",
+      "bayrakli": "Oysa kendileri, müminleri denetleyici olarak gönderilmediler.",
+      "elmali_sade": "Halbuki inananların üzerlerine gözcü olarak gönderilmemişlerdi.",
+      "cantay": "Halbuki onlar (mü'minlerin) üzerlerine gözcüler olarak gönderilmemişlerdi.",
+      "piris": "Oysa onlara bekçi olarak da gönderilmemişlerdi.",
+      "yildirim": "Hoş bunları müminlere gözcü tayin eden de yoktu ya! (Fuzuli bir tarzda, kendi kendilerinde öyle bir yetki görürlerdi).",
+      "safa": "Oysa onların üzerine gözetmen olarak gönderilmemişlerdi.",
+      "yuksel": "Oysa onların üzerine gözcü olarak gönderilmemişlerdi.",
+      "aktas": "İman Edenlerin üzerlerine gözetici olarak gönderilmediler.[1]",
+      "okuyan": "(Oysa) onların (müminlerin) üzerine koruyucular (muhafız) olarak gönderilmemişlerdi."
     },
     {
       "number": 5882,
@@ -552,7 +882,17 @@
       "bulac": "Artık bugün, iman edenler, kafir olanlara gülmektedirler.",
       "esed": "(Hesap) Günü ise, imana ermiş olanlar (geçmişte) hakikati inkar edenler(in halin)e gülecekler",
       "suleymaniye": "O gün ise inanıp güvenenler o kafirlere gülecekler;[1]",
-      "ates": "İşte bugün de inananlar kafirlerin üstüne gülerler."
+      "ates": "İşte bugün de inananlar kafirlerin üstüne gülerler.",
+      "hulusi": "Bu süreçte de iman edenler, o gerçeği reddeden o perdelilere gülüyorlar!",
+      "bayrakli": "- O gün de, inananlar inkar edenlere gülecekler. Koltuklarına kurulup seyredecekler.",
+      "elmali_sade": "İşte bugün de inananlar, kafirlere gülecekler.",
+      "cantay": "işte bu gün de iman edenler o kafirlere gülüyorlar,",
+      "piris": "Bugün de iman edenler, kafir olanlara gülerler.",
+      "yildirim": "İşte bu gün de, müminler kafirlerin üstüne gülerler.",
+      "safa": "Artık bugün, inananlar, nankörlük edenlere gülüyorlar.",
+      "yuksel": "Bugün de iman edenler inkarcılara güler.",
+      "aktas": "Artık bugün İman Edenler, Kafirlere gülüyorlar.",
+      "okuyan": "(34, 35) İman edenler de bugün, koltuklar üzerinde (onlara) bakarak kâfirlere gülerler."
     },
     {
       "number": 5883,
@@ -568,7 +908,17 @@
       "bulac": "Tahtlar üzerinde bakıp seyretmek suretiyle.",
       "esed": "(çünkü, cennette) sedirlerin üstünde (uzanmış şekilde) bakınıp duracaklar ve (kendi kendilerine diyecekler):",
       "suleymaniye": "koltuklarına kurulup bakacaklar[1]",
-      "ates": "Divanlar üzerinde (oturup) bakarlar:"
+      "ates": "Divanlar üzerinde (oturup) bakarlar:",
+      "hulusi": "Koltuklar üzerinde nazar ediyor oldukları halde.",
+      "bayrakli": "- O gün de, inananlar inkar edenlere gülecekler. Koltuklarına kurulup seyredecekler.",
+      "elmali_sade": "Koltuklar üzerinde bakacaklar (kendileriyle eğlenen kafirlerin cehenneme nasıl yaslandıklarını seyredecekler).",
+      "cantay": "(süslü) tahtlar üzerinde (onlara) bakarak.",
+      "piris": "Tahtlarına yaslanıp bakarlar.",
+      "yildirim": "(35-36) Koltuklarına kurulurlar. \"Kafirler yaptıklarının cezasını buldular mı?\" diye bakınırlar.",
+      "safa": "Sedirlerin üzerinde seyrediyorlar.",
+      "yuksel": "Koltuklar üzerinde bakarlar:",
+      "aktas": "Tahtlar üzerinde seyirdeler:",
+      "okuyan": "(34, 35) İman edenler de bugün, koltuklar üzerinde (onlara) bakarak kâfirlere gülerler."
     },
     {
       "number": 5884,
@@ -584,7 +934,17 @@
       "bulac": "Nasıl, kafir olanlar, işlediklerinin 'feci karşılığını' gördüler mi?",
       "esed": "\"Bu hakikat inkarcıları, yapmaya düşkün oldukları şeyler için mi (böyle) cezalandırılıyorlar?\"",
       "suleymaniye": "o kafirlere, yapıp ettiklerinin ödülü (!) verilmiş mi diye![1]",
-      "ates": "\"Kafirler, yaptıklarıyle cezalandılar mı?\" diye."
+      "ates": "\"Kafirler, yaptıklarıyle cezalandılar mı?\" diye.",
+      "hulusi": "Hakikati inkar edenler yaptıklarının sonucunu yaşıyorlar mı işte böyle!",
+      "bayrakli": "\"İnkar edenler yaptıklarının karşılığını aldılar mı?\" diyecekler.",
+      "elmali_sade": "Nasıl, kafirler ettiklerinin cezasını buldular mı?",
+      "cantay": "(Nasıl) o kafirler işleyegeldilclerinin cezasına çarpıldı (lar) mı?!",
+      "piris": "-Kafirler, yaptıklarının cezasını gördüler mi? diye.",
+      "yildirim": "(35-36) Koltuklarına kurulurlar. \"Kafirler yaptıklarının cezasını buldular mı?\" diye bakınırlar.",
+      "safa": "Nankörlük edenlere, yaptıklarının karşılığı mı verildi?",
+      "yuksel": "İnkarcılar yaptıklarıyla cezalandılar mı diye.",
+      "aktas": "\"Kafirler, yaptıkları şeylerin karşılığını buldular mı?\" diye.",
+      "okuyan": "Kâfirler yaptıklarının cezasını buldular mı![1]"
     }
   ]
 }

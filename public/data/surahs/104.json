@@ -24,7 +24,17 @@
       "bulac": "Arkadan çekiştirip duran, kaş göz hareketleriyle alay eden her kişinin vay haline;",
       "esed": "Vay haline iftira atanın ve ayıp kusur arayanın!",
       "suleymaniye": "Kışkırtıcılık yapan[1], ayıplayıp duran herkesin vay haline![2]",
-      "ates": "(İnsanları) Diliyle çekiştiren, kaş ve gözüyle işaretler yapıp alay eden her fesad kişinin vay haline!"
+      "ates": "(İnsanları) Diliyle çekiştiren, kaş ve gözüyle işaretler yapıp alay eden her fesad kişinin vay haline!",
+      "hulusi": "Vay haline tüm hümeze (arkadan dedikodu yapıp çekiştiren) ve lümeze (kınayıp tahkir eden) güruha!",
+      "bayrakli": "- Diliyle çekiştirip insanların onuru ile oynayan, kaş-göz hareketleriyle onlarla alay eden insanın vay haline! Mal yığıp onu tekrar tekrar sayar ve malının kendini ebedi yaşatacağını sanır.",
+      "elmali_sade": "Veyl o insanları çekiştirip kaş göz işaretleriyle alay edenlerin bütününe",
+      "cantay": "Arkadan çekişdirmeyi, yüze karşı (el, kaş ve göz işaretleriyle) eğlenmeyi ve ayıblamayı aadet edinen her kişinin vay haaline!",
+      "piris": "Bütün koğuculuk yapanların, insanları arkadan çekiştirenlerin vay haline!",
+      "yildirim": "Vay haline her hümeze ve lümeze'nin!",
+      "safa": "Arkadan Çekiştirenlerin, karalayanların; vay başlarına gelene![616]",
+      "yuksel": "Yazıklar olsun her dedikoducuya ve iftiracıya.[1]",
+      "aktas": "Arkadan çekiştirenlerin, kaş göz hareketiyle alay edenlerin vay haline![1]",
+      "okuyan": "(Arkadan) çekiştiren (ve) kusur arayan herkese yazıklar olsun!"
     },
     {
       "number": 6181,
@@ -40,7 +50,17 @@
       "bulac": "Ki o, mal yığıp biriktiren ve onu saydıkça sayandır.",
       "esed": "(Vay haline o kişinin) ki, serveti biriktirir ve onu bir kalkan sayar,",
       "suleymaniye": "mal biriktiren ve onu sayıp duran,[1]",
-      "ates": "O ki mal yığdı, onu saydı durdu."
+      "ates": "O ki mal yığdı, onu saydı durdu.",
+      "hulusi": "O ki, varlık topladı ve onu tekrar tekrar saydı (her gün banka hesabına bakıp ne kadar param varmış, kontrol etti. A. H. )!",
+      "bayrakli": "- Diliyle çekiştirip insanların onuru ile oynayan, kaş-göz hareketleriyle onlarla alay eden insanın vay haline! Mal yığıp onu tekrar tekrar sayar ve malının kendini ebedi yaşatacağını sanır.",
+      "elmali_sade": "ve bir mal toplayıp hep onu sayana!",
+      "cantay": "Ki o, malı yığıb onu tekrar tekrar sayandır.",
+      "piris": "Mal toplayıp, onu tekrar tekrar sayan ..",
+      "yildirim": "Böylesi mal yığar ve onu sayar durur.",
+      "safa": "Mal biriktirir ve onu durmadan sayar.",
+      "yuksel": "Ki o para/mal biriktirir ve onu sayar durur.",
+      "aktas": "O ki malı toplayıp, onun hesabını yapıp durur.",
+      "okuyan": "O ki mal biriktirir ve onu sayar durur."
     },
     {
       "number": 6182,
@@ -56,7 +76,17 @@
       "bulac": "Gerçekten malının kendisini ebedi kılacağını sanıyor.",
       "esed": "zanneder ki serveti onu sonsuza dek yaşatacak!",
       "suleymaniye": "malının kendisini ölümsüzleştireceğini sanarak (biriktirip sayan herkesin vay haline)![1]",
-      "ates": "Malının, kendisini ebedi yaşatacağını sanıyor."
+      "ates": "Malının, kendisini ebedi yaşatacağını sanıyor.",
+      "hulusi": "Sanır ki varlığı, onu ebedi dünyada yaşatacak halde!",
+      "bayrakli": "- Diliyle çekiştirip insanların onuru ile oynayan, kaş-göz hareketleriyle onlarla alay eden insanın vay haline! Mal yığıp onu tekrar tekrar sayar ve malının kendini ebedi yaşatacağını sanır.",
+      "elmali_sade": "Sanır ki, malı kendisini ebedileştirmiştir.",
+      "cantay": "Malı hakıykaten kendisine (dünyada) ebedi hayat verdiğini sanır o.",
+      "piris": "Zannediyor ki malı kendisini kalıcı kılacak.",
+      "yildirim": "Malının kendisini ebedi yaşatacağını sanır.",
+      "safa": "Sonsuza dek, malının kendisini yaşatacağını sanıyor.",
+      "yuksel": "Sanki parası/malı onu ölümsüz yapacakmış gibi.",
+      "aktas": "Malın kendisini sonsuza dek yaşatacağını sanıyor.",
+      "okuyan": "Şüphesiz ki o, malının kendisini ebedî kılacağını sanır."
     },
     {
       "number": 6183,
@@ -72,7 +102,17 @@
       "bulac": "Hayır; andolsun o, 'hutame'ye atılacaktır.",
       "esed": "Hayır, tersine, (öteki dünyada) çökerten bir azaba terk edilecektir o!",
       "suleymaniye": "Yok yok; o, kesinlikle Hutame'ye atılacaktır.[1]",
-      "ates": "Hayır, andolsun ki o, Hutame'ye atılacaktır."
+      "ates": "Hayır, andolsun ki o, Hutame'ye atılacaktır.",
+      "hulusi": "Hayır, (iş sandığı gibi değil)! Yemin olsun ki o, Hutame'ye (insanı darmadağın edip göçertene) atılacaktır.",
+      "bayrakli": "- Hayır! Andolsun ki o, Hutame'ye atılacaktır. Hutame'nin ne olduğunu bilir misin? Allah'ın, tutuşturulmuş, kalplerin cıdarına işleyen ateşidir. Onlar, bu ateşin içinde uzatılmış sütunlara bağlanmış haldeyken o ateş, üzerlerine kapatılmıştır.",
+      "elmali_sade": "Hayır, andolsun ki, o Hutame'ye (cehenneme) atılacaktır!",
+      "cantay": "Hayır, O, andolsun (hor ve hakir) \"Hutame\" ye (tamuya) atılacak.",
+      "piris": "Hayır, Kesinlikle o hutameye atılacak.",
+      "yildirim": "Hayır! (Vazgeçsin bu hülyadan, malı kendisini kurtaramaz) Mutlaka o Hutame'ye fırlatılır.",
+      "safa": "Hayır, asla! Kesinlikle, çökerten cezaya atılacaktır.[617]",
+      "yuksel": "Asla; onu Hutama'ya atacağım.",
+      "aktas": "Hayır, kesinlikle bildiği gibi değil, kesinlikle o Hutame'ye atılacak.",
+      "okuyan": "Hayır! Şüphesiz ki o, Hutame'ye atılacaktır."
     },
     {
       "number": 6184,
@@ -88,7 +128,17 @@
       "bulac": "\"Hutame\"nin ne olduğunu sana bildiren nedir?",
       "esed": "Bilir misin nedir o çökerten azap?",
       "suleymaniye": "Hutame'nin ne olduğunu sana kim bildirebilir![1]",
-      "ates": "Hutame'nin ne olduğunu sen nereden bileceksin?"
+      "ates": "Hutame'nin ne olduğunu sen nereden bileceksin?",
+      "hulusi": "Hutame'yi sana bildiren nedir?",
+      "bayrakli": "- Hayır! Andolsun ki o, Hutame'ye atılacaktır. Hutame'nin ne olduğunu bilir misin? Allah'ın, tutuşturulmuş, kalplerin cıdarına işleyen ateşidir. Onlar, bu ateşin içinde uzatılmış sütunlara bağlanmış haldeyken o ateş, üzerlerine kapatılmıştır.",
+      "elmali_sade": "Bildin mi Hutame nedir?",
+      "cantay": "O Hutamenin neydiğini sana bildiren ne?",
+      "piris": "Hutame nedir?",
+      "yildirim": "Bilir misin Hutame nedir?",
+      "safa": "Çökerten cezayı, sana bildiren nedir?",
+      "yuksel": "Hutama'nın ne olduğunu bilir misin?",
+      "aktas": "Hutame'nin ne olduğunu sen nereden bileceksin?",
+      "okuyan": "Hutame'nin ne olduğunu sana bildiren ne olabilir ki! "
     },
     {
       "number": 6185,
@@ -104,7 +154,17 @@
       "bulac": "Allah'ın tutuşturulmuş ateşidir.",
       "esed": "Allah tarafından tutuşturulan bir ateş,",
       "suleymaniye": "O, Allah'ın tutuşturulmuş ateşidir;[1]",
-      "ates": "Allah'ın tutuşturulmuş ateşidir."
+      "ates": "Allah'ın tutuşturulmuş ateşidir.",
+      "hulusi": "(O Hutame, fıtratından gelen bir şekilde bilincinde açığa çıkan) Allah'ın tutuşturulmuş Narı'dır!",
+      "bayrakli": "- Hayır! Andolsun ki o, Hutame'ye atılacaktır. Hutame'nin ne olduğunu bilir misin? Allah'ın, tutuşturulmuş, kalplerin cıdarına işleyen ateşidir. Onlar, bu ateşin içinde uzatılmış sütunlara bağlanmış haldeyken o ateş, üzerlerine kapatılmıştır.",
+      "elmali_sade": "Allah'ın, tutuşturulmuş ateşidir",
+      "cantay": "(O), Allahın tutuşdurulmuş bir ateşidir,",
+      "piris": "Allah'ın tutuşturulmuş ateşidir.",
+      "yildirim": "(6-7) Allah'ın tutuşturulmuş bir ateşidir. Bir ateş ki ta kalplere kadar işleyip yakar.",
+      "safa": "Allah'ın, tutuşturulmuş ateşidir.",
+      "yuksel": "ALLAH'ın tutuşturulmuş ateşidir.",
+      "aktas": "Allah'ın tutuşturulmuş ateşidir.",
+      "okuyan": "(O), Allah'ın tutuşturulmuş ateşidir."
     },
     {
       "number": 6186,
@@ -120,7 +180,17 @@
       "bulac": "Ki o, yüreklerin üstüne tırmanıp çıkar.",
       "esed": "(günahkar) kalplerin üstünde yükselen:",
       "suleymaniye": "yüreklere kadar işleyen ateş...[1]",
-      "ates": "(Bir ateş) Ki gönüllere işler."
+      "ates": "(Bir ateş) Ki gönüllere işler.",
+      "hulusi": "O ki çıkar (kaplayıp örter) FUADlar (Esma mana özelliklerini şuura yansıtıcılar) üzerine.",
+      "bayrakli": "- Hayır! Andolsun ki o, Hutame'ye atılacaktır. Hutame'nin ne olduğunu bilir misin? Allah'ın, tutuşturulmuş, kalplerin cıdarına işleyen ateşidir. Onlar, bu ateşin içinde uzatılmış sütunlara bağlanmış haldeyken o ateş, üzerlerine kapatılmıştır.",
+      "elmali_sade": "ki, gönüllerin ta üstüne çıkar!",
+      "cantay": "ki tırmanıb yüreklerin ta üstüne çıkacak (kaplayacak) dır o.",
+      "piris": "Kalplere işleyen...",
+      "yildirim": "(6-7) Allah'ın tutuşturulmuş bir ateşidir. Bir ateş ki ta kalplere kadar işleyip yakar.",
+      "safa": "Yükselip yüreklere işler.",
+      "yuksel": "Ki beyinlere işler.",
+      "aktas": "Yüreklere işleyen bir ateş.",
+      "okuyan": "O (ateş) ki kalplerin üzerinde yükselir.[1]"
     },
     {
       "number": 6187,
@@ -136,7 +206,17 @@
       "bulac": "O, onların üzerine kilitlenecektir;",
       "esed": "üzerlerine salınacak (bir ateş),",
       "suleymaniye": "O ateş, onların üzerine kapatılmıştır,[1]",
-      "ates": "O, onların üzerine kapatılıp kilitlenecektir."
+      "ates": "O, onların üzerine kapatılıp kilitlenecektir.",
+      "hulusi": "Muhakkak ki o (Hutame) onların üzerine kapatılıp kilitlenmiştir (içinde ebedi mahpusturlar).",
+      "bayrakli": "- Hayır! Andolsun ki o, Hutame'ye atılacaktır. Hutame'nin ne olduğunu bilir misin? Allah'ın, tutuşturulmuş, kalplerin cıdarına işleyen ateşidir. Onlar, bu ateşin içinde uzatılmış sütunlara bağlanmış haldeyken o ateş, üzerlerine kapatılmıştır.",
+      "elmali_sade": "O (ateş), onların üstüne kapatılacaktır mutlaka,",
+      "cantay": "Bu (ateşin kapıları da) onların üzerine kapatılmışdır.",
+      "piris": "O üzerlerine kapatılacak,",
+      "yildirim": "(8-9) Bu ateş mahzeninin kapıları üzerlerine kapatılacaktır. Kendileri de uzun sütunlara bağlı bırakılacaklardır.",
+      "safa": "Aslında, onların üzerine kilitlenecektir.",
+      "yuksel": "Onların üzerine kapanmıştır.",
+      "aktas": "Kuşkusuz o, onların üzerine kapatılmıştır.",
+      "okuyan": "(8, 9) Şüphesiz ki o (ateş), uzatılmış sütunlarda onların üzerine kapatılıp kilitlenmiş (olacak)tır. "
     },
     {
       "number": 6188,
@@ -152,7 +232,17 @@
       "bulac": "(Kendileri de) Dikilip yükseltilmiş sütunlarda (bağlanacaklardır).",
       "esed": "sonsuz sütunlar arasında!",
       "suleymaniye": "(o ateş) uzatılmış sütunlar arasındadır![1]",
-      "ates": "(Kendileri,) Uzatılmış direkler arasında (bağlı) olarak (kalacaklardır)."
+      "ates": "(Kendileri,) Uzatılmış direkler arasında (bağlı) olarak (kalacaklardır).",
+      "hulusi": "Uzatılmış direkler içinde.",
+      "bayrakli": "- Hayır! Andolsun ki o, Hutame'ye atılacaktır. Hutame'nin ne olduğunu bilir misin? Allah'ın, tutuşturulmuş, kalplerin cıdarına işleyen ateşidir. Onlar, bu ateşin içinde uzatılmış sütunlara bağlanmış haldeyken o ateş, üzerlerine kapatılmıştır.",
+      "elmali_sade": "uzatılmış sütunlar içinde olarak.",
+      "cantay": "(kendileri) uzatılmış sütun (larda bağlı olarak).",
+      "piris": "Uzatılmış sütunlar arasında ..",
+      "yildirim": "(8-9) Bu ateş mahzeninin kapıları üzerlerine kapatılacaktır. Kendileri de uzun sütunlara bağlı bırakılacaklardır.",
+      "safa": "Uzatılmış sütunlar arasında.",
+      "yuksel": "Yükselen direkler arasında.",
+      "aktas": "Uzatılmış sütunlar arasında.",
+      "okuyan": "(8, 9) Şüphesiz ki o (ateş), uzatılmış sütunlarda onların üzerine kapatılıp kilitlenmiş (olacak)tır. "
     }
   ]
 }

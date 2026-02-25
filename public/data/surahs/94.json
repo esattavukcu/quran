@@ -24,7 +24,17 @@
       "bulac": "Biz, senin göğsünü yarıp genişletmedik mi?",
       "esed": "Biz kalbini aç(ıp ferahlat)madık mı,",
       "suleymaniye": "Senin gönlünü (İslam'a) açmadık mı?[1]",
-      "ates": "Biz senin (bunalan) göğsünü açmadık mı (ondaki bunalımları, sıkıntıları giderip, onu ilim, hikmet ve huzur ile genişletmedik mi)?"
+      "ates": "Biz senin (bunalan) göğsünü açmadık mı (ondaki bunalımları, sıkıntıları giderip, onu ilim, hikmet ve huzur ile genişletmedik mi)?",
+      "hulusi": "Senin göğsünü açmadık mı (darlığını genişletmedik mi)?",
+      "bayrakli": "- Biz senin için göğsünü açmadık mı? Senin sırtını çatırdatan yükünü atmadık mı?",
+      "elmali_sade": "Senin için bağrını açmadık mı?",
+      "cantay": "(Habibim) göğsünü senin (faiden) için (açıb da) genişletmedik mi? (Genişletdik).",
+      "piris": "Senin göğsünü ferahlatıp, genişletmedik mi?",
+      "yildirim": "Biz senin göğsünü açıp genişletmedik mi?",
+      "safa": "Gönlüne Dinginlik vermedik mi?[604]",
+      "yuksel": "Göğsünü genişletip seni sakinleştirmedik mi?[1]",
+      "aktas": "Senin için göğsünü açmadık mı?[1]",
+      "okuyan": "Senin için göğsünü ferahlatmadık mı?[1]"
     },
     {
       "number": 6092,
@@ -40,7 +50,17 @@
       "bulac": "Ve yükünü indirip atmadık mı?",
       "esed": "ve üzerinden yükü kaldırmadık mı,",
       "suleymaniye": "Yükünü kaldırıp atmadık mı,",
-      "ates": "Ve atmadık mı senin üzerinden yükünü?"
+      "ates": "Ve atmadık mı senin üzerinden yükünü?",
+      "hulusi": "(Hakikati açarak beşeriyet) yükünü senden almadık mı?",
+      "bayrakli": "- Biz senin için göğsünü açmadık mı? Senin sırtını çatırdatan yükünü atmadık mı?",
+      "elmali_sade": "İndirmedik mi senden o yükünü?",
+      "cantay": "Senden yükünü de (kaldırıb) atdık.",
+      "piris": "Yükünü üzerinden indirmedik mi?",
+      "yildirim": "(2-3) Senin belini çatırdatan o ağır yükünü indirmedik mi?",
+      "safa": "Ve yükünü üzerinden kaldırmadık mı?",
+      "yuksel": "Üzerindeki yükünü indirmedik mi?",
+      "aktas": "Yükünü üzerinden atmadık mı?[1]",
+      "okuyan": "(2, 3) Belini büken yükünü senden atmıştık."
     },
     {
       "number": 6093,
@@ -56,7 +76,17 @@
       "bulac": "Ki o, senin belini bükmüştü;",
       "esed": "o belini büken (yükü)?",
       "suleymaniye": "belini büken yükünü?[1]",
-      "ates": "Ki (o, ağırlığından) sırtını çatırdatmıştı!"
+      "ates": "Ki (o, ağırlığından) sırtını çatırdatmıştı!",
+      "hulusi": "Ki o (-nun ağırlığı), senin belini çatırdatmıştı!",
+      "bayrakli": "- Biz senin için göğsünü açmadık mı? Senin sırtını çatırdatan yükünü atmadık mı?",
+      "elmali_sade": "O sırtında gıcırdamakta olan (ve bu şekilde sana eziyet veren) yükünü?",
+      "cantay": "(Öyle yükdü ki o) senin sırtına ağır gelmiş, (kemiklerini gıcırdatmış) dı.",
+      "piris": "Ki o belini bükmüştü.",
+      "yildirim": "(2-3) Senin belini çatırdatan o ağır yükünü indirmedik mi?",
+      "safa": "Belini bükmüştü senin.",
+      "yuksel": "Ki belini bükmüştü.",
+      "aktas": "Belini büken yükünü?[1]",
+      "okuyan": "(2, 3) Belini büken yükünü senden atmıştık."
     },
     {
       "number": 6094,
@@ -72,7 +102,17 @@
       "bulac": "Senin zikrini (şanını) yüceltmedik mi?",
       "esed": "Şerefini ve itibarını yükseltmedik mi?",
       "suleymaniye": "İtibarını da yükseltmedik mi?[1]",
-      "ates": "Senin şanını yükseltmedik mi?"
+      "ates": "Senin şanını yükseltmedik mi?",
+      "hulusi": "Senin zikrini (hatırladığın hakikatini yaşatarak) yüceltmedik mi?",
+      "bayrakli": "Senin şanını yükseltmedik mi?",
+      "elmali_sade": "Senin şanını yüceltmedik mi?",
+      "cantay": "Senin namına da yükseltdik.",
+      "piris": "Şanını / anlayışını yükseltmedik mi?",
+      "yildirim": "Hem senin şanını yüceltmedik mi?",
+      "safa": "Ve saygınlığını artırmadık mı?",
+      "yuksel": "Senin şanını yükseltmedik mi?",
+      "aktas": "Senin zikrini yükseltmedik mi?[1]",
+      "okuyan": "Senin için şanını da yüceltmiştik."
     },
     {
       "number": 6095,
@@ -88,7 +128,17 @@
       "bulac": "Demek ki, gerçekten zorlukla beraber kolaylık vardır.",
       "esed": "Elbette her güçlükle birlikte bir kolaylık vardır:",
       "suleymaniye": "Şurası kesin ki her bir zorlukla beraber bir kolaylık vardır![1]",
-      "ates": "Muhakkak her güçlükle beraber bir kolaylık vardır."
+      "ates": "Muhakkak her güçlükle beraber bir kolaylık vardır.",
+      "hulusi": "Bu yüzdendir ki, kesinlikle zorlukla beraber bir kolaylık vardır.",
+      "bayrakli": "- Elbette, zorlukla beraber bir kolaylık vardır. Evet, zorluğun yanında bir kolaylık vardır.",
+      "elmali_sade": "Demek ki, zorlukla beraber bir kolaylık var.",
+      "cantay": "Demek, hakıykaten güçlükle beraber kolaylık var.",
+      "piris": "Şüphesiz her zorlukla, bir kolaylık vardır.",
+      "yildirim": "Demek ki güçlükle beraber kolaylık vardır.",
+      "safa": "Demek ki, aslında, zorlukla birlikte kolaylık var.",
+      "yuksel": "Elbette,  kolaylık zorlukla birliktedir.",
+      "aktas": "Zira zorlukla beraber bir kolaylık vardır.",
+      "okuyan": "Şüphesiz ki her zorlukla birlikte bir kolaylık vardır.[1]"
     },
     {
       "number": 6096,
@@ -104,7 +154,17 @@
       "bulac": "Gerçekten güçlükle beraber kolaylık vardır.",
       "esed": "Şüphesiz, her güçlükle bir kolaylık!",
       "suleymaniye": "O zorlukla beraber gerçekten bir kolaylık daha vardır.[1]",
-      "ates": "Evet, her güçlükle beraber bir kolaylık vardır."
+      "ates": "Evet, her güçlükle beraber bir kolaylık vardır.",
+      "hulusi": "Evet, kesinlikle her zorlukla beraber bir kolaylık vardır.",
+      "bayrakli": "- Elbette, zorlukla beraber bir kolaylık vardır. Evet, zorluğun yanında bir kolaylık vardır.",
+      "elmali_sade": "Evet o zorlukla beraber bir kolaylık var!",
+      "cantay": "Muhakkak güdükle beraber kolaylık var.",
+      "piris": "Yine her zorlukla bir kolaylık vardır.",
+      "yildirim": "Evet, güçlükle beraber kolaylık vardır!",
+      "safa": "Aslında, zorlukla birlikte kolaylık var.",
+      "yuksel": "Evet,  kolaylık zorlukla birliktedir.",
+      "aktas": "Elbette zorlukla beraber bir kolaylık vardır.",
+      "okuyan": "(Evet), şüphesiz ki her zorlukla birlikte bir kolaylık vardır."
     },
     {
       "number": 6097,
@@ -120,7 +180,17 @@
       "bulac": "Şu halde boş kaldığın zaman, durmaksızın (dua ve ibadetle) yorulmaya devam et.",
       "esed": "Öyleyse (sıkıntıdan) kurtulduğun zaman sağlam dur,",
       "suleymaniye": "Öyleyse boş kaldığında bir işe koyul[1]",
-      "ates": "O halde (işlerinden) boşaldığın zaman (ibadete) dur."
+      "ates": "O halde (işlerinden) boşaldığın zaman (ibadete) dur.",
+      "hulusi": "(İşlerinden) kurtulunca, (esas işinle) yorul!",
+      "bayrakli": "Boş kaldığında hemen başka işe koyul!",
+      "elmali_sade": "O halde boş kaldığında yine kalk yorul!",
+      "cantay": "O halde boş kaldın mı hemen yorul.",
+      "piris": "Öyleyse bir işi bitirince diğerine giriş.",
+      "yildirim": "O halde bir işi bitirince, hemen başka işe giriş, onunla uğraş.",
+      "safa": "Öyleyse boş kaldığında yeni bir işle uğraş![605]",
+      "yuksel": "Ne zaman fırsat bulursan uğraş ver.",
+      "aktas": "O halde her fırsatta kararlılıkla yeni şeyler yapmaya giriş.",
+      "okuyan": "(Bir işi bitirip) boş kalınca hemen (başka bir işe) kalk.[1]"
     },
     {
       "number": 6098,
@@ -136,7 +206,17 @@
       "bulac": "Ve yalnızca Rabbine rağbet et.",
       "esed": "ve yalnız Rabbine sevgi ile yönel.",
       "suleymaniye": "ve sadece Rabbine yönel!",
-      "ates": "Rabb'ine niyaz et, yalvar."
+      "ates": "Rabb'ine niyaz et, yalvar.",
+      "hulusi": "Rabbini değerlendir!",
+      "bayrakli": "Yalnızca Rabbine yönel!",
+      "elmali_sade": "Ve ancak Rabbinden ümit et, hep O'na doğrul!",
+      "cantay": "Ve (her işinde) ancak Rabbine sarıl.",
+      "piris": "Yalnız Rabbine rağbet et / yönel.",
+      "yildirim": "Hep Rabbine yönel, O'na yaklaş!",
+      "safa": "Ve artık, yalnızca Efendine yönel!",
+      "yuksel": "Ve sadece Efendini arzula.",
+      "aktas": "Ve yalnızca Rabb'ine yönel.[1]",
+      "okuyan": "Yalnızca Rabbine yönel! "
     }
   ]
 }

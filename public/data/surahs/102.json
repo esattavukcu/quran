@@ -24,7 +24,17 @@
       "bulac": "(Mal, mülk ve servette) Çoklukla övünmek, sizi 'tutkuyla oyalayıp, kendinizden geçirdi.'",
       "esed": "Bir açgözlülük saplantısı içindesiniz,",
       "suleymaniye": "Çoklukla övünme yarışı sizi (Allah'a karşı görevlerinizden) alıkoydu.[1]",
-      "ates": "Çokluk yarışı, sizi oyaladı,"
+      "ates": "Çokluk yarışı, sizi oyaladı,",
+      "hulusi": "Tekasür (zenginlik ve sülaleniz) sizi aldatıp oyaladı!",
+      "bayrakli": "- Ta ki ölüp kabre gelinceye kadar,çoklukla övünmek sizi oyaladı.",
+      "elmali_sade": "O çokluk kuruntusu sizleri oyaladı,",
+      "cantay": "Sizi çoklukla böbürleniş, (o derecede) oyaladı (ki),",
+      "piris": "Çoklukla övünmek sizi oyaladı.",
+      "yildirim": "Dünyalıklarla böbürlenmek, oyaladı sizleri.",
+      "safa": "Çoklukla Övünmek sizi oyaladı.",
+      "yuksel": "Çoğaltma yarışı sizi alabildiğine meşgul etti;[1]",
+      "aktas": "Çoğaltma isteği sizi oyaladı.[1]",
+      "okuyan": "Çoğaltma yarışı sizi oyaladı! "
     },
     {
       "number": 6170,
@@ -40,7 +50,17 @@
       "bulac": "Öyle ki (bu,) mezarı ziyaretinize (kabre gidişinize, ölümünüze) kadar sürdü.",
       "esed": "mezarlarınıza girinceye dek (süren).",
       "suleymaniye": "Siz kabirlere girinceye kadar (bu yarış) sürdü.",
-      "ates": "Nihayet kabirleri ziyaret ettiniz (kabre girinceye kadar mal artırmağa çalıştınız)."
+      "ates": "Nihayet kabirleri ziyaret ettiniz (kabre girinceye kadar mal artırmağa çalıştınız).",
+      "hulusi": "Öylesine ki mezarlıkları ziyarete gittiniz.",
+      "bayrakli": "- Ta ki ölüp kabre gelinceye kadar,çoklukla övünmek sizi oyaladı.",
+      "elmali_sade": "ta kabirlere kadar gidip ziyaret edişinize kadar!",
+      "cantay": "ta kabirler (e kadar gidib) ziyaret etdiniz.",
+      "piris": "Mezarları ziyaret edinceye / ölünceye dek.",
+      "yildirim": "Ta boylayıncaya kadar kabirleri!",
+      "safa": "Mezarlarınıza girinceye dek.[614]",
+      "yuksel": "Mezarlara varıncaya (ölünceye) kadar...",
+      "aktas": "Ta ki ölüp kabirlere girinceye kadar.",
+      "okuyan": "Sonunda mezarlıkları (bile)[1] ziyaret ettiniz."
     },
     {
       "number": 6171,
@@ -56,7 +76,17 @@
       "bulac": "Hayır; ileride bileceksiniz.",
       "esed": "Ama, zamanı geldiğinde anlayacaksınız!",
       "suleymaniye": "Yok, ileride öğreneceksiniz![1]",
-      "ates": "Hayır (olmaz bu), yakında bileceksiniz (hatanızı)!"
+      "ates": "Hayır (olmaz bu), yakında bileceksiniz (hatanızı)!",
+      "hulusi": "Hayır! Yakında (vefat ile) bileceksiniz.",
+      "bayrakli": "- Hayır! Yakında bileceksiniz! Yine hayır! Yakında bileceksiniz.!",
+      "elmali_sade": "Öyle değil, ileride bileceksiniz!",
+      "cantay": "(Bundan) sakının. İleride (bu öğünmenizin kötü aakıbetini) bileceksiniz.",
+      "piris": "Hayır, ileride bileceksiniz.",
+      "yildirim": "Hayır (geçici dünya zevklerine bağlanmak doğru değil, sakının bundan) ileride bileceksiniz!",
+      "safa": "Hayır, asla! Yakında öğreneceksiniz!",
+      "yuksel": "Doğrusu,  yakında bileceksiniz.",
+      "aktas": "Hayır, asla bildiğiniz gibi değil; yakında bileceksiniz.",
+      "okuyan": "Hayır! İleride bileceksiniz! "
     },
     {
       "number": 6172,
@@ -72,7 +102,17 @@
       "bulac": "Yine hayır; ileride bileceksiniz.",
       "esed": "Evet, evet! Zamanı geldiğinde anlayacaksınız!",
       "suleymaniye": "Yok yok, nasıl olsa ileride öğreneceksiniz![1]",
-      "ates": "Yine hayır, yakında bileceksiniz (hatanızı)!"
+      "ates": "Yine hayır, yakında bileceksiniz (hatanızı)!",
+      "hulusi": "Sonra (yine) hayır, yakında bileceksiniz.",
+      "bayrakli": "- Hayır! Yakında bileceksiniz! Yine hayır! Yakında bileceksiniz.!",
+      "elmali_sade": "Sonra yine öyle değil, ileride bileceksiniz!",
+      "cantay": "Yine sakının. İleride bileceksiniz.",
+      "piris": "Yine hayır, ileride bileceksiniz.",
+      "yildirim": "Evet, evet! İleride bileceksiniz!",
+      "safa": "Asla! Hayır, asla! Yakında öğreneceksiniz!",
+      "yuksel": "Elbette,  yakında bileceksiniz.",
+      "aktas": "Yine hayır, bildiğiniz gibi değil; yakında bileceksiniz.",
+      "okuyan": "Sonra, ileride elbette bileceksiniz!"
     },
     {
       "number": 6173,
@@ -88,7 +128,17 @@
       "bulac": "Hayır; eğer siz kesin bir bilgiyle bilmiş olsaydınız,",
       "esed": "Hayır, (onu) tartışılmaz bir kesinlikle anlasaydınız,",
       "suleymaniye": "Hayır hayır! Bunu (bu övünmenin yanlışlığını) keşke kesin bir bilgiyle bilseniz (böyle davranmazsınız).[1]",
-      "ates": "Hayır, (gerçeği) kesin bilgi ile bilseydiniz;"
+      "ates": "Hayır, (gerçeği) kesin bilgi ile bilseydiniz;",
+      "hulusi": "Hayır! İlm-el yakin (olarak vefattan önce) bilseydiniz!",
+      "bayrakli": "Hayır! Gerçeği kesin bilgi ile bilseydiniz.",
+      "elmali_sade": "Öyle değil, kesin olarak bilseniz,",
+      "cantay": "Sakının. Eğer şübhesiz (ve kat'i) bir bilgi ile bilseydiniz (böyle yapmazdınız).",
+      "piris": "Hayır, Kesin bir bilgiyle bilseniz ..",
+      "yildirim": "Sakının bundan! Eğer kesin bir tarzda (ilmelyakin) bilseydiniz böyle yapmazdınız.",
+      "safa": "Hayır, asla! Kesin olarak öğrenseydiniz?",
+      "yuksel": "Doğrusu,  kesin olarak bilseydiniz.",
+      "aktas": "Hayır, asla bildiğiniz gibi değil, keşke kesin bilgi ile bilseydiniz.",
+      "okuyan": "(5, 6) Hayır! Şüphesiz ki kesin bir bilgiyle bilseydiniz, ateşi (önceden) elbette görürdünüz."
     },
     {
       "number": 6174,
@@ -104,7 +154,17 @@
       "bulac": "Andolsun, o çılgınca yanan ateşi de elbette görecektiniz.",
       "esed": "(cehennemin) yakıcı ateşini mutlaka görürdünüz!",
       "suleymaniye": "O yakıcı ateşi kesinlikle göreceksiniz.",
-      "ates": "Mutlaka cehennemi görür (onun varlığını gözle görmüş gibi kabul eder)diniz."
+      "ates": "Mutlaka cehennemi görür (onun varlığını gözle görmüş gibi kabul eder)diniz.",
+      "hulusi": "Andolsun, cahimi mutlaka görürdünüz!",
+      "bayrakli": "-\"Elbette cehennemi önceden görecektiniz. Evet onu çıplak gözle göreceksiniz.\"",
+      "elmali_sade": "andolsun ki, cehennemi mutlaka göreceksiniz!",
+      "cantay": "Andolsun, siz o alevlenmiş ateşi mutlakaa göreceksiniz.",
+      "piris": "Elbette cehennemi görürsünüz.",
+      "yildirim": "Siz cehennemi göreceksiniz.",
+      "safa": "Yakıcı ateşi kesinlikle görürdünüz.",
+      "yuksel": "Cehennemi görürdünüz.",
+      "aktas": "Bilesiniz ki kesinlikle alevli ateşle karşı karşıya kalacaksınız.",
+      "okuyan": "(5, 6) Hayır! Şüphesiz ki kesin bir bilgiyle bilseydiniz, ateşi (önceden) elbette görürdünüz."
     },
     {
       "number": 6175,
@@ -120,7 +180,17 @@
       "bulac": "Sonra onu, gerçekten yakin gözüyle (Ayne'l Yakin) görmüş olacaksınız.",
       "esed": "Sonunda onu keskin bir gözle mutlaka göreceksiniz:",
       "suleymaniye": "Evet, onu kesin olarak bizzat kendi gözünüzle göreceksiniz.[1]",
-      "ates": "Sonra onu kesin olarak gözle göreceksiniz."
+      "ates": "Sonra onu kesin olarak gözle göreceksiniz.",
+      "hulusi": "Sonra yemin olsun onu (cehennemi) kesinlikle ayn-el yakin - gözlerinizle göreceksiniz.",
+      "bayrakli": "-\"Elbette cehennemi önceden görecektiniz. Evet onu çıplak gözle göreceksiniz.\"",
+      "elmali_sade": "Sonra yine andolsun ki, onu yakın gözüyle göreceksiniz!",
+      "cantay": "Yine andolsun, onu ayn-ı yakıyn ile mutlak göreceksiniz.",
+      "piris": "Nitekim onu, yakın bir gözle göreceksiniz.",
+      "yildirim": "Evet, evet onu mutlaka gözlerinizle göreceksiniz!",
+      "safa": "Sonra, gözlerinizle kesinlikle onu göreceksiniz.",
+      "yuksel": "Zaten,  onu gözünüzle kesin olarak göreceksiniz.",
+      "aktas": "Sonra onu gözlerinizle kesin olarak göreceksiniz.",
+      "okuyan": "Sonra onu (ahirette) bizzat göreceksiniz. "
     },
     {
       "number": 6176,
@@ -136,7 +206,17 @@
       "bulac": "Sonra o gün, nimetten sorguya çekileceksiniz.",
       "esed": "ve o Gün hayatın nimetleri(ne karşı yaptıklarınız) için mutlaka sorguya çekileceksiniz!",
       "suleymaniye": "Bir de o gün, (size verilen) nimetlerden kesinlikle sorguya çekileceksiniz.[1]",
-      "ates": "Sonra o gün, (size verilen) ni'metten sorulacaksınız."
+      "ates": "Sonra o gün, (size verilen) ni'metten sorulacaksınız.",
+      "hulusi": "Sonra andolsun, elbette sorulacaksınız o süreçte nimetlerinizden.",
+      "bayrakli": "\"Nihayet o gün nimetlerden elbette hesaba çekileceksiniz.\"",
+      "elmali_sade": "Sonra andolsun ki, o gün her nimetten sorgulanacaksınız!",
+      "cantay": "Sonra, andolsun, o gün elbet ve elbet size ni'met (ler) sorulacakdır.",
+      "piris": "Sonra, o gün nimetlerden hesaba çekileceksiniz.",
+      "yildirim": "Sonra o gün nimetlerden hesaba çekileceksiniz!",
+      "safa": "Sonra, o gün, nimetlerden kesinlikle sorguya çekileceksiniz.",
+      "yuksel": "Sonra,  o gün (size verilen) nimetlerden sorulacaksınız.",
+      "aktas": "Sonra O Gün kesinlikle nimetten[1] sorulacaksınız.",
+      "okuyan": "Sonra o gün, (dünyada size verilen) nimetlerden elbette sorulacaksınız. "
     }
   ]
 }

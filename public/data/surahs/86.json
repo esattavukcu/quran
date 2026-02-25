@@ -24,7 +24,17 @@
       "bulac": "Göğe ve Tarık'a andolsun,",
       "esed": "Düşün gökleri ve gece vakti geleni!",
       "suleymaniye": "Göğe[1] ve Tarık'a[2] yemin olsun![3]",
-      "ates": "Göğe ve tarık'a andolsun."
+      "ates": "Göğe ve tarık'a andolsun.",
+      "hulusi": "Andolsun semaya ve Tarık'a,",
+      "bayrakli": "- Göğe ve Tarık'a yemin olsun. Tarık'ın ne olduğunu sen nereden bileceksin? Parlayan yıldızdır. Hiçbir kimse yoktur ki başında bir denetleyici bulunmasın.",
+      "elmali_sade": "Andolsun o gökyüzüne ve Tarık'a,",
+      "cantay": "Andolsun o göğe ve Taarıka.",
+      "piris": "Göğe ve Tarık'a andolsun ki..",
+      "yildirim": "Göğe ve \"Tarık'a\" kasem ederim.",
+      "safa": "Yemin olsun; gökyüzüne ve Vuruşluya![587]",
+      "yuksel": "Göğe ve Tarık'a ant olsun.[1]",
+      "aktas": "Sema'ya[1] ve Tarık'a ant olsun,",
+      "okuyan": "Göğe ve Târık'a yemin olsun!"
     },
     {
       "number": 5933,
@@ -40,7 +50,17 @@
       "bulac": "Tarık'ın ne olduğunu sana bildiren nedir?",
       "esed": "Bilir misin nedir gece vakti gelen?",
       "suleymaniye": "Tarık'ın ne olduğunu sana ne bildirebilir!",
-      "ates": "Tarık'ın ne olduğunu sen nereden bileceksin?"
+      "ates": "Tarık'ın ne olduğunu sen nereden bileceksin?",
+      "hulusi": "Bilir misin Tarık'ı?",
+      "bayrakli": "- Göğe ve Tarık'a yemin olsun. Tarık'ın ne olduğunu sen nereden bileceksin? Parlayan yıldızdır. Hiçbir kimse yoktur ki başında bir denetleyici bulunmasın.",
+      "elmali_sade": "Bildin mi Tarık nedir?",
+      "cantay": "\"Taarık\" ın ne olduğunu sana hangi şey bildirdi?",
+      "piris": "Tarık'ı sana bildiren nedir?",
+      "yildirim": "Tarık, bilir misin nedir?",
+      "safa": "Vuruşluyu, sana bildiren nedir?",
+      "yuksel": "Tarık'ın ne olduğunu bilir misin?",
+      "aktas": "Tarık'ın ne olduğunu sen ne bileceksin?",
+      "okuyan": "Târık'ın ne olduğunu sana bildiren ne olabilir ki!"
     },
     {
       "number": 5934,
@@ -56,7 +76,17 @@
       "bulac": "(Karanlığı) Delen yıldızdır.",
       "esed": "O, yıldızdır (inanmadan yaşanan hayatın) karanlığını delip geçen:",
       "suleymaniye": "O, (karanlığı) delip geçen yıldızdır.[1]",
-      "ates": "Parlayan yıldızdır."
+      "ates": "Parlayan yıldızdır.",
+      "hulusi": "Delip geçen yıldızdır (PULSAR)!",
+      "bayrakli": "- Göğe ve Tarık'a yemin olsun. Tarık'ın ne olduğunu sen nereden bileceksin? Parlayan yıldızdır. Hiçbir kimse yoktur ki başında bir denetleyici bulunmasın.",
+      "elmali_sade": "O karanlığı delen (parlak) yıldızdır.",
+      "cantay": "(O, zıyasiyle karanlığı) delen yıldızdır.",
+      "piris": "Pırıl pırıl bir yıldızdır.",
+      "yildirim": "O pırıl pırıl parlayan bir yıldızdır.",
+      "safa": "Delici yıldızdır.",
+      "yuksel": "Parlak yıldızdır.",
+      "aktas": "O, delici[1] yıldızdır.",
+      "okuyan": "(O, karanlığı) delen yıldızdır.[1]"
     },
     {
       "number": 5935,
@@ -72,7 +102,17 @@
       "bulac": "Üzerinde gözetleyici koruyucu bulunmayan hiçbir nefis (kimse) yoktur.",
       "esed": "(zaten) hiçbir insan korunmasız bırakılmamıştır.",
       "suleymaniye": "Üzerinde koruyucusu[1] olmayan hiç kimse yoktur.",
-      "ates": "Hiçbir can yoktur ki başında bir koruyucu (bekçi) olmasın."
+      "ates": "Hiçbir can yoktur ki başında bir koruyucu (bekçi) olmasın.",
+      "hulusi": "Hiçbir nefs yoktur ki, onun üzerinde bir hafiz (gözetleyici - koruyucu) bulunmasın.",
+      "bayrakli": "- Göğe ve Tarık'a yemin olsun. Tarık'ın ne olduğunu sen nereden bileceksin? Parlayan yıldızdır. Hiçbir kimse yoktur ki başında bir denetleyici bulunmasın.",
+      "elmali_sade": "Hiçbir kimse yoktur ki, üzerinde bir gözetleyici olmasın.",
+      "cantay": "Hiçbir nefs haaric değildir, ille onun üzerinde bir gözeten vardır.",
+      "piris": "Üzerinde gözetici bulunmayan hiç kimse yoktur.",
+      "yildirim": "Hiçbir kimse yoktur ki yanında bekçi bir melek bulunmasın.",
+      "safa": "Üzerinde gözetmen bulunmayan hiçbir benlik yoktur.",
+      "yuksel": "Her kişinin üzerinde mutlaka bir koruyucu vardır.",
+      "aktas": "Hiçbir nefs[1] yoktur ki üzerinde koruyucu[2] bulunmasın.",
+      "okuyan": "Üzerinde bir gözetleyici (melek) olmayan hiçbir can yoktur.[1]"
     },
     {
       "number": 5936,
@@ -88,7 +128,17 @@
       "bulac": "İnsan bir baksın, hangi şeyden yaratıldı?",
       "esed": "İnsan, neden yaratıldığına bir baksın:",
       "suleymaniye": "İnsan, hangi şeyden yaratıldığına bir baksın![1]",
-      "ates": "İnsan neden yaratıldığına bir baksın:"
+      "ates": "İnsan neden yaratıldığına bir baksın:",
+      "hulusi": "İnsan neden yaratıldığına bir baksın!",
+      "bayrakli": "İnsan nereden yaratıldığına bir baksın.",
+      "elmali_sade": "Onun için insan bir düşünsün neden yaratıldığını!",
+      "cantay": "Şimdi, insan hangi şeyden yaratıldı? (İbretle) baksın.",
+      "piris": "Öyleyse, insan neden yaratıldığına bir baksın",
+      "yildirim": "Öyleyse insan neden yaratıldığını bir düşünsün.",
+      "safa": "Artık, insan, neden yaratıldığına bir baksın.",
+      "yuksel": "İnsan neden yaratılmış olduğuna bir baksın.",
+      "aktas": "İnsan neden yaratıldığına bir baksın.",
+      "okuyan": "İnsan, neyden yaratıldığına bir baksın!"
     },
     {
       "number": 5937,
@@ -104,7 +154,17 @@
       "bulac": "Dökülüp atılan bir sudan yaratıldı.",
       "esed": "o spermalı bir sıvıdan yaratılmıştır",
       "suleymaniye": "Boşalan /akıp giden bir sıvıdan yaratıldı.[1]",
-      "ates": "Atılan bir sudan yaratıldı."
+      "ates": "Atılan bir sudan yaratıldı.",
+      "hulusi": "Atılan bir sudan (meni) yaratıldı.",
+      "bayrakli": "Atılan bir sudan yaratılmıştır.",
+      "elmali_sade": "Bir atılgan sudan yaratıldı.",
+      "cantay": "O, atılıb dökülen bir sudan yaratılmışdır,",
+      "piris": "Atılan bir sudan yaratılmıştır.",
+      "yildirim": "(6-7) O, bel ile göğüs nahiyesinden çıkan, atılan bir sudan yaratıldı.",
+      "safa": "Atılan bir sıvıdan yaratıldı.",
+      "yuksel": "Atılan bir sıvıdan yaratıldı.",
+      "aktas": "Dökülen bir sıvıdan yaratıldı;",
+      "okuyan": "(6, 7) Omurga ile kaburga kemikleri arasından çıkan (akan) bir sudan (sıvıdan)[1]yaratıldı."
     },
     {
       "number": 5938,
@@ -120,7 +180,17 @@
       "bulac": "(Bu su,) Bel kemiği ile kaburgalar arasında(ki organlar)dan çıkar.",
       "esed": "(erkeğin) beli ile (kadının) leğen kemiği arasından çıkan.",
       "suleymaniye": "O sıvı bel kemiği ile leğen kemikleri arasından çıkar.[1]",
-      "ates": "Bel ile kaburga kemikleri arasından çıkan (bir sudan)."
+      "ates": "Bel ile kaburga kemikleri arasından çıkan (bir sudan).",
+      "hulusi": "Erkeğin beli ve (kadının) teraib'inin (leğen kemiklerinin) arasından çıkar!",
+      "bayrakli": "O su, erkeğin belinden, kadının leğen kemiğinden çıkmaktadır.",
+      "elmali_sade": "Ki, arka kemiği ile göğüs kemikleri arasından çıkar.",
+      "cantay": "Ki (erkeğin) arka kemiği ile (kadının) göğüs kemikleri arasından çıkıyor o.",
+      "piris": "O, bel ile göğüs kemikleri arasından çıkan.",
+      "yildirim": "(6-7) O, bel ile göğüs nahiyesinden çıkan, atılan bir sudan yaratıldı.",
+      "safa": "Bel ve kaburga kemikleri arasından çıkar.[588]",
+      "yuksel": "Omurga ile kaburga kemikleri arasından çıkar.[1]",
+      "aktas": "Omurga ile göğüs kemikleri arasından çıkan[1].",
+      "okuyan": "(6, 7) Omurga ile kaburga kemikleri arasından çıkan (akan) bir sudan (sıvıdan)[1]yaratıldı."
     },
     {
       "number": 5939,
@@ -136,7 +206,17 @@
       "bulac": "Şüphesiz (Allah), onu yeniden döndürmeye güç yetirendir.",
       "esed": "Elbette O, (insanı yoktan var eden) onu yeniden (hayata) döndürmeye de kadirdir:",
       "suleymaniye": "Elbette Allah, insanı geri döndürmenin (tekrar yaratmanın) ölçüsünü de koyandır;[1]",
-      "ates": "O (Allah), onu tekrar döndür(üp yarat)mağa kadirdir."
+      "ates": "O (Allah), onu tekrar döndür(üp yarat)mağa kadirdir.",
+      "hulusi": "Muhakkak ki O, onu (aslına) döndürmeye elbette Kaadir'dir!",
+      "bayrakli": "Şüphesiz Allah'ın, insanı öldükten sonra diriltmeye de gücü yeter.",
+      "elmali_sade": "Elbette O, onu döndürmeğe kadirdir.",
+      "cantay": "Şübhe yok ki (Allah) onu (tekrar diriltib) döndürmiye elbette kaadirdir,",
+      "piris": "Allah, onu yeniden yaratmaya elbette kadirdir.",
+      "yildirim": "Onu ilkin yaratan Allah, elbette onu diriltmeye kadirdir.",
+      "safa": "Kuşkusuz, O, onu yeniden döndürmeye, kesinlikle Gücü Yetendir.",
+      "yuksel": "Kuşkusuz O,  onu diriltmeye gücü yetendir.",
+      "aktas": "Kuşkusuz O, onu yeniden diriltmeye elbette kadirdir.",
+      "okuyan": "Şüphesiz ki O (Allah) onu geri döndürmeye (tekrar yaratmaya) gücü yetendir."
     },
     {
       "number": 5940,
@@ -152,7 +232,17 @@
       "bulac": "Sırların orta yere çıkarılacağı gün;",
       "esed": "bütün sırların ortaya serileceği Gün,",
       "suleymaniye": "(tekrar yaratma) bütün sırların ortaya döküleceği günde (olacaktır).[1]",
-      "ates": "Gizlilerin (ortaya dökülüp) yoklanacağı gün,"
+      "ates": "Gizlilerin (ortaya dökülüp) yoklanacağı gün,",
+      "hulusi": "O süreçte, gizliler açığa çıkartılıp bilinir.",
+      "bayrakli": "- Bütün sırların ortaya serileceği o gün, insanın ne bir gücü, ne de bir yardımcısı olacaktır.",
+      "elmali_sade": "Bütün sırların yoklanacağı gün,",
+      "cantay": "o günde ki (bütün) sırlar yoklanıb meydana çıkarılacakdır.",
+      "piris": "Sırların açığa çıktığı gün..",
+      "yildirim": "Gün gelir, bütün gizli haller ortaya dökülür...",
+      "safa": "Gizemlerin ortaya çıkarılacağı gün.",
+      "yuksel": "Gizemlerin ortaya çıkarılacağı gün.",
+      "aktas": "Bütün gizliliklerin ortaya çıkarıldığı gün,",
+      "okuyan": "(9, 10) Sırların ortaya döküleceği o gün, onun (insanın) hiçbir gücü ve yardımcısı yoktur."
     },
     {
       "number": 5941,
@@ -168,7 +258,17 @@
       "bulac": "Artık onun ne gücü vardır, ne yardımcısı.",
       "esed": "ve (insanın) ne bir kuvvet ne de yardımcı bulacağı (Gün)!",
       "suleymaniye": "Artık onun bir gücü de bir yardımcısı da olmaz![1]",
-      "ates": "İnsanın ne bir gücü, ne de bir yardımcısı vardır."
+      "ates": "İnsanın ne bir gücü, ne de bir yardımcısı vardır.",
+      "hulusi": "Artık onun için ne bir kuvvet vardır ve ne de bir yardım edici!",
+      "bayrakli": "- Bütün sırların ortaya serileceği o gün, insanın ne bir gücü, ne de bir yardımcısı olacaktır.",
+      "elmali_sade": "o zaman ne bir gücü vardır, ne de bir yardımcısı.",
+      "cantay": "Artık onun için ne bir kudret, ne de bir yardımcı yokdur.",
+      "piris": "Onun bir gücü ve bir yardımcısı yoktur.",
+      "yildirim": "O gün insanın ne bir kudreti, ne de bir yardımcısı kalır.",
+      "safa": "Artık, gücü ve yardımcısı olmayacaktır.",
+      "yuksel": "Onun ne bir gücü ne de bir yardımcısı olmayacaktır.",
+      "aktas": "Onun ne bir gücü ne de bir yardımcısı vardır.",
+      "okuyan": "(9, 10) Sırların ortaya döküleceği o gün, onun (insanın) hiçbir gücü ve yardımcısı yoktur."
     },
     {
       "number": 5942,
@@ -184,7 +284,17 @@
       "bulac": "Dönüşlü olan göğe andolsun.",
       "esed": "Düşün dönüp duran gökleri,",
       "suleymaniye": "İlk (yaratılıştaki) haline dönme özelliğine sahip göğe[1] yemin olsun.",
-      "ates": "Dönüşlü göğe andolsun,"
+      "ates": "Dönüşlü göğe andolsun,",
+      "hulusi": "Andolsun yörüngesinde dönenleriyle semaya,",
+      "bayrakli": "- Andolsun o dönüşlü göğe, o yarılıp çatlayan yeryüzüne. Şüphesiz Kur'an, hak ile batılı ayıran bir sözdür. O asla bir şaka değildir. Kafirler hep hile/tuzak kuruyorlar. Ben de hilelerine karşılık veririm. Onun için sen kafirlere mühlet ver, onlara az bir zaman tanı!",
+      "elmali_sade": "Andolsun o dönüşlü göğe,",
+      "cantay": "Andolsun o dönüş saahibi olan göğe,",
+      "piris": "Yağmur yağdıran göğe..",
+      "yildirim": "(11-12) Yağmur dolu gök, bitkilerin çıkması için yarılan yer hakkı için:",
+      "safa": "Yemin olsun; geri çeviren gökyüzüne![589]",
+      "yuksel": "Geri çeviren göğe ant olsun, ",
+      "aktas": "Dönüş sahibi Semaya ant olsun,",
+      "okuyan": "Yemin olsun: Dönüş sahibi olan göğe,"
     },
     {
       "number": 5943,
@@ -200,7 +310,17 @@
       "bulac": "Yarılan yere de.",
       "esed": "ve bitkilerle patlayıp yarılan yeri!",
       "suleymaniye": "Çatlama özelliğine sahip yere[1] de yemin olsun ki",
-      "ates": "(Bitkilerin çıkması için) Çatlayan yere andolsun ki,"
+      "ates": "(Bitkilerin çıkması için) Çatlayan yere andolsun ki,",
+      "hulusi": "Yarılan arza ki,",
+      "bayrakli": "- Andolsun o dönüşlü göğe, o yarılıp çatlayan yeryüzüne. Şüphesiz Kur'an, hak ile batılı ayıran bir sözdür. O asla bir şaka değildir. Kafirler hep hile/tuzak kuruyorlar. Ben de hilelerine karşılık veririm. Onun için sen kafirlere mühlet ver, onlara az bir zaman tanı!",
+      "elmali_sade": "yarılan yere,",
+      "cantay": "o (nebat ile) yarılan yere ki,",
+      "piris": "Çatlayan toprağa andolsun ki..",
+      "yildirim": "(11-12) Yağmur dolu gök, bitkilerin çıkması için yarılan yer hakkı için:",
+      "safa": "Ve çatlamış yeryüzüne![590]",
+      "yuksel": "Ve yarılan yeryüzüne ant olsun ki, ",
+      "aktas": "Yarılma sahibi yeryüzüne ant olsun",
+      "okuyan": "Yarılan yere ki"
     },
     {
       "number": 5944,
@@ -216,7 +336,17 @@
       "bulac": "Şüphesiz o (Kur'an), ayırdeden bir sözdür.",
       "esed": "Bakın, bu (ilahi kelam) doğruyu yanlıştan ayıran bir sözdür,",
       "suleymaniye": "O (Kur'an), kesinlikle hak ile batılı /doğru ile yanlışı ayıran bir sözdür;[1]",
-      "ates": "O (Kur'an), elbette (hak ile batılı) ayırdedici bir sözdür."
+      "ates": "O (Kur'an), elbette (hak ile batılı) ayırdedici bir sözdür.",
+      "hulusi": "Muhakkak ki O (Kur'an), elbette Hak ile batılı ayırıcı bir söz;",
+      "bayrakli": "- Andolsun o dönüşlü göğe, o yarılıp çatlayan yeryüzüne. Şüphesiz Kur'an, hak ile batılı ayıran bir sözdür. O asla bir şaka değildir. Kafirler hep hile/tuzak kuruyorlar. Ben de hilelerine karşılık veririm. Onun için sen kafirlere mühlet ver, onlara az bir zaman tanı!",
+      "elmali_sade": "ki, o her halde keskin bir hükümdür.",
+      "cantay": "Hakıykaten o (Kur'an) hak ile (baatılı ayırd eden) kat'i bir kelamdır.",
+      "piris": "Kesinlikle o ayırdedici bir sözdür.",
+      "yildirim": "Bu Kur'an, kesin bir sözdür, hakla batılı ayırt eden bir sözdür!",
+      "safa": "Kuşkusuz, O, ayırt eden bir sözdür.",
+      "yuksel": "Bu,  ayırdedici bir sözdür.",
+      "aktas": "Kuşkusuz O, ayırt edici[1] bir sözdür.",
+      "okuyan": "Şüphesiz ki o (Kur'an, doğru ile yanlışı) ayırt eden bir sözdür."
     },
     {
       "number": 5945,
@@ -232,7 +362,17 @@
       "bulac": "O, bir şaka değildir.",
       "esed": "boş bir lakırdı değil.",
       "suleymaniye": "o. faydasız bir şey değildir.[1]",
-      "ates": "O, şaka değildir."
+      "ates": "O, şaka değildir.",
+      "hulusi": "O, şaka olarak gelmemiştir!",
+      "bayrakli": "- Andolsun o dönüşlü göğe, o yarılıp çatlayan yeryüzüne. Şüphesiz Kur'an, hak ile batılı ayıran bir sözdür. O asla bir şaka değildir. Kafirler hep hile/tuzak kuruyorlar. Ben de hilelerine karşılık veririm. Onun için sen kafirlere mühlet ver, onlara az bir zaman tanı!",
+      "elmali_sade": "O asla şaka değildir!",
+      "cantay": "O, bir şaka değildir.",
+      "piris": "O, şaka değildir.",
+      "yildirim": "O bir şaka değildir.",
+      "safa": "Çünkü O, sıradan bir söz değildir.[591]",
+      "yuksel": "Şakaya alınamaz.",
+      "aktas": "O, sıradan bir söz değildir.",
+      "okuyan": "O asla bir şaka değildir."
     },
     {
       "number": 5946,
@@ -248,7 +388,17 @@
       "bulac": "Doğrusu onlar, hileli bir düzen planlayıp kuruyorlar;",
       "esed": "Elbette on(u kabule yanaşmayan)lar, birçok düzmece kanıt ararlar (ilahi kelamı çürütmek için);",
       "suleymaniye": "Onlar bir oyun kuruyorlar;",
-      "ates": "Onlar (onu iptal etmek için) bir tuzak kuruyorlar."
+      "ates": "Onlar (onu iptal etmek için) bir tuzak kuruyorlar.",
+      "hulusi": "Muhakkak ki onlar bir hile kuruyorlar.",
+      "bayrakli": "- Andolsun o dönüşlü göğe, o yarılıp çatlayan yeryüzüne. Şüphesiz Kur'an, hak ile batılı ayıran bir sözdür. O asla bir şaka değildir. Kafirler hep hile/tuzak kuruyorlar. Ben de hilelerine karşılık veririm. Onun için sen kafirlere mühlet ver, onlara az bir zaman tanı!",
+      "elmali_sade": "Haberin olsun ki, onlar hep hile kuruyorlar.",
+      "cantay": "Hakıykat, onlar alabildiklerine hileler düzerler.",
+      "piris": "Onlar ise tuzak kurup duruyorlar.",
+      "yildirim": "O kafirler, vargüçleriyle hile kurarlar.",
+      "safa": "Aslında, sinsi düzenler tasarlıyorlar.",
+      "yuksel": "Onlar bir plan kuruyor.",
+      "aktas": "Onlar, planlar yapıyorlar,[1]",
+      "okuyan": "Şüphesiz ki onlar bir tuzak kuruyor. "
     },
     {
       "number": 5947,
@@ -264,7 +414,17 @@
       "bulac": "Ben de bir düzen kurup hazırlıyorum.",
       "esed": "ama Ben onların bütün planlarını boşa çıkaracağım.",
       "suleymaniye": "ben de bir oyun kuruyorum.[1]",
-      "ates": "Ben de (onları yakalamak için) bir tuzak kuruyorum."
+      "ates": "Ben de (onları yakalamak için) bir tuzak kuruyorum.",
+      "hulusi": "Ben de hilelerine hileyle cevap veriyorum!",
+      "bayrakli": "- Andolsun o dönüşlü göğe, o yarılıp çatlayan yeryüzüne. Şüphesiz Kur'an, hak ile batılı ayıran bir sözdür. O asla bir şaka değildir. Kafirler hep hile/tuzak kuruyorlar. Ben de hilelerine karşılık veririm. Onun için sen kafirlere mühlet ver, onlara az bir zaman tanı!",
+      "elmali_sade": "Ben de hilelerine kaşı hile kurarım.",
+      "cantay": "Ben de onların hilelerini (ceza ile) karşılarım.",
+      "piris": "Ben de bir tuzak kuruyorum.",
+      "yildirim": "Ben de kurarım, (yani hilelerini boşa çıkarırım).",
+      "safa": "Ben de düzen tasarlıyorum.",
+      "yuksel": "Ben de bir plan kuruyorum.",
+      "aktas": "Ben de plan yapıyorum.",
+      "okuyan": "Ben de bir tuzak kuruyorum.[1]"
     },
     {
       "number": 5948,
@@ -280,7 +440,17 @@
       "bulac": "Sen kafirlere bir mühlet ver, az bir süre tanı.",
       "esed": "Öyleyse bırak, hakikati inkar edenler dilediklerini yapsınlar, yapsınlar kısa bir süre!",
       "suleymaniye": "Öyleyse o kafirlere süre tanı, bir müddet onları kendi hallerine bırak![1]",
-      "ates": "Hele sen o kafirlere mühlet ver, biraz bırak onları (bildiklerine gitsinler)."
+      "ates": "Hele sen o kafirlere mühlet ver, biraz bırak onları (bildiklerine gitsinler).",
+      "hulusi": "Bu yüzden o hakikat bilgisini inkar edenlere mühlet ver, onlara az bir süre tanı.",
+      "bayrakli": "- Andolsun o dönüşlü göğe, o yarılıp çatlayan yeryüzüne. Şüphesiz Kur'an, hak ile batılı ayıran bir sözdür. O asla bir şaka değildir. Kafirler hep hile/tuzak kuruyorlar. Ben de hilelerine karşılık veririm. Onun için sen kafirlere mühlet ver, onlara az bir zaman tanı!",
+      "elmali_sade": "Onun için o kafirlere mühlet ver, biraz daha süre tanı onlara!",
+      "cantay": "(Habibim) sen şimdilik o kafirlere mühlet ver, onları biraz gecikdiriver.",
+      "piris": "Kafirlere mühlet ver, onlara biraz süre tanı.",
+      "yildirim": "Öyleyse o kafirleri kendi hallerine bırak! (yakında sana desteğimiz gelecektir.)",
+      "safa": "Artık, nankörlük edenlere süre ver; onlara biraz süre tanı!",
+      "yuksel": "Öyleyse inkarcılara az bir süre daha tanı.",
+      "aktas": "Kafirlere biraz daha süre tanı, onları kendi hallerine bırak.",
+      "okuyan": "Kâfirlere mühlet ver, onlara biraz zaman tanı."
     }
   ]
 }

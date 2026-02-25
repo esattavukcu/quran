@@ -24,7 +24,17 @@
       "bulac": "De ki: \"Ey kafirler.\"",
       "esed": "De ki: \"Siz ey hakikati inkar edenler!",
       "suleymaniye": "De ki: \"Ey kafirler /ayetleri görmezlikte direnenler![1]",
-      "ates": "De ki: Ey nankörler,"
+      "ates": "De ki: Ey nankörler,",
+      "hulusi": "De ki: \"Ey hakikat bilgisini inkar edenler!\"",
+      "bayrakli": "- De ki: Ey kafirler! Sizin taptıklarınıza ben tapmam. Siz de benim taptığıma tapıcılar değilsiniz. Ben asla sizin taptıklarınıza tapacak değilim. Siz de benim taptığıma tapacak değilsiniz.",
+      "elmali_sade": "De ki: \"Ey kafirler,",
+      "cantay": "(Habibim şöyle) de: \"Ey kafirler\",",
+      "piris": "De ki: -Ey Kafirler!",
+      "yildirim": "De ki: Ey kafirler!",
+      "safa": "De ki: \"Ey Nankörler!\"",
+      "yuksel": "De ki: \"Ey inkarcılar.\"",
+      "aktas": "De ki: \"Ey kafirler.[1]\"",
+      "okuyan": "De ki: \"Ey kâfirler! "
     },
     {
       "number": 6209,
@@ -40,7 +50,17 @@
       "bulac": "\"Ben sizin taptıklarınıza tapmam.\"",
       "esed": "Ben tapmam sizin taptığınıza,",
       "suleymaniye": "Ben, sizin kulluk ettiklerinize kulluk etmem![1]",
-      "ates": "Ben sizin yaptığınız ibadeti yapmam;"
+      "ates": "Ben sizin yaptığınız ibadeti yapmam;",
+      "hulusi": "\"Sizin tapındığınıza ben tapınmam!\"",
+      "bayrakli": "- De ki: Ey kafirler! Sizin taptıklarınıza ben tapmam. Siz de benim taptığıma tapıcılar değilsiniz. Ben asla sizin taptıklarınıza tapacak değilim. Siz de benim taptığıma tapacak değilsiniz.",
+      "elmali_sade": "tapmam o taptıklarınıza!",
+      "cantay": "\"ben, sizin tapmakda olduklarınıza tapmam\".",
+      "piris": "Ben sizin kulluk ettiğinize kulluk etmem.",
+      "yildirim": "Ben sizin ibadet ettiklerinize ibadet etmem.",
+      "safa": "\"Ben hizmet etmem; sizin hizmet ettiklerinize!\"",
+      "yuksel": "\"Ben,  sizin hizmet ettiklerinize hizmet etmem.\"",
+      "aktas": "\"Ben, sizin kulluk[1] ettiğinize asla kulluk etmem.\"",
+      "okuyan": "Ben sizin tapmakta olduklarınıza tapmıyorum. "
     },
     {
       "number": 6210,
@@ -56,7 +76,17 @@
       "bulac": "\"Benim taptığıma siz tapacak değilsiniz.\"",
       "esed": "siz de tapmazsınız benim taptığıma.",
       "suleymaniye": "Siz de benim kulluk ettiğime kulluk eden kimseler değilsiniz![1]",
-      "ates": "Siz de benim yaptığım ibadeti yapmazsınız."
+      "ates": "Siz de benim yaptığım ibadeti yapmazsınız.",
+      "hulusi": "\"Siz de benim ibadet ettiğime abidler (ibadet eden kullar) değilsiniz.\"",
+      "bayrakli": "- De ki: Ey kafirler! Sizin taptıklarınıza ben tapmam. Siz de benim taptığıma tapıcılar değilsiniz. Ben asla sizin taptıklarınıza tapacak değilim. Siz de benim taptığıma tapacak değilsiniz.",
+      "elmali_sade": "Siz de benim kulluk ettiğime tapanlardan değilsiniz.",
+      "cantay": "\"Benim (kendisine) ibadet (de devam) edeceğime de siz kulluk ediciler değilsiniz\".",
+      "piris": "Siz de benim kulluk ettiğime kulluk edenler değilsiniz.",
+      "yildirim": "Siz de benim ibadet ettiğime ibadet etmiyorsunuz.",
+      "safa": "\"Siz de hizmet etmezsiniz; benim hizmet ettiğime!\"",
+      "yuksel": "\"Siz de benim hizmet ettiğime hizmet etmezsiniz.\"",
+      "aktas": "\"Siz de benim kulluk ettiğime kulluk etmezsiniz.\"",
+      "okuyan": "Siz de benim tapmakta olduğuma tapmıyorsunuz."
     },
     {
       "number": 6211,
@@ -72,7 +102,17 @@
       "bulac": "\"Ben de sizin taptıklarınıza tapacak değilim.\"",
       "esed": "Ve ben tapmayacağım (asla) sizin tapıp durduğunuza,",
       "suleymaniye": "Ben, sizin kulluk ettiklerinize kulluk edecek biri değilim![1]",
-      "ates": "Ben asla sizin yapmakta olduğunuz ibadeti yapıcı değilim."
+      "ates": "Ben asla sizin yapmakta olduğunuz ibadeti yapıcı değilim.",
+      "hulusi": "\"Sizin tapındıklarınıza ben abid (ibadet eden kul) değilim. \"",
+      "bayrakli": "- De ki: Ey kafirler! Sizin taptıklarınıza ben tapmam. Siz de benim taptığıma tapıcılar değilsiniz. Ben asla sizin taptıklarınıza tapacak değilim. Siz de benim taptığıma tapacak değilsiniz.",
+      "elmali_sade": "Hem ben tapıcı değilim sizin taptıklarınıza.",
+      "cantay": "\"Ben (zaten) sizin tapdıklarınıza (hiçbir zaman) tapmış değilim\".",
+      "piris": "Ben sizin kulluk ettiğinize kulluk edecek değilim.",
+      "yildirim": "Ben sizin ibadet ettiklerinize asla ibadet edecek değilim.",
+      "safa": "\"Ben hizmet edecek değilim; sizin hizmet ettiklerinize!\"",
+      "yuksel": "\"Ben asla sizin hizmet ettiğinize hizmet edecek değilim.\"",
+      "aktas": "\"Ben, sizin kulluk ettiğinize asla kulluk edecek değilim.\"",
+      "okuyan": "(Zaten) ben sizin tapmış olduklarınıza tapmıyordum.[1]"
     },
     {
       "number": 6212,
@@ -88,7 +128,17 @@
       "bulac": "\"Siz de benim taptığıma tapacak değilsiniz.\"",
       "esed": "siz de (hiç) tapmayacaksınız benim taptığıma.",
       "suleymaniye": "Zaten siz de benim kulluk ettiğime kulluk edecek kimseler değilsiniz![1]",
-      "ates": "Siz de benim yapmakta olduğum ibadeti yapıcı değilsiniz."
+      "ates": "Siz de benim yapmakta olduğum ibadeti yapıcı değilsiniz.",
+      "hulusi": "\"Siz de benim kulluk ettiğime abidler (kullar) değilsiniz.\"",
+      "bayrakli": "- De ki: Ey kafirler! Sizin taptıklarınıza ben tapmam. Siz de benim taptığıma tapıcılar değilsiniz. Ben asla sizin taptıklarınıza tapacak değilim. Siz de benim taptığıma tapacak değilsiniz.",
+      "elmali_sade": "hem de siz, benim kulluk ettiğime tapıcılardan değilsiniz.",
+      "cantay": "\"Siz de benim kulluk etmekde olduğuma (hiçbir vakit) kulluk ediciler değilsiniz\".",
+      "piris": "Siz de benim kulluk ettiğime kulluk edecek değilsiniz.",
+      "yildirim": "Siz de benim ibadet ettiğime ibadet etmezsiniz.",
+      "safa": "\"Siz de hizmet edecek değilsiniz; benim hizmet ettiğime!\"",
+      "yuksel": "\"Siz de benim hizmet ettiğime hizmet edecek değilsiniz.\"",
+      "aktas": "\"Siz de benim kulluk ettiğime kulluk edecek değilsiniz.\"",
+      "okuyan": "Siz de benim taptığıma tapmıyordunuz. "
     },
     {
       "number": 6213,
@@ -104,7 +154,17 @@
       "bulac": "\"Sizin dininiz size, benim dinim bana.\"",
       "esed": "Sizin dininiz size, benimki bana!\"",
       "suleymaniye": "Sizin dininiz size, benim dinim de bana!\"[1]",
-      "ates": "Sizin dininiz size, benim dinim banadır."
+      "ates": "Sizin dininiz size, benim dinim banadır.",
+      "hulusi": "\"Sizin din (anlayışınız) size, benim din (anlayışım) banadır!\"",
+      "bayrakli": "Sizin dininiz size, benim dinim banadır.",
+      "elmali_sade": "Size dininiz, bana dinim (sizin dininiz size, benim dinim bana)!",
+      "cantay": "\"Sizin dininiz size, benim dinim bana\".",
+      "piris": "Sizin dininiz size, benim dinim bana!",
+      "yildirim": "O halde sizin dininiz size, benim dinim bana.",
+      "safa": "\"Sizin dininiz size; benim dinim de bana!\"",
+      "yuksel": "\"Sizin dininiz size,  benim dinim bana.\"",
+      "aktas": "\"Sizin dininiz[1] size, benim dinim[1] de bana.\"",
+      "okuyan": "Sizin dininiz size, benim dinim banadır![1]"
     }
   ]
 }

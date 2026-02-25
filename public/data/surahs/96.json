@@ -24,7 +24,17 @@
       "bulac": "Yaratan Rabbin adıyla oku.",
       "esed": "Oku yaratan Rabbin adına,",
       "suleymaniye": "Yaratan Rabbinin adıyla oku![1]",
-      "ates": "Yaratan Rabbinin adıyle oku."
+      "ates": "Yaratan Rabbinin adıyle oku.",
+      "hulusi": "Yaratan Rabbinin ismi (ile işaret ettiği hakikatin olan kuvveler) ile OKU!",
+      "bayrakli": "Yaratan Rabbinin adı ile oku!",
+      "elmali_sade": "Oku O yaratan Rabbinin adıyla!",
+      "cantay": "Yaratan Rabbinin adiyle oku.",
+      "piris": "-Oku! Yaratan Rabbinin adıyla..",
+      "yildirim": "Yaratan Rabbinin adıyla oku,",
+      "safa": "Yaratan Efendinin İsmiyle oku!",
+      "yuksel": "Yaratan Efendisinin ismiyle oku.[1]",
+      "aktas": "Yaratan Rabb'inin adıyla duyur.[1]",
+      "okuyan": "Yaratan Rabbinin adı ile oku![1]"
     },
     {
       "number": 6108,
@@ -40,7 +50,17 @@
       "bulac": "O, insanı bir alak'tan yarattı.",
       "esed": "insanı bir yumurta hücresinden yaratan!",
       "suleymaniye": "O, insanı rahim duvarına asılı embriyodan yaratmıştır.[1]",
-      "ates": "O, insanı alaktan (embriyodan) yarattı."
+      "ates": "O, insanı alaktan (embriyodan) yarattı.",
+      "hulusi": "İnsanı Alak'tan (kan pıhtısı; genlerden) yarattı.",
+      "bayrakli": "O, insanı bir yapışkan döllenmiş yumurta hücresinden yarattı.",
+      "elmali_sade": "İnsanı bir kan pıhtısından yarattı!",
+      "cantay": "O, insanı bir kan pıhtısından yaratdı.",
+      "piris": "İnsanı alaktan yaratan..",
+      "yildirim": "İnsanı (rahim cidarına) yapışan bir hücreden yaratan.",
+      "safa": "İnsanı, Asılarak Tutunandan yarattı.[606]",
+      "yuksel": "O,  insanı bir embriyodan yarattı.[1]",
+      "aktas": "İnsanı alaktan[1] yarattı.",
+      "okuyan": "O, insanı ‘alaktan (embriyodan) yarattı."
     },
     {
       "number": 6109,
@@ -56,7 +76,17 @@
       "bulac": "Oku, Rabbin en büyük kerem sahibidir;",
       "esed": "Oku, çünkü Rabbin Sonsuz Kerem Sahibidir,",
       "suleymaniye": "Oku! Rabbin en cömert olandır.[1]",
-      "ates": "Oku, Rabbin en büyük kerem sahibidir."
+      "ates": "Oku, Rabbin en büyük kerem sahibidir.",
+      "hulusi": "Oku! (Çünkü) Rabbin Ekrem'dir!",
+      "bayrakli": "Oku; çünkü Rabbin sonsuz kerem sahibidir.",
+      "elmali_sade": "Oku, O, cömertliğinin sonu olmayan Rabbindir!",
+      "cantay": "Oku. Rabbin nihayetsiz kerem saahibidir.",
+      "piris": "-Oku! Rabbin, en cömerttir.",
+      "yildirim": "Oku! Rabbin sonsuz kerem sahibidir.",
+      "safa": "Oku! Çünkü Efendin Eliaçıktır.",
+      "yuksel": "Oku,  Efendin En Cömert/Yüce olandır.",
+      "aktas": "Duyur, senin Rabb'in en büyük kerem[1] sahibidir.",
+      "okuyan": "Oku! Rabbin en cömert olandır!"
     },
     {
       "number": 6110,
@@ -72,7 +102,17 @@
       "bulac": "Ki O, kalemle (yazmayı) öğretendir.",
       "esed": "(insana) kalemi kullanmayı öğretendir,",
       "suleymaniye": "O, kalemle öğretmiş olandır.[1]",
-      "ates": "O ki kalemle (yazmayı) öğretti."
+      "ates": "O ki kalemle (yazmayı) öğretti.",
+      "hulusi": "O ki, (O Rabbani özellikleri ve genetiğini) Kalem olarak öğretti (programladı)!",
+      "bayrakli": "O, insana kalemi kullanmayı öğretendir.",
+      "elmali_sade": "Kalem ile (yazmayı) öğreten de.",
+      "cantay": "Ki O, kalemle (yazı yazmayı) öğretendir.",
+      "piris": "Kalemle öğreten..",
+      "yildirim": "Kalemle yazmayı öğretendir.",
+      "safa": "O, kalemle yazmayı öğretendir.",
+      "yuksel": "Kalem yoluyla öğretir.",
+      "aktas": "Kalemle öğretendir.",
+      "okuyan": "Kalemle (yazmayı) öğreten O'dur."
     },
     {
       "number": 6111,
@@ -88,7 +128,17 @@
       "bulac": "İnsana bilmediğini öğretti.",
       "esed": "insana bilmediğini belleten!",
       "suleymaniye": "İnsana, bilmediği şeyleri öğretmiştir.",
-      "ates": "İnsana bilmediğini öğretti."
+      "ates": "İnsana bilmediğini öğretti.",
+      "hulusi": "(Yani) insana bilmediğini talim etti.",
+      "bayrakli": "İnsana bilmediğini öğretti.",
+      "elmali_sade": "O, insana bilmediği şeyleri öğretti.",
+      "cantay": "İnsana bilmediğini O öğretdi.",
+      "piris": "İnsana bilmediğini öğretendir.",
+      "yildirim": "İnsana bilmediklerini öğretendir.",
+      "safa": "İnsana, bilmediklerini öğretendir.",
+      "yuksel": "İnsana bilmediklerini öğretti.",
+      "aktas": "İnsana bilmediğini öğretti.",
+      "okuyan": "İnsana bilmediğini (O) öğretti."
     },
     {
       "number": 6112,
@@ -104,7 +154,17 @@
       "bulac": "Hayır; gerçekten insan, azar.",
       "esed": "Gerçek şu ki insan fütursuzca azar,",
       "suleymaniye": "Yok, yok… İnsan kesinlikle taşkınlık eder.",
-      "ates": "Hayır, (Rabbinin bu kadar iyiliğine rağmen yine) insan azar;"
+      "ates": "Hayır, (Rabbinin bu kadar iyiliğine rağmen yine) insan azar;",
+      "hulusi": "Hayır, (iş sanıldığı gibi değil; düşünün)! Muhakkak ki insan (hakikatinden kozalı yaşarsa), elbette azgınlık eder (şehvet peşinde koşar);",
+      "bayrakli": "Gerçek şu ki, insan azar.",
+      "elmali_sade": "Sakın okumazlık etme! Çünkü insan, muhakkak azıtır!",
+      "cantay": "(Okumamakdan) sakın! Çünkü insan muhakkak azar,",
+      "piris": "-Hayır! Şüphesiz insan azgınlık ediyor.",
+      "yildirim": "(6-7) Hayır! Rabbinin bunca nimetlerine rağmen kafir insan kendisini ihtiyaçsız zannetti diye azar.",
+      "safa": "Hayır, asla! Aslında, insan, kesinlikle azıtır.",
+      "yuksel": "Doğrusu,  insan azar;",
+      "aktas": "Bu gerçeğe rağmen insan yine de tuğyan[1] eder.",
+      "okuyan": "(6, 7) Hayır! Şüphesiz ki insan, kendini zengin (ihtiyaçsız) gördüğü için azar.[1]"
     },
     {
       "number": 6113,
@@ -120,7 +180,17 @@
       "bulac": "Kendini müstağni gördüğünden.",
       "esed": "ne zaman kendini yeterli görse:",
       "suleymaniye": "Kendini yeterli gördüğünde.[1]",
-      "ates": "Kendini zengin (kendine yeterli) gördüğü için,"
+      "ates": "Kendini zengin (kendine yeterli) gördüğü için,",
+      "hulusi": "(Benliğiyle perdelenip) kendini (hakikatten) müstağni gördüğü için.",
+      "bayrakli": "Çünkü kendini yeterli görür.",
+      "elmali_sade": "Kendisini artık ihtiyacı yokmuş görmekle.",
+      "cantay": "Kendisini (mal sebebiyle) ihtiyacdan vareste gördü diye.",
+      "piris": "Kendisini ihtiyaçsız görmekle ..",
+      "yildirim": "(6-7) Hayır! Rabbinin bunca nimetlerine rağmen kafir insan kendisini ihtiyaçsız zannetti diye azar.",
+      "safa": "Kendisinin kendisine yeterli olduğunu sandığı için.",
+      "yuksel": "Kendini yeterli görerek.",
+      "aktas": "Kendisini yeterli gördüğü için.",
+      "okuyan": "(6, 7) Hayır! Şüphesiz ki insan, kendini zengin (ihtiyaçsız) gördüğü için azar.[1]"
     },
     {
       "number": 6114,
@@ -136,7 +206,17 @@
       "bulac": "Şüphesiz, dönüş yalnızca Rabbinedir.",
       "esed": "oysa, herkes eninde sonunda Rabbine dönecektir.",
       "suleymaniye": "Muhakkak ki dönüş Rabbinin huzurunadır.[1]",
-      "ates": "Ama dönüş Rabbinedir (O'nun huzurunda bu azgınlığının hesabını verecektir)."
+      "ates": "Ama dönüş Rabbinedir (O'nun huzurunda bu azgınlığının hesabını verecektir).",
+      "hulusi": "Kesinlikle dönüş rabbinedir!",
+      "bayrakli": "Şüphesiz dönüş Rabbinedir.",
+      "elmali_sade": "Kesinlikle sonunda Rabbinedir dönüş!",
+      "cantay": "(Ey insan) şübhesiz dönüş (ün) ancak Rabbinedir.",
+      "piris": "Oysa, dönüş Rabbinedir.",
+      "yildirim": "Ama dönüş elbette Rabbinedir!",
+      "safa": "Kuşkusuz, dönüş, Efendine olacaktır.",
+      "yuksel": "Elbette,  dönüş senin Efendinedir.",
+      "aktas": "Oysaki dönüş Rabb'inedir.",
+      "okuyan": "Şüphesiz ki dönüş, yalnızca Rabbinedir."
     },
     {
       "number": 6115,
@@ -152,7 +232,17 @@
       "bulac": "Engellemekte olanı gördün mü?",
       "esed": "Hiç düşündün mü şu engellemeye kalkışanı",
       "suleymaniye": "(Ey Muhammed!) Engelleyen kişiyi gördün mü?",
-      "ates": "Gördün mü şu men edeni?"
+      "ates": "Gördün mü şu men edeni?",
+      "hulusi": "Gördün mü o engelleyeni;",
+      "bayrakli": "- Allah'a yönelen bir kulu engelleyeni gördün mü?",
+      "elmali_sade": "Baksana o engelleyene,",
+      "cantay": "(9-10) Bir kulu, namaz kılarken, men edecek (adam) gördün mü sen?",
+      "piris": "-Engelleyeni gördün mü?",
+      "yildirim": "(9-10) Baksana şu namaz kılan, o mükemmel kulu engelleyen kimseye,",
+      "safa": "Şu engelleyeni görüyor musun?",
+      "yuksel": "Gördün mü,  şu engelleyeni:",
+      "aktas": "Gördün mü şu alıkoyanı?",
+      "okuyan": "(9, 10) Salât (ibadet) ederken bir kulu engelleyeni gördün mü![1]"
     },
     {
       "number": 6116,
@@ -168,7 +258,17 @@
       "bulac": "Namaz kıldığı zaman bir kulu.",
       "esed": "(Allah'ın) bir kulu(nu) namazdan?",
       "suleymaniye": "Bir kulu, kulluk görevini yaparken (engelleyeni)?[1]",
-      "ates": "Namaz kılarken bir kulu (namazdan)?"
+      "ates": "Namaz kılarken bir kulu (namazdan)?",
+      "hulusi": "Bilfiil salat halindeyken bir kulu!",
+      "bayrakli": "- Allah'a yönelen bir kulu engelleyeni gördün mü?",
+      "elmali_sade": "namaz kılmakta olan bir kulu!",
+      "cantay": "(9-10) Bir kulu, namaz kılarken, men edecek (adam) gördün mü sen?",
+      "piris": "Kulu, namaz kılarken..",
+      "yildirim": "(9-10) Baksana şu namaz kılan, o mükemmel kulu engelleyen kimseye,",
+      "safa": "Bir kulu namaz kıldığında?",
+      "yuksel": "Desteklerken bir kulu?",
+      "aktas": "Salla[1] ederken bir kulu!",
+      "okuyan": "(9, 10) Salât (ibadet) ederken bir kulu engelleyeni gördün mü![1]"
     },
     {
       "number": 6117,
@@ -184,7 +284,17 @@
       "bulac": "Gördün mü? Ya o (kul) doğru yol üzerinde ise,",
       "esed": "Hiç düşündün mü o doğru yolda mıdır,",
       "suleymaniye": "Düşündün mü! O, doğru yolda olsaydı",
-      "ates": "Gördün mü, ya o (kul) doğru yolda olur,"
+      "ates": "Gördün mü, ya o (kul) doğru yolda olur,",
+      "hulusi": "Gördün mü (bir düşün)! Ya o hakikati yaşamakta ise?",
+      "bayrakli": "- Ne dersin, o kul doğru yolda ise ve sakınmayı emrediyorsa!",
+      "elmali_sade": "Baksana o doğru yolda giderse",
+      "cantay": "Gördün mü (şu cür'eti)? Ya o doğru yol üzerinde ise.",
+      "piris": "Gördün mü? Eğer hidayet üzerinde ise,",
+      "yildirim": "(11-12) Ne dersin, o hidayette olsa ve Allah'ı sayıp O'na karşı gelmemeyi tavsiye etse, ne iyi olurdu!",
+      "safa": "Görüyor musun? Ya o, doğru yol üzerindeyse?",
+      "yuksel": "Ne dersin,  o doğru yolu izleseydi?",
+      "aktas": "Gördün mü?[1] Ya o doğru yolda ise!",
+      "okuyan": "(11, 12) Gördün mü?[1] (Bir düşün:) Ya o (kul) doğru yol üzerindeyse veya takvâyı (duyarlılığı) emrediyorsa?"
     },
     {
       "number": 6118,
@@ -200,7 +310,17 @@
       "bulac": "Ya da takvayı emrettiyse.",
       "esed": "ya da Allah'a karşı sorumluluk bilinciyle yüklü mü?",
       "suleymaniye": "veya yanlışlardan sakınılmasını isteseydi (olmaz mıydı)!",
-      "ates": "Yahut kötülüklerden korunmayı emrederse?"
+      "ates": "Yahut kötülüklerden korunmayı emrederse?",
+      "hulusi": "Yahut korunmayı emretti ise!",
+      "bayrakli": "- Ne dersin, o kul doğru yolda ise ve sakınmayı emrediyorsa!",
+      "elmali_sade": "ya da takva sahibi olmayı emrederce, fena mı?",
+      "cantay": "Yahud takvayı emretdiyse,",
+      "piris": "Veya takvayı emrettiyse?",
+      "yildirim": "(11-12) Ne dersin, o hidayette olsa ve Allah'ı sayıp O'na karşı gelmemeyi tavsiye etse, ne iyi olurdu!",
+      "safa": "Veya sorumluluk bilincine erişmeyi öğütlüyorsa?",
+      "yuksel": "Yahut erdemliliği öğütleseydi?",
+      "aktas": "Veya takvayı buyuruyorsa?",
+      "okuyan": "(11, 12) Gördün mü?[1] (Bir düşün:) Ya o (kul) doğru yol üzerindeyse veya takvâyı (duyarlılığı) emrediyorsa?"
     },
     {
       "number": 6119,
@@ -216,7 +336,17 @@
       "bulac": "Gördün mü? Ya (bu engellemek isteyen) yalanlıyor ve yüz çeviriyor ise.",
       "esed": "Hiç düşündün mü onun hakikati yalanla(ma)yabileceğini ve sırtını (ona) dön(mey)ebileceğini?",
       "suleymaniye": "Şunu da düşündün mü! O, yalana sarılmış ve doğrulara sırt çevirmişse (ki çevirdi),[1]",
-      "ates": "Gördün mü, ya bu (adam, hakkı) yalanlar yüz çevirirse? (O zaman bu yaptığı kendisi için iyi mi olur?)"
+      "ates": "Gördün mü, ya bu (adam, hakkı) yalanlar yüz çevirirse? (O zaman bu yaptığı kendisi için iyi mi olur?)",
+      "hulusi": "Bir düşün! Ya (hakikatini) yalanladı ve yüz çevirdi ise?",
+      "bayrakli": "Ne dersin, engelleyen kişi yalanlıyor ve doğru yoldan yüz çeviriyorsa!",
+      "elmali_sade": "Baksana, yalanlar ve tersine giderse, iyi mi?",
+      "cantay": "gördün mü? Ya (öbürü hakkı) yalan saydı, (imandan) yüz çevirdi ise...",
+      "piris": "-Gördün mü? Eğer, yalanlamış ve yüz çevirmişse,",
+      "yildirim": "Ne dersin, o kul, dini yalan saysa ve haktan yüz çevirse iyi mi olurdu?",
+      "safa": "Görüyor musun? Ya o, yalanlamış ve yüz çevirmişse?",
+      "yuksel": "Ne dersin,  o yalanlayıp yüz çevirdiyse?",
+      "aktas": "Gördün mü; ya yalanlayıp ve yüz çevirdiyse?[1]",
+      "okuyan": "Gördün mü? (Bir düşün:) Ya o, (gerçeği) yalanlıyor ve (ondan) yüz çeviriyorsa?"
     },
     {
       "number": 6120,
@@ -232,7 +362,17 @@
       "bulac": "O, Allah'ın gördüğünü bilmiyor mu?",
       "esed": "O bilmez mi ki Allah (her şeyi) görür?",
       "suleymaniye": "Allah'ın onu görmekte olduğunu bilmiyor mu?[1]",
-      "ates": "Allah'ın (daima kendisini) gördüğünü bilmedi mi (o)?"
+      "ates": "Allah'ın (daima kendisini) gördüğünü bilmedi mi (o)?",
+      "hulusi": "Bilmez mi ki Allah kesinlikle görür?",
+      "bayrakli": "O bilmez mi ki, Allah her şeyi görüyor?",
+      "elmali_sade": "Muhakkak Allah'ın görmekte olduğunu bilmiyor mu?",
+      "cantay": "(O adam) Allahın muhakkak (herşey'i) görüb durduğunu hiç de bitmemiş mi",
+      "piris": "-Allah'ın gördüğünü bilmiyor mu?",
+      "yildirim": "O bilmiyor mu ki Allah, olan biten her şeyi görür?",
+      "safa": "Allah'ın gördüğünü bilmiyor mu?",
+      "yuksel": "Bilmez mi ki ALLAH her şeyi görmektedir.",
+      "aktas": "Allah'ın kesinlikle her şeyi gördüğünü bilmiyor mu?",
+      "okuyan": "Şüphesiz ki Allah'ın gördüğünü (bu adam) bilmez mi! "
     },
     {
       "number": 6121,
@@ -248,7 +388,17 @@
       "bulac": "Hayır; eğer o, (bu tutumuna) bir son vermeyecek olursa, andolsun, onu perçeminden tutup sürükleyeceğiz;",
       "esed": "Hayır, eğer vazgeçmezse, onu alnından tutup sürükleyeceğiz,",
       "suleymaniye": "Yok, yok… Vazgeçmezse kesinlikle tutup çekeriz perçeminden,",
-      "ates": "Hayır, (olmaz böyle şey), eğer bundan vazgeçmezse (onu) perçem(in)den yakalar (ateşe sürükler)iz,"
+      "ates": "Hayır, (olmaz böyle şey), eğer bundan vazgeçmezse (onu) perçem(in)den yakalar (ateşe sürükler)iz,",
+      "hulusi": "Hayır (iş sandığı gibi değil)! Andolsun ki eğer vazgeçmezse, elbette onu alnından (beyninden) şiddetle tutup sürükleriz!",
+      "bayrakli": "- Hayır hayır! Eğer bu yaptığından vazgeçmezse, derhal onu o yalancı, günahkar alnından yakalarız. O, hemen gidip meclisini çağırsın. Biz de zebanileri çağıracağız.",
+      "elmali_sade": "Sakın, şanım hakkı için, eğer (akıllanıp) vazgeçmezse, muhakkak Biz sürükleyeceğiz o alnı!",
+      "cantay": "(Böyle şeylerden) sakınsın o. Eğer (küfründen) vaz geçmezse, andolsun, onu aln (ının saç) ından tutub (cehenneme) sürükleriz,",
+      "piris": "-Hayır! Eğer son vermezse, elbette perçeminden yakalayıp, sürükleriz.",
+      "yildirim": "(15-16) Hayır! Hayır! Olmaz böyle şey! Eğer bu tutumundan vazgeçmezse, onu perçeminden tutup cehenneme sürükleriz. Evet, o yalancı ve suçlu perçeminden tutup sürükleriz.",
+      "safa": "Hayır, asla! Eğer gerçekten buna son vermezse, kesinlikle alnından tutup sürükleyeceğiz.",
+      "yuksel": "Doğrusu,  buna son vermezse,  yakalarız ön lobundan, ",
+      "aktas": "Hayır, kesinlikle öyle değil! Eğer gerçekten vazgeçmezse perçeminden[1] yakalarız.",
+      "okuyan": "Hayır! Bundan vazgeçmezse (onu) perçeminden yakalayacağız![1]"
     },
     {
       "number": 6122,
@@ -264,7 +414,17 @@
       "bulac": "O yalancı, günahkar olan alnından.",
       "esed": "o yalancı, isyankar alnından!",
       "suleymaniye": "yalancı ve suçlu perçeminden![1]",
-      "ates": "O yalancı, günahkar perçem(den)!"
+      "ates": "O yalancı, günahkar perçem(den)!",
+      "hulusi": "O yalancı, o hata yapan (bedene, dışa dönük) alnı (beyni)!",
+      "bayrakli": "- Hayır hayır! Eğer bu yaptığından vazgeçmezse, derhal onu o yalancı, günahkar alnından yakalarız. O, hemen gidip meclisini çağırsın. Biz de zebanileri çağıracağız.",
+      "elmali_sade": "Yalancı, cani bir alnı!",
+      "cantay": "(Ya'ni) yalancı, günahkar aln (ının saç) ından.",
+      "piris": "Yalancı, günahkar perçeminden.",
+      "yildirim": "(15-16) Hayır! Hayır! Olmaz böyle şey! Eğer bu tutumundan vazgeçmezse, onu perçeminden tutup cehenneme sürükleriz. Evet, o yalancı ve suçlu perçeminden tutup sürükleriz.",
+      "safa": "Yalancı, suçlu alnından.",
+      "yuksel": "O yalancı ve günahkar ön lobu.",
+      "aktas": "Yalancı ve yanlış yapan perçeminden.",
+      "okuyan": "O yalancı, günahkâr perçem(in)den![1]"
     },
     {
       "number": 6123,
@@ -280,7 +440,17 @@
       "bulac": "O zaman da meclisini (yakın çevresini ve yandaşlarını) çağırsın.",
       "esed": "Bırak, kendi aklının (asılsız, düzmece) tavsiyelerini (yardımına) çağırsın,",
       "suleymaniye": "O zaman (çağırabilirse) çağırsın bakalım yandaşlarını![1]",
-      "ates": "O zaman (o gitsin) de meclisini (adamlarını) çağırsın."
+      "ates": "O zaman (o gitsin) de meclisini (adamlarını) çağırsın.",
+      "hulusi": "Haydi, çağırsın meclisini!",
+      "bayrakli": "- Hayır hayır! Eğer bu yaptığından vazgeçmezse, derhal onu o yalancı, günahkar alnından yakalarız. O, hemen gidip meclisini çağırsın. Biz de zebanileri çağıracağız.",
+      "elmali_sade": "O zaman çağırsın kurultayını, meclisini!",
+      "cantay": "O vakit (durmasın) meclisini da'vet etsin!",
+      "piris": "-Haydi çağırsın çetesini/meclisini.",
+      "yildirim": "İstediği kadar grubunu yardıma çağırsın!",
+      "safa": "Haydi, çağırsın yandaşlarını.",
+      "yuksel": "O zaman haydi çağırsın kurultayını.",
+      "aktas": "Haydi, yardımcılarını çağırsın.",
+      "okuyan": "(O), meclisini (destekçilerini) çağırsın!"
     },
     {
       "number": 6124,
@@ -296,7 +466,17 @@
       "bulac": "Biz de zebanileri çağıracağız.",
       "esed": "(o zaman) Biz de semavi azap güçlerini çağırırız!",
       "suleymaniye": "Biz de zebanileri[1] çağıracağız.",
-      "ates": "Biz de zebanileri çağıracağız."
+      "ates": "Biz de zebanileri çağıracağız.",
+      "hulusi": "Biz de çağıracağız Zebanileri (ateşin zebun edici kuvvelerini)!",
+      "bayrakli": "- Hayır hayır! Eğer bu yaptığından vazgeçmezse, derhal onu o yalancı, günahkar alnından yakalarız. O, hemen gidip meclisini çağırsın. Biz de zebanileri çağıracağız.",
+      "elmali_sade": "Biz çağıracağız zebanileri!",
+      "cantay": "Biz (de) zebanileri çağırırız.",
+      "piris": "Çağıracağız zebanileri..",
+      "yildirim": "Biz de Zebanileri çağırırız!",
+      "safa": "Biz de cehennem bekçilerini çağıracağız.",
+      "yuksel": "Biz de zebanileri çağıracağız..",
+      "aktas": "Biz de zebanileri çağıracağız.",
+      "okuyan": "İleride biz de zebanileri çağıracağız!"
     },
     {
       "number": 6125,
@@ -316,7 +496,17 @@
       "bulac": "Hayır; ona boyun eğme (Rabbine) Secde et ve yakınlaş.",
       "esed": "Hayır, ona kulak verme, ama (Allah'ın huzurunda) yere kapan ve (O'na) yakınlaş!",
       "suleymaniye": "Yok, yok… Ona boyun eğme[1], sen (Allah'a) secde et[2] ve ona yakınlaş!",
-      "ates": "Hayır, ona boyun eğme; (Rabbine) secde et ve yaklaş!"
+      "ates": "Hayır, ona boyun eğme; (Rabbine) secde et ve yaklaş!",
+      "hulusi": "Hayır, sakın (yapma)! Ona uyma; secde et ve yaklaş! (19. ayet secde ayetidir. )",
+      "bayrakli": "Hayır hayır! Ona uyma! Allah'a secde et ve yaklaş!",
+      "elmali_sade": "Hayır, sakın onu dinleme de, secde et ve yaklaş!",
+      "cantay": "Sakın (Habibim) ona boyun eğme. Secde et. Yaklaş.",
+      "piris": "-Hayır! ona itaat etme! Secde et ve yaklaş!",
+      "yildirim": "Hayır! Ona boyun eğme! Rabbine secde et, O'na yaklaş!",
+      "safa": "Hayır, asla! Ona boyun eğme! Secde et ve yaklaş!",
+      "yuksel": "Asla,  ona uyma; secde et ve yaklaş!",
+      "aktas": "Hayır, kesinlikle öyle değil! Ona boyun eğme; secde et ve yaklaş.[1]",
+      "okuyan": "Hayır! Ona itaat etme! (Rabbine) secde et[1] ve (O'na) yaklaş![2]"
     }
   ]
 }

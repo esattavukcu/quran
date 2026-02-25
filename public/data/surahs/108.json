@@ -24,7 +24,17 @@
       "bulac": "Şüphesiz, biz sana Kevser'i verdik.",
       "esed": "Bak, Biz sana bol nimet verdik:",
       "suleymaniye": "Biz sana çok hayırlı olanı (Kur'an'ı) verdik.[1]",
-      "ates": "Biz sana Kevser'i (bol ni'met, ilim ve büyük şeref) verdik."
+      "ates": "Biz sana Kevser'i (bol ni'met, ilim ve büyük şeref) verdik.",
+      "hulusi": "Muhakkak ki biz verdik sana O Kevser'i!",
+      "bayrakli": "Biz sana çok hayır/Kevser'i verdik.",
+      "elmali_sade": "Muhakkak Biz, sana Kevseri'i verdik.",
+      "cantay": "(Habibim) hakikat, biz sana, Kevseri verdik.",
+      "piris": "Biz sana sayısız nimetler verdik.",
+      "yildirim": "Biz gerçekten sana verdik kevser.",
+      "safa": "Kuşkusuz, sana, Sayısız Nimetler verdik.[622]",
+      "yuksel": "Biz sana bolca nimetler verdik.",
+      "aktas": "Kuşkusuz Biz[1] sana kevseri[2] verdik.",
+      "okuyan": "Şüphesiz ki sana Kevser'i (bol nimet) verdik."
     },
     {
       "number": 6206,
@@ -40,7 +50,17 @@
       "bulac": "Şu halde Rabbin için namaz kıl ve kurban kes.",
       "esed": "o halde (yalnız) Rabbine ibadet et ve (yalnız O'nun adına) kurban kes.",
       "suleymaniye": "Öyleyse kulluk görevlerini yalnızca Rabbin için yap[1] ve dik dur![2]",
-      "ates": "Öyleyse Rabbin için namaz kıl ve nahret (kurban kes veya ellerini boğazına kadar kaldırıp tekbir al)."
+      "ates": "Öyleyse Rabbin için namaz kıl ve nahret (kurban kes veya ellerini boğazına kadar kaldırıp tekbir al).",
+      "hulusi": "O halde Rabbin için salatı yaşa ve kurbanı (benlik) kes!",
+      "bayrakli": "Öyleyse Rabbin için namaz kıl ve kurban kes!",
+      "elmali_sade": "Sen de Rabbin için namaz kıl ve kurban kes!",
+      "cantay": "O halde Rabbin için namaz kıl. Kurban kes.",
+      "piris": "Öyleyse sen de Rabbin için namaz kıl ve kurban kes.",
+      "yildirim": "Sen de Rabbin için namaz kıl ve kurban kesiver.",
+      "safa": "Öyleyse Efendin için namaz kıl; yönel![623]",
+      "yuksel": "Öyleyse Efendin için salatı (dayanışmayı) gözet ve kendini ada/yönel.",
+      "aktas": "O halde Rabb'in için salat[1] et ve zorlukları göğüsle.[2]",
+      "okuyan": "Rabbin için salât (ibadet) et[1] ve kurban kes!"
     },
     {
       "number": 6207,
@@ -56,7 +76,17 @@
       "bulac": "Doğrusu, asıl ebter (soyu kesik) olan sana kin duyandır.",
       "esed": "Şu gerçek ki, senden nefret eden, (her türlü iyilik ve güzellikten) kesilmektedir!",
       "suleymaniye": "Senden nefret eden, hiçbir sonuç elde edemeyecek olandır.[1]",
-      "ates": "Asıl sonu kesik olan, sana buğzedendir."
+      "ates": "Asıl sonu kesik olan, sana buğzedendir.",
+      "hulusi": "Muhakkak ki sana hıncı olan var ya, asıl odur ebter (soyu kesik)!",
+      "bayrakli": "Asıl \"nesli kesik\" olan, sana buğzedendir.",
+      "elmali_sade": "Doğrusu sana kin besleyendir soyu kesik olan!",
+      "cantay": "Sana buğzeden (yok mu? İşte asıl) zürriyetsiz olan şübhesiz Odur.",
+      "piris": "Gerçek şu ki sana kin besleyen /düşmanının soyu kesiktir.",
+      "yildirim": "Doğrusu, seni kötüleyendir ebter!",
+      "safa": "Aslında, soyu kesik olan, seni kötüleyendir.[624]",
+      "yuksel": "Asıl mahvolacak olanlar,  sana kin duyanlardır.",
+      "aktas": "Kuşkusuz o sana buğzeden,[1] sonu olmayanın ta kendisidir.[2]",
+      "okuyan": "Şüphesiz ki asıl (hayırdan yana) soyu kesik olan, sana kin duyandır. "
     }
   ]
 }

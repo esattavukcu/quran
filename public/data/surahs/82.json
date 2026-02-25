@@ -24,7 +24,17 @@
       "bulac": "Gök, çatlayıp yarıldığı zaman,",
       "esed": "Gökyüzü parçalanıp yarıldığında,",
       "suleymaniye": "Gök yarıldığında,[1]",
-      "ates": "Gök yarıldığı zaman,"
+      "ates": "Gök yarıldığı zaman,",
+      "hulusi": "Sema yarıldığında,",
+      "bayrakli": "Gök yarıldığında,",
+      "elmali_sade": "Gökyüzü çatladığında,",
+      "cantay": "Gök yarıldığı zaman,",
+      "piris": "Gök yarıldığı..",
+      "yildirim": "Gök yarıldığı zaman...",
+      "safa": "Gök Çatlayarak Yarıldığında.",
+      "yuksel": "Gök çatladığı zaman, ",
+      "aktas": "Göğün yasaları yeniden belirlendiği zaman,",
+      "okuyan": "Gök yarıldığında,"
     },
     {
       "number": 5831,
@@ -40,7 +50,17 @@
       "bulac": "Yıldızlar, dağılıp yayıldığı zaman,",
       "esed": "ve yıldızlar dağılıp savrulduğunda,",
       "suleymaniye": "gezegenler dağıldığında,[1]",
-      "ates": "Yıldızlar saçıldığı zaman,"
+      "ates": "Yıldızlar saçıldığı zaman,",
+      "hulusi": "Gezegenler saçılıp dağıldığında,",
+      "bayrakli": "Yıldızlar dökülüp saçıldığında,",
+      "elmali_sade": "yıldızlar döküldüğünde,",
+      "cantay": "Yıldızlar dağılıb döküldüğü zaman,",
+      "piris": "Yıldızlar/gezegenler dağılıp, parçalandığı..",
+      "yildirim": "Yıldızlar parçalanıp etrafa saçıldığı zaman...",
+      "safa": "Gezegenler dağılıp yayıldığında.",
+      "yuksel": "Gezegenler saçıldığı zaman, ",
+      "aktas": "Yıldızlar dağıldığı zaman,",
+      "okuyan": "Gezegenler serpiştirildiğinde,"
     },
     {
       "number": 5832,
@@ -56,7 +76,17 @@
       "bulac": "Denizler, fışkırtılıp taşırıldığı zaman,",
       "esed": "denizler kabarıp taştığında,",
       "suleymaniye": "denizler (kıtaların üzerine) taşırıldığında,[1]",
-      "ates": "Denizler fışkırtıldığı zaman,"
+      "ates": "Denizler fışkırtıldığı zaman,",
+      "hulusi": "Denizler kaynayıp fışkırtıldığında,",
+      "bayrakli": "Denizler fışkırtıldığında,",
+      "elmali_sade": "denizler (yarılıp) akıtıldığında,",
+      "cantay": "Denizler fışkırtıldığı zaman,",
+      "piris": "Denizler taşırıldığı..",
+      "yildirim": "Denizler birbirine katılıp tek deniz haline geldiği zaman...",
+      "safa": "Denizler kaynayıp fışkırtıldığında.",
+      "yuksel": "Denizler akıtılıp taşırıldığı zaman, ",
+      "aktas": "Denizler kabarıp taştığı zaman,",
+      "okuyan": "Denizler fışkırtıl(ıp kabar)tıldığında,"
     },
     {
       "number": 5833,
@@ -72,7 +102,17 @@
       "bulac": "Ve kabirlerin içi 'deşilip dışa atıldığı' zaman;",
       "esed": "ve kabirler alt üst olduğunda,",
       "suleymaniye": "ve kabirlerin içi dışına çıkarıldığında,[1]",
-      "ates": "Kabirlerin içi dışına getirildiği zaman,"
+      "ates": "Kabirlerin içi dışına getirildiği zaman,",
+      "hulusi": "Ruhlar dünyalarından çıkartıldıklarında (evrensel gerçekliği fark ettiklerinde);",
+      "bayrakli": "Kabirlerin içi dışına getirildiğinde,",
+      "elmali_sade": "kabirler deşildiğinde,",
+      "cantay": "Kabirler (in toprağı) alt üst edildiği zaman,",
+      "piris": "Kabirlerin içi dışına çıkarıldığı zaman..",
+      "yildirim": "Kabirlerin içi dışına çıkarıldığı zaman...",
+      "safa": "Ve mezarlar alt üst edildiğinde.",
+      "yuksel": "Mezarların içi dışına çevrildiği zaman, ",
+      "aktas": "Kabirler alt üst edildiği zaman,",
+      "okuyan": "Mezarlar(ın içindekiler dışarı) çıkartıldığında,"
     },
     {
       "number": 5834,
@@ -88,7 +128,17 @@
       "bulac": "(Artık her) Nefis önceden takdim ettiklerini ve ertelediklerini bilip öğrenmiştir.",
       "esed": "her insan, (sonunda,) ilerisi için ne hazırladığını ve (bu dünyada) ne bıraktığını anlayacaktır.",
       "suleymaniye": "her nefis, neyi önceleyip yaptığını ve neyi ertelediğini öğrenecektir.[1]",
-      "ates": "Her can, ne (yapıp) öne sürdüğünü ve ne (yapmayıp) geride bıraktığını bilir."
+      "ates": "Her can, ne (yapıp) öne sürdüğünü ve ne (yapmayıp) geride bıraktığını bilir.",
+      "hulusi": "Her nefs takdim ettiği (yapıp önceden gönderdiği) ve tehir ettiği (yapmadığı, sonraya bıraktığı) şeyi bilmiştir.",
+      "bayrakli": "Herkes, neyi önünden gönderdiğini ve neyi geri bıraktığını bilecektir.",
+      "elmali_sade": "bir nefis (herkes) önden neyi gönderdiğini ve neyi bıraktığını bilir.",
+      "cantay": "(her) nefs önden ne yolladı, geriye ne bırakdıysa (artık hepsini görüb) bilmişdir (bilecekdir).",
+      "piris": "Kişi ne hazırlamış olduğunu ne ertelemiş olduğunu bilecektir.",
+      "yildirim": "İşte o zaman!.. Her kişi ne yapıp ne yapmadığını iyice anlayacaktır.",
+      "safa": "Benlik, yaptığını ve yapmadığını öğrenmiştir.",
+      "yuksel": "Her kişi,  yaptığını ve yapmadığını öğrenecektir.",
+      "aktas": "Herkes yaptığını ve yapmadığını bilecek.",
+      "okuyan": "Her can (dünyada yapıp) öne sürdüklerini ve (yapmayıp) geride bıraktıklarını bilmiş (olacak)tır."
     },
     {
       "number": 5835,
@@ -104,7 +154,17 @@
       "bulac": "Ey insan, 'üstün kerem sahibi' olan Rabbine karşı seni aldatıp yanıltan nedir?",
       "esed": "Ey insan! Nedir seni lütuf sahibi Rabbinden uzaklaştıran,",
       "suleymaniye": "Ey insan! Çok cömert olan Rabbin /Sahibin hakkında seni aldatan şey nedir?[1]",
-      "ates": "Ey insan, seni engin kerem sahibi Rabbine karşı ne aldatıp isyana sürükledi?"
+      "ates": "Ey insan, seni engin kerem sahibi Rabbine karşı ne aldatıp isyana sürükledi?",
+      "hulusi": "Ey insan! Keriym olan Rabbine (Hakikatine, hakikatini bildiren bilgiye nankör olmaya) nasıl cüret ettin?",
+      "bayrakli": "Ey insan! Lütfu bol Rabbinden seni uzaklaştıran nedir?",
+      "elmali_sade": "Ey insan, o lütfu bol olan Rabbine karşı ne aldattı seni?",
+      "cantay": "Ey insan, O (lütf-ü) keremi bol Rabbine karşı seni aldatan ne?",
+      "piris": "(6-7) -Ey insan, seni yaratan ve seni düzenleyip, sana biçim veren, çok cömert ve bağışlayıcı Rabbine karşı seni aldatan nedir?",
+      "yildirim": "Ey insan, nedir seni o kerim Rabbin hakkında aldatan?",
+      "safa": "Ey insan! Nimeti Çok Efendine karşı seni aldatan nedir?",
+      "yuksel": "Ey insan,  seni Onurlu olan Efendine karşı aldatan nedir?",
+      "aktas": "Ey insan! Kerim[1] olan Rabb'ine karşı seni aldatan nedir?",
+      "okuyan": "Ey insan! Cömert Rabbine karşı seni aldatan nedir?"
     },
     {
       "number": 5836,
@@ -120,7 +180,17 @@
       "bulac": "Ki O, seni yarattı, 'sana bir düzen içinde biçim verdi' ve seni bir itidal üzere kıldı.",
       "esed": "seni yaratan ve varlık amacına uygun olarak şekillendiren, tabiatını adil ölçüler içinde oluşturan,",
       "suleymaniye": "Rabbin; seni yaratan, son şeklini veren, arkasından (ruh üfleyerek) seni (diğer insanlarla) denk hale getiren,[1]",
-      "ates": "O (Rab) ki seni yarattı, seni düzenledi, sana ölçülü bir biçim verdi."
+      "ates": "O (Rab) ki seni yarattı, seni düzenledi, sana ölçülü bir biçim verdi.",
+      "hulusi": "O ki seni yarattı (izhar etti), seni tesviye etti (beynini, bilincini ve ruhunu oluşturacak şekilde meydana getirdi), seni tam dengeli yaptı!",
+      "bayrakli": "- O, seni yaratıp sana şekil veren, seni düzgün ve ölçülü kılan, istediği şekilde seni terkip edendir.",
+      "elmali_sade": "O ki, seni yarattı, düzenine koydu ve dengeli kıldı.",
+      "cantay": "(O Rabbine karşı) ki seni yaratan, sana (şu) salim uzuvlar (ı) veren, (onları birbirleriyle denk yapmak suretiyle) sana şu nizaam ve i'tidali bahşedendir O.",
+      "piris": "(6-7) -Ey insan, seni yaratan ve seni düzenleyip, sana biçim veren, çok cömert ve bağışlayıcı Rabbine karşı seni aldatan nedir?",
+      "yildirim": "O değil mi seni yaratan, bütün vücud sistemini düzenleyen ve sana dengeli bir hilkat veren,",
+      "safa": "O, seni yarattı. Sonra, en güzel ölçülerle biçimlendirdi.",
+      "yuksel": "O ki seni yarattı,  düzenledi,  uyumlu hale soktu;[1]",
+      "aktas": "Seni yarattı, sonra sana şekil verdi, organlarını uyumlu ve dengeli yaptı.",
+      "okuyan": "O ki seni yarattı, şekillendirdi, dengeli kıldı."
     },
     {
       "number": 5837,
@@ -136,7 +206,17 @@
       "bulac": "Dilediği bir surette seni tertib etti.",
       "esed": "ve seni dilediği şekilde bir araya getiren (Rabbinden)?",
       "suleymaniye": "tercih ettiği[1] özgün bir biçimde seni oluşturandır.[2]",
-      "ates": "Seni(n organlarını) dilediği şekilde birbirine ekledi."
+      "ates": "Seni(n organlarını) dilediği şekilde birbirine ekledi.",
+      "hulusi": "Hangi surette olmanı diledi ise öylece terkibini - bileşimini oluşturdu!",
+      "bayrakli": "- O, seni yaratıp sana şekil veren, seni düzgün ve ölçülü kılan, istediği şekilde seni terkip edendir.",
+      "elmali_sade": "Seni dilediği herhangi bir biçimde oluşturdu.",
+      "cantay": "Seni dilediği herhangi bir suretde terkib edendir O.",
+      "piris": "O, seni dilediği surette tertip etti.",
+      "yildirim": "Ve seni dilediği bir surette terkib eden?",
+      "safa": "Dilediği biçimde seni oluşturdu.",
+      "yuksel": "Dilediği bir biçimde seni oluşturdu.",
+      "aktas": "Seni dilediği şekilde düzenledi.",
+      "okuyan": "Dilediği şekilde seni oluşturdu."
     },
     {
       "number": 5838,
@@ -152,7 +232,17 @@
       "bulac": "Asla, hayır; siz dini yalanlıyorsunuz;",
       "esed": "Hayır, (ey insanlar,) siz (Allah'ın) hükmünü yalanla(maya ne zaman kalkıştıysanız Allah'tan uzaklaş)tınız!",
       "suleymaniye": "Hayır, hayır! Aslında siz din hakkında yalan söyleyip duruyorsunuz![1]",
-      "ates": "Hayır, (bu gururunuzun sebebi şudur) siz ceza (görme)yi yalanlıyorsunuz."
+      "ates": "Hayır, (bu gururunuzun sebebi şudur) siz ceza (görme)yi yalanlıyorsunuz.",
+      "hulusi": "Hayır, (iş sandığınız gibi değil)! Bilakis dininizi (tabi olduğunuz Sistem'i) yalanlıyorsunuz!",
+      "bayrakli": "Öyle değil, doğrusu sizler yargı gününü yalanlıyorsunuz.",
+      "elmali_sade": "Hayır, hayır, doğrusu siz dini yalanlıyor, cezaya inanmıyorsunuz.",
+      "cantay": "Hayır (siz Allahın keremine de mağrur olmuyorsunuz). Bil'akis dini yalan sayıyorsunuz.",
+      "piris": "Hayır, aksine dini/hesabı yalanlıyorsunuz.",
+      "yildirim": "Hayır, yanlış yapıyorsunuz! Siz tutup dini, dirilip hesap vermeyi yalan sayıyorsunuz.",
+      "safa": "Hayır, asla! Dini yalanlıyorsunuz.",
+      "yuksel": "Doğrusu,  siz,  dini yalanlıyorsunuz.",
+      "aktas": "Hayır! Bilakis, siz dini[1] yalanlıyorsunuz!",
+      "okuyan": "Hayır! Doğrusu siz dini (hesap gününü) yalanlıyorsunuz."
     },
     {
       "number": 5839,
@@ -168,7 +258,17 @@
       "bulac": "Oysa gerçekten sizin üzerinizde koruyucular var,",
       "esed": "Halbuki üzerinizde gözetleyici güçler vardır,",
       "suleymaniye": "Şurası kesin ki üzerinizde (sizinle ilgili bilgileri) özenle koruyanlar vardır.",
-      "ates": "Oysa üzerinizde koruyucu (yaptıklarınızı zabtedici melek)ler vardır;"
+      "ates": "Oysa üzerinizde koruyucu (yaptıklarınızı zabtedici melek)ler vardır;",
+      "hulusi": "Muhakkak ki (her düşüncenizi beyninizden ruhunuza) kaydediciler olduğu halde.",
+      "bayrakli": "- Oysa sizin üzerinizde gözcüler vardır. Değerli yazıcılar. Onlar sizin ne yaptığınızı bilirler.",
+      "elmali_sade": "Halbuki, üzerinizde gözcüler var.",
+      "cantay": "Halbuki sizin üstünüzde hakıyki bekçiler,",
+      "piris": "Oysa üzerinizde kaydediciler var.",
+      "yildirim": "Halbuki yanınızdan ayrılmayan muhafızlar var.",
+      "safa": "Aslında, üzerinizde gözetmenler var.",
+      "yuksel": "Halbuki üstünüzde koruyucular vardır.",
+      "aktas": "Sizin üzerinizde kesinlikle kaydediciler var,",
+      "okuyan": "(10, 11, 12) Üzerinizde, yapmakta olduklarınızı bilen, değerli yazıcılardan oluşan kaydediciler (melekler) vardır.[1]"
     },
     {
       "number": 5840,
@@ -184,7 +284,17 @@
       "bulac": "'Şerefli üstün' yazıcılar.",
       "esed": "değerli kaydedici(ler),",
       "suleymaniye": "Değerli yazıcılar…",
-      "ates": "Değerli yazıcılar,"
+      "ates": "Değerli yazıcılar,",
+      "hulusi": "Kiramen Katibin (muhteşem yazıcı kuvveler)!",
+      "bayrakli": "- Oysa sizin üzerinizde gözcüler vardır. Değerli yazıcılar. Onlar sizin ne yaptığınızı bilirler.",
+      "elmali_sade": "Değerli, dürüst katipler.",
+      "cantay": "(Allah indinde) çok şerefli yazıcılar vardır,",
+      "piris": "Şerefli yazıcılar/Kiramen katibin.",
+      "yildirim": "O muhafızlar değerli, şerefli katiplerdir.",
+      "safa": "Değerli yazıcılar.",
+      "yuksel": "Onlar onurlu kayıtçılardır.",
+      "aktas": "Şerefli yazıcılar.",
+      "okuyan": "(10, 11, 12) Üzerinizde, yapmakta olduklarınızı bilen, değerli yazıcılardan oluşan kaydediciler (melekler) vardır.[1]"
     },
     {
       "number": 5841,
@@ -200,7 +310,17 @@
       "bulac": "Her yapmakta olduğunuzu bilirler.",
       "esed": "yaptığınız her şeyin farkında olan!",
       "suleymaniye": "Onlar ne yaptığınızı bilirler.[1]",
-      "ates": "Yaptığınız herşeyi bilirler."
+      "ates": "Yaptığınız herşeyi bilirler.",
+      "hulusi": "Ne yaparsanız bilirler.",
+      "bayrakli": "- Oysa sizin üzerinizde gözcüler vardır. Değerli yazıcılar. Onlar sizin ne yaptığınızı bilirler.",
+      "elmali_sade": "Her ne yaparsanız biliyorlar.",
+      "cantay": "Ki onlar ne yapıyorsanız bilirler.",
+      "piris": "Ne yaptığınızı biliyorlar.",
+      "yildirim": "Yaptığınız her şeyi bilip yazarlar.",
+      "safa": "Yaptığınız her şeyi bilirler.",
+      "yuksel": "Yaptıklarınızı bilirler.",
+      "aktas": "Yaptığınız her şeyi bilirler.",
+      "okuyan": "(10, 11, 12) Üzerinizde, yapmakta olduklarınızı bilen, değerli yazıcılardan oluşan kaydediciler (melekler) vardır.[1]"
     },
     {
       "number": 5842,
@@ -216,7 +336,17 @@
       "bulac": "Şüphesiz ebrar olanlar, elbette nimetler(le donatılmış cennetler) içindedirler.",
       "esed": "Bakın, (öteki dünyada) gerçek erdem sahipleri nimetler içinde bulunacaklar,",
       "suleymaniye": "Erdemliler, elbette nimetler içinde olacaklar.[1]",
-      "ates": "İyiler ni'met içindedirler."
+      "ates": "İyiler ni'met içindedirler.",
+      "hulusi": "Muhakkak ki Ebrar (iyiler), elbette Nimet cenneti içindedir.",
+      "bayrakli": "Şüphesiz iyiler nimetler içinde olacaklardır.",
+      "elmali_sade": "Şüphesiz ki, iyiler Naim (Cenneti) içindedirler.",
+      "cantay": "İyiler, hiç şübhesiz Naıym (cennetin) de,",
+      "piris": "İyiler, elbette nimetler içinde olacaktır.",
+      "yildirim": "İyi ve hayırlı insanlar naim cennetinde, nimetler içindedirler.",
+      "safa": "Kuşkusuz, iyilik taşıyanlar, nimetler içindedir.",
+      "yuksel": "İyiler nimetler içindedir.",
+      "aktas": "Birr[1] olanlar nimet[2] içindedirler.",
+      "okuyan": "Şüphesiz ki iyiler, elbette nimet içinde (olacak)tır."
     },
     {
       "number": 5843,
@@ -232,7 +362,17 @@
       "bulac": "Ve şüphesiz facir (kötü) olanlar da, elbette çılgınca yanan ateşin içindedirler.",
       "esed": "kötü ruhlular ise yakıcı bir ateş içinde,",
       "suleymaniye": "Günaha batanlar ise mutlaka yakıcı ateşte olacak,[1]",
-      "ates": "Kötüler de yakıcı ateş içindedirler."
+      "ates": "Kötüler de yakıcı ateş içindedirler.",
+      "hulusi": "Muhakkak ki füccar (kötüler, Hak'tan sapanlar), elbette Cahim (ateş) içindedirler.",
+      "bayrakli": "Kötüler de cehennemde olacaklardır.",
+      "elmali_sade": "Ve şüphesiz kötüler de cehennemdedirler.",
+      "cantay": "Kötüler ise muhakkak alevli ateşdedirler.",
+      "piris": "Kötüler/günahkarlar ise kesinlikle cehennemdedir.",
+      "yildirim": "Yoldan sapan kafirler ise ateştedirler.",
+      "safa": "Ve kuşkusuz, kötülük taşıyanlar, yakıcı bir ateş içindedir.",
+      "yuksel": "Kötüler ise cehennemde.",
+      "aktas": "Facirler[1] Cehennem'dedirler.",
+      "okuyan": "Şüphesiz ki (yoldan) sapanlar ise cehennemde (olacak)tır."
     },
     {
       "number": 5844,
@@ -248,7 +388,17 @@
       "bulac": "Onlar, din günü oraya yollanırlar.",
       "esed": "(bir ateş ki) Hesap Günü ortasına düşerler,",
       "suleymaniye": "yapılan her şeyin karşılığını bulacağı gün oraya girip kalacak[1]",
-      "ates": "Ceza günü oraya girerler."
+      "ates": "Ceza günü oraya girerler.",
+      "hulusi": "Din hükümlerinin yaşandığı süreçte yaslanırlar ona!",
+      "bayrakli": "- Yargı günü oraya girecekler ve süreli orada kalacaklardır.",
+      "elmali_sade": "Din gününde ona yaşlanacaklardır.",
+      "cantay": "Din (ceza) günü oraya gireceklerdir.",
+      "piris": "Din günü oraya atılacaklardır.",
+      "yildirim": "Onlar yalan saydıkları hesap günü oraya girerler.",
+      "safa": "Yargı Günü'nde, oraya gireceklerdir.",
+      "yuksel": "Din Günü oraya girerler.",
+      "aktas": "Din Günü[1] ona yaslanırlar.",
+      "okuyan": "Hesap gününde oraya gireceklerdir."
     },
     {
       "number": 5845,
@@ -264,7 +414,17 @@
       "bulac": "Ve ondan ayrılıp kaybolacak değildirler.",
       "esed": "ve ondan kurtulmaları mümkün olmaz.",
       "suleymaniye": "ve oradan kaçıp kaybolamayacaklardır.[1]",
-      "ates": "Onlar ondan (hiçbir yere kaçıp) kaybolacak değillerdir."
+      "ates": "Onlar ondan (hiçbir yere kaçıp) kaybolacak değillerdir.",
+      "hulusi": "Onlar her an cehennemi müşahede eder haldedirler!",
+      "bayrakli": "- Yargı günü oraya girecekler ve süreli orada kalacaklardır.",
+      "elmali_sade": "Ondan çıkacak da değillerdir.",
+      "cantay": "Ve onlar bundan ayrılanlar da değildir.",
+      "piris": "Onlar, oradan kaybolacak değillerdir.",
+      "yildirim": "Hem oradan hiç ayrılmazlar.",
+      "safa": "Zaten ondan kurtulamazlar.",
+      "yuksel": "Oradan hiç ayrılamazlar.",
+      "aktas": "Onlar, onda yanıp bitecek değillerdir.",
+      "okuyan": "Oradan asla kurtulamayacaklardır."
     },
     {
       "number": 5846,
@@ -280,7 +440,17 @@
       "bulac": "Din gününü sana bildiren şey nedir?",
       "esed": "Hesap Günü nedir bilir misin?",
       "suleymaniye": "Her şeyin karşılığını bulacağı günün ne olduğunu sana kim bildirebilir!",
-      "ates": "Ceza gününün ne olduğunu sen nereden bileceksin?"
+      "ates": "Ceza gününün ne olduğunu sen nereden bileceksin?",
+      "hulusi": "Bilir misin Din Günü'nü?",
+      "bayrakli": "-Yargı gününün ne olduğunu sen ne bileceksin? Evet, yargı gününün ne olduğunu sen ne bileceksin? Hiçbir insanın başkasına herhangi bir fayda vermeye gücünün yetmeyeceği bir gündür. O gün, emir yalnızca Allah'ındır.",
+      "elmali_sade": "Sen bildin mi nedir din günü?",
+      "cantay": "O din günü nedir? (Bunu) sana hangi şey öğretdi?",
+      "piris": "-Sana bildiren nedir? Din gününün ne olduğunu..",
+      "yildirim": "O din gününün, o hesap gününün ne olduğunu sen bilir misin?",
+      "safa": "Yargı Günü'nü, sana bildiren nedir?",
+      "yuksel": "Din Gününün ne olduğunu bilir misin?",
+      "aktas": "Din Günü'nün ne olduğunu sen nereden bileceksin?",
+      "okuyan": "Hesap gününün ne olduğunu sana bildiren ne olabilir ki!"
     },
     {
       "number": 5847,
@@ -296,7 +466,17 @@
       "bulac": "Ve yine din gününü sana bildiren şey nedir?",
       "esed": "Ve bir kez daha: Hesap Günü nedir bilir misin?",
       "suleymaniye": "Evet, sana kim bildirebilir, her şeyin karşılığını bulacağı günün ne olduğunu![1]",
-      "ates": "Ve yine ceza gününün ne olduğunu sen nereden bileceksin?"
+      "ates": "Ve yine ceza gününün ne olduğunu sen nereden bileceksin?",
+      "hulusi": "Sonra, bilir misin Din Günü'nü?",
+      "bayrakli": "-Yargı gününün ne olduğunu sen ne bileceksin? Evet, yargı gününün ne olduğunu sen ne bileceksin? Hiçbir insanın başkasına herhangi bir fayda vermeye gücünün yetmeyeceği bir gündür. O gün, emir yalnızca Allah'ındır.",
+      "elmali_sade": "Evet, sen bildin mi nedir din günü?",
+      "cantay": "O din günü nedir? Tekrar (bunu) sana hangi şey öğretdi?",
+      "piris": "Yine, Din gününün ne olduğunu Sana bildiren nedir?",
+      "yildirim": "Evet, bir daha söylüyorum: Din gününün ne olduğunu sen bilir misin?",
+      "safa": "Evet! Yargı Günü'nü, sana bildiren nedir?",
+      "yuksel": "Evet,  Din Gününün ne olduğunu bilir misin?",
+      "aktas": "Evet, Din Günü'nün ne olduğunu sen nereden bileceksin?",
+      "okuyan": "Evet! O Hesap gününün ne olduğunu sana bildiren ne olabilir ki!"
     },
     {
       "number": 5848,
@@ -312,7 +492,17 @@
       "bulac": "Hiçbir nefsin bir başka nefse herhangi bir şeye güç yetiremeyeceği gündür; o gün emir yalnızca Allah'ındır.",
       "esed": "Hiçbir insanın başka birine zerre fayda sağlayamayacağı bir Gün(dür o) çünkü o Gün (açık seçik görülecektir ki) hakimiyet yalnız Allah'a aittir.",
       "suleymaniye": "Hiç kimsenin bir başkası için bir şey yapma yetkisi olmadığı günü (aklından çıkarma)[1]. O gün her iş Allah'ın elindedir.[2]",
-      "ates": "O, kimsenin kimseye yardım edemeyeceği bir gündür! O gün buyruk, yalnız Allah'ındır."
+      "ates": "O, kimsenin kimseye yardım edemeyeceği bir gündür! O gün buyruk, yalnız Allah'ındır.",
+      "hulusi": "O süreçte kimse, kimse için hiçbir şey yapamaz! O süreçte hüküm Allah'a aittir (birimin yapacak hiçbir şeyi yoktur, yalnızca yapılmışların sonuçları yaşanır)!",
+      "bayrakli": "-Yargı gününün ne olduğunu sen ne bileceksin? Evet, yargı gününün ne olduğunu sen ne bileceksin? Hiçbir insanın başkasına herhangi bir fayda vermeye gücünün yetmeyeceği bir gündür. O gün, emir yalnızca Allah'ındır.",
+      "elmali_sade": "O gün ki, kimse, kimse için hiçbir yardım yapma gücüne sahip olamaz ve o gün buyruk yalnız Allah'ındır!",
+      "cantay": "O, öyle bir gündür ki hiçbir kimse kimseye, hiçbir şeyle faide vermiye muktedir olamayacakdır. O gün emir (yalınız) Allahındır.",
+      "piris": "Hiç kimsenin, hiç kimseye sahip olamayacağı bir gündür. O gün, emir sadece, Allah'ındır.",
+      "yildirim": "O, kimsenin kimseye hiç fayda veremeyeceği bir gün! O gün, bütün hüküm ve yetki yalnız Allah'ın!",
+      "safa": "O gün, benlik, bir başka benliğe yardım edemez. Çünkü o gün, buyruk, Allah'ındır.[578]",
+      "yuksel": "O gün kimsenin kimseye yardımı dokunmaz. O gün tüm kararlar yalnız ALLAH'a aittir.[1]",
+      "aktas": "O, kimsenin kimseye yardım etmeye gücünün yetmeyeceği bir gündür. O gün karar vermek bütünüyle Allah'a aittir.[1]",
+      "okuyan": "O gün, kimse kimse için herhangi bir şeye (yetkiye) sahip olamaz. O gün, yetki yalnızca Allah'a aittir.[1]"
     }
   ]
 }

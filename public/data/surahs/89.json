@@ -24,7 +24,17 @@
       "bulac": "Fecre andolsun,",
       "esed": "Şafağı düşün",
       "suleymaniye": "O fecre[1] / o sabahın alaca karanlığına yemin olsun!",
-      "ates": "Andolsun fecre (tan yeri ağarmasına),"
+      "ates": "Andolsun fecre (tan yeri ağarmasına),",
+      "hulusi": "Kasem ederim o Fecr'e,",
+      "bayrakli": "- Şafak vaktine, on geceye, her şeyin çiftine ve tekine, geçip giden geceye yemin olsun ki,",
+      "elmali_sade": "Andolsun şafağa.",
+      "cantay": "Andolsun fecre,",
+      "piris": "Andolsun Fecre..",
+      "yildirim": "Fecre,",
+      "safa": "Yemin olsun; Tan Zamanına!",
+      "yuksel": "Ant olsun tan vaktine, ",
+      "aktas": "Fecre[1] ant olsun.",
+      "okuyan": "Yemin olsun: Tan vaktine,"
     },
     {
       "number": 5995,
@@ -40,7 +50,17 @@
       "bulac": "On geceye,",
       "esed": "ve on geceyi!",
       "suleymaniye": "On geceye,[1]",
-      "ates": "On geceye,"
+      "ates": "On geceye,",
+      "hulusi": "On geceye,",
+      "bayrakli": "- Şafak vaktine, on geceye, her şeyin çiftine ve tekine, geçip giden geceye yemin olsun ki,",
+      "elmali_sade": "on geceye,",
+      "cantay": "on geceye,",
+      "piris": "On Gece'ye..",
+      "yildirim": "O on geceye,",
+      "safa": "Ve on geceye!",
+      "yuksel": "On geceye, [1]",
+      "aktas": "On geceye,",
+      "okuyan": "On geceye,"
     },
     {
       "number": 5996,
@@ -56,7 +76,17 @@
       "bulac": "Çift'e ve tek'e,",
       "esed": "Çok olanı ve Tek olanı düşün!",
       "suleymaniye": "onun çift olanına ve tek olanına,[1]",
-      "ates": "Çift'e ve tek'e,"
+      "ates": "Çift'e ve tek'e,",
+      "hulusi": "Çift'e ve Tek'e!",
+      "bayrakli": "- Şafak vaktine, on geceye, her şeyin çiftine ve tekine, geçip giden geceye yemin olsun ki,",
+      "elmali_sade": "çifte ve teke,",
+      "cantay": "hem çifte, hem teke,",
+      "piris": "Çifte ve teke..",
+      "yildirim": "Çifte ve teke,",
+      "safa": "Hem çifte hem teke!",
+      "yuksel": "Çifte ve teke, ",
+      "aktas": "Çift ve tek olana,",
+      "okuyan": "‘Çift'e ve ‘tek'e,"
     },
     {
       "number": 5997,
@@ -72,7 +102,17 @@
       "bulac": "Akıp gittiği zaman geceye,",
       "esed": "Kendi yolunda akıp giden geceyi düşün!",
       "suleymaniye": "ve başladığında[1] o geceye yemin olsun![2]",
-      "ates": "Gitmekte olan geceye."
+      "ates": "Gitmekte olan geceye.",
+      "hulusi": "Geçip gittiğinde o geceye. . .",
+      "bayrakli": "- Şafak vaktine, on geceye, her şeyin çiftine ve tekine, geçip giden geceye yemin olsun ki,",
+      "elmali_sade": "ve geçeceği sırada geceye.",
+      "cantay": "gelib geçeceği dem geceye,",
+      "piris": "Geçip giden geceye..",
+      "yildirim": "Akıp giden geceye yemin olsun ki: (Kıyamet gelecektir.)",
+      "safa": "Ve akıp giden geceye!",
+      "yuksel": "Ve geçmekte olan geceye.",
+      "aktas": "Geçip giden geceye.",
+      "okuyan": "Geçmekte olan geceye ki[1]"
     },
     {
       "number": 5998,
@@ -88,7 +128,17 @@
       "bulac": "Bunlarda, akıl sahibi olan için bir yemin var, değil mi?",
       "esed": "Düşün bütün bunları; bunlarda, akıl sahipleri için hakikatin sağlam bir kanıtı yok mudur?",
       "suleymaniye": "Bunlar, aklını iyi kullananlar[1] için önemli birer yemindir, değil mi!",
-      "ates": "Bu (anıla)n (şeyler)de akıl sahibi için bir yemin var, değil mi? (İşte bunlara andolsun ki kafirler mutlaka azaba uğrayacaklardır!)"
+      "ates": "Bu (anıla)n (şeyler)de akıl sahibi için bir yemin var, değil mi? (İşte bunlara andolsun ki kafirler mutlaka azaba uğrayacaklardır!)",
+      "hulusi": "(Nasıl) işte bunlarda akıl sahibi için bir yemin yok mu?",
+      "bayrakli": "Bunda, akıl sahibi için hakikatin sağlam bir kanıtı yok mudur?",
+      "elmali_sade": "Nasıl, bunlarda bir akıl sahibi için bir yemin (edilir şey) var değil mi?",
+      "cantay": "(— ki) bunlarda akıl saahibi için birer yemin (değeri) vardır — (size elbette azaba uğratılacaksınız).",
+      "piris": "Bunda akıl sahibi için bir yemin var mıdır?",
+      "yildirim": "Nasıl, bunlarda aklı olan için yemin değeri vardır değil mi?",
+      "safa": "Bu yeminler, aklı olanlar için; öyle değil mi?",
+      "yuksel": "Zeka sahipleri için bunlar birer yemin değil midir?[1]",
+      "aktas": "İşte bunlarda aklını kullanan kimse[1] için bir kasem[2] yok mu?",
+      "okuyan": "Akıl sahibi için bun(lar)da bir yemin var değil mi? "
     },
     {
       "number": 5999,
@@ -104,7 +154,17 @@
       "bulac": "Rabbinin Ad (kavmin)e ne yaptığını görmedin mi?",
       "esed": "Bilmez misin Rabbin neler yaptı Ad (halkın)a,",
       "suleymaniye": "Rabbinin Ad kavmini ne hale getirdiğini gözünde canlandırmaz mısın;[1]",
-      "ates": "Görmedin mi Rabbin ne yaptı Ad (kavmin)e?"
+      "ates": "Görmedin mi Rabbin ne yaptı Ad (kavmin)e?",
+      "hulusi": "Görmedin mi Rabbin nasıl yaptı, Ad'a (Hud'un toplumu),",
+      "bayrakli": "Görmedin mi Rabbin nasıl yaptı 'Ad kavmine,",
+      "elmali_sade": "Görmedin mi Rabbin ne yaptı Ad kavmine?",
+      "cantay": "Görmedin mi, Rabbin nice yapdı \"Aad\" e,",
+      "piris": "Ad kavmine Rabbin neler yaptı, görmedin mi?",
+      "yildirim": "(6-10) Beldeler içinde benzeri yaratılmamış ve yüksek binalarla dolu İrem şehrinde oturan Ad milletine. Vadideki kayaları oyup yontarak sağlam evler yapan Semud milletine, Çadırlı ordugahlar, piramitler sahibi Firavun'a, Rabbinin ne yaptığını görmedin mi?",
+      "safa": "Efendinin, Âd'a ne yaptığını görmüyor musun?",
+      "yuksel": "Görmedin mi Efendin ne yaptı Ad halkına?",
+      "aktas": "Rabb'inin Ad kavmine ne yaptığını biliyor musun?",
+      "okuyan": "Rabbin (şunlara) ne yaptı görmedin mi: Âd (kavmine),"
     },
     {
       "number": 6000,
@@ -120,7 +180,17 @@
       "bulac": "'Yüksek sütunlar' sahibi İrem'e?",
       "esed": "çok sütunlu İrem (halkına),",
       "suleymaniye": "sütunları olan İrem şehrini?",
-      "ates": "Sütunlu İrem'e?"
+      "ates": "Sütunlu İrem'e?",
+      "hulusi": "Çok sütunlu (belde) İrem'e?",
+      "bayrakli": "- Ülkeler arasında eşi yaratılmamış sütunlu İrem'e?",
+      "elmali_sade": "Sütunların sahibi İrem'e",
+      "cantay": "(Ya'ni) o direk saahibi \"İrem\" e?",
+      "piris": "Sütunlar sahibi İrem'e..",
+      "yildirim": "(6-10) Beldeler içinde benzeri yaratılmamış ve yüksek binalarla dolu İrem şehrinde oturan Ad milletine. Vadideki kayaları oyup yontarak sağlam evler yapan Semud milletine, Çadırlı ordugahlar, piramitler sahibi Firavun'a, Rabbinin ne yaptığını görmedin mi?",
+      "safa": "Sütunlarla dolu İrem'e?[596]",
+      "yuksel": "Yüksek kulelere sahip İrem'e ki;[1]",
+      "aktas": "Sütunlara sahip İrem'e!",
+      "okuyan": "(7, 8) (Yüksek) sütunları olan İrem (şehrine) -ki şehirler içinde onun benzeri yaratılmamıştı."
     },
     {
       "number": 6001,
@@ -136,7 +206,17 @@
       "bulac": "Ki şehirler içinde onun bir benzeri yaratılmış değildi.",
       "esed": "ki bütün o topraklarda bir benzeri inşa edilmemişti?",
       "suleymaniye": "Orası öyle bir yerdi ki şehirler içinde onun gibisi kurulmamıştı.[1]",
-      "ates": "Ki ülkeler arasında onun eşi yaratılmamıştı."
+      "ates": "Ki ülkeler arasında onun eşi yaratılmamıştı.",
+      "hulusi": "Ki beldeler içinde onun benzeri yaratılmamıştı!",
+      "bayrakli": "- Ülkeler arasında eşi yaratılmamış sütunlu İrem'e?",
+      "elmali_sade": "ki, o ülkeler içinde bir benzeri yaratılmamıştı.",
+      "cantay": "Ki o, şehirlerde bir benzeri yaratılmayandı,",
+      "piris": "Ve şehirler arasında bir benzeri yaratılmamıştı..",
+      "yildirim": "(6-10) Beldeler içinde benzeri yaratılmamış ve yüksek binalarla dolu İrem şehrinde oturan Ad milletine. Vadideki kayaları oyup yontarak sağlam evler yapan Semud milletine, Çadırlı ordugahlar, piramitler sahibi Firavun'a, Rabbinin ne yaptığını görmedin mi?",
+      "safa": "Yörelerin arasında, onun bir benzeri yaratılmamıştı.",
+      "yuksel": "Hiçbir ülkede eşi ortaya konmamıştı.",
+      "aktas": "Ki, beldeler içinde onun bir eşi yaratılmadı;",
+      "okuyan": "(7, 8) (Yüksek) sütunları olan İrem (şehrine) -ki şehirler içinde onun benzeri yaratılmamıştı."
     },
     {
       "number": 6002,
@@ -152,7 +232,17 @@
       "bulac": "Ve vadilerde kayaları oyup biçen Semud'a?",
       "esed": "Ve vadide kayaları oymuş olan Semud (halkın)a?",
       "suleymaniye": "Vadideki kayaları oyan[1] Semud halkını[2]",
-      "ates": "Vadi('l-Kura)da kayaları oya(rak evler yapa)n Semud (kavmin)e?"
+      "ates": "Vadi('l-Kura)da kayaları oya(rak evler yapa)n Semud (kavmin)e?",
+      "hulusi": "(Rabbin ne yaptı) vadide kayaları oyan Semud'a (Salih'in toplumu)?",
+      "bayrakli": "Vadide kayaları yontup evler yapan Semud kavmine?",
+      "elmali_sade": "Ve vadilerde kayaları kesen (yontan) Semud kavmine?",
+      "cantay": "Ve vaadi (ler) de kayaları oyan \"Semuud\" a,",
+      "piris": "Ki vadide kayalar oyan Semud'a..",
+      "yildirim": "(6-10) Beldeler içinde benzeri yaratılmamış ve yüksek binalarla dolu İrem şehrinde oturan Ad milletine. Vadideki kayaları oyup yontarak sağlam evler yapan Semud milletine, Çadırlı ordugahlar, piramitler sahibi Firavun'a, Rabbinin ne yaptığını görmedin mi?",
+      "safa": "Ya vadide kayaları oyan Semud?",
+      "yuksel": "Vadideki kayaları oyan Semud'a?",
+      "aktas": "Ve vadide kayaları oyan Semud'a,",
+      "okuyan": "Vadideki kayaları oyan Semûd (kavmine),"
     },
     {
       "number": 6003,
@@ -168,7 +258,17 @@
       "bulac": "Ve kazıklar (ehramlar) sahibi Firavun'a?",
       "esed": "Ve (pek çok) çadır direğine sahip Firavun'a?",
       "suleymaniye": "ve kazıkları (piramitleri) olan Firavun'u da[1] (ne hale getirdiğini gözünde canlandırmaz mısın?)",
-      "ates": "Ve kazıklar sahibi Fir'avn'a?"
+      "ates": "Ve kazıklar sahibi Fir'avn'a?",
+      "hulusi": "Yüksek direklerin (piramitlerin) sahibi Firavun'a.",
+      "bayrakli": "Saltanat sahibi Firavun'a.",
+      "elmali_sade": "O kazıkların sahibi Firavun'a?",
+      "cantay": "o kazıklar saahibi \"Fir'avn\" e.",
+      "piris": "Kazıklar/pramitler sahibi Firavun'a..",
+      "yildirim": "(6-10) Beldeler içinde benzeri yaratılmamış ve yüksek binalarla dolu İrem şehrinde oturan Ad milletine. Vadideki kayaları oyup yontarak sağlam evler yapan Semud milletine, Çadırlı ordugahlar, piramitler sahibi Firavun'a, Rabbinin ne yaptığını görmedin mi?",
+      "safa": "Ve direkler edinen Firavun?[597]",
+      "yuksel": "Ve büyük bir güce sahip olan Firavuna?",
+      "aktas": "Ve kazıklar sahibi Firavun'a;",
+      "okuyan": "Kazıklar sahibi Firavun'a."
     },
     {
       "number": 6004,
@@ -184,7 +284,17 @@
       "bulac": "Ki onlar, şehirlerde azgınlaşmışlardı.",
       "esed": "(Onlar) toprakları üzerinde hak ve adalet sınırlarını aştılar;",
       "suleymaniye": "Onlar, şehirlerinde taşkınlık etmiş kimselerdi.[1]",
-      "ates": "Bunlar ülkelerde azmışlardı."
+      "ates": "Bunlar ülkelerde azmışlardı.",
+      "hulusi": "Onlar ki, beldeler içinde benlikle azgınca yaşamışlardı.",
+      "bayrakli": "- O ülkelerde haddi aşanları, oralarda bozgunculuğu arttıranları nasıl yok ettiğini bilmez misin? Rabbin onların üzerine azap kırbacını indirmiştir. Rabbin kesinlikle gözetmektedir.",
+      "elmali_sade": "Onlar ki o memleketlerde azıtmışlardı.",
+      "cantay": "Ki (bütün) bunlar memleketler (in) de azgınlık edenlerdi.",
+      "piris": "Onlar, ülkelerde azmışlardı.",
+      "yildirim": "Bütün bunlar, bulundukları ülkelerde azdıkça azdılar.",
+      "safa": "Yörelerde azıttılar.",
+      "yuksel": "Tüm bunlar ülkelerinde azmışlardı.",
+      "aktas": "Onlar ki, ülkelerde tağutlaşmışlardı,[1]",
+      "okuyan": "Onlar şehirlerde azgınlık etmişlerdi."
     },
     {
       "number": 6005,
@@ -200,7 +310,17 @@
       "bulac": "Böylece oralarda fesadı yaygınlaştırmış, arttırmışlardı.",
       "esed": "ve orada büyük bir yozlaşma ve çürümeye sebep oldular;",
       "suleymaniye": "Oralarda bozgunculuklarını iyice artırmışlardı.[1]",
-      "ates": "Oralarda çok kötülük etmişlerdi."
+      "ates": "Oralarda çok kötülük etmişlerdi.",
+      "hulusi": "Onlarda fesadı çoğaltmışlardı!",
+      "bayrakli": "- O ülkelerde haddi aşanları, oralarda bozgunculuğu arttıranları nasıl yok ettiğini bilmez misin? Rabbin onların üzerine azap kırbacını indirmiştir. Rabbin kesinlikle gözetmektedir.",
+      "elmali_sade": "Oralarda çok bozgunculuk yapmışlardı.",
+      "cantay": "O suretle ki oralarda fesadı çoğaltmışlardı.",
+      "piris": "Oralarda fesadı çoğaltmışlardı.",
+      "yildirim": "Oralarda fesat ve bozgun çıkarıp, nizamı altüst ettiler.",
+      "safa": "Böylece, kötülükleri orada yaygınlaştırdılar.",
+      "yuksel": "Oralarda kötülükleri yaygınlaştırmışlardı.",
+      "aktas": "Böylece oralarda bozgunculuğu çoğaltmışlardı.",
+      "okuyan": "Orada bozgunculuğu çoğaltmışlardı.[1]"
     },
     {
       "number": 6006,
@@ -216,7 +336,17 @@
       "bulac": "Bundan dolayı, Rabbin, onların üzerine bir azab kamçısı çarpıverdi.",
       "esed": "işte bu yüzden Rabbin onları azap kırbacından geçirdi;",
       "suleymaniye": "Rabbin de tepelerine azap kamçısını indirmişti.[1]",
-      "ates": "Bu yüzden Rabbin onların üzerine azab kırbacını çarptı."
+      "ates": "Bu yüzden Rabbin onların üzerine azab kırbacını çarptı.",
+      "hulusi": "Bu sebeple Rabbin onların üzerine, azabın kamçısını indirdi.",
+      "bayrakli": "- O ülkelerde haddi aşanları, oralarda bozgunculuğu arttıranları nasıl yok ettiğini bilmez misin? Rabbin onların üzerine azap kırbacını indirmiştir. Rabbin kesinlikle gözetmektedir.",
+      "elmali_sade": "Onun için de Rabbin üzerlerine bir azap kamçısı yağdırdı.",
+      "cantay": "Bundan dolayı Rabbin de üzerlerine bir azab kamçısı yağdırıverdi.",
+      "piris": "Rabbin de onlara azap kırbacı yağdırdı.",
+      "yildirim": "Bu yüzden senin Rabbin de onların üstüne azap kamçıları yağdırdı.",
+      "safa": "Bu yüzden, Efendin, ceza kamçısıyla onları kırbaçladı.",
+      "yuksel": "Nitekim,  Efendin de üstlerine türlü felaketler yağdırdı.[1]",
+      "aktas": "Bu yüzden Rabb'in onları azap kırbacıyla kırbaçladı.",
+      "okuyan": "Bu yüzden Rabbin onların üzerine azap kırbacını yağdırmıştı."
     },
     {
       "number": 6007,
@@ -232,7 +362,17 @@
       "bulac": "Çünkü senin Rabbin, gerçekten gözetleme yerindedir.",
       "esed": "çünkü Rabbin, şüphesiz, her zaman gözetleyip durmaktadır!",
       "suleymaniye": "Senin Rabbin elbette gözetleme makamındadır.[1]",
-      "ates": "Elbette Rabbin gözetleme yerindedir (her an kullarının fiillerini gözetlemektedir)."
+      "ates": "Elbette Rabbin gözetleme yerindedir (her an kullarının fiillerini gözetlemektedir).",
+      "hulusi": "Muhakkak ki Rabbin, tamamıyla gözetlemektedir.",
+      "bayrakli": "- O ülkelerde haddi aşanları, oralarda bozgunculuğu arttıranları nasıl yok ettiğini bilmez misin? Rabbin onların üzerine azap kırbacını indirmiştir. Rabbin kesinlikle gözetmektedir.",
+      "elmali_sade": "Şüphesiz ki Rabbin öyle mirsad ile gözetlemektedir.",
+      "cantay": "Çünkü Rabbin şübhesiz ki rasad yerindedir.",
+      "piris": "Çünkü Rabbin gözetleyip durmaktadır.",
+      "yildirim": "Çünkü Rabbin hep gözetlemededir.",
+      "safa": "Kuşkusuz, Efendin, kesinlikle gözetliyor.",
+      "yuksel": "Efendin sürekli gözetlemektedir.",
+      "aktas": "Çünkü Rabb'in olup -biteni görüp- gözlemektedir.",
+      "okuyan": "Şüphesiz ki Rabbin, (sürekli) gözetlemektedir."
     },
     {
       "number": 6008,
@@ -248,7 +388,17 @@
       "bulac": "Fakat insan; ne zaman Rabbi kendisini bir denemeden geçirse, ona bir keremde bulunsa, nimetler verse: \"Rabbim bana ikram etti\" der.",
       "esed": "İnsana gelince, ne zaman Rabbin onu, cömertliğiyle ve hoşnut olacağı bir hayat bağışlamakla denese, \"Rabbim, bana karşı (ne kadar) cömertmiş!\" der;",
       "suleymaniye": "Ama insan var ya… Rabbi onu imtihana sokup ona ikramda bulunur ve bolca nimet verirse: \"Rabbim bana ikram etti, bana!\" der.[1]",
-      "ates": "Fakat insan öyledir; Rabbi ne zaman kendisini sınayıp ona ikramda bulunur, ona ni'met verirse: \"Rabbim bana ikram etti\" der."
+      "ates": "Fakat insan öyledir; Rabbi ne zaman kendisini sınayıp ona ikramda bulunur, ona ni'met verirse: \"Rabbim bana ikram etti\" der.",
+      "hulusi": "Ama insana gelince, Rabbi onu denemek için ikram edip, onu nimetlendirirse: \"Rabbim bana ikram etti, üstün kıldı\" der (şımarır)!",
+      "bayrakli": "İnsana gelince, Rabbi kendisini imtihan edip ikramda bulunduğunda ve bol nimet verdiğinde, \"Rabbim bana cömert davrandı\" der.",
+      "elmali_sade": "Ama insan, Rabbi onu her ne zaman imtihan edip de kendisine ikramda bulunur, nimetler verirse: \"Rabbim bana ikram etti.\" der.",
+      "cantay": "Amma insan, ne zaman Rabbi onu imtihaan edib de kendisine (lütf-ü) kerem (iyle muaamele) eder, ona ni'metler verirse \"Rabbim beni şerefli kıldı\" der!",
+      "piris": "İşte insan, onu Rabbi imtihan ettiği zaman, ona ikramda bulunup, nimetlendirince: -Rabbim bana ikramda bulundu der.",
+      "yildirim": "Rabbi, insanı denemek için ona değer verip, nimetlere gark edince o: \"Rabbim hakkım olan ikramı yaptı.\" der.",
+      "safa": "İnsan öyledir; Efendisi eliaçık davranır ve nimetlerle onu sınarsa; \"Efendim, bana eliaçık davrandı!\" der.",
+      "yuksel": "Efendisi,  sınamak için insana bolca verip sevindirdiği zaman,  \"Efendim bana cömert davrandı\" der.",
+      "aktas": "Fakat o insan[1]; Rabb'i ne zaman onu sınamak için ikramda bulunsa ve ona nimet verse, \"Rabb'im bana ikram etti.[2]\" der.",
+      "okuyan": "İnsana gelince, Rabbi kendisini imtihan edip ona ikramda bulunduğunda ve bol nimet verdiğinde \"Rabbim bana ikram etti.\" der."
     },
     {
       "number": 6009,
@@ -264,7 +414,17 @@
       "bulac": "Ama ne zaman onu deneyerek, rızkını kıssa, hemen: \"Rabbim bana ihanet etti\" der.",
       "esed": "ama geçim vasıtalarını daraltarak onu denediği zaman ise, \"Rabbim beni küçük düşürdü!\" di(ye sızlanı)r.",
       "suleymaniye": "Yine onu imtihana sokup bu defa da rızkını daraltırsa: \"Rabbim beni perişan etti!\" der.[1]",
-      "ates": "Ama Rabbi onu sınayıp rızkını daraltırsa: \"Rabbim beni alçalttı (perişan etti)\" der."
+      "ates": "Ama Rabbi onu sınayıp rızkını daraltırsa: \"Rabbim beni alçalttı (perişan etti)\" der.",
+      "hulusi": "Fakat onu bela ile deneyip geçimini daraltır ise: \"Rabbim beni alçaltıp zelil kıldı\" der (isyan eder, sabretmez)!",
+      "bayrakli": "Fakat imtihan edip rızkını daralttığında ise, \"Rabbim beni önemsemedi\" der.",
+      "elmali_sade": "Fakat her ne zaman da sınayıp rızkını daraltırsa: \"Rabbim bana ihanet etti.\" der.",
+      "cantay": "Fakat ne vakit da onu deneyerek üzerine rızkını daraltırsa şimdi de\" Rabbim bana ihanet etdi\" der!",
+      "piris": "Ama onu, imtihan edip, rızkını daralttığında: -Rabbim bana ihanet etti, der.",
+      "yildirim": "Ama yine denemek için nasibini daraltınca O: \"Rabbim beni zelil, perişan etti!\" der.",
+      "safa": "Fakat geçimini daraltarak onu sınarsa; \"Efendim, beni aşağıladı!\" der.[598]",
+      "yuksel": "Ancak ne zaman ki rızkını kısarak onu sınarsa,  \"Efendim beni küçük düşürdü\" der.",
+      "aktas": "Fakat ne zaman ona sınamak için rızkını ölçülü verirse,[1] \"Rabb'im beni alçaltı.[2]\" der.",
+      "okuyan": "(Fakat) ne zaman onu imtihan edip rızkını daralttığında ise \"Rabbim beni küçük düşürdü (önemsemedi)\" der."
     },
     {
       "number": 6010,
@@ -280,7 +440,17 @@
       "bulac": "Hayır; aksine, siz yetime ikram etmiyorsunuz.",
       "esed": "Ama hayır, hayır, (ey insanlar, bütün yaptıklarınızı ve yapmadıklarınızı bir düşünün:) siz yetime karşı cömert değilsiniz,",
       "suleymaniye": "Hayır, hayır! Aslında (imtihanı kaybediyorsunuz çünkü) siz yetime ikramda bulunmuyorsunuz.[1]",
-      "ates": "Hayır, doğrusu siz (Allah'tan ikram bekliyorsunuz ama kendiniz) yetime ikram etmiyorsunuz."
+      "ates": "Hayır, doğrusu siz (Allah'tan ikram bekliyorsunuz ama kendiniz) yetime ikram etmiyorsunuz.",
+      "hulusi": "Hayır! Hayır, yetime ikram etmiyorsunuz!",
+      "bayrakli": "- Hayır! Doğrusu siz yetime ikram etmiyorsunuz; yoksulu doyurmaya teşvik etmiyorsunuz; haram helal demeden mirası yiyorsunuz; malı aşırı derecede seviyorsunuz.",
+      "elmali_sade": "Hayır, hayır, doğrusu siz yetime ikram etmiyorsunuz.",
+      "cantay": "Hayır. Siz bil'akis yetime iyilik etmezsiniz.",
+      "piris": "-Hayır, yetime ikramda bulunmuyorsunuz.",
+      "yildirim": "Hayır! (Siz Allah'tan hep ikramı devam ettirmesini istersiniz ama,) yetime değer vermezsiniz!",
+      "safa": "Hayır, asla! Yetime ilgi göstermiyorsunuz.",
+      "yuksel": "Hayır! Doğrusu siz öksüze cömert davranmıyorsunuz?",
+      "aktas": "Hayır! Doğrusu siz yetime ikram etmiyorsunuz.",
+      "okuyan": "Hayır! Doğrusu, siz yetime ikram etmiyorsunuz.[1]"
     },
     {
       "number": 6011,
@@ -296,7 +466,17 @@
       "bulac": "Yoksula yedirmek için birbirinizi teşvik etmiyorsunuz.",
       "esed": "muhtaçları doyurmaya birbirinizi teşvik etmiyorsunuz,",
       "suleymaniye": "Çaresizlerin yiyeceği için birbirinizi teşvik bile etmiyorsunuz.[1]",
-      "ates": "Yoksula yedirmeğe teşvik etmiyorsunuz."
+      "ates": "Yoksula yedirmeğe teşvik etmiyorsunuz.",
+      "hulusi": "Yoksulları yedirip doyurmaya birbirinizi teşvik etmiyorsunuz.",
+      "bayrakli": "- Hayır! Doğrusu siz yetime ikram etmiyorsunuz; yoksulu doyurmaya teşvik etmiyorsunuz; haram helal demeden mirası yiyorsunuz; malı aşırı derecede seviyorsunuz.",
+      "elmali_sade": "Birbirinizi yoksulu doyurmaya teşvik etmiyorsunuz.",
+      "cantay": "Yoksula yedirmek için birbirinizi kandırmazsınız.",
+      "piris": "Düşkünü doyurmaya teşvik etmiyorsunuz.",
+      "yildirim": "Muhtaçları doyurmaya teşvik etmezsiniz.",
+      "safa": "Yoksulu doyurmak için birbirinizi özendirmiyorsunuz.",
+      "yuksel": "Yoksulu yedirmeye birbirinizi teşvik etmiyorsunuz.",
+      "aktas": "Yoksulu yedirmede birbirinizi teşvik etmiyorsunuz.",
+      "okuyan": "Yoksulu yedirmeye de birbirinizi teşvik etmiyorsunuz.[1]"
     },
     {
       "number": 6012,
@@ -312,7 +492,17 @@
       "bulac": "Mirası, sınır tanımaz (helal, haram aldırmaz) bir tarzda yiyorsunuz.",
       "esed": "(başkalarının) mirasını açgözlülükle yiyip bitiriyorsunuz,",
       "suleymaniye": "Mirası,[1] (Allah'ın emirlerini gözetmeden)[2] toplayıp yiyorsunuz.",
-      "ates": "Mirası hırsla yutuyorsunuz."
+      "ates": "Mirası hırsla yutuyorsunuz.",
+      "hulusi": "Mirası toptan yiyorsunuz!",
+      "bayrakli": "- Hayır! Doğrusu siz yetime ikram etmiyorsunuz; yoksulu doyurmaya teşvik etmiyorsunuz; haram helal demeden mirası yiyorsunuz; malı aşırı derecede seviyorsunuz.",
+      "elmali_sade": "Oysa mirası dermecesine (helal haram demeden) öyle bir yiyiş yiyorsunuz ki!",
+      "cantay": "Mirası halal, haaram demeyib alabildiğinize yersiniz.",
+      "piris": "Mirası da hak gözetmeden yiyorsunuz.",
+      "yildirim": "Mirasları helal haram demeden ne gelse yersiniz.",
+      "safa": "Aç gözlülükle varlığı yiyorsunuz.",
+      "yuksel": "Mirası da hak gözetmeden yiyorsunuz.",
+      "aktas": "Varis olduğunuz mirası ihtirasla yiyorsunuz.[1]",
+      "okuyan": "Mirası hırslı bir yiyişle (helal-haram demeden) yiyorsunuz."
     },
     {
       "number": 6013,
@@ -328,7 +518,17 @@
       "bulac": "Malı 'bir yığma tutkusu ve hırsıyla' seviyorsunuz.",
       "esed": "ve sınırsız bir sevgiyle malı mülkü seviyorsunuz!",
       "suleymaniye": "Malı pek çok seviyorsunuz.[1]",
-      "ates": "Malı pek çok seviyorsunuz."
+      "ates": "Malı pek çok seviyorsunuz.",
+      "hulusi": "Malı da pek çok seviyorsunuz, toplayıp yığarcasına.",
+      "bayrakli": "- Hayır! Doğrusu siz yetime ikram etmiyorsunuz; yoksulu doyurmaya teşvik etmiyorsunuz; haram helal demeden mirası yiyorsunuz; malı aşırı derecede seviyorsunuz.",
+      "elmali_sade": "Malı öyle bir seviş seviyorsunuz ki, yığmacasına!",
+      "cantay": "Malı pek çok seversiniz.",
+      "piris": "Malı da pek çok seviyorsunuz.",
+      "yildirim": "Mal mülk sevgisi ise bütün benliğinizi kaplamış!",
+      "safa": "Çünkü sınırsız bir sevgiyle malı seviyorsunuz.",
+      "yuksel": "Parayı/malı da çok fazla seviyorsunuz.",
+      "aktas": "Malı büyük bir sevgiyle, çok seviyorsunuz.",
+      "okuyan": "Malı çok (aşırı) bir sevgiyle seviyorsunuz."
     },
     {
       "number": 6014,
@@ -344,7 +544,17 @@
       "bulac": "Hayır; yer, parça parça yıkılıp darmadağın olduğu,",
       "esed": "Peki, (Hesap Günü nasıl davranacaksınız,) yeryüzü ardarda sarsılıp paramparça olduğunda,",
       "suleymaniye": "Hayır, hayır! Yeryüzü dümdüz hale getirilince,[1]",
-      "ates": "Hayır, yer birbiri ardınca sarsılıp dümdüz edildiği zaman,"
+      "ates": "Hayır, yer birbiri ardınca sarsılıp dümdüz edildiği zaman,",
+      "hulusi": "Hayır, (böyle yapmayın)! Arz (beden sarsılıp), darmadağın edildiğinde,",
+      "bayrakli": "- Hayır! Yeryüzü ardı ardına sarsılıp paramparça olduğunda, Rabbinin emri gelip melekler saf saf dizildiğinde,",
+      "elmali_sade": "Hayır, hayır, yer üst üste sarsıntılarla düzlendiği zaman,",
+      "cantay": "Hakkaa ki yer (zelzeleyle) parça parça dağıtıldığı zaman,",
+      "piris": "-Hayır, Yer paramparça olduğu zaman,",
+      "yildirim": "Hayır! Bu yaptıklarınız kesinlikle yanlış! Dünya sarsılıp parça parça döküldüğü zaman,",
+      "safa": "Hayır, asla! Yeryüzü art arda sarsılıp, paramparça olduğunda.",
+      "yuksel": "Doğrusu,  yer çarpılıp paralandığı zaman, ",
+      "aktas": "Hayır, hayır! Yer, paramparça olup dağıldığı zaman,",
+      "okuyan": "(21, 22) Hayır! Yer şiddetli bir sarsıntıyla sarsıldığı, melekler sıra sıra (dururken) Rabbin(in emri) geldiği zaman (haliniz nasıl olacak?) "
     },
     {
       "number": 6015,
@@ -360,7 +570,17 @@
       "bulac": "Rabbin(in buyruğu) geldiği ve melekler dizi dizi durduğu zaman;",
       "esed": "ve Rabbin(in haşmeti) ortaya çıktığında ve melekler (gerçek hüviyetleriyle) saf saf olduklarında?",
       "suleymaniye": "melekler de sıra sıra dizili iken Rabbin gelince,[1]",
-      "ates": "Melekler sıra sıra dizili durumda Rabbin geldiği zaman."
+      "ates": "Melekler sıra sıra dizili durumda Rabbin geldiği zaman.",
+      "hulusi": "(Ölümle) Rabbin (hükmü) ve el Melek (kuvveler) saf saf dizildiğinde,",
+      "bayrakli": "- Hayır! Yeryüzü ardı ardına sarsılıp paramparça olduğunda, Rabbinin emri gelip melekler saf saf dizildiğinde,",
+      "elmali_sade": "Rabbinin emri gelip melekler saf saf dizildiği zaman,",
+      "cantay": "Rabbin (in emri) geldiği, melekler de saf saf (indiği zaman),",
+      "piris": "Rabbin ve saf saf melekler geldiğinde..",
+      "yildirim": "Rabbinin emri gelip melekler de saf saf geldikleri zaman,",
+      "safa": "Efendin geldiğinde ve melekler sıralanarak dizildiğinde.",
+      "yuksel": "Efendin,  dizi dizi meleklerle birlikte geldiği zaman, ",
+      "aktas": "Rabb'in emri geldiği ve melekler saf saf dizildiği zaman,",
+      "okuyan": "(21, 22) Hayır! Yer şiddetli bir sarsıntıyla sarsıldığı, melekler sıra sıra (dururken) Rabbin(in emri) geldiği zaman (haliniz nasıl olacak?) "
     },
     {
       "number": 6016,
@@ -376,7 +596,17 @@
       "bulac": "O gün, cehennem de getirilmiştir. İnsan o gün düşünüp hatırlar, ancak (bu) hatırlamadan ona ne fayda?",
       "esed": "İşte o Gün cehennem (gözönüne) getirilip konacak; o Gün insan (yaptığı ve yapmadığı her şeyi) hatırlayacak ama bu hatırlamanın ne faydası olacak ona?",
       "suleymaniye": "o gün cehennem de getirilince… İşte o gün insan doğruları hatırlar ama bu hatırlamanın ona ne faydası olur ki![1]",
-      "ates": "Ve cehennem de getirildiği zaman. İşte o gün insan anlar, ama artık anlamanın kendisine ne yararı var?"
+      "ates": "Ve cehennem de getirildiği zaman. İşte o gün insan anlar, ama artık anlamanın kendisine ne yararı var?",
+      "hulusi": "(İşte) o süreçte, cehennem de getirilir (Dünya'yı kuşatır)! (İşte) o süreçte, insan hatırlayıp düşünür. . . (Fakat) Zikra'nın (hatırlamanın) ona nasıl faydası olur (beden - beyin yok artık ruhu geliştirecek)?",
+      "bayrakli": "İşte o gün cehennem getirilir. O gün insan her şeyi hatırlayacak, ama bu hatırlamanın ona ne faydası olacak?",
+      "elmali_sade": "cehennemde ki, getirilmiştir; o insan o gün anlar, ama bu anlamanın ne yararı var ona?",
+      "cantay": "ki o gün cehennem de getirilmişdir, insan o gün (herşey'i) hatırlayacak. Fakat hatırlamadan ona ne (faide)?",
+      "piris": "İşte cehennem o gün getirilir. Ve insan o gün doğruyu hatırlar. Ama nasıl öğüt alacak?",
+      "yildirim": "Ve cehennemin getirildiği gün... İnsan işi anlar o gün. Ama anlamasının ne faydası var o gün!",
+      "safa": "O gün, cehennem de getirilir. İnsan, o gün anlayacaktır. Ama anlamanın, artık ona ne yararı var?",
+      "yuksel": "Ki cehennem de o gün getirilmiştir. İşte o gün insan anlayacaktır. Artık anlamanın kendisine ne yararı var ki!",
+      "aktas": "O Gün Cehennem ortaya getirilir. O Gün insan neyin ne olduğunu anlar, ancak bunun ona bir yararı olmaz.",
+      "okuyan": "O gün, cehennem getirilecek ve insan (yaptıklarını) hatırlayacaktır. Ama (artık) bu hatırlamanın kendisine ne (yarar)ı olabilir ki!"
     },
     {
       "number": 6017,
@@ -392,7 +622,17 @@
       "bulac": "Der ki: \"Keşke hayatım için, (önceden bir şeyler) takdim edebilseydim.\"",
       "esed": "O, \"Ah, keşke (gelecek) hayatım için önceden bir hazırlık yapsaydım!\" diyecek.",
       "suleymaniye": "\"Ah! Keşke şimdiki hayatım için önceden bir şeyler yapsaydım!\" der.[1]",
-      "ates": "(O zaman insan): \"Ah, keşke ben bu hayatım için (iyi işler yapıp) gönderseydim!\" der."
+      "ates": "(O zaman insan): \"Ah, keşke ben bu hayatım için (iyi işler yapıp) gönderseydim!\" der.",
+      "hulusi": "\"Keşke hayatım (şu yaşamım) için önceden yararlı şeyler yapsaydım!\" der.",
+      "bayrakli": "\"Ah, keşke bu hayatım için önceden bir şeyler yapsaydım!\" der.",
+      "elmali_sade": "Der ki: \"Keşke ben bu hayatım için (sağlığımda hayırlar) göndermiş olsaydım.\"",
+      "cantay": "\"Ah, diyecek, keski hayatım için önden (saalih ameller) yapsaydım\".",
+      "piris": "Oysa dünya hayatının ve imtihanın sona erdiği o gün öğüt alma günü değil, karar günüdür. Orada gerçeği anlamak artık işe yaramaz. Ve insanlar her şeyin gerçekliğinin bütün çıplaklığı ile gözler önüne serildiği o gün şöyle der: -Keşke hayatım için hazırlıkta bulunsaydım.",
+      "yildirim": "\"Keşke sağlığımda bu hayatım için hazırlık yapsaydım!\" der.",
+      "safa": "\"Keşke bu yaşamım için, önceden bir şeyler yapsaydım!\" der.",
+      "yuksel": "\"Keşke bu hayatım için önceden bir şeyler yapsaydım\" der.",
+      "aktas": "\"Ah keşke hayattayken, ahiret hayatım için hazırlık yapmış olsaydım.\" der.",
+      "okuyan": "(O insan:) \"Ah, keşke, bu hayatım için (dünyadayken iyi) bir şeyler gönderseydim!\" diyecektir."
     },
     {
       "number": 6018,
@@ -408,7 +648,17 @@
       "bulac": "Artık o gün hiç kimse (Allah'ın) vereceği azab gibi azablandıramaz.",
       "esed": "Hiç kimse Allah'ın o Gün (günahkarlara verdiği) azap gibi azap veremez;",
       "suleymaniye": "O gün Rabbinin vereceği azabı hiç kimse veremez,[1]",
-      "ates": "O gün O'nun yapacağı azabı kimse yapamaz."
+      "ates": "O gün O'nun yapacağı azabı kimse yapamaz.",
+      "hulusi": "Artık o süreçte, O'nun azabı gibi hiçbir kimse azap edemez!",
+      "bayrakli": "- O gün Allah'ın günahkarlara vereceği azabı, hiç kimse veremez ve hiç kimse O'nun gibi bağ vuramaz.",
+      "elmali_sade": "Artık o gün O'nun ettiği azabı kimse edemez.",
+      "cantay": "Artık o gün (Allahın) azabı gibi hiçbir kimse azab yapamaz,",
+      "piris": "İşte, hiç kimse o gün Allah'ın cezalandırdığı gibi cezalandıramaz.",
+      "yildirim": "İşte o gün O'nun ettiği azabı kimse edemez.",
+      "safa": "Artık, o gün, O'nun cezası gibi, hiç kimse cezalandıramaz.",
+      "yuksel": "O gün,  O'nun cezası gibi bir cezayı kimse veremez.",
+      "aktas": "Artık O Gün, O'nun azbı hiç kimsenin azabına benzemez.",
+      "okuyan": "O gün, O'nun (Allah'ın) edeceği azap (gibi) kimse azap edemez."
     },
     {
       "number": 6019,
@@ -424,7 +674,17 @@
       "bulac": "Onun vuracağı bağı hiç kimse vuramaz.",
       "esed": "ve hiç kimse O'nun gibi bağlarla bağlayamaz.",
       "suleymaniye": "onun vuracağı bağı da hiç kimse vuramaz.[1]",
-      "ates": "Ve O'nun vuracağı bağı kimse vuramaz!"
+      "ates": "Ve O'nun vuracağı bağı kimse vuramaz!",
+      "hulusi": "Hiç kimse O'nun bağladığı gibi bağlayamaz!",
+      "bayrakli": "- O gün Allah'ın günahkarlara vereceği azabı, hiç kimse veremez ve hiç kimse O'nun gibi bağ vuramaz.",
+      "elmali_sade": "Ve O'nun vurduğu bağ gibi kimse vuramaz.",
+      "cantay": "Onun vurduğu bağ gibi de kimse bağ vuramaz.",
+      "piris": "Hiç kimse onun bağladığı gibi bağlayamaz.",
+      "yildirim": "O'nun vurduğu bağı kimse vuramaz.",
+      "safa": "Ve O'nun bağladığı gibi, hiç kimse bağlayamaz.",
+      "yuksel": "O'nun vurduğu bağ gibisini de kimse bağlayamaz.",
+      "aktas": "O'nun vurduğu bağ, hiç kimsenin vurduğu bağa benzemez.",
+      "okuyan": "O'nun (vuracağı) bağ (gibi) kimse bağ vuramaz."
     },
     {
       "number": 6020,
@@ -440,7 +700,17 @@
       "bulac": "Ey mutmain (tatmin bulmuş) nefis,",
       "esed": "(Ama dürüst ve erdemlilere,) \"Ey iç huzuruna ermiş olan insanoğlu!\" (diye seslenecek Allah,)",
       "suleymaniye": "Ey içi rahat olan kişi![1]",
-      "ates": "Ey huzura eren nefis!"
+      "ates": "Ey huzura eren nefis!",
+      "hulusi": "\"Ey Nefs-i Mutmainne (Hakikati yaşamakta tatmine ulaşmış bilinç)!\"",
+      "bayrakli": "Ey doyuma ulaşmış nefis!",
+      "elmali_sade": "Ey Rabbine itaat eden huzura ermiş ruh,",
+      "cantay": "Ey itmi'nane ermiş ruuh,",
+      "piris": "-Ey huzura ermiş can!",
+      "yildirim": "(27-30) Ey gönül huzuruna ermiş ruh! Sen Rabbinden razı, O senden razı olarak dön Rabbine! Sen de katıl has kullarımın içine, gir cennetime!",
+      "safa": "\"Ey doygunluğa erişmiş benlik!\"",
+      "yuksel": "Ey doygunluğa ermiş kişi, ",
+      "aktas": "\"Ey mutmain nefs![1]",
+      "okuyan": "Ey huzura kavuşan nefis (insan)! "
     },
     {
       "number": 6021,
@@ -456,7 +726,17 @@
       "bulac": "Rabbine, hoşnut edici ve hoşnut edilmiş olarak dön.",
       "esed": "\"Rabbine O'ndan hoşnut kalmış ve (O'nu) hoşnut etmiş olarak dön,",
       "suleymaniye": "Sen ondan razı, o da senden razı olarak Rabbine dön![1]",
-      "ates": "Razı edici ve razı edilmiş olarak Rabbine dön!"
+      "ates": "Razı edici ve razı edilmiş olarak Rabbine dön!",
+      "hulusi": "\"Radiye olarak, Mardiye olarak (Seyir ve tasarruf kemalatını yaşayan olarak) Rabbine (Esma hakikatine) dön (şuur olarak)!\"",
+      "bayrakli": "Hem hoşnut edici, hem de hoşnut edilmiş olarak Rabbine dön!",
+      "elmali_sade": "dön Rabbine, sen O'ndan O senden hoşnut olarak!",
+      "cantay": "dön Rabbine, sen Ondan raazi, O senden raazi olarak.",
+      "piris": "Hoşnut olarak, hoşnut olunarak Rabbine dön.",
+      "yildirim": "(27-30) Ey gönül huzuruna ermiş ruh! Sen Rabbinden razı, O senden razı olarak dön Rabbine! Sen de katıl has kullarımın içine, gir cennetime!",
+      "safa": "\"Efendine dön; hoşnut kalmış ve O'nun hoşnutluğunu kazanmış olarak!\"",
+      "yuksel": "Hoşnut olarak ve hoşnut olunarak Efendine dön.",
+      "aktas": "Rızasını kazanarak, razı olarak Rabb'ine dön.[1]",
+      "okuyan": "Sen (Allah'tan) memnun, (Allah da) senden razı olarak Rabbine dön! "
     },
     {
       "number": 6022,
@@ -472,7 +752,17 @@
       "bulac": "Artık kullarımın arasına gir.",
       "esed": "gir, öyleyse Benim (öteki sadık) kullarımla birlikte,",
       "suleymaniye": "(İyi) kullarıma katıl[1]",
-      "ates": "(İyi) Kullarım arasına gir!"
+      "ates": "(İyi) Kullarım arasına gir!",
+      "hulusi": "\"Kullarımın ('sanı varlığı' 'yok'luğa dönüşmüş olarak işlevlerine devam edenler) içine dahil ol!\"",
+      "bayrakli": "- Kullarımın arasına ve cennetime gir!",
+      "elmali_sade": "Gir kullarımın içine!",
+      "cantay": "Haydi gir kullarımın içine.",
+      "piris": "Kullarımın arasına katıl.",
+      "yildirim": "(27-30) Ey gönül huzuruna ermiş ruh! Sen Rabbinden razı, O senden razı olarak dön Rabbine! Sen de katıl has kullarımın içine, gir cennetime!",
+      "safa": "\"Artık, gir kullarımın arasına!\"",
+      "yuksel": "Kullarımın arasına hoşgeldin.",
+      "aktas": "Kullarıma katıl;[1]",
+      "okuyan": "(İyi) kullarım(ın) arasına katıl"
     },
     {
       "number": 6023,
@@ -488,7 +778,17 @@
       "bulac": "Cennetime gir.",
       "esed": "gir cennetime!\"",
       "suleymaniye": "ve Cennetime gir![1]",
-      "ates": "Cennetime gir!"
+      "ates": "Cennetime gir!",
+      "hulusi": "\"Cennetim'e dahil ol!\"",
+      "bayrakli": "- Kullarımın arasına ve cennetime gir!",
+      "elmali_sade": "Gir cennetime!",
+      "cantay": "Gir cennetime.",
+      "piris": "Ve gir cennetime...",
+      "yildirim": "(27-30) Ey gönül huzuruna ermiş ruh! Sen Rabbinden razı, O senden razı olarak dön Rabbine! Sen de katıl has kullarımın içine, gir cennetime!",
+      "safa": "\"Ve gir cennetime!\"",
+      "yuksel": "Bahçeme hoşgeldin.",
+      "aktas": "Cennetime gir.\"",
+      "okuyan": "Cennetime gir![1]"
     }
   ]
 }

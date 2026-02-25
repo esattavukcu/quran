@@ -24,7 +24,17 @@
       "bulac": "De ki: O Allah, birdir.",
       "esed": "De ki: \"O, Tek Allah'tır:",
       "suleymaniye": "De ki: \"O Allah, bir tektir[1].",
-      "ates": "De ki: O Allah birdir."
+      "ates": "De ki: O Allah birdir.",
+      "hulusi": "De ki: \"HU Allah EHAD'dır! (son - sınır kavramsız TEK'tir)\"",
+      "bayrakli": "- De ki: Allah tektir. Varlığını sürdürmek için hiçbir şeye muhtaç değildir, herkes O'na muhtaçtır.",
+      "elmali_sade": "De ki: \"O Allah tek birdir.",
+      "cantay": "De ki: O Allahdır, bir tekdir,",
+      "piris": "De ki: -O Allah birdir.",
+      "yildirim": "De ki: O, Allah'tır, gerçek İlahtır ve Birdir.",
+      "safa": "De ki: \"O Allah ki, Birdir!\"",
+      "yuksel": "De ki: \"O ALLAH bir tektir.\"",
+      "aktas": "De ki: \"O Allah[1] Ehad'dır.[2]\"",
+      "okuyan": "De ki:[1] \"O, Allah'tır; tektir."
     },
     {
       "number": 6223,
@@ -40,7 +50,17 @@
       "bulac": "Allah, Samed'dir (her şey O'na muhtaçtır, daimdir, hiçbir şeye ihtiyacı olmayandır).",
       "esed": "Allah, Öncesiz ve Sonrasız, Bütün Evrenin Asıl Sebebi.",
       "suleymaniye": "Allah, her şeyin kendisine muhtaç olduğu varlıktır.[1]",
-      "ates": "Allah Samed'dir."
+      "ates": "Allah Samed'dir.",
+      "hulusi": "\"Allah SAMED'dir (Som, kendisine bir şey eklenmesi, genişlemesi ya da kendisinden bir şey açığa çıkması söz konusu olmayan);\"",
+      "bayrakli": "- De ki: Allah tektir. Varlığını sürdürmek için hiçbir şeye muhtaç değildir, herkes O'na muhtaçtır.",
+      "elmali_sade": "Allah, o eksiksiz, Samed'dir (Her şey O'na muhtaçtır.)",
+      "cantay": "(O), Allahdır, sameddir (zeval bulmayan bir baakıydir, daimdir, herkesin ve herşey'in doğrudan doğruya muhtac olduğu ve kasdetdiği yegane varlıkdır, ulular ulusudur).",
+      "piris": "Allah sameddir.",
+      "yildirim": "Allah Samed'dir. (Samed: \"Tam, eksiği olmayan, her şey Kendisine muhtaç olduğu halde, Kendisi hiçbir şeye muhtaç olmayan\" demektir.)",
+      "safa": "\"Allah, Eksiksizdir!\"[629]",
+      "yuksel": "\"ALLAH Sonsuz ve Mutlak/İlk sebeptir.\"",
+      "aktas": "\"Allah Samed'dir.[1]\"",
+      "okuyan": "Allah muhtaç değildir."
     },
     {
       "number": 6224,
@@ -56,7 +76,17 @@
       "bulac": "O, doğurmamıştır ve doğurulmamıştır.",
       "esed": "O doğurmamıştır, doğurulmamıştır;",
       "suleymaniye": "Çocuk sahibi olmamıştır, kimsenin çocuğu da değildir.[1]",
-      "ates": "Kendisi doğurmamıştır ve doğurulmamıştır."
+      "ates": "Kendisi doğurmamıştır ve doğurulmamıştır.",
+      "hulusi": "\"Doğurmamış ve doğurulmamıştır; (kendisinden varolmuş meydana gelmiş ikinci bir yapı yoktur ve kendisini var eden de yoktur)\"",
+      "bayrakli": "- O, doğurmamış ve doğurulmamıştır. Hiçbir şey O'na denk değildir.",
+      "elmali_sade": "Doğurmadı ve doğurulmadı.",
+      "cantay": "Doğurmamışdır, doğurulmamışdır O.",
+      "piris": "Baba olmamıştır ve doğmamıştır.",
+      "yildirim": "Ne doğurdu, ne de doğuruldu.",
+      "safa": "\"Doğurmamış ve doğurulmamıştır!\"[630]",
+      "yuksel": "\"Doğurmamıştır,  doğurulmamıştır.\"",
+      "aktas": "O, ürememiş, üretilmemiştir.[1]",
+      "okuyan": "Doğurtmamıştır (kimsenin babası değildir)[1] ve doğurulmamıştır (kimsenin çocuğu da değildir). "
     },
     {
       "number": 6225,
@@ -72,7 +102,17 @@
       "bulac": "Ve hiçbir şey O'nun dengi değildir.",
       "esed": "ve hiçbir şey O'na denk tutulamaz.\"",
       "suleymaniye": "Hiçbir şey ona denk değildir.\"[1]",
-      "ates": "Hiçbir şey O'nun dengi olmamıştır."
+      "ates": "Hiçbir şey O'nun dengi olmamıştır.",
+      "hulusi": "\"O'na hiçbir küfuv (denk) olmadı! (hiçbir düşünülen O'na denk özellikler açığa çıkaramaz.)\"",
+      "bayrakli": "- O, doğurmamış ve doğurulmamıştır. Hiçbir şey O'na denk değildir.",
+      "elmali_sade": "O'na bir küfüv (denk) de olmadı!\"",
+      "cantay": "Hiçbir şey Onun dengi (ve benzeri) değildir.",
+      "piris": "Hiç kimse de O'na denk olamaz.",
+      "yildirim": "Ne de herhangi bir şey O'na denk oldu.",
+      "safa": "\"O'nun, benzeri de yoktur!\"",
+      "yuksel": "\"Hiçbir kimse de O'na denk değildir.\"",
+      "aktas": "\"Hiçbir şey O'nun dengi değildir.[1]\"",
+      "okuyan": "O'nun dengi de yoktur.\"[1]"
     }
   ]
 }

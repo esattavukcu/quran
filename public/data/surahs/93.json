@@ -24,7 +24,17 @@
       "bulac": "Kuşluk vaktine andolsun,",
       "esed": "Aydınlık sabahı düşün,",
       "suleymaniye": "Duhaya /Güneş'in yaydığı ışınlara yemin olsun![1]",
-      "ates": "Kuşluk vaktine andolsun,"
+      "ates": "Kuşluk vaktine andolsun,",
+      "hulusi": "Kasem ederim duhaya (Güneş'in dünyayı aydınlatmaya başladığı saatlere),",
+      "bayrakli": "- Kuşluk vaktine ve sakinleşen geceye yemin olsun ki,",
+      "elmali_sade": "Andolsun kuşluk vaktine",
+      "cantay": "Andolsun kuşluk vaktına,",
+      "piris": "Andolsun kuşluk vaktine.",
+      "yildirim": "Güneşin yükselip en parlak halini aldığı kuşluk vakti hakkı için!",
+      "safa": "Yemin olsun; Kuşluk Zamanına!",
+      "yuksel": "Ant olsun kuşluk vaktine, ",
+      "aktas": "Duha[1] vaktine ant olsun.",
+      "okuyan": "Yemin olsun: Kuşluk vaktine,[1]"
     },
     {
       "number": 6081,
@@ -40,7 +50,17 @@
       "bulac": "'Karanlığı iyice çöktüğü' zaman geceye,",
       "esed": "ve durgun, karanlık geceyi.",
       "suleymaniye": "Durgunlaştığında geceye[1] de yemin olsun ki[2]",
-      "ates": "Sakinleşen geceye andolsun ki,"
+      "ates": "Sakinleşen geceye andolsun ki,",
+      "hulusi": "Sükunet vaktinde geceye ki,",
+      "bayrakli": "- Kuşluk vaktine ve sakinleşen geceye yemin olsun ki,",
+      "elmali_sade": "ve dindiği zaman o geceye ki,",
+      "cantay": "(insanların) sükuna vardığı dem geceye ki,",
+      "piris": "Sükuna erdiği vakit geceye..",
+      "yildirim": "Sükunete erdiği dem gece hakkı için ki:",
+      "safa": "Ve karanlık çöktüğünde geceye!",
+      "yuksel": "Ve dingin olduğu zaman geceye, ",
+      "aktas": "Gecenin karanlıktaki dinginliğine,",
+      "okuyan": "(Karanlığı) çöken geceye ki"
     },
     {
       "number": 6082,
@@ -56,7 +76,17 @@
       "bulac": "Rabbin seni terketmedi ve darılmadı.",
       "esed": "Rabbin seni ne unuttu ne de darıldı:",
       "suleymaniye": "(Ey Muhammed!) Rabbin seni bırakmadığı gibi sana darılmadı da.[1]",
-      "ates": "Rabbin, seni bırakmadı ve sana darılmadı."
+      "ates": "Rabbin, seni bırakmadı ve sana darılmadı.",
+      "hulusi": "Rabbin seni terk etmedi ve darılmadı!",
+      "bayrakli": "Rabbin seni terketmedi ve sana darılmadı.",
+      "elmali_sade": "Rabbin sana veda etmedi ve darılmadı!",
+      "cantay": "(Habibim) Rabbim seni terketmedi. (Sana) darılmadı da.",
+      "piris": "Rabbin seni terk etmedi ve sana darılmadı.",
+      "yildirim": "Ey Resulüm! Rabbin seni terk etmedi, sana darılmadı da.",
+      "safa": "Efendin, seni bırakmadı ve darılmadı.",
+      "yuksel": "Efendin seni ne bıraktı ne de sana darıldı.",
+      "aktas": "Rabb'in seni bırakmadı ve sana darılmadı.",
+      "okuyan": "Rabbin, seni terk etmedi ve (sana) darılmadı.[1]"
     },
     {
       "number": 6083,
@@ -72,7 +102,17 @@
       "bulac": "Şüphesiz senin için son olan, ilk olandan (ahiret dünyadan) daha hayırlıdır.",
       "esed": "öteki dünya senin için (hayatının) bu ilk bölümünden mutlaka daha iyi olacak!",
       "suleymaniye": "Senin için sonraki (hayat), şimdikinden kesinlikle daha iyi olacaktır.[1]",
-      "ates": "Senin sonun, ilkinden iyi olacaktır."
+      "ates": "Senin sonun, ilkinden iyi olacaktır.",
+      "hulusi": "Elbette sonsuz gelecek yaşam senin için şimdikinden hayırlıdır.",
+      "bayrakli": "Gerçekten işin sonu senin için başından daha iyi olacaktır.",
+      "elmali_sade": "Ve kesinlikle senin için sonu önünden (ahiret dünyadan) daha hayırlıdır.",
+      "cantay": "Elbette ahiret senin için dünyadan hayırlıdır.",
+      "piris": "Gerçekten ahiret/sonuç senin için dünyadan/evvelinden daha hayırlıdır.",
+      "yildirim": "Elbette senin için her zaman, işin sonu, başından daha hayırlıdır.",
+      "safa": "Senin için, sonrası, öncesinden, kesinlikle daha iyi olacaktır.",
+      "yuksel": "Senin için son baştan daha iyidir.",
+      "aktas": "Senin için gelecek, geçmişten hayırlı olacak.",
+      "okuyan": "Şüphesiz ki (peygamberliğinin) son (dönemi) ilk (dönem)inden daha iyi olacaktır.[1]"
     },
     {
       "number": 6084,
@@ -88,7 +128,17 @@
       "bulac": "Elbette Rabbin sana verecek, böylece sen hoşnut kalacaksın.",
       "esed": "Ve zamanı geldiğinde Rabbin sana (kalbinden geçeni) bağışlayacak ve seni hoşnut kılacak.",
       "suleymaniye": "Rabbin elbette sana (nimetler) verecek ve sen de hoşnut olacaksın.[1]",
-      "ates": "Rabbin, sana verecek ve sen razı olacaksın."
+      "ates": "Rabbin, sana verecek ve sen razı olacaksın.",
+      "hulusi": "Elbette Rabbin sana verecek de razı olacaksın!",
+      "bayrakli": "Gelecekte Rabbin sana verecek ve sen hoşnut olacaksın.",
+      "elmali_sade": "ileride Rabbin sana verecek de hoşnut olacaksın!",
+      "cantay": "Muhakkak Rabbin sana verecek de hoşnuud olacaksın.",
+      "piris": "Rabbin sana verecek ve sen de hoşnut olacaksın.",
+      "yildirim": "Elbette Rabbin sana ileride öyle ihsan edecek, ta ki sen de O'ndan ve verdiğinden razı olacaksın.",
+      "safa": "Çünkü Efendin, yakında kesinlikle sana verecektir. Sonunda, hoşnut olacaksın.",
+      "yuksel": "Efendin yakında sana verecek ve sen de beğeneceksin.",
+      "aktas": "Yakında Rabb'in sana verecek, sen de hoşnut olacaksın.",
+      "okuyan": "Rabbin, yakında sana (nimetler) verecek ve sen memnun olacaksın."
     },
     {
       "number": 6085,
@@ -104,7 +154,17 @@
       "bulac": "Bir yetim iken, seni bulup da barındırmadı mı?",
       "esed": "O seni yetim olarak bulup bir sığınak vermedi mi?",
       "suleymaniye": "O, seni yetim bulup da barındırmadı mı?",
-      "ates": "O, seni yetim bulup barındırmadı mı?"
+      "ates": "O, seni yetim bulup barındırmadı mı?",
+      "hulusi": "Seni bir yetim (babasız ve anasız) bularak barındırmadı mı?",
+      "bayrakli": "O, seni yetim bulup barındırmadı mı?",
+      "elmali_sade": "O, seni bir yetim iken barındırmadı mı?",
+      "cantay": "O, bir yetim olduğunu bilib de (seni) barındırmadı mı?",
+      "piris": "Seni yetim bulup, barındırmadı mı?",
+      "yildirim": "Seni yetim bulup barındırmadı mı?",
+      "safa": "Seni yetim olarak bulup, barındırmadı mı?",
+      "yuksel": "Seni bir öksüz olarak bulup barındırmadık mı?",
+      "aktas": "Seni yetim bulup, barındırmadı mı?",
+      "okuyan": "Yetimken seni bulup barındırmadı mı?"
     },
     {
       "number": 6086,
@@ -120,7 +180,17 @@
       "bulac": "Ve seni yol bilmez iken, doğru yola yöneltip iletmedi mi?",
       "esed": "Ve yolunu kaybetmiş görüp seni doğru yola ulaştırmadı mı?",
       "suleymaniye": "Seni şaşkın halde bulup da yolu göstermedi mi?[1]",
-      "ates": "Seni şaşırmış bulup yola iletmedi mi?"
+      "ates": "Seni şaşırmış bulup yola iletmedi mi?",
+      "hulusi": "Seni dall (Zati hakikatini bilmeyen) bulup da hakikate erdirmedi mi?",
+      "bayrakli": "Şaşkın halde bulup da yol göstermedi mi?",
+      "elmali_sade": "Seni, yol bilmez iken (doğru) yola koymadı mı?",
+      "cantay": "Seni (çocukluğunda) gaaib olmuş bulub da yolunu doğrultmadı mı?",
+      "piris": "Seni dalalette bulup, doğru yolu göstermedi mi?",
+      "yildirim": "Seni dinin hükümlerinden habersiz bulup seçerek dosdoğru yola koymadı mı?",
+      "safa": "Şaşırmış olarak bulup, doğru yola eriştirmedi mi?",
+      "yuksel": "Seni yolunu şaşırmış olarak bulup doğruya iletmedik mi?[1]",
+      "aktas": "Seni şaşırmış bulup, doğru yolu göstermedi mi?",
+      "okuyan": "Şaşkınken seni bulup doğru yola ulaştırmıştı.[1]"
     },
     {
       "number": 6087,
@@ -136,7 +206,17 @@
       "bulac": "Bir yoksul iken seni bulup zengin etmedi mi?",
       "esed": "İhtiyaç içinde bulup seni tatmin etmedi mi?",
       "suleymaniye": "Seni muhtaç halde bulup da ihtiyacını karşılamadı mı?[1]",
-      "ates": "Seni fakir bulup zengin etmedi mi?"
+      "ates": "Seni fakir bulup zengin etmedi mi?",
+      "hulusi": "Seni hiçbir şeyin yok iken (fakr - \"yok\"lukta) bulup da zenginliğe (\"gına\"ya) kavuşturmadık mı (El Ğaniyy kulu yapmadık mı, Alemlerden Ğaniyy olanın kulluğunu yaşatmadık mı)?",
+      "bayrakli": "Seni fakir bulup, zengin etmedi mi?",
+      "elmali_sade": "Seni bir yoksul iken zengin etmedi mi?",
+      "cantay": "Seni, bir fakir olduğunu bilib de, zengin yapmadı mı?",
+      "piris": "Seni fakir bulup, zengin etmedi mi?",
+      "yildirim": "Seni muhtaç bulup ihtiyacını gidermedi mi?",
+      "safa": "Ve yokluk içinde bulup, varlıklı yapmadı mı?",
+      "yuksel": "Seni fakir bulup zengin etmedik mi?",
+      "aktas": "Seni muhtaç durumda bulup ğına[1] etmedi mi?",
+      "okuyan": "Yalnızken seni bulup zengin etmişti.[1]"
     },
     {
       "number": 6088,
@@ -152,7 +232,17 @@
       "bulac": "Öyleyse, sakın yetimi üzüp kahretme.",
       "esed": "Öyleyse yetime haksızlık yapma,",
       "suleymaniye": "Öyleyse sen de sakın yetimi hor görme![1]",
-      "ates": "Öyleyse sakın öksüzü ezme,"
+      "ates": "Öyleyse sakın öksüzü ezme,",
+      "hulusi": "O halde, yetime hor bakma!",
+      "bayrakli": "Öyleyse sakın yetimi ezme!",
+      "elmali_sade": "Öyle ise, sakın yetime kahretme (onu horlama)!",
+      "cantay": "O halde, yetime gelince: (Ona sakın) kahretme.",
+      "piris": "Şimdi yetimi hor görme.",
+      "yildirim": "Öyle ise, sakın yetimi güçsüz bulup hakkını yeme, sakın onu küçümseyip üzme!",
+      "safa": "Öyleyse yetime kötü davranma.",
+      "yuksel": "Öyleyse,  öksüzü yüzüstü bırakma.",
+      "aktas": "Öyleyse sakın yetimi[1] hor görme.[2]",
+      "okuyan": "Yetimi sakın ezme!"
     },
     {
       "number": 6089,
@@ -168,7 +258,17 @@
       "bulac": "İsteyip dileneni azarlayıp çıkışma.",
       "esed": "yardım isteyeni asla geri çevirme,",
       "suleymaniye": "İsteyene ve sorana da ilgisiz davranma![1]",
-      "ates": "Dilenciyi azarlama."
+      "ates": "Dilenciyi azarlama.",
+      "hulusi": "İsteyeni, soru soranı sakın azarlama!",
+      "bayrakli": "Dilenciyi de azarlama!",
+      "elmali_sade": "El açıp isteyeni de azarlama!",
+      "cantay": "Saile gelince: (Onu) da azarlayıb koğma.",
+      "piris": "İsteyeni azarlama.",
+      "yildirim": "İsteyene de kaba davranma, onu azarlama!",
+      "safa": "Öyleyse isteyeni sakın azarlama.",
+      "yuksel": "Dilenciyi de azarlama.",
+      "aktas": "Sakın isteyeni[1] geri çevirme.",
+      "okuyan": "Sorup (yardım) isteyeni sakın azarlama!"
     },
     {
       "number": 6090,
@@ -184,7 +284,17 @@
       "bulac": "Rabbinin nimetini durmaksızın anlat.",
       "esed": "ve (her zaman) Rabbini(n) nimetlerini an.",
       "suleymaniye": "Rabbinin sana olan nimetini /Kur'an'ı daima anlat![1]",
-      "ates": "Ve Rabbinin ni'metini anlat."
+      "ates": "Ve Rabbinin ni'metini anlat.",
+      "hulusi": "Rabbinin nimetini, dillendir!",
+      "bayrakli": "Rabbinin nimetini an!",
+      "elmali_sade": "Fakat Rabbinin nimetini anlat da anlat!",
+      "cantay": "Bununla beraber, Rabbinin ni'metini (durmayıb) söyle (anlat).",
+      "piris": "Rabbinin nimetini ise, haydi anlat.",
+      "yildirim": "Rabbinin nimetlerini ise durmayıp söyle!",
+      "safa": "Ve Efendinin nimetlerini söyle.",
+      "yuksel": "Ve Efendinin sana yaptığı iyilikleri de anlat.",
+      "aktas": "Ve Rabb'inin nimetini[1] her fırsatta hadis et.[2]",
+      "okuyan": "Sadece Rabbinin nimetini anlat!"
     }
   ]
 }

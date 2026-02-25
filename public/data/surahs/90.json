@@ -24,7 +24,17 @@
       "bulac": "Hayır; bu şehre yemin ederim,",
       "esed": "Ben bu beldeyi tanıklığa çağırırım,",
       "suleymaniye": "Hayır, bu şehre (Mekke'ye) yemin ederim,[1]",
-      "ates": "Yoo, and içerim bu kente,"
+      "ates": "Yoo, and içerim bu kente,",
+      "hulusi": "Kasem ederim şu beldeye (yaşamakta olduğun dünyaya). . .",
+      "bayrakli": "- Senin yaşamakta olduğun bu beldeye; doğurana ve doğana yemin olsun ki,",
+      "elmali_sade": "Yo... yemin ederim bu beldeye!",
+      "cantay": "(Hakıykat kafirlerin dediği gibi değildir). Şu beldeye yemin ederim.",
+      "piris": "Hayır, Yemin ederim, bu şehre!",
+      "yildirim": "Hayır! Gerçek, kafirlerin dediği gibi değil. Bu şanlı belde hakkı için!",
+      "safa": "Asla! Yemin olsun; bu Yöreye!",
+      "yuksel": "And içerim bu kente, [1]",
+      "aktas": "Hayır! Bu beldeye yemin ederim!",
+      "okuyan": "Hayır bu şehre (Mekke'ye) yemin ederim."
     },
     {
       "number": 6025,
@@ -40,7 +50,17 @@
       "bulac": "Ki sen, bu şehirde oturmakta iken,",
       "esed": "senin serbestçe yaşadığın bu beldeyi,",
       "suleymaniye": "(şimdi) sen bu şehirde güvende olmasan bile![1]",
-      "ates": "Ki sen bu şehire girmekte (burada yaşamakta)sın."
+      "ates": "Ki sen bu şehire girmekte (burada yaşamakta)sın.",
+      "hulusi": "Ki sen bu beldede bir kayıtsızsın!",
+      "bayrakli": "- Senin yaşamakta olduğun bu beldeye; doğurana ve doğana yemin olsun ki,",
+      "elmali_sade": "Sen bu beldede oturmaktayken.",
+      "cantay": "Sen bu beldeye halal iken.",
+      "piris": "Sen de bu şehrin insanısın.",
+      "yildirim": "Senin bu beldeye girişin hakkı için!",
+      "safa": "Çünkü sen, bu yörede yaşıyorsun.",
+      "yuksel": "Ki sen bu kentte oturmaktasın.",
+      "aktas": "Senin de içinde yaşadığın beldeye,",
+      "okuyan": "Ki sen bu şehirde oturmaktasın."
     },
     {
       "number": 6026,
@@ -56,7 +76,17 @@
       "bulac": "Babaya ve doğan çocuğa da.",
       "esed": "ve (tanıklığa çağırırım) anne babayı ve çocukları:",
       "suleymaniye": "Çocuk sahibi olana[1] ve çocuğuna da yemin olsun ki[2]",
-      "ates": "Ve (and içerim) doğurucuya ve doğurduğuna ki,"
+      "ates": "Ve (and içerim) doğurucuya ve doğurduğuna ki,",
+      "hulusi": "(İnsanı) doğurana ve doğurduğuna (kasem ederim),",
+      "bayrakli": "- Senin yaşamakta olduğun bu beldeye; doğurana ve doğana yemin olsun ki,",
+      "elmali_sade": "Ve baba ile çocuğuna ki,",
+      "cantay": "Babaya da, doğana da (yemin ederim),",
+      "piris": "Anne, baba ve çocuklara,",
+      "yildirim": "Hem o değerli baba, hem o değerli evladının hakkı için:",
+      "safa": "Doğurana ve doğurduğuna![599]",
+      "yuksel": "Doğurana ve doğurduğuna da ant olsun.",
+      "aktas": "Ant olsun doğurana ve doğurduğuna!",
+      "okuyan": "Babaya ve çocuğa (da yemin ederim)."
     },
     {
       "number": 6027,
@@ -72,7 +102,17 @@
       "bulac": "Andolsun, biz insanı bir zorluk içinde yarattık.",
       "esed": "Gerçek şu ki, Biz insanı acı, sıkıntı ve imtihan (ile yüklü bir hayat)a gönderdik.",
       "suleymaniye": "kesinlikle biz insanı zorluklara katlanacak güçte yarattık.[1]",
-      "ates": "Biz insanı zorluk arasında yarattık."
+      "ates": "Biz insanı zorluk arasında yarattık.",
+      "hulusi": "(Andolsun) ki, insanı sıkıntılı aşamalar içinde yarattık!",
+      "bayrakli": "Biz, insanı zorluklar içinde yarattık.",
+      "elmali_sade": "gerçekten Biz insanı bir sıkıntı içinde yarattık.",
+      "cantay": "ki biz insanı, andolsun, meşakkat içinde yaratdık.",
+      "piris": "İnsanı dosdoğru/dayanıklı olarak yaratmışızdır.",
+      "yildirim": "Biz insanı, imtihan ve çile yüklü bir hayata gönderdik.",
+      "safa": "Gerçek şu ki, insanı, zorluklar için yarattık.",
+      "yuksel": "İnsanı zorluklar arasında (direnmesi için) yarattık.",
+      "aktas": "Biz insanı gerçekten zorluk arasında yarattık.",
+      "okuyan": "Şüphesiz ki biz insanı zorluklar konusunda (dayanıklı) yarattık."
     },
     {
       "number": 6028,
@@ -88,7 +128,17 @@
       "bulac": "O, hiç kimsenin kendisine asla güç yetiremeyeceğini mi sanıyor?",
       "esed": "İnsan, kimsenin kendi üzerinde güç sahibi olmadığını mı zannediyor?",
       "suleymaniye": "(Böyle yarattık diye) o, kimsenin kendisine asla güç yetiremeyeceğini mi sanıyor![1]",
-      "ates": "İnsan, hiç kimsenin kendisine güç yetiremeyeceğini mi sanıyor?"
+      "ates": "İnsan, hiç kimsenin kendisine güç yetiremeyeceğini mi sanıyor?",
+      "hulusi": "Hiç kimsenin kendisine asla güç yetiremeyeceğini mi sanıyor (şimdi insan)?",
+      "bayrakli": "İnsan, hiç kimsenin kendisine güç yetiremeyeceğini mi sanıyor?",
+      "elmali_sade": "O, kendisine karşı kimse güç yetiremez mi sanıyor?",
+      "cantay": "O, kendisine kimsenin mutlakaa güc yetiremeyeceğini mi sanıyor?",
+      "piris": "Kimsenin kendisine güç yetiremeyeceğini mi sanıyor?",
+      "yildirim": "O insan kendi üzerinde kimsenin güç sahibi olmadığını mı sanır?",
+      "safa": "Kimsenin gücünün, ona yetmeyeceğini mi sanıyor?",
+      "yuksel": "Kendisine güç yetiremeyeceğimizi mi sanıyor?",
+      "aktas": "Kendisine hiç kimsenin güç yetiremeyeceğini mi sanıyor?",
+      "okuyan": "(O insan) kimsenin kendisine güç yetiremeyeceğini mi sanıyor?"
     },
     {
       "number": 6029,
@@ -104,7 +154,17 @@
       "bulac": "O: \"Yığınla mal tüketip yok ettim\" diyor.",
       "esed": "Övünüp duruyor: \"Ben, yığınla servet tükettim!\"",
       "suleymaniye": "\"Yığın yığın mal tükettim!\"[1] diyor.",
-      "ates": "(Gösteriş ve övünme için) \"Ben birçok mal telef ettim\" diyor."
+      "ates": "(Gösteriş ve övünme için) \"Ben birçok mal telef ettim\" diyor.",
+      "hulusi": "\"Pek çok mal harcadım\" diyor.",
+      "bayrakli": "- \"Pek çok mal harcadım\" der, kimse onu görmedi mi sanıyor?",
+      "elmali_sade": "O: \"Ben yığın yığın mal telef ettim.\" diyor.",
+      "cantay": "Der ki: \"Yığın yığın mal telef etdim\".",
+      "piris": "-Pek çok mal tüketmişimdir, diyor.",
+      "yildirim": "\"Ben yığınla servet tükettim.\" diye övünüp durur.",
+      "safa": "\"Yığınla mal tükettim!\" diyor.",
+      "yuksel": "(Övünerek) \"Çok para harcadım\" diyor.",
+      "aktas": "\"Yığınlarca mal harcadım.\" diyor.",
+      "okuyan": "(Övünerek) \"Pek çok mal harcadım.\" diyor. "
     },
     {
       "number": 6030,
@@ -120,7 +180,17 @@
       "bulac": "Kendisini hiç kimsenin görmediğini mi sanıyor?",
       "esed": "Peki, kimsenin kendisini görmediğini mi sanıyor?",
       "suleymaniye": "Kimsenin onu görmediğini mi sanıyor![1]",
-      "ates": "Kimsenin kendisini görmediğini mi sanıyor?"
+      "ates": "Kimsenin kendisini görmediğini mi sanıyor?",
+      "hulusi": "Kimsenin kendisini görmediğini mi sanıyor?",
+      "bayrakli": "- \"Pek çok mal harcadım\" der, kimse onu görmedi mi sanıyor?",
+      "elmali_sade": "Onu bir gören olmadı mı sanıyor?",
+      "cantay": "O, kendisini hiçbir (kişi) nin görmediğini mi sanıyor?",
+      "piris": "Kendisini kimsenin görmediğini mi sanıyor?",
+      "yildirim": "Kendisini gören olmadığını mı sanır?",
+      "safa": "Kimsenin, onu görmediğini mi sanıyor?",
+      "yuksel": "Kimsenin kendisini görmediğini mi sanıyor?",
+      "aktas": "Kendisini hiç kimsenin görmediğini mi sanıyor?",
+      "okuyan": "Kimsenin kendisini görmediğini mi sanıyor! "
     },
     {
       "number": 6031,
@@ -136,7 +206,17 @@
       "bulac": "Biz ona iki göz vermedik mi?",
       "esed": "Biz ona iki göz vermedik mi?",
       "suleymaniye": "Ona iki göz vermedik mi?",
-      "ates": "Biz ona vermedik mi: İki göz"
+      "ates": "Biz ona vermedik mi: İki göz",
+      "hulusi": "Ona iki göz meydana getirmedik mi?",
+      "bayrakli": "- Biz ona iki göz, bir dil ve iki dudak vermedik mi? Ona hak ve batıl şeklinde iki yolu göstermedik mi?",
+      "elmali_sade": "Vermedik mi Biz ona iki göz?",
+      "cantay": "Biz. ona vermedik mi: (Görecek) iki göz,",
+      "piris": "Ona iki göz vermedik mi?",
+      "yildirim": "Biz ona görmesi için gözler,",
+      "safa": "Ona, iki göz vermedik mi?",
+      "yuksel": "Ona vermedik mi: İki göz, ",
+      "aktas": "Ona iki gözü Biz vermedik mi?",
+      "okuyan": "(8, 9) Biz ona iki göz, bir dil ve iki dudak vermedik mi?"
     },
     {
       "number": 6032,
@@ -152,7 +232,17 @@
       "bulac": "Bir dil ve iki dudak?",
       "esed": "Bir dil ve bir çift dudak,",
       "suleymaniye": "Bir dil ile iki de dudak?[1]",
-      "ates": "Bir dil, iki dudak?"
+      "ates": "Bir dil, iki dudak?",
+      "hulusi": "Bir dil ve iki dudak. . .",
+      "bayrakli": "- Biz ona iki göz, bir dil ve iki dudak vermedik mi? Ona hak ve batıl şeklinde iki yolu göstermedik mi?",
+      "elmali_sade": "Bir dil ve iki dudak?",
+      "cantay": "(kalbine tercüman olacak) bir dil, (boş boğazlığına mani' olacak) iki dudak?",
+      "piris": "Bir dil, iki dudak.",
+      "yildirim": "Gönlüne tercüman olacak dil ve dudaklar, vermedik mi?",
+      "safa": "Bir dil ve iki dudak?",
+      "yuksel": "Bir dil ve iki dudak?",
+      "aktas": "Bir dil ve iki dudak.",
+      "okuyan": "(8, 9) Biz ona iki göz, bir dil ve iki dudak vermedik mi?"
     },
     {
       "number": 6033,
@@ -168,7 +258,17 @@
       "bulac": "Biz ona 'iki yol/iki amaç' gösterdik.",
       "esed": "ve ona (kötülüğün ve iyiliğin) iki yolunu da göstermedik mi?",
       "suleymaniye": "Ona (biri hak biri batıl olan) iki yolu da gösterdik.[1]",
-      "ates": "Ona iki tepeyi (anasının iki memesini emmenin veya hayır ve şerrin yolunu) gösterdik."
+      "ates": "Ona iki tepeyi (anasının iki memesini emmenin veya hayır ve şerrin yolunu) gösterdik.",
+      "hulusi": "Ona iki yolu (Hak ve batıl) gösterdik!",
+      "bayrakli": "- Biz ona iki göz, bir dil ve iki dudak vermedik mi? Ona hak ve batıl şeklinde iki yolu göstermedik mi?",
+      "elmali_sade": "Ona iki de tepe gösterdik.",
+      "cantay": "Biz ona iki de yol gösterdik.",
+      "piris": "Ona iki de yol gösterdik.",
+      "yildirim": "Ona hayır ve şer yollarını göstermedik mi?",
+      "safa": "İki yolu da gösterdik.",
+      "yuksel": "Ona iki yolu göstermedik mi?",
+      "aktas": "Ona iki yol[1] gösterdik.",
+      "okuyan": "Ona iki yolu da gösterdik."
     },
     {
       "number": 6034,
@@ -184,7 +284,17 @@
       "bulac": "Ancak o, sarp yokuşa göğüs germedi.",
       "esed": "Ama o, sarp yokuşa tırmanmayı denemedi...",
       "suleymaniye": "Ama o, sarp yokuşu göze almadı.",
-      "ates": "Fakat o, sarp yokuşa atılamadı."
+      "ates": "Fakat o, sarp yokuşa atılamadı.",
+      "hulusi": "El Akabe'ye (o sarp yokuşa) tırmanmayı göze alamadı (insan)!",
+      "bayrakli": "- Fakat insan, sarp yokuşu aşamadı. O sarp yokuşun ne olduğunu sen nereden bileceksin? Köle azat etmektirveya açlık gününde yakını olan bir yetimi, yahut toprakta sürünen bir yoksulu doyurmaktır.",
+      "elmali_sade": "Fakat o sarp yokuşa göğüs veremedi.",
+      "cantay": "Fakat o, sarp yokuşa saldıramadı.",
+      "piris": "O zor geçidi aşamadı.",
+      "yildirim": "Fakat o sarp yokuşu aşmaya çalışmadı. (Böyle yaparak verilen nimetlerin şükrünü eda etmedi.)",
+      "safa": "Öyle ya, sarp yokuşa katlanamadı.",
+      "yuksel": "Ne var ki zor yola katlanamadı.",
+      "aktas": "Ne var ki o, sarp yokuşu aşmayı göze alamadı.[1]",
+      "okuyan": "(Fakat) o, sarp yokuşu (aşmayı) göze almadı."
     },
     {
       "number": 6035,
@@ -200,7 +310,17 @@
       "bulac": "Sarp yokuşun ne olduğunu sana öğreten nedir?",
       "esed": "Bilir misin nedir o sarp yokuş?",
       "suleymaniye": "Sarp yokuşun ne olduğunu sana kim bildirebilir?",
-      "ates": "Sarp yokuşun ne olduğunu sen nereden bileceksin?"
+      "ates": "Sarp yokuşun ne olduğunu sen nereden bileceksin?",
+      "hulusi": "Nedir bilir misin el Akabe?",
+      "bayrakli": "- Fakat insan, sarp yokuşu aşamadı. O sarp yokuşun ne olduğunu sen nereden bileceksin? Köle azat etmektirveya açlık gününde yakını olan bir yetimi, yahut toprakta sürünen bir yoksulu doyurmaktır.",
+      "elmali_sade": "Bildin mi, nedir o sarp yokuş?",
+      "cantay": "Bu sarp yokuşun ne olduğunu sana hangi şey bildirdi?",
+      "piris": "Zor geçidin ne olduğunu sana bildiren nedir?",
+      "yildirim": "Sarp yokuş, bilir misin nedir?",
+      "safa": "Sarp yokuşu, sana bildiren nedir?",
+      "yuksel": "Zor yolun ne olduğunu bilir misin?",
+      "aktas": "Bilir misin nedir sarp yokuş?",
+      "okuyan": "O ‘sarp yokuş'un ne olduğunu sana bildiren ne olabilir ki! "
     },
     {
       "number": 6036,
@@ -216,7 +336,17 @@
       "bulac": "Bir boynu çözmek (bir köleye özgürlük vermek)tir;",
       "esed": "(O,) boynunu (günah zincirinden) kurtarmaktır;",
       "suleymaniye": "O, boyunduruk altında olan birini kurtarmaktır.",
-      "ates": "Bir boynu (kölelik zincirinden) çözmek,"
+      "ates": "Bir boynu (kölelik zincirinden) çözmek,",
+      "hulusi": "(O) esaret bağını çözmektir (bilinci bedenin esaretinden kurtarmak)!",
+      "bayrakli": "- Fakat insan, sarp yokuşu aşamadı. O sarp yokuşun ne olduğunu sen nereden bileceksin? Köle azat etmektirveya açlık gününde yakını olan bir yetimi, yahut toprakta sürünen bir yoksulu doyurmaktır.",
+      "elmali_sade": "Esir bir boyun kurtarmak (bir köle azad etmek)",
+      "cantay": "(O) kul azad etmekdir,",
+      "piris": "Köle azat etmektir.",
+      "yildirim": "Sarp yokuş: Bir köleyi, bir esiri hürriyetine kavuşturmaktır!",
+      "safa": "Bir boynu kurtarmaktır.[600]",
+      "yuksel": "Köleleri özgürlüklerine kavuşturmaktır;[1]",
+      "aktas": "Boynu çözmektir,[1]",
+      "okuyan": "(Sarp yokuş); köleyi özgürlüğüne kavuşturmaktur. "
     },
     {
       "number": 6037,
@@ -232,7 +362,17 @@
       "bulac": "Ya da açlık gününde doyurmaktır,",
       "esed": "yahut (kendi) aç iken (başkasını) doyurmaktır,",
       "suleymaniye": "Veya kıtlık gününde yedirmektir,",
-      "ates": "Yahut açlık gününde doyurmaktır:"
+      "ates": "Yahut açlık gününde doyurmaktır:",
+      "hulusi": "Yahut aç olduğu halde elindekiyle başkasını doyurmak!",
+      "bayrakli": "- Fakat insan, sarp yokuşu aşamadı. O sarp yokuşun ne olduğunu sen nereden bileceksin? Köle azat etmektirveya açlık gününde yakını olan bir yetimi, yahut toprakta sürünen bir yoksulu doyurmaktır.",
+      "elmali_sade": "Ya da salgın bir açlık gününde yemek yedirmektir.",
+      "cantay": "yahud (salgın) bir açlık gününde yemek yedirmekdir,",
+      "piris": "Veya açlık gününde doyurmaktır.",
+      "yildirim": "Kıtlık zamanında yemek yedirmektir.",
+      "safa": "Veya açlık gününde doyurmaktır.",
+      "yuksel": "Kıtlık anında doyurmaktır:",
+      "aktas": "Veya darlık ve yoklukta doyurmaktır;",
+      "okuyan": "(14, 15, 16) Veya açlık gün(ün)de yakın(ı) olan bir yetimi veya (karnı) toprağa yapışmış (hiçbir şeyi olmayan) yoksulu doyurmaktır."
     },
     {
       "number": 6038,
@@ -248,7 +388,17 @@
       "bulac": "Yakın olan bir yetimi,",
       "esed": "yakını olan bir yetimi,",
       "suleymaniye": "yakınlarından bir yetimi[1]",
-      "ates": "Akraba olan yetimi,"
+      "ates": "Akraba olan yetimi,",
+      "hulusi": "Yakınlığı olan yetime (yemek yedirmektir).",
+      "bayrakli": "- Fakat insan, sarp yokuşu aşamadı. O sarp yokuşun ne olduğunu sen nereden bileceksin? Köle azat etmektirveya açlık gününde yakını olan bir yetimi, yahut toprakta sürünen bir yoksulu doyurmaktır.",
+      "elmali_sade": "Yakınlığı olan bir yetime",
+      "cantay": "yakınlığı olan bir yetime,",
+      "piris": "Yakınlığı olan bir yetimi.",
+      "yildirim": "Yakınlığı olan bir yetimi,",
+      "safa": "Yakın olan bir yetimi.",
+      "yuksel": "Akraba bir öksüzü, ",
+      "aktas": "Yakınlık sahibi olan yetimi,[1]",
+      "okuyan": "(14, 15, 16) Veya açlık gün(ün)de yakın(ı) olan bir yetimi veya (karnı) toprağa yapışmış (hiçbir şeyi olmayan) yoksulu doyurmaktır."
     },
     {
       "number": 6039,
@@ -264,7 +414,17 @@
       "bulac": "Veya sürünen bir yoksulu.",
       "esed": "yahut toprağa uzanıp kalmış olan (yabancı) bir yoksulu,",
       "suleymaniye": "ya da toz toprak içinde (sokakta) kalmış bir çaresizi.[1]",
-      "ates": "Yahut hiçbir şeyi olmayan yoksulu."
+      "ates": "Yahut hiçbir şeyi olmayan yoksulu.",
+      "hulusi": "Yahut toprağa uzanıp kalmış yoksula yedirip doyurmaktır.",
+      "bayrakli": "- Fakat insan, sarp yokuşu aşamadı. O sarp yokuşun ne olduğunu sen nereden bileceksin? Köle azat etmektirveya açlık gününde yakını olan bir yetimi, yahut toprakta sürünen bir yoksulu doyurmaktır.",
+      "elmali_sade": "veya toprak döşenen (hiçbir varlığı olmayan) bir yoksula...",
+      "cantay": "yahud toprakda sürünen bir yoksula.",
+      "piris": "Veya sürünen bir düşkünü.",
+      "yildirim": "Ya da yeri yatak, (göğü yorgan yapan, barınacak hiçbir yeri olmayan) fakiri doyurmaktır.",
+      "safa": "Veya düşkün bir yoksulu.",
+      "yuksel": "Yahut düşkün bir yoksulu...",
+      "aktas": "Veya hiçbir şeyi olmayan miskini,[1]",
+      "okuyan": "(14, 15, 16) Veya açlık gün(ün)de yakın(ı) olan bir yetimi veya (karnı) toprağa yapışmış (hiçbir şeyi olmayan) yoksulu doyurmaktır."
     },
     {
       "number": 6040,
@@ -280,7 +440,17 @@
       "bulac": "Sonra iman edenlerden, sabrı birbirlerine tavsiye edenlerden, merhameti birbirlerine tavsiye edenlerden olmak.",
       "esed": "ve imana ermişlerden ve birbirine sabrı ve merhameti tavsiye edenlerden olmaktır.",
       "suleymaniye": "Bunların yanısıra[1], inanıp güvenen, birbirlerine sabrı /duruşunu bozmamayı tembih eden ve merhametli olmayı tembih eden kişilerden olmaktır.[2]",
-      "ates": "Sonra inanıp birbirlerine sabır tavsiye eden ve merhamet tavsiye edenlerden olmak."
+      "ates": "Sonra inanıp birbirlerine sabır tavsiye eden ve merhamet tavsiye edenlerden olmak.",
+      "hulusi": "Sonra da iman eden, birbirlerine sabrı yaşamayı tavsiye eden ve merhameti tavsiye eden kimselerden olmaktır.",
+      "bayrakli": "- Sonra iman edenlerden, birbirine sabrı ve merhameti tavsiye edenlerden olmaktır. İşte bunlar sağdakilerdir.",
+      "elmali_sade": "Sonra da o iman edip de sabrı tavsiyeleşen ve merhamet tavsiyeleşenlerden olamadı.",
+      "cantay": "Sonra da (o sarp yokuşu aşıb geçerken) iman edenlerden, birbirlerine sabr (-u sebat) ı tavsiye, (halka) merhameti tavsiye edenlerden olmakdır.",
+      "piris": "Bir de iman edip, sabrı ve merhameti birbirine tavsiye edenlerden olmaktır.",
+      "yildirim": "Hem sarp yokuş: Gönülden iman edip, birbirlerine sabır ve şefkat dersi vermek, sabır ve şefkat örneği olmaktır.",
+      "safa": "Sonra, inananlar, dirençli olmayı öğütleyenler ve merhameti öğütleyenler arasında olmaktır.",
+      "yuksel": "Dahası,  birbirlerine sabır ve sevgiyi öğütleyen iman edenlerden olmaktır.",
+      "aktas": "Sonra birbirlerine sabrı[1] ve merhameti tavsiye eden iman edenlerden olmaktır.",
+      "okuyan": "Sonra da iman edenlerden, birbirlerine sabrı tavsiye edenlerden ve merhameti tavsiye edenlerden olmaktır.[1]"
     },
     {
       "number": 6041,
@@ -296,7 +466,17 @@
       "bulac": "İşte bunlar, sağ yanın adamlarıdır (Ashab-ı Meymene).",
       "esed": "İşte böyleleri dürüstlüğe ve erdemliliğe erişmiş olanlardır;",
       "suleymaniye": "İşte onlar, (mahşerde) iyi durumda olacak olanlardır.[1]",
-      "ates": "İşte onlar sağın adamlarıdır (Kitabı sağından verilen uğurlu kişilerdir)."
+      "ates": "İşte onlar sağın adamlarıdır (Kitabı sağından verilen uğurlu kişilerdir).",
+      "hulusi": "İşte bunlar ashab-ı meymenedir (sağ ashabı; saidler).",
+      "bayrakli": "- Sonra iman edenlerden, birbirine sabrı ve merhameti tavsiye edenlerden olmaktır. İşte bunlar sağdakilerdir.",
+      "elmali_sade": "İşte onlardır meymenet sahipleri (kitapları sağ taraflarından verilecekler).",
+      "cantay": "İşte bunlar sağcılardır.",
+      "piris": "İşte sağ tarafın halkı onlardır.",
+      "yildirim": "İşte hesap defterleri sağ ellerine verilecek olanlar bunlardır.",
+      "safa": "Gerçeğe erişenlerin yoldaşları, işte onlardır.",
+      "yuksel": "Nitekim mutlular onlardır.",
+      "aktas": "İşte onlar, Ashab-ı Meymene'dir.[1]",
+      "okuyan": "İşte onlar sağın halkıdır. "
     },
     {
       "number": 6042,
@@ -312,7 +492,17 @@
       "bulac": "Ayetlerimizi inkar edenler ise, sol yanın adamlarıdır (Ashab-ı Meş'eme).",
       "esed": "Bizim mesajlarımızın doğruluğunu inkara şartlanmış olanlar ise kötülüğe batmış kimselerdir,",
       "suleymaniye": "Ayetlerimiz karşısında kafirlik eden/onları görmezlikte direnenler de zor durumda olacak olanlardır.[1]",
-      "ates": "Ayetlerimizi tanımayanlar ise solun adamlarıdır (Kitabı solundan verilen uğursuz kişilerdir)."
+      "ates": "Ayetlerimizi tanımayanlar ise solun adamlarıdır (Kitabı solundan verilen uğursuz kişilerdir).",
+      "hulusi": "İşaretlerimizi inkar edenler ise, onlar ashab-ı meş'emedir (sol ashabı; şakiler).",
+      "bayrakli": "- Ayetlerimizi inkar edenler ise, işte onlar soldakilerdir. Cezaları, kapıları üzerine sımsıkı kapatılmış bir ateştir.",
+      "elmali_sade": "Ayetlerimizi inkar edenler ise, onlardır işte şeamet sahipleri (uğursuz kimseler).",
+      "cantay": "Ayetlerimize küfredenler ise solcuların ta kendileridir.",
+      "piris": "Ayetlerimizi inkar edenler, onlar sol taraf halkıdır.",
+      "yildirim": "Ayetlerimizi inkar edenlerin hesap defterleri ise, sol ellerine verilecektir.",
+      "safa": "Oysa ayetlerimizi inkar edenler, kötülüğe batanların yoldaşlarıdır.",
+      "yuksel": "Ayet ve mucizelerimizi inkar edenlerse talihsizlerdir.",
+      "aktas": "Ayetlerimizi küfredenler Ashab-ı Meşeme'dir.[1]",
+      "okuyan": "Ayetlerimizi inkâr edenler ise işte onlar solun halkıdır.[1]"
     },
     {
       "number": 6043,
@@ -328,7 +518,17 @@
       "bulac": "\"Kapıları kilitlenmiş\" bir ateş onların üzerinedir.",
       "esed": "üzerlerine salınmış ateş (ile).",
       "suleymaniye": "Onların üzerine kapatılmış bir ateş vardır.[1]",
-      "ates": "Onlara (kapıları) üzerlerine kilitlenecek bir ateş vardır!"
+      "ates": "Onlara (kapıları) üzerlerine kilitlenecek bir ateş vardır!",
+      "hulusi": "Onlar ateşe kapatılıp kilitlenmişlerdir!",
+      "bayrakli": "- Ayetlerimizi inkar edenler ise, işte onlar soldakilerdir. Cezaları, kapıları üzerine sımsıkı kapatılmış bir ateştir.",
+      "elmali_sade": "Üzerlerine bir ateş bastırılıp kapıları kapanacak.",
+      "cantay": "Ki (onların cezası) üzerlerine kapıları sımsıkı kapatılmış bir ateşdir.",
+      "piris": "Üzerlerinde kapıları kilitlenmiş bir ateş vardır.",
+      "yildirim": "Onların cezası da, kapıları, üzerlerine sımsıkı kapatılmış ateş deposuna konulmak olacaktır.",
+      "safa": "Onların üzerine ateş kapatılmıştır.",
+      "yuksel": "Onlar ateşe kapatılacaklardır.",
+      "aktas": "Onlara, üzerlerine kapıları kapatılmış bir ateş vardır.",
+      "okuyan": "Onlar(ın cezası, kapıları) üzerlerine kilitlenmiş ateştir."
     }
   ]
 }

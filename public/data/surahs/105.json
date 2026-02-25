@@ -24,7 +24,17 @@
       "bulac": "Rabbinin fil sahiplerine neler yaptığını görmedin mi?",
       "esed": "Haberin yok mu Rabbin Fil Ordusu'na ne yaptı?",
       "suleymaniye": "Fillerle gelenleri Rabbinin ne hale getirdiğini gözünde canlandırmaz mısın?[1]",
-      "ates": "Rabbinin, Fil sahiplerine ne yaptığını görmedin m?"
+      "ates": "Rabbinin, Fil sahiplerine ne yaptığını görmedin m?",
+      "hulusi": "Görmedin mi Rabbin nasıl yaptı, ashab-ı fil'e?",
+      "bayrakli": "Rabbinin, fil ordusuna neler yaptığını görmez misin?",
+      "elmali_sade": "Görmedin mi Rabbin ne yaptı fil sahiplerine!",
+      "cantay": "(Habibim) Rabbinin fil saahiblerine nasıl (muaamele) etdiğini görmedin mi?",
+      "piris": "Rabbinin, fil sahiplerini ne hale getirdiğini görmedin mi?",
+      "yildirim": "Rabbinin Ashab-ı fil'e ettiklerini görmedin mi?",
+      "safa": "Efendinin, Fil yoldaşlarına ne yaptığından haberin yok mu?",
+      "yuksel": "Efendinin fil halkını ne hale soktuğuna dikkat ettin mi?",
+      "aktas": "Görmedin mi? Rabb'inin fil sahiplerine ne yaptığını?",
+      "okuyan": "Rabbinin fil sahiplerine ne yaptığını görmedin mi?"
     },
     {
       "number": 6190,
@@ -40,7 +50,17 @@
       "bulac": "Onların 'tasarladıkları planlarını' boşa çıkarmadı mı?",
       "esed": "Onların kurnazca planlarını tamamen bozmadı mı?",
       "suleymaniye": "Onların oyunlarını (Ka'beyi yıkma planlarını)[1] boşa çıkarmıştı, değil mi?[2]",
-      "ates": "Onların tuzaklarını boşa çıkarmadı mı?"
+      "ates": "Onların tuzaklarını boşa çıkarmadı mı?",
+      "hulusi": "Onların tuzaklarını boşa çıkarmadı mı?",
+      "bayrakli": "Onların kötü planlarını boşa çıkarmadı mı?",
+      "elmali_sade": "Tuzaklarını boşa çıkarmadı mı?",
+      "cantay": "O, bunların kötü planlarını boşa çıkarmadı mı?",
+      "piris": "Onların tuzaklarını boşa çıkarmadı mı?",
+      "yildirim": "Onların hile ve düzenlerini boşa çıkarmadı mı?",
+      "safa": "Çevirdikleri dalavereleri boşa çıkarmadı mı?",
+      "yuksel": "Planlarını boşa çıkarıp onları şaşkına çevirmedi mi?",
+      "aktas": "Onların tuzaklarını boşa çıkarmadı mı?",
+      "okuyan": "Onların tuzaklarını boşa çıkarmadı mı?"
     },
     {
       "number": 6191,
@@ -56,7 +76,17 @@
       "bulac": "Onların üzerine ebabil (sürü sürü) kuşlarını gönderdi.",
       "esed": "Üzerlerine kalabalık sürüler halinde uçan varlıklar saldı,",
       "suleymaniye": "Üzerlerine öbek öbek uçuşan[1] şeyler /volkanik kül bulutları[2] göndermişti.",
-      "ates": "Üzerlerine sürü sürü kuşlar gönderdi,"
+      "ates": "Üzerlerine sürü sürü kuşlar gönderdi,",
+      "hulusi": "İrsal etti üzerlerine tayran ebabil'i (Ebabil kuşları).",
+      "bayrakli": "Üzerlerine sürü sürü kuşlar gönderdi.",
+      "elmali_sade": "Üzerlerine sürü sürü kuşlar saldı.",
+      "cantay": "O, bunların üzerine sürü sürü kuş (lar) gönderdi,",
+      "piris": "(3-4) Onların üzerine damgalanmış taşlar atan ebabil kuşlarını gönderdi.",
+      "yildirim": "Üzerlerine ebabili, sürü sürü kuşları salıverdi.",
+      "safa": "Ve sürüler biçiminde uçan varlıkları, onların üzerine gönderdi.[618]",
+      "yuksel": "Onların üstüne kuş sürüleri gönderdi.",
+      "aktas": "Onların üzerlerine sürü sürü kuşlar gönderdi;",
+      "okuyan": "Üzerlerine sürü sürü[1] kuşlar göndermişti."
     },
     {
       "number": 6192,
@@ -72,7 +102,17 @@
       "bulac": "Onlara 'pişirilip sertleştirilmiş balçık taşları' atıyorlardı;",
       "esed": "onlara önceden tesbit edilmiş taş gibi sert azap darbeleri vurdular,",
       "suleymaniye": "(O bulutlar) onlara katılaşmış çamurdan taşlar atıyorlardı.[1]",
-      "ates": "Onlara çamurdan sertleşmiş taşlar atan (kuşlar)."
+      "ates": "Onlara çamurdan sertleşmiş taşlar atan (kuşlar).",
+      "hulusi": "Atıyorlardı onlara, kurumuş çamurdan taşlarını.",
+      "bayrakli": "O kuşlar, onlara kurumuş çamurdan taşlar atıyordu.",
+      "elmali_sade": "Onlara balçıktan pişirilmiş sert taşlar atıyorlardı.",
+      "cantay": "ki bunlar onlara pişkin tuğladan (yapılmış) taş (lar) atıyorlar) dı.",
+      "piris": "(3-4) Onların üzerine damgalanmış taşlar atan ebabil kuşlarını gönderdi.",
+      "yildirim": "Bunlar onlara pişkin tuğladan yapılmış taşlar atıyorlardı.",
+      "safa": "Katılaşmış çamurdan taşlar attılar.[619]",
+      "yuksel": "Onlara sertleşmiş çamurdan taşlar atıyorlardı.",
+      "aktas": "Onlara çamurdan sertleşmiş taşlar atan.",
+      "okuyan": "Onlara çamurdan sertleşmiş taşlar atıyorlar(dı)."
     },
     {
       "number": 6193,
@@ -88,7 +128,17 @@
       "bulac": "Sonunda onları, yenik ekin yaprağı gibi kıldı.",
       "esed": "ve onları yalnız sap dipleri kalasıya yenmiş bir ekin tarlasına benzettiler.",
       "suleymaniye": "Sonunda onları, (içi) yenmiş tahıl kabuğu[1] gibi yapmıştı.[2]",
-      "ates": "Nihayet onları, kurt yeniği ekin yaprağı gibi yaptı."
+      "ates": "Nihayet onları, kurt yeniği ekin yaprağı gibi yaptı.",
+      "hulusi": "Nihayet onları yenmiş ekin yaprağı gibi kıldı.",
+      "bayrakli": "Sonunda onları, kurtçuk tarafından yenilmiş ekin yaprağı gibi yaptı.",
+      "elmali_sade": "Derken onları, yenilmiş ekin yaprağı gibi kılıverdi.",
+      "cantay": "Derken (Allah) onları yenik ekin yaprağı gibi yapıverdi.",
+      "piris": "Onları yenilmiş ekin gibi yaptı.",
+      "yildirim": "Derken onları kurt yeniği ekin yaprağına çeviriverdi.",
+      "safa": "Sonunda, onları, yenik bitki yaprağı gibi yaptı.",
+      "yuksel": "Ve böylece onları yenmiş ekin gibi perişan etmişti.",
+      "aktas": "Böylece onları yenmiş ekin yaprağı gibi yaptı.",
+      "okuyan": "Böylece, onları yenilmiş ekin (tarlası) gibi yapmıştı."
     }
   ]
 }

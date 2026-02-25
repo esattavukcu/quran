@@ -24,7 +24,17 @@
       "bulac": "Hayır, kalkış (kıyamet) gününe and ederim.",
       "esed": "Kıyamet Günü'nü tanıklığa çağırırım!",
       "suleymaniye": "Hayır (sandığınız gibi değil), kıyamet /mezardan kalkış gününe yemin ederim!",
-      "ates": "Yoo, kıyamet gününe and içerim,"
+      "ates": "Yoo, kıyamet gününe and içerim,",
+      "hulusi": "Kıyamet sürecindeki gerçekliğe;",
+      "bayrakli": "Hayır! Kıyamet gününe yemin ederim.",
+      "elmali_sade": "Yoo! Yemin ederim o kalkım gününe (kıyamet gününe)!",
+      "cantay": "(Hakıykat, kafirlerin inkar etdiği gibi değildir). Kıyamet gününe andederim.",
+      "piris": "Andolsun kıyamet gününe.",
+      "yildirim": "Hayır, gerçek öyle değil! Kıyamet günü hakkı için,",
+      "safa": "Yoo! Yemin olsun; Yeniden Yaratılış Günü'ne!",
+      "yuksel": "Diriliş Gününe and içerim.[1]",
+      "aktas": "Hayır, kıyamet gününe yemin ederim.",
+      "okuyan": "Hayır! Kıyamet gününe yemin ederim."
     },
     {
       "number": 5553,
@@ -40,7 +50,17 @@
       "bulac": "Ve yine hayır; kendini kınayıp duran nefse de and ederim.",
       "esed": "İnsan vicdanının kınayan sesini tanıklığa çağırırım!",
       "suleymaniye": "Hayır (sandığınız gibi değil) Sıkça öz eleştiri yapan kişiye de yemin ederim!",
-      "ates": "Yoo, daima, kendini kınayan nefse and içerim."
+      "ates": "Yoo, daima, kendini kınayan nefse and içerim.",
+      "hulusi": "Ve Nefs-i Levvame'ye (hakikate ters düştüğünü fark edip pişmanlığını yaşayan bilince) kasem ederim!",
+      "bayrakli": "Hayır! Sürekli olarak kendini kınayan nefse yemin ederim.",
+      "elmali_sade": "Yine Yoo! Yemin ederim o pişman cana (kınayan nefse)!",
+      "cantay": "(Hayır, hakıykat öyle değildir). Kendisini alabildiğine kınayan nefse yemin ederim (ki siz öldükden sonra mutlakaa dirileceksiniz).",
+      "piris": "Andolsun kendini kınayan nefse.",
+      "yildirim": "Kendisini eleştirip kusurlarından pişmanlık duyan kimse hakkı için (ki siz mutlaka diriltileceksiniz).",
+      "safa": "Yine yoo! Yemin olsun; kınayan benliğe!",
+      "yuksel": "Sürekli özeleştiride bulunan kişiye and içerim.",
+      "aktas": "Hayır, çok kınayan benliğe[1] yemin ederim.",
+      "okuyan": "Hayır! Kendini kınayan nefse (insana) da yemin ederim. "
     },
     {
       "number": 5554,
@@ -56,7 +76,17 @@
       "bulac": "İnsan, onun kemiklerini bizim kesin olarak bir araya getirmeyeceğimizi mi sanıyor?",
       "esed": "İnsan, (onu tekrar diriltip) kemiklerini yeniden bir araya getiremeyeceğimizi mi sanıyor?",
       "suleymaniye": "İnsan, (un ufak olduktan sonra) kemiklerini bir araya getiremeyeceğimizi mi sanıyor[1]?",
-      "ates": "İnsan kendisinin kemiklerini bir araya toplamayacağımızı mı sanıyor?"
+      "ates": "İnsan kendisinin kemiklerini bir araya toplamayacağımızı mı sanıyor?",
+      "hulusi": "İnsan, onun kemiklerini asla cem' etmeyeceğimizi mi sanıyor?",
+      "bayrakli": "İnsan bizim, onun kemiklerini bir araya getiremeyeceğimizi mi sanıyor?",
+      "elmali_sade": "insan sanıyor mu ki kemiklerini derleyemeyiz?",
+      "cantay": "İnsan zanneder mi ki her halde biz onun kemiklerini toplayıb bir araya getirmeyeceğiz?",
+      "piris": "İnsan, kemiklerini bir araya getiremeyeceğimizi mi sanıyor?",
+      "yildirim": "İnsan zanneder mi ki ölümünden sonra Biz kemiklerini toplayıp onu diriltmeyeceğiz?",
+      "safa": "İnsan, kemiklerini bir araya asla getiremeyeceğimizi mi sanıyor?",
+      "yuksel": "İnsan,  kemiklerini bir araya toplayamayız mı sanıyor?",
+      "aktas": "O insan,[1] kemiklerini asla bir araya getiremeyeceğimizi mi sanıyor?",
+      "okuyan": "İnsan kemiklerini asla bir araya toplayamayacağımızı mı sanıyor!"
     },
     {
       "number": 5555,
@@ -72,7 +102,17 @@
       "bulac": "Evet; onun parmak uçlarını dahi derleyip (yeniden) düzene koymaya güç yetirenleriz.",
       "esed": "Hayır, kesinlikle! Onu parmak uçlarına kadar yeniden var etmeye kadiriz!",
       "suleymaniye": "Elbette (bir araya getireceğiz, hatta) biz parmak uçlarını bile (ilk hali gibi) düzenlemenin ölçüsünü koymuş olanız[1].",
-      "ates": "Evet, toplarız, onun parmak uçlarını düzenlemeğe gücümüz yeter."
+      "ates": "Evet, toplarız, onun parmak uçlarını düzenlemeğe gücümüz yeter.",
+      "hulusi": "Evet! Onun parmak uçlarını bile tesviye etmeye (parmak izlerini bile aynen oluşturmaya) kaadirleriz.",
+      "bayrakli": "Evet, bizim onun parmak uçlarına varıncaya kadar bir araya getirmeye gücümüz yeter.",
+      "elmali_sade": "Evet derleriz, parmak (uç)larını bile tesviyeye (eski haline getirmeye) gücümüz yeter!",
+      "cantay": "Evet, biz parmak uçlarını bile derleyib iade etmiye kaadiriz.",
+      "piris": "Evet, onun parmak uçlarını bile düzenlemeye gücümüz yeter.",
+      "yildirim": "Evet, toplarız, hem de parmak uçlarına varıncaya kadar eski halinde düzenleriz!",
+      "safa": "Evet, öyle! Onun parmak uçlarını bile düzenlemeye gücümüz yeter.[551]",
+      "yuksel": "Evet; parmak uçlarını bile düzenlemeye gücümüz yeter.[1]",
+      "aktas": "Hayır, hayır! Biz, onu parmak uçlarına[1] varıncaya dek yeniden düzenlemeye gücü yetenleriz.",
+      "okuyan": "Evet! Biz onun parmak uçlarını bile düzenlemeye gücü yetenleriz."
     },
     {
       "number": 5556,
@@ -88,7 +128,17 @@
       "bulac": "Ancak insan, önündeki (sonsuz geleceği)ni de 'fücurla sürdürmek ister.'",
       "esed": "Ama yine de insan, önüne serilmiş olan şeyi inkara kalkışır,",
       "suleymaniye": "Aslında insan, önündeki günlerde de günaha devam etmek ister[1].",
-      "ates": "Fakat insan, devamlı suç işleyerek ilerisini berbad etmek ister."
+      "ates": "Fakat insan, devamlı suç işleyerek ilerisini berbad etmek ister.",
+      "hulusi": "Hayır! İnsan, önündekini (ölümle başlayan yaşamı) yalanlarcasına azgınlaşıyor!",
+      "bayrakli": "- Doğrusu insan, önündeki kıyameti inkar etmek ister: \"Kıyamet günü ne zamanmış?\" diye sorar.",
+      "elmali_sade": "Fakat insan önünde (ileride) günah işlemek ister,",
+      "cantay": "Fakat insan, önündeki (o kıyameti) yalanlamak diler.",
+      "piris": "Oysa, insan önündekini yalanlamak ister de..",
+      "yildirim": "Fakat insan suç işleyip durmak için önündeki kıyameti inkar etmek ister de,",
+      "safa": "Hayır! İnsan, suç işlemeyi sürdürmek ister.",
+      "yuksel": "Doğrusu,  insan her şeyin önüne sergilenmesini ister.",
+      "aktas": "Aslında o insan,[1] ömrünü[2] mücrim[3] olarak geçirmeyi ister.",
+      "okuyan": "(5, 6) Aslında (inkârcı) insan, \"Kıyamet günü de ne zamanmış!\" diye sorarak, önündekini (ahireti) yalanlamak ister."
     },
     {
       "number": 5557,
@@ -104,7 +154,17 @@
       "bulac": "\"Kıyamet günü ne zamanmış\" diye sorar.",
       "esed": "ve (istihza ile) sorar: \"Şu Kıyamet Günü ne zaman gelecekmiş?\"",
       "suleymaniye": "\"Ne zamanmış şu Kıyamet günü!\" diye sorar[1].",
-      "ates": "\"Kıyamet günü nerede?\" diye sorup durur."
+      "ates": "\"Kıyamet günü nerede?\" diye sorup durur.",
+      "hulusi": "\"Kıyamet süreci (ölüm sürecinde yaşanacaklar) ne zamanmış?\" diye sorar.",
+      "bayrakli": "- Doğrusu insan, önündeki kıyameti inkar etmek ister: \"Kıyamet günü ne zamanmış?\" diye sorar.",
+      "elmali_sade": "sorar: \"O kıyamet günü ne zaman?\" diye.",
+      "cantay": "\"Kıyamet günü (de) ne zaman (mış\" diye) sorar.",
+      "piris": "-Kıyamet günü ne zaman? diye sorar.",
+      "yildirim": "\"Ne zamanmış o kıyamet günü?\" diye alay eder.",
+      "safa": "\"Yeniden Yaratılış Günü, ne zaman?\" diyerek sorar.",
+      "yuksel": "\"Diriliş Günü ne zaman?\" diye sorar.",
+      "aktas": "\"Kıyamet günü ne zamanmış?\" diye sorar.",
+      "okuyan": "(5, 6) Aslında (inkârcı) insan, \"Kıyamet günü de ne zamanmış!\" diye sorarak, önündekini (ahireti) yalanlamak ister."
     },
     {
       "number": 5558,
@@ -120,7 +180,17 @@
       "bulac": "Ama göz 'kamaşıp da kaydığı,'",
       "esed": "Ama (o Gün,) gözler korku ile açıldığında,",
       "suleymaniye": "Gözlerin fal taşı gibi açıldığı zaman[1],",
-      "ates": "Ama göz (güneş gibi ortaya çıkan gerçeğin karşısında) kamaştığı,"
+      "ates": "Ama göz (güneş gibi ortaya çıkan gerçeğin karşısında) kamaştığı,",
+      "hulusi": "Gözünde şimşek çaktığında,",
+      "bayrakli": "- İşte, göz kamaştığı, ay tutulduğu, güneşle ay bir araya geldiği zaman!",
+      "elmali_sade": "Ne zaman ki o göz şimşek çakar,",
+      "cantay": "(7-8-9) İşte göz (hayret ve dehşetle) kamaşdığı, ay tutul (ub karardığı, güneşle ay bir araya getirildiği zaman,",
+      "piris": "-Göz kamaştığı zaman..",
+      "yildirim": "Gözler kamaşıp karardığı,",
+      "safa": "Sonunda, gözler korkuyla açıldığında.",
+      "yuksel": "Gözün kamaştığı, ",
+      "aktas": "Gözler, dehşetle kamaştığında.",
+      "okuyan": "(7, 8, 9, 10) İşte göz(ler kamaşıp) şimşek çaktığı, ay karardığı, güneş ve ay bir araya getirildiği zaman, işte o gün (inkârcı) insan \"(Acaba) nereye kaçmalı(yım)?\" diyecektir. "
     },
     {
       "number": 5559,
@@ -136,7 +206,17 @@
       "bulac": "Ay karardığı,",
       "esed": "ve ay karanlığa gömüldüğünde,",
       "suleymaniye": "Ay tutulduğu",
-      "ates": "Ay tutulduğu,"
+      "ates": "Ay tutulduğu,",
+      "hulusi": "Ay tutulduğunda,",
+      "bayrakli": "- İşte, göz kamaştığı, ay tutulduğu, güneşle ay bir araya geldiği zaman!",
+      "elmali_sade": "ay tutulur,",
+      "cantay": "(7-8-9) İşte göz (hayret ve dehşetle) kamaşdığı, ay tutul (ub karardığı, güneşle ay bir araya getirildiği zaman,",
+      "piris": "Ay tutulduğu..",
+      "yildirim": "Ayın ışığının büsbütün gittiği,",
+      "safa": "Ve ay karardığında.",
+      "yuksel": "Ayın tutulduğu, ",
+      "aktas": "Ay, karardığında.",
+      "okuyan": "(7, 8, 9, 10) İşte göz(ler kamaşıp) şimşek çaktığı, ay karardığı, güneş ve ay bir araya getirildiği zaman, işte o gün (inkârcı) insan \"(Acaba) nereye kaçmalı(yım)?\" diyecektir. "
     },
     {
       "number": 5560,
@@ -152,7 +232,17 @@
       "bulac": "Güneş ve ay birleştirildiği zaman;",
       "esed": "ve güneş ile ay bir araya getirildiğinde,",
       "suleymaniye": "ve Güneş ile Ay biraraya getirildiği zaman[1].",
-      "ates": "Güneş ve Ay bir araya toplandığı zaman!"
+      "ates": "Güneş ve Ay bir araya toplandığı zaman!",
+      "hulusi": "Güneş ve Ay bir araya geldiğinde!",
+      "bayrakli": "- İşte, göz kamaştığı, ay tutulduğu, güneşle ay bir araya geldiği zaman!",
+      "elmali_sade": "güneş ve ay toplanır,",
+      "cantay": "(7-8-9) İşte göz (hayret ve dehşetle) kamaşdığı, ay tutul (ub karardığı, güneşle ay bir araya getirildiği zaman,",
+      "piris": "Güneş ve Ay bir araya getirildiği zaman..",
+      "yildirim": "Güneş ile ay yan yana getirildiği zaman...",
+      "safa": "Güneş ve ay bir araya getirildiğinde.",
+      "yuksel": "Ve güneş ile ay bir araya toplandığı zaman, ",
+      "aktas": "Güneş ve Ay bir araya getirildiği zaman.",
+      "okuyan": "(7, 8, 9, 10) İşte göz(ler kamaşıp) şimşek çaktığı, ay karardığı, güneş ve ay bir araya getirildiği zaman, işte o gün (inkârcı) insan \"(Acaba) nereye kaçmalı(yım)?\" diyecektir. "
     },
     {
       "number": 5561,
@@ -168,7 +258,17 @@
       "bulac": "İnsan o gün: \"Kaçış nereye?\" der.",
       "esed": "o Gün insan haykıracak: \"(Eyvah!) Nereye kaçayım?\"",
       "suleymaniye": "İşte o gün insan: \"Kaçış yeri nerede?\" der.",
-      "ates": "(Evet) O gün insan: \"Kaçacak yer neresi?\" der."
+      "ates": "(Evet) O gün insan: \"Kaçacak yer neresi?\" der.",
+      "hulusi": "O süreçte insan: \"Nereye kaçabiliriz?\" der!",
+      "bayrakli": "- O gün insan, \"Kaçacak yer neresidir?\" diyecektir. Hayır hayır! Kaçıp sığınacak yer yoktur! O gün varıp durulacak yer, sadece Rabbinin huzurudur.",
+      "elmali_sade": "O gün insan: \"Nereye kaçmalı?\" der.",
+      "cantay": "(Evet) o gün insan \"Kaçış nereye?\" diyecek.",
+      "piris": "(O gün) insan: -Bugün kaçacak yer nerede? der.",
+      "yildirim": "İşte o gün insan der: \"Var mı kaçacak mekan?\"",
+      "safa": "O gün, insan, şöyle diyecek: \"Nereye kaçsam?\"",
+      "yuksel": "O gün insanoğlu,  \"Kaçacak yer nerede?\" der.",
+      "aktas": "O Gün, o insan,[1] \"Kaçacak yer var mı?\" diyecek.",
+      "okuyan": "(7, 8, 9, 10) İşte göz(ler kamaşıp) şimşek çaktığı, ay karardığı, güneş ve ay bir araya getirildiği zaman, işte o gün (inkârcı) insan \"(Acaba) nereye kaçmalı(yım)?\" diyecektir. "
     },
     {
       "number": 5562,
@@ -184,7 +284,17 @@
       "bulac": "Hayır, sığınacak herhangi bir yer yok.",
       "esed": "Hayır! Bir sığınak yok (senin için, ey insan)!",
       "suleymaniye": "Hayır, asla! Sığınılacak bir yer yoktur[1].",
-      "ates": "Hayır, sığınacak yer yoktur."
+      "ates": "Hayır, sığınacak yer yoktur.",
+      "hulusi": "Hayır, (dışarıda) sığınak yoktur!",
+      "bayrakli": "- O gün insan, \"Kaçacak yer neresidir?\" diyecektir. Hayır hayır! Kaçıp sığınacak yer yoktur! O gün varıp durulacak yer, sadece Rabbinin huzurudur.",
+      "elmali_sade": "Hayır hayır! Yok bir siper.",
+      "cantay": "Hayır, hiçbir sığınak yok.",
+      "piris": "-Hayır, asla kaçacak bir yer yoktur.",
+      "yildirim": "Hayır, sığınacak hiçbir yer yoktur.",
+      "safa": "Asla! Bir sığınak yok.",
+      "yuksel": "Hayır,  bir sığınak yok.",
+      "aktas": "Hayır! Kesinlikle sığınacak bir yer yoktur!",
+      "okuyan": "Hayır! Sığınacak (bir) yer yoktur!"
     },
     {
       "number": 5563,
@@ -200,7 +310,17 @@
       "bulac": "O gün, 'sonunda varılıp karar kılınacak yer (müstakar)' yalnızca Rabbi'nin katıdır.",
       "esed": "O Gün bütün yolların varış yeri, Rabbinin katı olacak!",
       "suleymaniye": "O gün, varıp durulacak yer Rabbinin huzurudur[1].",
-      "ates": "O gün varıp durulacak yer, ancak Rabbinin huzurudur (ey insan)."
+      "ates": "O gün varıp durulacak yer, ancak Rabbinin huzurudur (ey insan).",
+      "hulusi": "O süreçte (her birimin kendi) karargahı Rabbinedir!",
+      "bayrakli": "- O gün insan, \"Kaçacak yer neresidir?\" diyecektir. Hayır hayır! Kaçıp sığınacak yer yoktur! O gün varıp durulacak yer, sadece Rabbinin huzurudur.",
+      "elmali_sade": "O gün ancak siper (varılacak yer) Rabbinedir,",
+      "cantay": "O gün herkesin (varıb) duracağı yer ancak Rabbin (in huzuuru) dur.",
+      "piris": "O gün, karar yeri Rabbinin huzurudur.",
+      "yildirim": "O gün varılacak yer ancak Rabbinin huzurudur!",
+      "safa": "O gün, varılacak yer, Efendinin katıdır.",
+      "yuksel": "O gün son durak Efendinin huzurudur.",
+      "aktas": "O Gün, sığınılacak tek yer senin Rabb'indir.",
+      "okuyan": "O gün varılacak yer sadece Rabbinin huzurudur."
     },
     {
       "number": 5564,
@@ -216,7 +336,17 @@
       "bulac": "İnsana o gün, önceden takdim ettikleri ve erteledikleri şeylerle haber verilir.",
       "esed": "O Gün insana, yaptığı ve yapmadığı her şey bildirilecek:",
       "suleymaniye": "O gün insana, neyi önceleyip yaptığı, neyi de ertelediği tek tek bildirilir[1].",
-      "ates": "(O zaman) İnsanın yapıp öne sürdüğü, (yapmayıp) geri bıraktığı herşey kendisine haber verilir."
+      "ates": "(O zaman) İnsanın yapıp öne sürdüğü, (yapmayıp) geri bıraktığı herşey kendisine haber verilir.",
+      "hulusi": "O süreçte insanda, takdim ettiği (önceden gönderdiği) ve tehir ettiği (sonraya bıraktığı, yapmadığı) şeylerin bilgisi açığa çıkarılır.",
+      "bayrakli": "O gün, insana, yaptıkları da yapmadıkları da haber verilir.",
+      "elmali_sade": "o gün insan, önce ve sonra yaptıkları ile ayıtılır.",
+      "cantay": "O gün insana, önden yolladığı şeyler (amel ve hareketler) le geri bırakdığı (ne varsa, hepsi) haber verilecek.",
+      "piris": "O gün insana yaptıkları ve erteledikleri haber verilir.",
+      "yildirim": "O gün insana yaptığı her türlü iyilik ve fenalık ile; yapmadığı her türlü iyilik ve fenalık tek tek bildirilir. Ona göre karşılığını alır.",
+      "safa": "O gün, yaptığı ve yapmadığı şeyler insana bildirilecektir.",
+      "yuksel": "O gün insana,  yapıp yapmadığı her şey haber verilir.",
+      "aktas": "O Gün, o insan, yaptıklarından da yapması gerektiği halde yapmadıklarından da bir bir haberdar edilir.",
+      "okuyan": "O gün, (dünyada yapıp) öne sürdüğü ve (yapmayıp) geride bıraktığı ne varsa insana bildirilecektir."
     },
     {
       "number": 5565,
@@ -232,7 +362,17 @@
       "bulac": "Hayır; insan, kendi nefsine karşı bir basirettir.",
       "esed": "hayır, aslında insan, kendi aleyhine şahitlik yapacak,",
       "suleymaniye": "Aslında insan, kendi aleyhine açık delildir[1],",
-      "ates": "Doğrusu insan kendi nefsini görür,"
+      "ates": "Doğrusu insan kendi nefsini görür,",
+      "hulusi": "İşte (gerçek şu ki) insan, kendi nefsini değerlendiricidir! (\"OKU yaşam bilgini {kitabını}! Bilincin bu aşamada, yaptıklarının sonucunun ne olduğunu görmeye yeterlidir. \" 17. İsra' Suresi: 14. ayetini hatırlayalım. A. H. )",
+      "bayrakli": "Doğrusu insan, kendi öz benliğinin gözlemcisidir.",
+      "elmali_sade": "Doğrusu insan kendine karşı bir basirettir (kendisinin ne yaptığını gayet iyi bilir).",
+      "cantay": "Daha doğrusu insan (bizzat) kendisine karşı bir şahiddir.",
+      "piris": "-Evet, insan kendini görecektir.",
+      "yildirim": "(14-15) Türlü türlü mazeretler öne sürse de, Artık insan, kendisi hakkında şahit olur.",
+      "safa": "Hayır! İnsan, kendi benliğine tanıktır.",
+      "yuksel": "Doğrusu,  insan kendi kendisine tanıktır.",
+      "aktas": "Hayır! Aslında o insan, kendi aleyhine tanıktır.",
+      "okuyan": "(14, 15) (Birtakım) mazeretler ileri sürmeye kalkışacak olsaydı bile artık insan kendi kendinin şahididir. "
     },
     {
       "number": 5566,
@@ -248,7 +388,17 @@
       "bulac": "Kendi mazeretlerini ortaya atsa bile.",
       "esed": "mazeretler bulup kendi (yaptıkları)nı gizlemeye çalışsa bile.",
       "suleymaniye": "isterse mazeretlerini sayıp döksün[1].",
-      "ates": "Birtakım özürler ortaya atsa da."
+      "ates": "Birtakım özürler ortaya atsa da.",
+      "hulusi": "Mazeretlerini öne sürse bile (bir şey değişmez)!",
+      "bayrakli": "Her türlü özrünü sayıp dökse de.",
+      "elmali_sade": "Mazeretlerini ortaya (sayıp) dökse de!",
+      "cantay": "Velev ki o, (bütün) ma'ziretlerini (meydana) atmış olsun.",
+      "piris": "İsterse özür beyan etsin.",
+      "yildirim": "(14-15) Türlü türlü mazeretler öne sürse de, Artık insan, kendisi hakkında şahit olur.",
+      "safa": "Tüm özürlerini ortaya koysa bile.",
+      "yuksel": "Birtakım özürler ortaya atsa da...",
+      "aktas": "Mazeretlerini ileri sürse bile.",
+      "okuyan": "(14, 15) (Birtakım) mazeretler ileri sürmeye kalkışacak olsaydı bile artık insan kendi kendinin şahididir. "
     },
     {
       "number": 5567,
@@ -264,7 +414,17 @@
       "bulac": "Onu (Kur'an'ı, kavrayıp belletmek için) aceleye kapılıp dilini onunla hareket ettirip durma.",
       "esed": "(Vahyin sözlerini tekrarlarken) dilini hızla oynatıp durma;",
       "suleymaniye": "(Ey Muhammed!) Acele edip onunla (indirilmesi tamamlanmamış ayet kümesi ile) dilini harekete geçirme /hüküm vermeye kalkma[1].",
-      "ates": "(Ey Muhammed,) Onu hemen okumak için diline depretme."
+      "ates": "(Ey Muhammed,) Onu hemen okumak için diline depretme.",
+      "hulusi": "Onu dilinle tekrar etme, Onu acele (muhafaza) için.",
+      "bayrakli": "Vahyi ezberlemek için dilini acele kıpırdatma!",
+      "elmali_sade": "Depretme ona dilini telaşından onu (tekrarlamak için)!",
+      "cantay": "Onu acele (kavrayıb ezber) etmen için (Cebrail vahyi iyice bitirmeden) dilini onunla depretme.",
+      "piris": "-Dilini acele ile hareket ettirip durma.",
+      "yildirim": "Sana vahyedileni unutmamak için tekrarlarken, hemen anında bellemek için dilini kımıldatma.",
+      "safa": "Onu aceleye getirerek, dilini oynatıp durma.",
+      "yuksel": "Onu aceleye getirip dilini oynatma.[1]",
+      "aktas": "Telaşla, geçiştirmeye çalışarak, dilini dolaştırıp durma![1]",
+      "okuyan": "(Ey suçlu kişi)! Artık onu (hakkındaki hükmü) çabucak almak için dilini kımıldatma![1]"
     },
     {
       "number": 5568,
@@ -280,7 +440,17 @@
       "bulac": "Şüphesiz, onu (kalbinde) toplamak ve onu (sana) okutmak bize ait (bir iş)tir.",
       "esed": "çünkü onu (senin kalbine) yerleştirmek ve (gerektiğinde) okutturmak Bizim işimizdir.",
       "suleymaniye": "Onu bir araya getirmek ve bir kur'an /anlam kümesi yapmak kesinlikle bizim işimizdir[1].",
-      "ates": "Onu (senin kalbinde) toplamak ve (sana) okumak bize düşer."
+      "ates": "Onu (senin kalbinde) toplamak ve (sana) okumak bize düşer.",
+      "hulusi": "Muhakkak ki Onu cem' etmek ve Onun okunması bize aittir.",
+      "bayrakli": "Şüphesiz onu kalbinde toplamak ve sana okutturmak yalnızca bize aittir.",
+      "elmali_sade": "Çünkü onun derlenip toplanması Bize aittir!",
+      "cantay": "Onu (göğsünde) toplamak, onu (dilinde akıtıb) okutmak şübhesiz bize aiddir.",
+      "piris": "Şüphesiz, onu toplayıp, okumak bize düşer.",
+      "yildirim": "Çünkü vahyi senin kalbinde toplamak ve onu okutmak Bize ait bir iştir.",
+      "safa": "Kuşkusuz, Onu toplamak ve okutmak, Bize özgüdür.[552]",
+      "yuksel": "Onu toplamak da okutmak da bize düşer.",
+      "aktas": "Kuşkusuz, onun toplanması ve okunması Bize aittir.[1]",
+      "okuyan": "Şüphesiz ki onun toplanması ve okunması sadece bize aittir."
     },
     {
       "number": 5569,
@@ -296,7 +466,17 @@
       "bulac": "Şu halde, Biz onu okuduğumuz zaman, sen de onun okunuşunu izle.",
       "esed": "Böylece, onu telaffuz ettiğimiz zaman, kelimelerini (bütün zihnini vererek) takip et,",
       "suleymaniye": "Onu kur'an /anlam kümesi haline getirdiğimizde onun anlam kümesine uy (ondan çıkan hükme tabi ol)!",
-      "ates": "O halde sana Kur'an'ı okuduğumuz zaman onun okunuşunu izle."
+      "ates": "O halde sana Kur'an'ı okuduğumuz zaman onun okunuşunu izle.",
+      "hulusi": "Onu okuduğumuzda, Onun okumasına tabi ol!",
+      "bayrakli": "Biz onu okuttuğumuz zaman, onun okunuşunu takip et!",
+      "elmali_sade": "Biz onu (Kur'an'ı) okuduğumuz zaman okuduğunu takip et!",
+      "cantay": "Öyleyse biz onu okuduğumuz vakit sen onun kıraatine uy.",
+      "piris": "Onu okuduğumuz zaman onun okunuşuna tabi ol.",
+      "yildirim": "O halde Biz Kur'an'ı okuduğumuzda, sen de onun okunuşunu izle!",
+      "safa": "Öyleyse Onu okuduğumuzda, Onun okunuşunu izle.",
+      "yuksel": "Biz onu okuduğumuz zaman,  onun okunuşunu izle.",
+      "aktas": "O halde onu okuduğumuz zaman, onun okunuşuna tabi ol.[1]",
+      "okuyan": "Biz onu okuduğumuz zaman okunuşunu takip et! "
     },
     {
       "number": 5570,
@@ -312,7 +492,17 @@
       "bulac": "Sonra muhakkak onu açıklamak Bize ait (bir iş)tir.",
       "esed": "sonra onun anlamını açıklamak da Bize düşer.",
       "suleymaniye": "Zaten onun (Kur'an'ın) açıklanması da bizim işimizdir[1].",
-      "ates": "Sonra onu açıklamak da bize düşer."
+      "ates": "Sonra onu açıklamak da bize düşer.",
+      "hulusi": "Sonra, muhakkak ki Onun beyanı (açığa çıkarılması) da bize aittir.",
+      "bayrakli": "Sonra onu açıklamak da yalnız bize düşer.",
+      "elmali_sade": "Sonra onun açıklaması da yine Bize aittir.",
+      "cantay": "Sonra onu açıklamak da hakıykat bize aiddir.",
+      "piris": "Sonra onu açıklamak yine bize aittir.",
+      "yildirim": "Ayrıca onu açıklamak da bize ait bir iştir.",
+      "safa": "Sonra, kuşkusuz, Onun anlamını açıklamak, Bize özgüdür.",
+      "yuksel": "Sonra,  onu açıklamak da bizim görevimizdir.",
+      "aktas": "Sonra, onun beyanı yalnızca Biz'e aittir.[1]",
+      "okuyan": "Sonra onu açıklamak da sadece bize aittir.[1]"
     },
     {
       "number": 5571,
@@ -328,7 +518,17 @@
       "bulac": "Hayır; siz çarçabuk geçmekte olanı (dünyayı) seviyorsunuz.",
       "esed": "(Çoğunuz) bu geçici hayatı seviyorsunuz,",
       "suleymaniye": "Hayır, hayır! Aslında siz bir an önce elinize geçecek olanı /dünyayı seviyorsunuz[1].",
-      "ates": "Hayır, siz çabuk (geçen şu dünyay)ı seviyorsunuz da,"
+      "ates": "Hayır, siz çabuk (geçen şu dünyay)ı seviyorsunuz da,",
+      "hulusi": "Hayır! Bilakis siz acileyi (peşin olanı, dünyayı) seversiniz;",
+      "bayrakli": "- Hayır! Öyle değil, doğrusu sizler bu dünyayı seviyorsunuz ve ahireti bırakıyorsunuz.",
+      "elmali_sade": "Hayır, hayır! Siz peşini (geçici dünyayı) seviyorsunuz.",
+      "cantay": "Yok yok, siz çarçabuk geçen (bu dünyay) i seversiniz.,",
+      "piris": "-Hayır, siz, acil olanı /dünyayı seviyorsunuz.",
+      "yildirim": "Gerçek şu ki: Siz bu peşin dünya hayatına çok düşkünsünüz.",
+      "safa": "Hayır, asla! Siz, geçici yaşamı seviyorsunuz.",
+      "yuksel": "Ne var ki,  siz geçici (dünyayı) seviyorsunuz.",
+      "aktas": "Hayır! İşin doğrusu, siz çabuk geçeni[1] seviyordunuz.",
+      "okuyan": "Hayır! Doğrusu siz çabucak geçeni (dünyayı) seviyorsunuz."
     },
     {
       "number": 5572,
@@ -344,7 +544,17 @@
       "bulac": "Ve ahireti terkedip bırakıyorsunuz.",
       "esed": "ama öteki dünyayı (ve Hesap Günü'nü) hiç düşünmüyorsunuz!",
       "suleymaniye": "Ahireti ise bırakıyorsunuz[1].",
-      "ates": "Ahireti bırakıyorsunuz."
+      "ates": "Ahireti bırakıyorsunuz.",
+      "hulusi": "Sonsuz gelecek yaşamı bırakırsınız!",
+      "bayrakli": "- Hayır! Öyle değil, doğrusu sizler bu dünyayı seviyorsunuz ve ahireti bırakıyorsunuz.",
+      "elmali_sade": "Ahireti bırakıyorsunuz!",
+      "cantay": "Ahireti bırakırsınız.",
+      "piris": "Ahireti bırakıyorsunuz.",
+      "yildirim": "Onun için ahireti terk edip durursunuz.",
+      "safa": "Ve sonsuz yaşamı bırakıyorsunuz.",
+      "yuksel": "Ahireti ise önemsemiyorsunuz.",
+      "aktas": "\"Ahireti de umursamıyordunuz.\"",
+      "okuyan": "Ahireti bırakıyorsunuz.[1]"
     },
     {
       "number": 5573,
@@ -360,7 +570,17 @@
       "bulac": "O gün yüzler ışıl ışıl parlar.",
       "esed": "Bazı yüzler o Gün mutlulukla parlayacak,",
       "suleymaniye": "O gün /Ahiret günü bazı yüzler ışıl ışıl parlar[1].",
-      "ates": "Yüzler var ki o gün ışıl ışıl parlar,"
+      "ates": "Yüzler var ki o gün ışıl ışıl parlar,",
+      "hulusi": "O süreçte yüzler ışıl ışıl parlar.",
+      "bayrakli": "- Yüzler vardır o gün, parıltılı, Rabbinden beklenti içindedir ve yüzler vardır o gün,  asıktır. Bel kemiklerini kıran bir felakete uğrayacağını anlar.",
+      "elmali_sade": "Nice yüzler o gün ışılar, parlar,",
+      "cantay": "Yüzler (vardır) o gün ter-ü tazedir.",
+      "piris": "O gün, parıldayan yüzler olacak.",
+      "yildirim": "Yüzler vardır o gün pırıl pırıl...",
+      "safa": "O gün, kimi yüzler ışıldar.",
+      "yuksel": "O gün bazı yüzler parlar.",
+      "aktas": "Birtakım yüzler O Gün ışıl ışıldır.",
+      "okuyan": "(22, 23) O gün bazı yüzler, Rablerini(n kararını) beklerken ışıl ışıl olacaktır."
     },
     {
       "number": 5574,
@@ -376,7 +596,17 @@
       "bulac": "Rablerine bakıp durur.",
       "esed": "Rablerine bakarken;",
       "suleymaniye": "Rablerine bakarlar /Rablerinin vereceği nimetleri beklerler[1].",
-      "ates": "Rabbine bakar."
+      "ates": "Rabbine bakar.",
+      "hulusi": "Rablerine nazırdırlar!",
+      "bayrakli": "- Yüzler vardır o gün, parıltılı, Rabbinden beklenti içindedir ve yüzler vardır o gün,  asıktır. Bel kemiklerini kıran bir felakete uğrayacağını anlar.",
+      "elmali_sade": "Rablerine bakarlar!",
+      "cantay": "Rablerine bakacakdır.",
+      "piris": "Rabbine bakacak..",
+      "yildirim": "(O güzel ve Yüce) Rab'lerine bakakalır...",
+      "safa": "Efendisine bakar.",
+      "yuksel": "Efendisine bakar.",
+      "aktas": "Rabb'ine bakar[1].",
+      "okuyan": "(22, 23) O gün bazı yüzler, Rablerini(n kararını) beklerken ışıl ışıl olacaktır."
     },
     {
       "number": 5575,
@@ -392,7 +622,17 @@
       "bulac": "O gün, öyle yüzler vardır ki kararmış, ekşimiştir.",
       "esed": "ve o Gün bazı yüzler ümitsizlikle kararacak,",
       "suleymaniye": "O gün bazı yüzler de asıktır[1].",
-      "ates": "Yüzler de var ki o gün asıktır."
+      "ates": "Yüzler de var ki o gün asıktır.",
+      "hulusi": "O süreçte nice yüzler de asıktır!",
+      "bayrakli": "- Yüzler vardır o gün, parıltılı, Rabbinden beklenti içindedir ve yüzler vardır o gün,  asıktır. Bel kemiklerini kıran bir felakete uğrayacağını anlar.",
+      "elmali_sade": "Nice yüzler de o gün ekşir, pusarır;",
+      "cantay": "Yüzler (vardır), o gün burtarıkdır.",
+      "piris": "O gün asık yüzler de olacak.",
+      "yildirim": "Ve nice suratlar vardır o gün asılır.",
+      "safa": "Ve o gün, kimi yüzler asıktır.",
+      "yuksel": "O gün bazı yüzler de vardır ki asıktır.",
+      "aktas": "Birtakım yüzler O Gün asıktır.",
+      "okuyan": "(24, 25) O gün bazı asık yüzler de vardır ki bel kemiklerini kıran bir felakete uğratılacağını anlayacaktır. "
     },
     {
       "number": 5576,
@@ -408,7 +648,17 @@
       "bulac": "Kendisine, beli büken işlerin yapılacağını anlamaktadır.",
       "esed": "çatırdatan bir felaketin başlarına gelmek üzere olduğunu bilerek.",
       "suleymaniye": "Kendilerine, bellerini kıracak bir şey yapılacağını anlarlar[1].",
-      "ates": "Kendisine bel kemiklerini kıran (bela)nın yapılacağını anlar."
+      "ates": "Kendisine bel kemiklerini kıran (bela)nın yapılacağını anlar.",
+      "hulusi": "(O asık yüzlüler) bellerinin kırılacağını hissederler!",
+      "bayrakli": "- Yüzler vardır o gün, parıltılı, Rabbinden beklenti içindedir ve yüzler vardır o gün,  asıktır. Bel kemiklerini kıran bir felakete uğrayacağını anlar.",
+      "elmali_sade": "kendilerine bel kıran belalı bir iş yapılacağını anlar.",
+      "cantay": "Anlar ki kendisine bel kemiklerini kıracak çok bela (lı bir iş) yapılacak.",
+      "piris": "Bellerini bükecek bir felakete uğrayacağını anlayacak.",
+      "yildirim": "Belini kıran darbeyi yediğini hisseder.",
+      "safa": "Belini kıracak bir şey yapılacağını anlamıştır.",
+      "yuksel": "Belkemiğinin kırılacağının endişesi içindedir.",
+      "aktas": "Belini bükecek bir felaketle karşı karşıya kaldığını anlar.",
+      "okuyan": "(24, 25) O gün bazı asık yüzler de vardır ki bel kemiklerini kıran bir felakete uğratılacağını anlayacaktır. "
     },
     {
       "number": 5577,
@@ -424,7 +674,17 @@
       "bulac": "Hayır; can, köprücük kemiğine gelip dayandığı zaman,",
       "esed": "Ne zaman ki, (son nefes, ölen birinin) boğazına gelip düğümlenir,",
       "suleymaniye": "Hayır hayır! Can (boğaza gelip) köprücük kemiklerine dayanınca:[1]",
-      "ates": "Hayır, ne zaman ki can, köprücük kemiklerine dayanır,"
+      "ates": "Hayır, ne zaman ki can, köprücük kemiklerine dayanır,",
+      "hulusi": "Hayır! (Can) köprücük kemiklerine ulaştığında;",
+      "bayrakli": "- Hayır! Can köprücük kemiğine dayandığında, \"Kim tedavi edecektir?\" dendiğinde, onun kesin ayrılış olduğunu anladığında, bacaklar birbirine dolaştığında, o gün sevk yeri yalnızca Rabbinin huzurudur.",
+      "elmali_sade": "Hayır, hayır! Ne zaman ki, can köprücüklere dayanır",
+      "cantay": "Gözünüzü açın, (can) köprücük kemiğine bir dayandığı zaman,",
+      "piris": "Hayır, can çıkma noktasına/köprücük kemiğine gelmiş.",
+      "yildirim": "Hayır, hayır! Ne zaman ki can boğaza gelir, işte o zaman can çekişenin yanındakiler:",
+      "safa": "Asla! Boğazına gelip düğümlendiğinde.",
+      "yuksel": "Doğrusu,  (nefis) boğaza dayandığı, ",
+      "aktas": "Hayır! Kesinlikle düşündükleri gibi değil. Köprücük kemiklerine dayandığı zaman;[1]",
+      "okuyan": "(26, 27, 28, 29, 30) Doğrusu (can), köprücük kemiğine dayanıp \"Tedavi edebilecek kimdir?\" dendiğinde, bunun gerçek bir ayrılık olduğunu anlayıp bacak(lar) birbirine dolaştığında, işte o gün varılacak yer sadece Rabbinin huzuru olacaktır. "
     },
     {
       "number": 5578,
@@ -440,7 +700,17 @@
       "bulac": "\"Son müdahaleyi yapacak kim\" denir.",
       "esed": "ve insanlar: \"(onu kurtaracak) bir hekim yok mu?\" diye sorarlar;",
       "suleymaniye": "(Ölüm melekleri tarafından) \"Seni kim kurtaracak!\" denir[1].",
-      "ates": "Ve (başında bulunanlar tarafından): \"Kim afsun yapar acaba? denir,"
+      "ates": "Ve (başında bulunanlar tarafından): \"Kim afsun yapar acaba? denir,",
+      "hulusi": "\"Kimdir ölümden kurtaracak?\"",
+      "bayrakli": "- Hayır! Can köprücük kemiğine dayandığında, \"Kim tedavi edecektir?\" dendiğinde, onun kesin ayrılış olduğunu anladığında, bacaklar birbirine dolaştığında, o gün sevk yeri yalnızca Rabbinin huzurudur.",
+      "elmali_sade": "ve: \"Okuyacak kim var?\" denilir",
+      "cantay": "\"Tedavi edebilecek kim?\" denildi (denilecek).",
+      "piris": "-Son nefesini veren kimdir? denmiş.",
+      "yildirim": "\"Bunu iyileştiren, kurtaran yok mu?\" der.",
+      "safa": "Şöyle denilir: \"Kurtaran yok mu?\"[553]",
+      "yuksel": "Ve,  \"Çare bulan var mı?\" dendiği zaman.",
+      "aktas": "\"Kurtaracak olan kimdir?\" denir.",
+      "okuyan": "(26, 27, 28, 29, 30) Doğrusu (can), köprücük kemiğine dayanıp \"Tedavi edebilecek kimdir?\" dendiğinde, bunun gerçek bir ayrılık olduğunu anlayıp bacak(lar) birbirine dolaştığında, işte o gün varılacak yer sadece Rabbinin huzuru olacaktır. "
     },
     {
       "number": 5579,
@@ -456,7 +726,17 @@
       "bulac": "Artık gerçekten, kendisi de bir ayrılık olduğunu anlamıştır.",
       "esed": "kendisi de bilir ki bu ayrılma vaktidir,",
       "suleymaniye": "O da ayrılık vaktinin geldiğini anlar[1],",
-      "ates": "Ve kendisi artık bunun, ayrılık zamanı olduğunu anlar,"
+      "ates": "Ve kendisi artık bunun, ayrılık zamanı olduğunu anlar,",
+      "hulusi": "Bilmiştir ki, yaşanacak o malum ayrılık!",
+      "bayrakli": "- Hayır! Can köprücük kemiğine dayandığında, \"Kim tedavi edecektir?\" dendiğinde, onun kesin ayrılış olduğunu anladığında, bacaklar birbirine dolaştığında, o gün sevk yeri yalnızca Rabbinin huzurudur.",
+      "elmali_sade": "ve o zaman (o da bunun) tam bir ayrılış olduğunu sezmiş,",
+      "cantay": "Ve (can çekişen) hakıyki bir ayrılış olduğunu anladı (anlayacak).",
+      "piris": "Anlar ki, bu bir ayrılış.",
+      "yildirim": "Artık ayrılık vakti geldiğini kendisi de anlar.",
+      "safa": "Zaten ayrılık zamanı olduğunu anlamıştır.",
+      "yuksel": "Bunun artık o ayrılık zamanı olduğunu anlar.",
+      "aktas": "Bunun ayrılık anı[1] olduğunu anlar.",
+      "okuyan": "(26, 27, 28, 29, 30) Doğrusu (can), köprücük kemiğine dayanıp \"Tedavi edebilecek kimdir?\" dendiğinde, bunun gerçek bir ayrılık olduğunu anlayıp bacak(lar) birbirine dolaştığında, işte o gün varılacak yer sadece Rabbinin huzuru olacaktır. "
     },
     {
       "number": 5580,
@@ -472,7 +752,17 @@
       "bulac": "(Ölüm korkusundan) Ayaklar birbirine dolaştığında;",
       "esed": "ve ölüm sancıları ile örülmektedir:",
       "suleymaniye": "ayakları birbirine dolaşır.",
-      "ates": "Ve bacak bacağa dolaşır."
+      "ates": "Ve bacak bacağa dolaşır.",
+      "hulusi": "Ayaklar dolanmıştır!",
+      "bayrakli": "- Hayır! Can köprücük kemiğine dayandığında, \"Kim tedavi edecektir?\" dendiğinde, onun kesin ayrılış olduğunu anladığında, bacaklar birbirine dolaştığında, o gün sevk yeri yalnızca Rabbinin huzurudur.",
+      "elmali_sade": "el, ayak, bacak bacağa dolaşmıştır.",
+      "cantay": "Bacak da bacağa dolaşdı mı,",
+      "piris": "Bacaklarından can çekilmiş.",
+      "yildirim": "Bacağı bacağına dolaşır, ölüm acısıyla kıvranır.",
+      "safa": "Ayaklar birbirine dolaşır.",
+      "yuksel": "Bacakları birbirine dolaşmıştır.",
+      "aktas": "Ve ayakları birbirine dolaşır.",
+      "okuyan": "(26, 27, 28, 29, 30) Doğrusu (can), köprücük kemiğine dayanıp \"Tedavi edebilecek kimdir?\" dendiğinde, bunun gerçek bir ayrılık olduğunu anlayıp bacak(lar) birbirine dolaştığında, işte o gün varılacak yer sadece Rabbinin huzuru olacaktır. "
     },
     {
       "number": 5581,
@@ -488,7 +778,17 @@
       "bulac": "O gün sevk, yalnızca Rabbinedir.",
       "esed": "işte o zaman gidişinin Rabbine doğru olduğunu hisseder!",
       "suleymaniye": "Bugün sevk edileceği yer Rabbinin huzurudur[1].",
-      "ates": "İşte o gün, sevk Rabbinedir (can, Allah'ın huzuruna sevk edilir)."
+      "ates": "İşte o gün, sevk Rabbinedir (can, Allah'ın huzuruna sevk edilir).",
+      "hulusi": "O süreçte sevk rabbinedir!",
+      "bayrakli": "- Hayır! Can köprücük kemiğine dayandığında, \"Kim tedavi edecektir?\" dendiğinde, onun kesin ayrılış olduğunu anladığında, bacaklar birbirine dolaştığında, o gün sevk yeri yalnızca Rabbinin huzurudur.",
+      "elmali_sade": "O gün kişi yalnız Rabbinin huzuruna sevkedilir.",
+      "cantay": "O gün sevk (ıyyat) yalınız Rabbinedir!",
+      "piris": "O gün sevk, Rabbine'dir.",
+      "yildirim": "O gün sevkiyat, doğru Rabbinin divanına olur!",
+      "safa": "O gün, gidiş, Efendine olacaktır.",
+      "yuksel": "O gün sevk Efendine doğrudur.",
+      "aktas": "O Gün gidiş yalnızca Rabb'inedir.",
+      "okuyan": "(26, 27, 28, 29, 30) Doğrusu (can), köprücük kemiğine dayanıp \"Tedavi edebilecek kimdir?\" dendiğinde, bunun gerçek bir ayrılık olduğunu anlayıp bacak(lar) birbirine dolaştığında, işte o gün varılacak yer sadece Rabbinin huzuru olacaktır. "
     },
     {
       "number": 5582,
@@ -504,7 +804,17 @@
       "bulac": "Fakat o, ne doğrulamış ne de namaz kılmıştı.",
       "esed": "(Artık son pişmanlık fayda etmez) çünkü (yaşadığı sürece) hakikati kabul etmedi ve (aydınlığa kavuşmak için) namaz kılmadı;",
       "suleymaniye": "(O, canını böyle verir) çünkü doğruları kabul etmedi ve kulluk görevlerini yapmadı,[1]",
-      "ates": "Ne sadaka verdi, ne de namaz kıldı."
+      "ates": "Ne sadaka verdi, ne de namaz kıldı.",
+      "hulusi": "Ne tasdik etti, ne salat eyledi (yöneldi Rabbine). . .",
+      "bayrakli": "- Ne doğruladı, ne de kulluk görevini yerine getirdi. Fakat yalanladı ve yüz çevirdi. Sonra da çalım sata sata yürüyerek ailesine gitmişti. Sana yazıklar olsun, yazıklar! Tekrar tekrar sana yazıklar olsun, yazıklar!",
+      "elmali_sade": "Ama o ne sadaka verdi ne de namaz kıldı.",
+      "cantay": "İşte o, (peygamberi ve Kur'anı) tasdıyk etmemiş, namaz da kılmamış,",
+      "piris": "Tasdik etmemiş, namaz kılmamış.",
+      "yildirim": "Ne dini tasdik eder, ne namaz kılardı.",
+      "safa": "Ne doğruladı ne de destek oldu.",
+      "yuksel": "O ne doğruladı,  ne de destekledi;[1]",
+      "aktas": "Fakat o ne onayladı ne de salla yaptı.[1]",
+      "okuyan": "(İnkârcı kişi, gerçeği) onaylamamış, (Allah'ın dinine) destek olmamıştı."
     },
     {
       "number": 5583,
@@ -520,7 +830,17 @@
       "bulac": "Ancak o, yalanlamış ve yüz çevirmişti.",
       "esed": "tam tersine, hakikati yalanladı ve (ondan) uzaklaştı,",
       "suleymaniye": "ama yalana sarıldı ve sırtını çevirdi[1].",
-      "ates": "Fakat yalanladı, döndü."
+      "ates": "Fakat yalanladı, döndü.",
+      "hulusi": "Fakat yalanladı ve yüz çevirdi!",
+      "bayrakli": "- Ne doğruladı, ne de kulluk görevini yerine getirdi. Fakat yalanladı ve yüz çevirdi. Sonra da çalım sata sata yürüyerek ailesine gitmişti. Sana yazıklar olsun, yazıklar! Tekrar tekrar sana yazıklar olsun, yazıklar!",
+      "elmali_sade": "Fakat yalan dedi ve döndü.",
+      "cantay": "fakat (üstelik Kur'anı) yalanlamış, (imana) arkasını dönmüş,",
+      "piris": "Fakat, yalanlamış, yüz çevirmiş.",
+      "yildirim": "Hep hakkı yalan sayıp ona sırtını dönerdi.",
+      "safa": "Tam tersine, yalanladı ve yüz çevirdi.",
+      "yuksel": "Fakat yalanladı ve yüz çevirdi.",
+      "aktas": "Fakat yalanladı ve köstekledi.[1]",
+      "okuyan": "Aksine yalanlamış ve yüz çevirmişti."
     },
     {
       "number": 5584,
@@ -536,7 +856,17 @@
       "bulac": "Sonra çalım satarak yakınlarına gitmişti.",
       "esed": "ve sonra böbürlenerek geldiği yere döndü.",
       "suleymaniye": "Sonra da çalım satarak ailesine ve yakınlarına gitti.",
-      "ates": "Sonra çalım satarak ailesine gitti."
+      "ates": "Sonra çalım satarak ailesine gitti.",
+      "hulusi": "Sonra da (benlikle) gerine gerine ehline gitti.",
+      "bayrakli": "- Ne doğruladı, ne de kulluk görevini yerine getirdi. Fakat yalanladı ve yüz çevirdi. Sonra da çalım sata sata yürüyerek ailesine gitmişti. Sana yazıklar olsun, yazıklar! Tekrar tekrar sana yazıklar olsun, yazıklar!",
+      "elmali_sade": "Sonra da gerneşe gerneşe yakınlarına gitti.",
+      "cantay": "sonra da çalım sata sata yürüyerek ehline gitmişdi.",
+      "piris": "Sonra da çalım satarak ailesine gitmişti.",
+      "yildirim": "Bir de yaptığından memnun olarak, çalımlı çalımlı kendi taraftarlarının yanına varırdı.",
+      "safa": "Sonra, böbürlenerek yandaşlarına gitti.",
+      "yuksel": "Sonra çalım satarak ailesine gitti.",
+      "aktas": "Sonra böbürlenerek yandaşlarına gitti.",
+      "okuyan": "Sonra da kibirlenerek kendi ailesine gitmişti.[1]"
     },
     {
       "number": 5585,
@@ -552,7 +882,17 @@
       "bulac": "Sen buna müstahaksın, dahasına müstahaksın.",
       "esed": "(Ama ey insan, akibetin geliyor her dakika) yakınına, daha da yakınına,",
       "suleymaniye": "Sana layık olan budur, bu!",
-      "ates": "Yazık sana yazık!"
+      "ates": "Yazık sana yazık!",
+      "hulusi": "Gereklidir sana, gerekli!",
+      "bayrakli": "- Ne doğruladı, ne de kulluk görevini yerine getirdi. Fakat yalanladı ve yüz çevirdi. Sonra da çalım sata sata yürüyerek ailesine gitmişti. Sana yazıklar olsun, yazıklar! Tekrar tekrar sana yazıklar olsun, yazıklar!",
+      "elmali_sade": "O bela sana layıktır!",
+      "cantay": "(Hoşlanmadığın herşey) sana yaklaş (ıb çat) sın. Çünkü (sen buna başkalarından daha çok) layıksın.",
+      "piris": "-Belanı buldun, belanı!",
+      "yildirim": "Yazık sana yazık!",
+      "safa": "Hak ettin sen, hak ettin!",
+      "yuksel": "Sen bunu haketmişsin.",
+      "aktas": "Yazık sana yazık, sen hak ettin!",
+      "okuyan": "Yazıklar olsun sana, yazıklar olsun! "
     },
     {
       "number": 5586,
@@ -568,7 +908,17 @@
       "bulac": "Yine müstahaksın, dahasına da müstahaksın.",
       "esed": "yakınına, daha da yakınına!",
       "suleymaniye": "Evet, sana layık olan budur, işte bu!",
-      "ates": "Yine yazık sana yazık!"
+      "ates": "Yine yazık sana yazık!",
+      "hulusi": "Evet, kesinlikle gereklidir sana gerekli!",
+      "bayrakli": "- Ne doğruladı, ne de kulluk görevini yerine getirdi. Fakat yalanladı ve yüz çevirdi. Sonra da çalım sata sata yürüyerek ailesine gitmişti. Sana yazıklar olsun, yazıklar! Tekrar tekrar sana yazıklar olsun, yazıklar!",
+      "elmali_sade": "Evet gerektir o bela sana gerek!",
+      "cantay": "Yine (hoşlanmadığın herşey) sana yaklaş (ıb çat) sın. Zira (sen buna başkalarından daha çok) layıksın.",
+      "piris": "Sonra sen buna layıksın!",
+      "yildirim": "Yazık ki sana ne yazık!",
+      "safa": "Yine; hak ettin sen, hak ettin!",
+      "yuksel": "Gerçekten sen bunu haketmiş bulunuyorsun.",
+      "aktas": "Evet, yazık sana yazık, sen hak ettin.",
+      "okuyan": "Sonra (tekrar) yazıklar olsun sana, yazıklar olsun![1]"
     },
     {
       "number": 5587,
@@ -584,7 +934,17 @@
       "bulac": "İnsan, 'kendi başına ve sorumsuz' bırakılacağını mı sanıyor?",
       "esed": "İnsan, başıboş bırakılacağını ve dilediği gibi hareket edebileceğini mi sanır?",
       "suleymaniye": "İnsan başıboş bırakılacağını mı sanıyor[1]?",
-      "ates": "İnsan, başı boş bırakılacağını mı sanır?"
+      "ates": "İnsan, başı boş bırakılacağını mı sanır?",
+      "hulusi": "İnsan, başıboş olarak bırakılacağını mı sanır?",
+      "bayrakli": "İnsanoğlu kendisinin başıboş bırakılacağını mı sanıyor?",
+      "elmali_sade": "İnsan sanır mı başıboş bırakılacağını?",
+      "cantay": "İnsan, kendisinin başı boş bırakılacağını mı sanıyor?",
+      "piris": "İnsan kendisini başı boş bırakacağımızı mı sanar?",
+      "yildirim": "İnsan başıboş bırakılacağını mı sanır?",
+      "safa": "İnsan, başıboş bırakılacağını mı sanıyor?",
+      "yuksel": "İnsan,  başıboş bırakılacağını mı sanıyor?",
+      "aktas": "Yoksa o insan başıboş bırakılacağını mı sanıyor?",
+      "okuyan": "İnsan, kendisinin başıboş bırakılacağını mı sanıyor!"
     },
     {
       "number": 5588,
@@ -600,7 +960,17 @@
       "bulac": "Kendisi, akıtılan meniden bir damla su değil miydi?",
       "esed": "O, bir zamanlar (sadece) akıtılan bir meni damlası değil miydi,",
       "suleymaniye": "O, ölçülendirilmiş meniden döllenen yumurta değil miydi?[1]",
-      "ates": "Kendisi dökülen meniden bir nutfe (sperm) değil miydi?"
+      "ates": "Kendisi dökülen meniden bir nutfe (sperm) değil miydi?",
+      "hulusi": "Dökülen meniden bir sperm değil miydi?",
+      "bayrakli": "- O, akıtılan bir meni damlası değil miydi? Sonra döllenmiş hücre. Bu safhada Allah onu yaratıp ona şekil vermişti. Ondan iki cinsi, erkeği ve dişiyi var etmişti. Bunları yapan Allah'ın, ölüleri diriltmeye gücü yetmez mi?",
+      "elmali_sade": "O (Rahme) dökülen bir damla meniden değil miydi?",
+      "cantay": "O, (döl yatağına) dökülen meniden bir damla su değil miydi?",
+      "piris": "O, atılan spermden bir damla değil miydi?",
+      "yildirim": "Onun aslı, atılan bir meni damlası değil miydi?",
+      "safa": "O, dökülen bir atmıktan bir damlacık değil miydi?",
+      "yuksel": "Dökülen meniden bir sperm değil miydi?",
+      "aktas": "Yoksa o, bir nutfeden[1], dökülen meniden ibaret değil miydi?",
+      "okuyan": "(İnsan) akıtılan meninin (spermin) bir kısmından (oluşan) bir nutfe (zigot) değil miydi! "
     },
     {
       "number": 5589,
@@ -616,7 +986,17 @@
       "bulac": "Sonra bir alak (embriyo) oldu, derken (Allah, onu) yarattı ve bir 'düzen içinde biçim verdi.'",
       "esed": "ve sonra döllenmiş hücre; bu safhada Allah (onu) yaratmış ve olması gerektiği gibi şekil vermişti,",
       "suleymaniye": "Arkasından rahim duvarına asılı embriyo haline geldi, sonra (Allah) yapısını belirledi ve son şeklini verdi[1].",
-      "ates": "Sonra alaka (rahme asılan embriyo) oldu da (Rabbi onu) yarattı, düzenledi."
+      "ates": "Sonra alaka (rahme asılan embriyo) oldu da (Rabbi onu) yarattı, düzenledi.",
+      "hulusi": "Sonra katılaşmış kanda genetik yapı oldu da; yarattı, tesviye etti (amacına göre programladı).",
+      "bayrakli": "- O, akıtılan bir meni damlası değil miydi? Sonra döllenmiş hücre. Bu safhada Allah onu yaratıp ona şekil vermişti. Ondan iki cinsi, erkeği ve dişiyi var etmişti. Bunları yapan Allah'ın, ölüleri diriltmeye gücü yetmez mi?",
+      "elmali_sade": "Sonra bir pıhtı oldu, derken (Allah onu) biçime koydu, derken tesviye etti;",
+      "cantay": "Sonra o (meni) bir kan pıhtısı olmuş, derken (Allah, onu) insan biçimine koyub yaratmış, (uzuvlarını) düzenlemişdir.",
+      "piris": "Sonra \"alaka\" olmuş, Allah, onu yaratmış ve düzenlemişti.",
+      "yildirim": "Sonra (rahim cidarına) yapışan bir hücre oldu da, Rabbi onu yaratıp düzenledi.",
+      "safa": "Sonra, asılarak tutunan oldu. Ardından, onu yaratıp biçimlendirdi.",
+      "yuksel": "Ve bir embriyoya dönüştükten sonra O yaratıp biçim verdi.",
+      "aktas": "Sonra bir \"alaka1\" oldu. Derken onu yarattı ve ona biçim verdi.",
+      "okuyan": "Sonra bu (zigot) ‘alakaya (embriyoya) dönüşmüş, (Allah) onu (insan biçiminde) yaratıp şekillendirmiştir. "
     },
     {
       "number": 5590,
@@ -632,7 +1012,17 @@
       "bulac": "Böylece ondan, erkek ve dişi olmak üzere çift kıldı.",
       "esed": "ve ondan iki cinsi, erkeği ve dişiyi var etmişti?",
       "suleymaniye": "Böylece ondan (ölçülendirilmiş meniden) iki eşi; erkeği ve dişiyi (cinsiyetleri) oluşturdu[1].",
-      "ates": "O (meni)den iki çifti: Erkeği ve dişiyi var etti."
+      "ates": "O (meni)den iki çifti: Erkeği ve dişiyi var etti.",
+      "hulusi": "Ondan iki eşi; erkek (bilinç - aktif yapı) ve dişiyi (beden - pasif - edilgen) (bilinç - beden) oluşturdu.",
+      "bayrakli": "- O, akıtılan bir meni damlası değil miydi? Sonra döllenmiş hücre. Bu safhada Allah onu yaratıp ona şekil vermişti. Ondan iki cinsi, erkeği ve dişiyi var etmişti. Bunları yapan Allah'ın, ölüleri diriltmeye gücü yetmez mi?",
+      "elmali_sade": "derken ondan da iki eşi yaptı: Erkek ve dişi!",
+      "cantay": "Hulasa, ondan erkek, dişi iki sınıf çıkarmışdır.",
+      "piris": "Ondan erkek ve dişi iki çift yapmıştır.",
+      "yildirim": "Ondan erkek ve dişi olarak her iki cinsi yarattı.",
+      "safa": "Sonunda, ondan erkek ve dişi iki eş yaptı.",
+      "yuksel": "Ve ondan erkek ve dişi olmak üzere iki çift yarattı.",
+      "aktas": "Ondan erkek ve dişi iki cinsi meydana getirdi.",
+      "okuyan": "(Allah) o (meni)den de iki eşi, yani erkek ve dişiyi var etmiştir.[1]"
     },
     {
       "number": 5591,
@@ -648,7 +1038,17 @@
       "bulac": "(Öyleyse Allah,) Ölüleri diriltmeye güç yetiren değil midir?",
       "esed": "Öyleyse, Allah, ölüyü hayata yeniden döndüremez mi?",
       "suleymaniye": "Bunları yapan, ölüleri diriltmenin ölçüsünü koyamaz mı[1]?",
-      "ates": "Şimdi bun(ları yapan Allah)ın ölüleri diriltmeğe gücü yetmez mi?"
+      "ates": "Şimdi bun(ları yapan Allah)ın ölüleri diriltmeğe gücü yetmez mi?",
+      "hulusi": "İşte O (bunları yapan Allah sistemi ve düzeni), ölüleri diriltmeye Kaadir değil midir?",
+      "bayrakli": "- O, akıtılan bir meni damlası değil miydi? Sonra döllenmiş hücre. Bu safhada Allah onu yaratıp ona şekil vermişti. Ondan iki cinsi, erkeği ve dişiyi var etmişti. Bunları yapan Allah'ın, ölüleri diriltmeye gücü yetmez mi?",
+      "elmali_sade": "(Artık) o ölüleri diriltmeye kadir değil mi?",
+      "cantay": "(Bütün bunları yapan Allah) ölüleri tekrar diriltmiye kaadir değil midir? (Elbette kaadirdir).",
+      "piris": "Bunu yapanın ölüleri diriltmeye gücü yetmez mi?",
+      "yildirim": "Bütün bunları yapan, ölüleri diriltmeye kadir olmaz olur mu?",
+      "safa": "İşte bunları yapanın, ölülere yeniden yaşam vermeye gücü yetmez mi?",
+      "yuksel": "Bunları yapanın ölüleri diriltmeye gücü yetmez mi?",
+      "aktas": "İşte bütün bunları yapanın, ölüleri diriltmeye gücü yetmez mi?",
+      "okuyan": "(O'nun), ölüleri diriltmeye hiç gücü yetmez mi! "
     }
   ]
 }
