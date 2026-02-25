@@ -35,11 +35,19 @@ export default function TranslationPair({ ayah }: TranslationPairProps) {
           const text = (ayah as Record<string, string | undefined>)[key];
           if (!text) return null;
           return (
-            <div key={key} className="bg-card-bg border border-card-border rounded-lg p-3 relative group">
-              <span className="text-xs font-semibold text-accent uppercase tracking-wider block mb-1.5">
+            <div
+              key={key}
+              className="bg-background/70 border border-card-border rounded-lg p-3 relative group"
+            >
+              <span className="text-[10px] font-bold text-accent/70 uppercase tracking-wider block mb-1.5">
                 {opt.label}
               </span>
-              <p className="text-sm text-foreground/80 leading-relaxed">{text}</p>
+              <p
+                className="text-foreground/80 leading-relaxed"
+                style={{ fontFamily: "'Crimson Pro', Georgia, serif", fontSize: '0.9rem', lineHeight: '1.65' }}
+              >
+                {text}
+              </p>
               {!opt.isDefault && (
                 <button
                   onClick={() => toggle(key)}
@@ -57,16 +65,18 @@ export default function TranslationPair({ ayah }: TranslationPairProps) {
         <div className="relative" ref={panelRef}>
           <button
             onClick={() => setPanelOpen(p => !p)}
-            className="w-full h-full min-h-[64px] border-2 border-dashed border-card-border rounded-lg flex items-center justify-center gap-2 text-muted hover:text-accent hover:border-accent/40 transition-colors text-sm"
+            className="w-full h-full min-h-[64px] border-2 border-dashed border-card-border rounded-lg flex items-center justify-center gap-2 text-muted hover:text-accent hover:border-accent/30 transition-colors"
           >
-            <span className="text-lg leading-none">+</span>
-            <span>Meal ekle</span>
+            <span className="text-base leading-none font-light">+</span>
+            <span className="text-xs font-medium">Meal ekle</span>
           </button>
 
           {panelOpen && (
-            <div className="absolute bottom-full mb-2 left-0 z-50 bg-white border border-card-border rounded-xl shadow-xl p-3 w-64">
-              <p className="text-xs font-semibold text-muted uppercase tracking-wider mb-2">Meal seç</p>
-              <div className="space-y-1">
+            <div className="absolute bottom-full mb-2 left-0 z-50 bg-card-bg border border-card-border rounded-xl shadow-xl overflow-hidden w-64">
+              <div className="px-3 pt-3 pb-2 border-b border-card-border/60">
+                <p className="text-[10px] font-bold text-muted uppercase tracking-wider">Meal seç</p>
+              </div>
+              <div className="p-2 max-h-72 overflow-y-auto space-y-0.5">
                 {extras.map(opt => {
                   const active = isSelected(opt.key as TranslationKey);
                   const available = !!(ayah as Record<string, string | undefined>)[opt.key];
@@ -86,9 +96,13 @@ export default function TranslationPair({ ayah }: TranslationPairProps) {
                           : 'text-muted/40 cursor-not-allowed'
                       }`}
                     >
-                      <span>{opt.label}</span>
-                      {active && <span className="text-xs">✓</span>}
-                      {!available && <span className="text-xs opacity-60">yakında</span>}
+                      <span className="truncate">{opt.label}</span>
+                      {active && (
+                        <svg width="12" height="12" viewBox="0 0 12 12" fill="none" className="shrink-0 ml-2">
+                          <path d="M2 6L5 9L10 3" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round"/>
+                        </svg>
+                      )}
+                      {!available && <span className="text-[10px] opacity-50 shrink-0 ml-2">yakında</span>}
                     </button>
                   );
                 })}

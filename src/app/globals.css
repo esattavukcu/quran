@@ -1,17 +1,17 @@
 @import "tailwindcss";
 
 :root {
-  --background: #faf8f5;
-  --foreground: #1a1a2e;
+  --background: #f6f2ea;
+  --foreground: #1a1714;
   --card-bg: #ffffff;
-  --card-border: #e8e4df;
-  --accent: #1e3a5f;
-  --accent-light: #2d5a8e;
-  --muted: #6b7280;
-  --transliteration: #1a1a2e;
+  --card-border: #e3d9cc;
+  --accent: #1c3d52;
+  --accent-light: #2a5570;
+  --muted: #7d7469;
+  --transliteration: #1a1714;
   --highlight: #fef3c7;
-  --meccan: #7c3aed;
-  --medinan: #059669;
+  --meccan: #6d28d9;
+  --medinan: #047857;
 }
 
 @theme inline {
@@ -31,7 +31,7 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  font-family: 'Plus Jakarta Sans', 'Segoe UI', system-ui, -apple-system, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -49,17 +49,18 @@ html {
 
 /* Transliteration text styling */
 .transliteration-text {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   line-height: 2;
   letter-spacing: 0.01em;
+  font-family: 'Crimson Pro', 'Georgia', serif;
 }
 
 /* Clickable word styling */
 .word-clickable {
   cursor: pointer;
-  padding: 2px 4px;
-  border-radius: 4px;
-  transition: background-color 0.15s ease;
+  padding: 2px 5px;
+  border-radius: 5px;
+  transition: background-color 0.12s ease, box-shadow 0.12s ease;
 }
 
 .word-clickable:hover {
@@ -73,6 +74,16 @@ html {
 .word-selected {
   background-color: var(--highlight);
   box-shadow: 0 0 0 2px var(--accent);
+}
+
+/* Nuzul banner pulse on load */
+@keyframes nuzul-hint {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(217, 119, 6, 0); }
+  50%       { box-shadow: 0 0 0 4px rgba(217, 119, 6, 0.15); }
+}
+
+.nuzul-banner-hint {
+  animation: nuzul-hint 2s ease-in-out 1s 2;
 }
 
 /* Hide scrollbar but allow scrolling */
