@@ -3,7 +3,7 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: "Kuran Okuma - Transliterasyon",
-  description: "Kuran'ı Latin harfleriyle oku, etimolojik anlamları keşfet",
+  description: "Kuran'ı Latin harfleriyle oku, kelime anlamlarını ve nüzul sebeplerini keşfet",
   appleWebApp: {
     capable: true,
     statusBarStyle: 'black-translucent',
