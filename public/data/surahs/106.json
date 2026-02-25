@@ -1,1 +1,78 @@
-{"surah":{"number":106,"name":"سُورَةُ قُرَيۡشٍ","englishName":"Quraish","englishNameTranslation":"Quraysh","turkishName":"Kureyş","numberOfAyahs":4,"revelationType":"Meccan","revelationOrder":29},"ayahs":[{"number":6194,"numberInSurah":1,"transliteration":"Li-ilaafi quraish","diyanet":"Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sağlanmıştır.","ozturk":"Kureyş'i alıştırıp ısındırdığı için,","juz":30,"page":602,"sajda":false},{"number":6195,"numberInSurah":2,"transliteration":"Elaafihim rihlatash shitaa-i wass saif","diyanet":"Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sağlanmıştır.","ozturk":"Onları kış ve yaz yolculuğuna alıştırdığı için,","juz":30,"page":602,"sajda":false},{"number":6196,"numberInSurah":3,"transliteration":"Fal y'abudu rabba haazal-bait","diyanet":"Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler.","ozturk":"Bu evin Rabbine ibadet etsinler!","juz":30,"page":602,"sajda":false},{"number":6197,"numberInSurah":4,"transliteration":"Allazi at'amahum min ju'inw-wa-aamana hum min khawf","diyanet":"Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler.","ozturk":"O ki, onları doyurup kurtardı açlıktan ve kendilerini güvene çıkardı korkudan.","juz":30,"page":602,"sajda":false}]}
+{
+  "surah": {
+    "number": 106,
+    "name": "سُورَةُ قُرَيۡشٍ",
+    "englishName": "Quraish",
+    "englishNameTranslation": "Quraysh",
+    "turkishName": "Kureyş",
+    "numberOfAyahs": 4,
+    "revelationType": "Meccan",
+    "revelationOrder": 29
+  },
+  "ayahs": [
+    {
+      "number": 6194,
+      "numberInSurah": 1,
+      "transliteration": "Li-ilaafi quraish",
+      "diyanet": "Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sağlanmıştır.",
+      "ozturk": "Kureyş'i alıştırıp ısındırdığı için,",
+      "juz": 30,
+      "page": 602,
+      "sajda": false,
+      "elmali": "İylafı için Kureyşin",
+      "islamoglu": "Bari Kureyş'in birlik ve dirliği hakkı için,",
+      "bulac": "(Hiç değilse kendilerini) Kureyş'i 'bir araya getirip anlaştırdığı,'",
+      "esed": "Kureyş'in emniyeti sağlanabilsin diye,",
+      "suleymaniye": "Kureyşlilere karşı (kalplerde) bir sıcaklık oluşturduğu için;",
+      "ates": "Kureyşi alıştırdığı için,"
+    },
+    {
+      "number": 6195,
+      "numberInSurah": 2,
+      "transliteration": "Elaafihim rihlatash shitaa-i wass saif",
+      "diyanet": "Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sağlanmıştır.",
+      "ozturk": "Onları kış ve yaz yolculuğuna alıştırdığı için,",
+      "juz": 30,
+      "page": 602,
+      "sajda": false,
+      "elmali": "Sefere iylafları yazın, kışın",
+      "islamoglu": "onların yaz ve kış yaptıkları ticari sefer güvenliği hakkı için:",
+      "bulac": "Yaz ve kış yolculuğunda onları (güvenliğe kavuşturduğu ya da başkalarıyla) ısındırıp yakınlaştırdığı için,",
+      "esed": "kış ve yaz seferlerindeki emniyeti.",
+      "suleymaniye": "(özellikle) kış ve yaz yolculuklarında onlara karşı sıcaklık oluşturduğu için,",
+      "ates": "Onları kış ve yaz yolculuğuna alıştırdığı için,"
+    },
+    {
+      "number": 6196,
+      "numberInSurah": 3,
+      "transliteration": "Fal y'abudu rabba haazal-bait",
+      "diyanet": "Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler.",
+      "ozturk": "Bu evin Rabbine ibadet etsinler!",
+      "juz": 30,
+      "page": 602,
+      "sajda": false,
+      "elmali": "Hiç olmazsa onun için kulluk etsinler rabbine bu Beytin",
+      "islamoglu": "kulluğu şu Beyt'in Rabbine tahsis etsinler!",
+      "bulac": "Şu Ev (Ka'be'n)in Rabbine kulluk etsinler;",
+      "esed": "O halde bu Mabed'in Rabbine kulluk etsinler,",
+      "suleymaniye": "onlar da bu Beyt'in (Kabe'nin)[1] Rabbine kulluk etsinler,[2]",
+      "ates": "Bu Ev (Ka'be'n)in Rabbine kulluk etsinler."
+    },
+    {
+      "number": 6197,
+      "numberInSurah": 4,
+      "transliteration": "Allazi at'amahum min ju'inw-wa-aamana hum min khawf",
+      "diyanet": "Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler.",
+      "ozturk": "O ki, onları doyurup kurtardı açlıktan ve kendilerini güvene çıkardı korkudan.",
+      "juz": 30,
+      "page": 602,
+      "sajda": false,
+      "elmali": "Ki onları açlıktan doyurdu ve korkudan emin buyurdu.",
+      "islamoglu": "Ki O, onları açlığa rağmen doyurmuş, her tür tehlike ve tehdide rağmen güvende kılmıştır.",
+      "bulac": "Ki O, kendilerini açlıktan (kurtarıp) doyuran ve korkudan güvenliğe kavuşturandır.",
+      "esed": "O ki, aç kalmasınlar diye onları beslemiş ve tehlikelerden emin kılmıştır.",
+      "suleymaniye": "Onları açlıktan (koruyup) doyuran[1] ve korkudan emin kılan Rabbe![2]",
+      "ates": "O ki onları yedirip açlıktan kurtardı ve onları korkudan güvene kavuşturdu."
+    }
+  ]
+}

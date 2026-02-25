@@ -1,1 +1,94 @@
-{"surah":{"number":105,"name":"سُورَةُ الفِيلِ","englishName":"Al-Fil","englishNameTranslation":"The Elephant","turkishName":"Fil","numberOfAyahs":5,"revelationType":"Meccan","revelationOrder":19},"ayahs":[{"number":6189,"numberInSurah":1,"transliteration":"Alam tara kaifa fa'ala rabbuka bi ashaabil feel","diyanet":"Fil sahiplerine Rabbinin ne ettiğini görmedin mi?","ozturk":"Görmedin mi ne yaptı Rabbin fil yâranına!","juz":30,"page":601,"sajda":false},{"number":6190,"numberInSurah":2,"transliteration":"Alam yaj'al kai dahum fee tad leel","diyanet":"Onların düzenlerini boşa çıkarmadı mı?","ozturk":"Tuzaklarını boşa çıkarmadı mı onların?","juz":30,"page":601,"sajda":false},{"number":6191,"numberInSurah":3,"transliteration":"Wa arsala 'alaihim tairan abaabeel","diyanet":"Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi.","ozturk":"Gönderdi üzerlerine sürüler halinde kuş,","juz":30,"page":601,"sajda":false},{"number":6192,"numberInSurah":4,"transliteration":"Tar meehim bi hi jaaratim min sij jeel","diyanet":"Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi.","ozturk":"Atıyorlardı onlara kurumuş çamurdan damgalı taş.","juz":30,"page":601,"sajda":false},{"number":6193,"numberInSurah":5,"transliteration":"Faja 'alahum ka'asfim m'akool","diyanet":"Sonunda onları, yenilmiş ekin gibi yaptı.","ozturk":"Nihayet, onları yenik ekin yaprağına çevirdi.","juz":30,"page":601,"sajda":false}]}
+{
+  "surah": {
+    "number": 105,
+    "name": "سُورَةُ الفِيلِ",
+    "englishName": "Al-Fil",
+    "englishNameTranslation": "The Elephant",
+    "turkishName": "Fil",
+    "numberOfAyahs": 5,
+    "revelationType": "Meccan",
+    "revelationOrder": 19
+  },
+  "ayahs": [
+    {
+      "number": 6189,
+      "numberInSurah": 1,
+      "transliteration": "Alam tara kaifa fa'ala rabbuka bi ashaabil feel",
+      "diyanet": "Fil sahiplerine Rabbinin ne ettiğini görmedin mi?",
+      "ozturk": "Görmedin mi ne yaptı Rabbin fil yâranına!",
+      "juz": 30,
+      "page": 601,
+      "sajda": false,
+      "elmali": "Görmedin mi? Nasıl etti Rabbın ashabi file?",
+      "islamoglu": "Gözünde canlandırabilir misin Rabbinin Fil Ordusu'na nasıl muamele ettiğini?",
+      "bulac": "Rabbinin fil sahiplerine neler yaptığını görmedin mi?",
+      "esed": "Haberin yok mu Rabbin Fil Ordusu'na ne yaptı?",
+      "suleymaniye": "Fillerle gelenleri Rabbinin ne hale getirdiğini gözünde canlandırmaz mısın?[1]",
+      "ates": "Rabbinin, Fil sahiplerine ne yaptığını görmedin m?"
+    },
+    {
+      "number": 6190,
+      "numberInSurah": 2,
+      "transliteration": "Alam yaj'al kai dahum fee tad leel",
+      "diyanet": "Onların düzenlerini boşa çıkarmadı mı?",
+      "ozturk": "Tuzaklarını boşa çıkarmadı mı onların?",
+      "juz": 30,
+      "page": 601,
+      "sajda": false,
+      "elmali": "Kılmadı mı tedbirlerini müstağrak tadlile",
+      "islamoglu": "Başlarına geçirmedi mi onların ince tasarlanmış haince hilesini?",
+      "bulac": "Onların 'tasarladıkları planlarını' boşa çıkarmadı mı?",
+      "esed": "Onların kurnazca planlarını tamamen bozmadı mı?",
+      "suleymaniye": "Onların oyunlarını (Ka'beyi yıkma planlarını)[1] boşa çıkarmıştı, değil mi?[2]",
+      "ates": "Onların tuzaklarını boşa çıkarmadı mı?"
+    },
+    {
+      "number": 6191,
+      "numberInSurah": 3,
+      "transliteration": "Wa arsala 'alaihim tairan abaabeel",
+      "diyanet": "Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi.",
+      "ozturk": "Gönderdi üzerlerine sürüler halinde kuş,",
+      "juz": 30,
+      "page": 601,
+      "sajda": false,
+      "elmali": "Saldı da üzerlerine sürü sürü kuşlar (Ebabil)",
+      "islamoglu": "Onların üzerine katar katar bilinmeyen nitelikte uçan taşıyıcı varlıklar saldı;",
+      "bulac": "Onların üzerine ebabil (sürü sürü) kuşlarını gönderdi.",
+      "esed": "Üzerlerine kalabalık sürüler halinde uçan varlıklar saldı,",
+      "suleymaniye": "Üzerlerine öbek öbek uçuşan[1] şeyler /volkanik kül bulutları[2] göndermişti.",
+      "ates": "Üzerlerine sürü sürü kuşlar gönderdi,"
+    },
+    {
+      "number": 6192,
+      "numberInSurah": 4,
+      "transliteration": "Tar meehim bi hi jaaratim min sij jeel",
+      "diyanet": "Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi.",
+      "ozturk": "Atıyorlardı onlara kurumuş çamurdan damgalı taş.",
+      "juz": 30,
+      "page": 601,
+      "sajda": false,
+      "elmali": "Atıyorlardı onlara \"siccil\" den taşlar",
+      "islamoglu": "onlara taş kesilmiş balçık türü tanımlanamayan (şeyler) atıyorlardı.",
+      "bulac": "Onlara 'pişirilip sertleştirilmiş balçık taşları' atıyorlardı;",
+      "esed": "onlara önceden tesbit edilmiş taş gibi sert azap darbeleri vurdular,",
+      "suleymaniye": "(O bulutlar) onlara katılaşmış çamurdan taşlar atıyorlardı.[1]",
+      "ates": "Onlara çamurdan sertleşmiş taşlar atan (kuşlar)."
+    },
+    {
+      "number": 6193,
+      "numberInSurah": 5,
+      "transliteration": "Faja 'alahum ka'asfim m'akool",
+      "diyanet": "Sonunda onları, yenilmiş ekin gibi yaptı.",
+      "ozturk": "Nihayet, onları yenik ekin yaprağına çevirdi.",
+      "juz": 30,
+      "page": 601,
+      "sajda": false,
+      "elmali": "Derken kılıverdi onları bir yenik hasıl gibi",
+      "islamoglu": "Derken (Rabbin) onları, yenil(erek delik deşik edil)miş yapraklara benzetti.",
+      "bulac": "Sonunda onları, yenik ekin yaprağı gibi kıldı.",
+      "esed": "ve onları yalnız sap dipleri kalasıya yenmiş bir ekin tarlasına benzettiler.",
+      "suleymaniye": "Sonunda onları, (içi) yenmiş tahıl kabuğu[1] gibi yapmıştı.[2]",
+      "ates": "Nihayet onları, kurt yeniği ekin yaprağı gibi yaptı."
+    }
+  ]
+}

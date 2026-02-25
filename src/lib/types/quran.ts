@@ -15,10 +15,30 @@ export interface Ayah {
   transliteration: string;
   diyanet: string;
   ozturk: string;
+  // Optional extra translations
+  elmali?: string;
+  islamoglu?: string;
+  bulac?: string;
+  esed?: string;
+  suleymaniye?: string;
+  ates?: string;
   juz: number;
   page: number;
   sajda: boolean | { recommended: boolean; obligatory: boolean };
 }
+
+export const TRANSLATION_OPTIONS = [
+  { key: 'diyanet',     label: 'Diyanet',              isDefault: true },
+  { key: 'ozturk',      label: 'Yaşar Nuri Öztürk',   isDefault: true },
+  { key: 'elmali',      label: 'Elmalılı Hamdi Yazır', isDefault: false },
+  { key: 'islamoglu',   label: 'Mustafa İslamoğlu',   isDefault: false },
+  { key: 'bulac',       label: 'Ali Bulaç',            isDefault: false },
+  { key: 'esed',        label: 'Muhammed Esed',        isDefault: false },
+  { key: 'suleymaniye', label: 'Süleymaniye Vakfı',    isDefault: false },
+  { key: 'ates',        label: 'Süleyman Ateş',        isDefault: false },
+] as const;
+
+export type TranslationKey = typeof TRANSLATION_OPTIONS[number]['key'];
 
 export interface SurahData {
   surah: SurahMeta;

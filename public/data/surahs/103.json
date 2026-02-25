@@ -1,1 +1,62 @@
-{"surah":{"number":103,"name":"سُورَةُ العَصۡرِ","englishName":"Al-Asr","englishNameTranslation":"The Declining Day, Epoch","turkishName":"Asr","numberOfAyahs":3,"revelationType":"Meccan","revelationOrder":13},"ayahs":[{"number":6177,"numberInSurah":1,"transliteration":"Wal' asr","diyanet":"İkindi vaktine (Asra; çağa) and olsun ki,","ozturk":"Yemin olsun zamana/çağa/gündüzün iki ucuna/sabah namazına/ikindi vaktine/Asrısaadet'e ki,","juz":30,"page":601,"sajda":false},{"number":6178,"numberInSurah":2,"transliteration":"Innal insaana lafee khusr","diyanet":"İnsan hiç şüphesiz hüsran içindedir.","ozturk":"İnsan, gerçekten tam bir hüsran içindedir!","juz":30,"page":601,"sajda":false},{"number":6179,"numberInSurah":3,"transliteration":"Il lal lazeena aamanu wa 'amilus saali haati wa tawa saw bil haqqi wa tawa saw bis sabr","diyanet":"Ancak inanıp yararlı iş işleyenler, birbirlerine gerçeği tavsiye edenler ve sabırlı olmayı tavsiye edenler bunun dışındadır.","ozturk":"İnanıp hayra ve barışa yönelik işler yapanlar, birbirlerine hakkı önerenler, birbirlerine sabrı önerenler müstesnadır.","juz":30,"page":601,"sajda":false}]}
+{
+  "surah": {
+    "number": 103,
+    "name": "سُورَةُ العَصۡرِ",
+    "englishName": "Al-Asr",
+    "englishNameTranslation": "The Declining Day, Epoch",
+    "turkishName": "Asr",
+    "numberOfAyahs": 3,
+    "revelationType": "Meccan",
+    "revelationOrder": 13
+  },
+  "ayahs": [
+    {
+      "number": 6177,
+      "numberInSurah": 1,
+      "transliteration": "Wal' asr",
+      "diyanet": "İkindi vaktine (Asra; çağa) and olsun ki,",
+      "ozturk": "Yemin olsun zamana/çağa/gündüzün iki ucuna/sabah namazına/ikindi vaktine/Asrısaadet'e ki,",
+      "juz": 30,
+      "page": 601,
+      "sajda": false,
+      "elmali": "Kasem olsun ki Asr'a",
+      "islamoglu": "Asr şahit olsun.",
+      "bulac": "Asr'a andolsun;",
+      "esed": "Düşün zamanın akıp gidişini!",
+      "suleymaniye": "Akıp giden zamana yemin olsun ki[1]",
+      "ates": "Asr'a andolsun ki,"
+    },
+    {
+      "number": 6178,
+      "numberInSurah": 2,
+      "transliteration": "Innal insaana lafee khusr",
+      "diyanet": "İnsan hiç şüphesiz hüsran içindedir.",
+      "ozturk": "İnsan, gerçekten tam bir hüsran içindedir!",
+      "juz": 30,
+      "page": 601,
+      "sajda": false,
+      "elmali": "İnsan mutlak bir husranda",
+      "islamoglu": "Elbet insanoğlu tarifsiz bir kayıptadır;",
+      "bulac": "Gerçekten insan, ziyandadır.",
+      "esed": "Gerçek şu ki, insan ziyandadır;",
+      "suleymaniye": "insan kesin olarak kayıptadır.[1]",
+      "ates": "İnsan ziyandadır."
+    },
+    {
+      "number": 6179,
+      "numberInSurah": 3,
+      "transliteration": "Il lal lazeena aamanu wa 'amilus saali haati wa tawa saw bil haqqi wa tawa saw bis sabr",
+      "diyanet": "Ancak inanıp yararlı iş işleyenler, birbirlerine gerçeği tavsiye edenler ve sabırlı olmayı tavsiye edenler bunun dışındadır.",
+      "ozturk": "İnanıp hayra ve barışa yönelik işler yapanlar, birbirlerine hakkı önerenler, birbirlerine sabrı önerenler müstesnadır.",
+      "juz": 30,
+      "page": 601,
+      "sajda": false,
+      "elmali": "Ancak o kimseler başka ki iyman edip salih ameller işlediler ve hep hakka vasıyyetleştiler ve sabra vasıyyetleştiler",
+      "islamoglu": "ancak, Allah'a inanıp güvenenler, erdemli ve sorumlu davrananlar; yani birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler bundan müstesnadır.",
+      "bulac": "Ancak iman edip salih amellerde bulunanlar, birbirlerine hakkı tavsiye edenler ve birbirlerine sabrı tavsiye edenler başka.",
+      "esed": "meğer ki imana erip doğru ve yararlı işler yapanlardan olsun ve birbirlerine hakkı tavsiye edenlerden, birbirlerine sabrı tavsiye edenlerden...",
+      "suleymaniye": "Ancak, inanıp güvenen ve iyi işler yapan, birbirlerine hakka /Allah'tan gelen gerçeklere[1] uymayı tembih eden ve sabırlı olmayı/ duruşunu bozmamayı tembih eden kimseler bunun dışındadır.[2]",
+      "ates": "Ancak inanıp iyi işler yapanlar, birbirlerine hakkı tavsiye edenler ve birbirlerine sabrı tavsiye edenler ziyanda değillerdir."
+    }
+  ]
+}

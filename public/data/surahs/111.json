@@ -1,1 +1,94 @@
-{"surah":{"number":111,"name":"سُورَةُ المَسَدِ","englishName":"Al-Masad","englishNameTranslation":"The Palm Fibre","turkishName":"Tebbet","numberOfAyahs":5,"revelationType":"Meccan","revelationOrder":6},"ayahs":[{"number":6217,"numberInSurah":1,"transliteration":"Tab bat yadaa abee Lahabinw-wa tabb","diyanet":"Ebu Leheb'in elleri kurusun; kurudu da!","ozturk":"Elleri kurusun Ebu Leheb'in; zaten kurudu ya!","juz":30,"page":603,"sajda":false},{"number":6218,"numberInSurah":2,"transliteration":"Maa aghna 'anhu maaluhu wa ma kasab","diyanet":"Malı ve kazandığı kendisine fayda vermedi.","ozturk":"Ne malı kurtardı onu ne de kazandığı.","juz":30,"page":603,"sajda":false},{"number":6219,"numberInSurah":3,"transliteration":"Sa yas laa naran zaata lahab","diyanet":"Alevli ateşe yaslanacaktır.","ozturk":"Alevli bir ateşe yaslanacaktır o;","juz":30,"page":603,"sajda":false},{"number":6220,"numberInSurah":4,"transliteration":"Wam ra-atuh hamma latal-hatab","diyanet":"Karısı da, boynunda bir ip olduğu halde ona odun taşıyacaktır.","ozturk":"Karısı da,","juz":30,"page":603,"sajda":false},{"number":6221,"numberInSurah":5,"transliteration":"Fee jeediha hab lum mim-masad","diyanet":"Karısı da, boynunda bir ip olduğu halde ona odun taşıyacaktır.","ozturk":"Odun hamalı olarak. Gerdanında bir ip olacaktır onun, en sağlam fitillisinden...","juz":30,"page":603,"sajda":false}]}
+{
+  "surah": {
+    "number": 111,
+    "name": "سُورَةُ المَسَدِ",
+    "englishName": "Al-Masad",
+    "englishNameTranslation": "The Palm Fibre",
+    "turkishName": "Tebbet",
+    "numberOfAyahs": 5,
+    "revelationType": "Meccan",
+    "revelationOrder": 6
+  },
+  "ayahs": [
+    {
+      "number": 6217,
+      "numberInSurah": 1,
+      "transliteration": "Tab bat yadaa abee Lahabinw-wa tabb",
+      "diyanet": "Ebu Leheb'in elleri kurusun; kurudu da!",
+      "ozturk": "Elleri kurusun Ebu Leheb'in; zaten kurudu ya!",
+      "juz": 30,
+      "page": 603,
+      "sajda": false,
+      "elmali": "Yuh oldu iki eli Ebu Lehebin, kendi de yuh",
+      "islamoglu": "Kahrolsun Ebu Leheb'in çifte gücü, zaten kendisi de kahroldu-kahrolacak!",
+      "bulac": "Ebu Leheb'in iki eli kurusun; kurudu ya.",
+      "esed": "Kahrolsun o parlak yüzlünün iki eli ve kahrolsun kendisi!",
+      "suleymaniye": "Ebu Leheb'in[1] iki eli kurudu![2] Zaten kendisi de kuruyup yok oldu.",
+      "ates": "Ebu Leheb'in iki eli kurusun (yok olsun o); zaten yok oldu ya."
+    },
+    {
+      "number": 6218,
+      "numberInSurah": 2,
+      "transliteration": "Maa aghna 'anhu maaluhu wa ma kasab",
+      "diyanet": "Malı ve kazandığı kendisine fayda vermedi.",
+      "ozturk": "Ne malı kurtardı onu ne de kazandığı.",
+      "juz": 30,
+      "page": 603,
+      "sajda": false,
+      "elmali": "Ne malı faide verdi ona ne kazandığı",
+      "islamoglu": "Malı da kazancı da ona hiçbir yarar sağlamayacak!",
+      "bulac": "Malı ve kazandıkları kendisine bir yarar sağlamadı.",
+      "esed": "Ne faydası olacak servetinin ve kazancının?",
+      "suleymaniye": "Malı da işine yaramadı kazandıkları da![1]",
+      "ates": "Ne malı, ne de kazandığı onu (Allah'ın kahrından) kurtaramadı."
+    },
+    {
+      "number": 6219,
+      "numberInSurah": 3,
+      "transliteration": "Sa yas laa naran zaata lahab",
+      "diyanet": "Alevli ateşe yaslanacaktır.",
+      "ozturk": "Alevli bir ateşe yaslanacaktır o;",
+      "juz": 30,
+      "page": 603,
+      "sajda": false,
+      "elmali": "O bir alevli ateşe yaslanacak",
+      "islamoglu": "Zamanı gelince tarifsiz bir alevli ateşe (yakıt) olacak!",
+      "bulac": "Alevi olan bir ateşe girecektir.",
+      "esed": "(Öteki dünyada) şiddetle parlayan bir ateşe atılacak,",
+      "suleymaniye": "O, harlı bir ateşe girip kalacak.",
+      "ates": "Alevli bir ateşe girecektir (o)."
+    },
+    {
+      "number": 6220,
+      "numberInSurah": 4,
+      "transliteration": "Wam ra-atuh hamma latal-hatab",
+      "diyanet": "Karısı da, boynunda bir ip olduğu halde ona odun taşıyacaktır.",
+      "ozturk": "Karısı da,",
+      "juz": 30,
+      "page": 603,
+      "sajda": false,
+      "elmali": "karısı da, odun hammalı olarak",
+      "islamoglu": "Karısı da (onun ateşine) odun hamallığı yapacak,",
+      "bulac": "Eşi de; odun hamalı (ve)",
+      "esed": "iğrenç söylentilerin taşıyıcısı olan karısı ile birlikte,",
+      "suleymaniye": "Karısı da (onun ateşine) odun taşıyıcı olarak,",
+      "ates": "Karısı da, odun hamalı olarak."
+    },
+    {
+      "number": 6221,
+      "numberInSurah": 5,
+      "transliteration": "Fee jeediha hab lum mim-masad",
+      "diyanet": "Karısı da, boynunda bir ip olduğu halde ona odun taşıyacaktır.",
+      "ozturk": "Odun hamalı olarak. Gerdanında bir ip olacaktır onun, en sağlam fitillisinden...",
+      "juz": 30,
+      "page": 603,
+      "sajda": false,
+      "elmali": "Gerdanında bir ip ki fitillisinden",
+      "islamoglu": "gerdanında (takı yerine sanki) çelikten bir halat (bulunacak).",
+      "bulac": "Boynuna bükülmüş bir ip (bağlanmış) olarak.",
+      "esed": "(o ki,) boynunda bükülmüş iplerden bir halat (taşır)!",
+      "suleymaniye": "boynunda sıkıca bükülmüş liflerden bir ip ile (orada kalacak).[1]",
+      "ates": "Boynunda hurma lifinden bir ip olacaktır."
+    }
+  ]
+}

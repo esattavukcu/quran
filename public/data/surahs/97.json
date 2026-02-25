@@ -1,1 +1,94 @@
-{"surah":{"number":97,"name":"سُورَةُ القَدۡرِ","englishName":"Al-Qadr","englishNameTranslation":"The Power, Fate","turkishName":"Kadir","numberOfAyahs":5,"revelationType":"Meccan","revelationOrder":25},"ayahs":[{"number":6126,"numberInSurah":1,"transliteration":"Innaa anzalnaahu fee lailatil qadr","diyanet":"Doğrusu, Biz, Kuran'ı kadir gecesinde indirmişizdir.","ozturk":"Biz onu Kadir Gecesi'nde indirdik.","juz":30,"page":598,"sajda":false},{"number":6127,"numberInSurah":2,"transliteration":"Wa maa adraaka ma lailatul qadr","diyanet":"Kadir gecesinin ne olduğunu sen bilir misin?","ozturk":"Kadir Gecesi'nin niteliğini sana gösteren nedir?","juz":30,"page":598,"sajda":false},{"number":6128,"numberInSurah":3,"transliteration":"Lailatul qadri khairum min alfee shahr","diyanet":"Kadir gecesi bin aydan hayırlıdır.","ozturk":"Kadir Gecesi bin aydan daha hayırlıdır!","juz":30,"page":598,"sajda":false},{"number":6129,"numberInSurah":4,"transliteration":"Tanaz zalul malaa-ikatu war roohu feeha bi izni-rab bihim min kulli amr","diyanet":"Melekler ve Cebrail o gecede Rablerinin izniyle her türlü iş için inerler.","ozturk":"Melekler ve Rûh, Rablerinin izniyle o gecede her iş için iner de iner!","juz":30,"page":598,"sajda":false},{"number":6130,"numberInSurah":5,"transliteration":"Salaamun hiya hattaa mat la'il fajr","diyanet":"O gece, tan yerinin ağarmasına kadar bir esenliktir.","ozturk":"Bir esenlik ve huzur vardır; sürüp gider o, tan yeri ağarıncaya kadar!","juz":30,"page":598,"sajda":false}]}
+{
+  "surah": {
+    "number": 97,
+    "name": "سُورَةُ القَدۡرِ",
+    "englishName": "Al-Qadr",
+    "englishNameTranslation": "The Power, Fate",
+    "turkishName": "Kadir",
+    "numberOfAyahs": 5,
+    "revelationType": "Meccan",
+    "revelationOrder": 25
+  },
+  "ayahs": [
+    {
+      "number": 6126,
+      "numberInSurah": 1,
+      "transliteration": "Innaa anzalnaahu fee lailatil qadr",
+      "diyanet": "Doğrusu, Biz, Kuran'ı kadir gecesinde indirmişizdir.",
+      "ozturk": "Biz onu Kadir Gecesi'nde indirdik.",
+      "juz": 30,
+      "page": 598,
+      "sajda": false,
+      "elmali": "Elhak biz indirdik onu kadir gecesi",
+      "islamoglu": "Elbet onu kadir-kıymet gecesinde Biz indirmeye (başlamışızdır).",
+      "bulac": "Gerçek şu ki, Biz onu kadir gecesinde indirdik.",
+      "esed": "Biz bu (ilahi kelam)ı Kadir Gecesi'nde indirdik.",
+      "suleymaniye": "Biz onu / ilk ayet kümesini kadir gecesinde indirdik![1]",
+      "ates": "Biz o(Kur'a)n'ı Kadir gecesinde indirdik."
+    },
+    {
+      "number": 6127,
+      "numberInSurah": 2,
+      "transliteration": "Wa maa adraaka ma lailatul qadr",
+      "diyanet": "Kadir gecesinin ne olduğunu sen bilir misin?",
+      "ozturk": "Kadir Gecesi'nin niteliğini sana gösteren nedir?",
+      "juz": 30,
+      "page": 598,
+      "sajda": false,
+      "elmali": "Ne bildirdi ki sana? Ne kadir gecesi?",
+      "islamoglu": "Bilir misin o kadir-kıymet gecesinin mahiyeti nedir?",
+      "bulac": "Kadir gecesinin ne olduğunu sana bildiren nedir?",
+      "esed": "Bilir misin nedir Kadir Gecesi?",
+      "suleymaniye": "Kadir gecesinin ne olduğunu sana kim bildirebilir!",
+      "ates": "Kadir gecesinin ne olduğunu sen nereden bileceksin?"
+    },
+    {
+      "number": 6128,
+      "numberInSurah": 3,
+      "transliteration": "Lailatul qadri khairum min alfee shahr",
+      "diyanet": "Kadir gecesi bin aydan hayırlıdır.",
+      "ozturk": "Kadir Gecesi bin aydan daha hayırlıdır!",
+      "juz": 30,
+      "page": 598,
+      "sajda": false,
+      "elmali": "Bin aydan hayırdır o kadir gecesi",
+      "islamoglu": "O kadir-kıymet gecesi bin aydan daha hayırlıdır.",
+      "bulac": "Kadir gecesi, bin aydan daha hayırlıdır.",
+      "esed": "Kadir Gecesi bin aydan daha hayırlıdır:",
+      "suleymaniye": "Kadir gecesi, bin aydan daha hayırlıdır!",
+      "ates": "Kadir gecesi bin aydan hayırlıdır."
+    },
+    {
+      "number": 6129,
+      "numberInSurah": 4,
+      "transliteration": "Tanaz zalul malaa-ikatu war roohu feeha bi izni-rab bihim min kulli amr",
+      "diyanet": "Melekler ve Cebrail o gecede Rablerinin izniyle her türlü iş için inerler.",
+      "ozturk": "Melekler ve Rûh, Rablerinin izniyle o gecede her iş için iner de iner!",
+      "juz": 30,
+      "page": 598,
+      "sajda": false,
+      "elmali": "İner peyderpey melaike ve ruh onda, izniyle rablarının her bir emirden",
+      "islamoglu": "Melekler, vahiyle beraber o gece inerler de inerler, Rablerinin izniyle, hayatın her alanına dair",
+      "bulac": "Melekler ve ruh, onda Rablerinin izniyle her bir iş için inerler.",
+      "esed": "o gece melekler, Rablerinin izniyle ilahi bir esin taşıyarak bölük bölük inerler; (insanı) her türlü (kötülük)ten",
+      "suleymaniye": "O gece, melekler ve ruh[1] Rablerinin izni ile[2] her bir iş için iner de iner.[3]",
+      "ates": "Melekler ve Ruh, o gece Rab'lerinin izniyle her iş için iner de iner."
+    },
+    {
+      "number": 6130,
+      "numberInSurah": 5,
+      "transliteration": "Salaamun hiya hattaa mat la'il fajr",
+      "diyanet": "O gece, tan yerinin ağarmasına kadar bir esenliktir.",
+      "ozturk": "Bir esenlik ve huzur vardır; sürüp gider o, tan yeri ağarıncaya kadar!",
+      "juz": 30,
+      "page": 598,
+      "sajda": false,
+      "elmali": "Bir selamdır o ta tan atana kadar",
+      "islamoglu": "tarifsiz bir mutluluğun (formüllerini getirirler); bu durum, fecr doğuncaya kadar sürer.",
+      "bulac": "Fecrin çıkışına kadar bir esenliktir (selamdır) o.",
+      "esed": "emin kılar bu (gece), ta şafak vaktine kadar.",
+      "suleymaniye": "O, fecrin[1] doğuşuna kadar bir güvenlik ve esenlik gecesidir.[2]",
+      "ates": "Esenliktir o, ta tan yeri ağarıncaya kadar!"
+    }
+  ]
+}

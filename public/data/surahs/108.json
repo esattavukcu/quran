@@ -1,1 +1,62 @@
-{"surah":{"number":108,"name":"سُورَةُ الكَوۡثَرِ","englishName":"Al-Kawthar","englishNameTranslation":"Abundance","turkishName":"Kevser","numberOfAyahs":3,"revelationType":"Meccan","revelationOrder":15},"ayahs":[{"number":6205,"numberInSurah":1,"transliteration":"Innaa a'taina kal kauthar","diyanet":"Doğrusu sana pek çok nimet vermişizdir.","ozturk":"Hiç kuşkusuz, biz verdik sana Kevser'i/iyilik, bereket, mutluluk, güzellik, soy ve aydınlığın tükenmezini.","juz":30,"page":602,"sajda":false},{"number":6206,"numberInSurah":2,"transliteration":"Fa salli li rabbika wanhar","diyanet":"Öyleyse Rabbin için namaz kıl, kurban kes.","ozturk":"O halde, sen de Rabbin için namaz kıl/dua et ve göğsünü gererek dimdik dur/sağ elini sol elinin üzerine koyup kıyam et/namazı vakti girer girmez kıl/kavrayışını bilgi ile derinleştir/eti yenecek hayvan kes!","juz":30,"page":602,"sajda":false},{"number":6207,"numberInSurah":3,"transliteration":"Inna shani-aka huwal abtar","diyanet":"Doğrusu adı sanı ortadan kalkacak olan, sana kin tutan kimsedir.","ozturk":"Kuşkun olmasın ki, ebter/soyu kesik, seni kötüleyenin ta kendisidir!","juz":30,"page":602,"sajda":false}]}
+{
+  "surah": {
+    "number": 108,
+    "name": "سُورَةُ الكَوۡثَرِ",
+    "englishName": "Al-Kawthar",
+    "englishNameTranslation": "Abundance",
+    "turkishName": "Kevser",
+    "numberOfAyahs": 3,
+    "revelationType": "Meccan",
+    "revelationOrder": 15
+  },
+  "ayahs": [
+    {
+      "number": 6205,
+      "numberInSurah": 1,
+      "transliteration": "Innaa a'taina kal kauthar",
+      "diyanet": "Doğrusu sana pek çok nimet vermişizdir.",
+      "ozturk": "Hiç kuşkusuz, biz verdik sana Kevser'i/iyilik, bereket, mutluluk, güzellik, soy ve aydınlığın tükenmezini.",
+      "juz": 30,
+      "page": 602,
+      "sajda": false,
+      "elmali": "Biz verdik sana hakikatte kevser",
+      "islamoglu": "Gerçek şu ki, Biziz sana her hayrı cömertçe bahşeden:",
+      "bulac": "Şüphesiz, biz sana Kevser'i verdik.",
+      "esed": "Bak, Biz sana bol nimet verdik:",
+      "suleymaniye": "Biz sana çok hayırlı olanı (Kur'an'ı) verdik.[1]",
+      "ates": "Biz sana Kevser'i (bol ni'met, ilim ve büyük şeref) verdik."
+    },
+    {
+      "number": 6206,
+      "numberInSurah": 2,
+      "transliteration": "Fa salli li rabbika wanhar",
+      "diyanet": "Öyleyse Rabbin için namaz kıl, kurban kes.",
+      "ozturk": "O halde, sen de Rabbin için namaz kıl/dua et ve göğsünü gererek dimdik dur/sağ elini sol elinin üzerine koyup kıyam et/namazı vakti girer girmez kıl/kavrayışını bilgi ile derinleştir/eti yenecek hayvan kes!",
+      "juz": 30,
+      "page": 602,
+      "sajda": false,
+      "elmali": "Sen de Rabbın için namaz kıl ve kurban kesiver",
+      "islamoglu": "O halde namazı da, kurbanı da yalnız Rabbine tahsis et!",
+      "bulac": "Şu halde Rabbin için namaz kıl ve kurban kes.",
+      "esed": "o halde (yalnız) Rabbine ibadet et ve (yalnız O'nun adına) kurban kes.",
+      "suleymaniye": "Öyleyse kulluk görevlerini yalnızca Rabbin için yap[1] ve dik dur![2]",
+      "ates": "Öyleyse Rabbin için namaz kıl ve nahret (kurban kes veya ellerini boğazına kadar kaldırıp tekbir al)."
+    },
+    {
+      "number": 6207,
+      "numberInSurah": 3,
+      "transliteration": "Inna shani-aka huwal abtar",
+      "diyanet": "Doğrusu adı sanı ortadan kalkacak olan, sana kin tutan kimsedir.",
+      "ozturk": "Kuşkun olmasın ki, ebter/soyu kesik, seni kötüleyenin ta kendisidir!",
+      "juz": 30,
+      "page": 602,
+      "sajda": false,
+      "elmali": "doğrusu sana buğz edendir ebter.",
+      "islamoglu": "Bir başka gerçek de şu ki; (hayırdan) tamamen kesilip kopmuştur senden nefret eden.",
+      "bulac": "Doğrusu, asıl ebter (soyu kesik) olan sana kin duyandır.",
+      "esed": "Şu gerçek ki, senden nefret eden, (her türlü iyilik ve güzellikten) kesilmektedir!",
+      "suleymaniye": "Senden nefret eden, hiçbir sonuç elde edemeyecek olandır.[1]",
+      "ates": "Asıl sonu kesik olan, sana buğzedendir."
+    }
+  ]
+}

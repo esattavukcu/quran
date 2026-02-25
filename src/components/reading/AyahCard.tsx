@@ -54,7 +54,7 @@ export default function AyahCard({ ayah, wordData, surahNumber, surahName, verse
       />
 
       {/* Translations */}
-      <TranslationPair diyanet={ayah.diyanet} ozturk={ayah.ozturk} />
+      <TranslationPair ayah={ayah} />
 
       {/* Nuzul Panel - sadece ayet bazli veri varsa goster */}
       {verseNuzul && (
