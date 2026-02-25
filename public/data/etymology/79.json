@@ -10,7 +10,7 @@
     "ٱلرَّادِفَةُ": "\"er-rādife\" (ٱلرَّادِفَةُ)\nKök: r-d-f — ardından gelmek\nKalıp: İsm-i fâil; \"ardından gelen\"\nKur'an'da: 79:7 — İkinci üfürüş birincinin ardından gelir",
     "فِى": "\"fī\" (فِى)\nKök: — yapısal edat\nKalıp: Zarfiyet edatı; mekan, zaman, soyut içerik\nKur'an'da: 1732 kez — mekânsal ve mecazî kullanımlar",
     "ٱلْحَافِرَةِ": "\"el-ḥāfire\" (ٱلْحَافِرَةِ)\nKök: ḥ-f-r — kazmak\nKalıp: İsm-i fâil; \"kazılmış zemin, önceki hal\"\nKur'an'da: 79:10 — \"Eski hâle mi döneceğiz?\" inkarın ifadesi",
-    "بِٱلسَّاهِرَةِ": "\"bil-sāhirati\" (بِٱلسَّاهِرَةِ)\nKök: S-H-R — uyanıklık alanındadırlar\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 79:14",
+    "بِٱلسَّاهِرَةِ": "\"es-sāhire\" (ٱلسَّاهِرَةِ)\nKök: s-h-r — uyanık kalmak\nKalıp: İsm-i fâil; \"uyanık yeryüzü; düzlük\"\nKur'an'da: 79:14 — Diriltilip yeryüzünde toplanacaklar",
     "هَلْ": "\"hal\" (هَلْ)\nKök: H-L-L — mı?\nKalıp: Harf/edat (mabni)\nKur'an'da: 2:210, 2:246, 3:154, 5:59",
     "إِذْ": "\"idh\" (إِذْ)\nKök: — yapısal zaman edatı\nKalıp: Geçmiş zamanlı atıf; \"bir zamanlar, o vakit ki\"\nKur'an'da: 2:30, yaygın",
     "بِٱلْوَادِ": "\"bil-wādi\" (بِٱلْوَادِ)\nKök: W-D-D — vadide\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 20:12, 79:16, 89:9",
@@ -78,6 +78,8 @@
     "فَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
     "فَقُلْ": "\"qul\" (قُلْ)\nKök: Q-W-L — söylemek, demek\nKalıp: Emir fiil, 2. tekil eril (I. bab: qāla/yaqūlu)\nKur'an'da: 109:1, 112:1, 113:1, 114:1 — peygambere hitap; 332 kez",
     "فَقَالَ": "\"qāla\" (قَالَ)\nKök: q-w-l — söylemek\nKalıp: Mâzi tekil; \"dedi\"\nKur'an'da: 1722 kez — Kur'an'ın en sık geçen fiili; kıssa dilinin temeli",
-    "فَإِنَّ": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç"
+    "فَإِنَّ": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç",
+    "لِّمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
+    "لِمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı"
   }
 }

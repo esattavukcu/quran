@@ -29,7 +29,7 @@
     "ٱلْمَشْرِقَيْنِ": "\"l-mashriqayni\" (ٱلْمَشْرِقَيْنِ)\nKök: M-SH-R — iki doğu\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 43:38, 55:17",
     "ٱلْمَغْرِبَيْنِ": "\"l-maghribayni\" (ٱلْمَغْرِبَيْنِ)\nKök: M-GH-R — iki batının\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 55:17",
     "ٱلْبَحْرَيْنِ": "\"l-baḥrayni\" (ٱلْبَحْرَيْنِ)\nKök: B-Ḥ-R — iki denizin\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 18:60, 25:53, 27:61, 55:19",
-    "ٱللُّؤْلُؤُ": "\"l-lu'lu-u\" (ٱللُّؤْلُؤُ)\nKök: ا-ل-ل — inci\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 55:22, 56:23",
+    "ٱللُّؤْلُؤُ": "\"law\" (لَوْ)\nKök: — yapısal şart edatı\nKalıp: Gerçekleşmemiş şart (imkânsız/geçmiş); \"keşke, eğer olsaydı\"\nKur'an'da: 102:5, yaygın",
     "وَٱلْمَرْجَانُ": "\"wal-marjānu\" (وَٱلْمَرْجَانُ)\nKök: M-R-J — ve mercan\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 55:22, 55:58",
     "ٱلْجَوَارِ": "\"el-jawār\" (ٱلْجَوَارِ)\nKök: j-r-y — akmak, hareket\nKalıp: Çoğul; \"hareket edenler\"\nKur'an'da: 81:16 — Hareket eden yıldızlar",
     "ٱلْمُنشَـَٔاتُ": "\"l-munshaātu\" (ٱلْمُنشَـَٔاتُ)\nKök: M-N-SH — inşa edilmiş\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 55:24",
@@ -90,6 +90,7 @@
     "فَانٍۢ": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç",
     "فَلَا": "\"lā\" (لَا)\nKök: — yapısal olumsuzluk edatı\nKalıp: Muzari olumsuzluk, emir yasağı (nahiy), varlık olumsuzlaması\nKur'an'da: binden fazla kez — en temel olumsuzluk",
     "فَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
-    "فَيَوْمَئِذٍۢ": "\"yawma-idhin\" (يَوْمَئِذٍ)\nKök: Y-W-M + idh (zaman)\nKalıp: Bileşik zaman zarfı; \"o gün\"\nKur'an'da: 100:11, 102:8"
+    "فَيَوْمَئِذٍۢ": "\"yawma-idhin\" (يَوْمَئِذٍ)\nKök: Y-W-M + idh (zaman)\nKalıp: Bileşik zaman zarfı; \"o gün\"\nKur'an'da: 100:11, 102:8",
+    "وَلِمَنْ": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı"
   }
 }

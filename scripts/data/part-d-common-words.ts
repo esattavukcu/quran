@@ -216,4 +216,10 @@ export const PART_D: Record<string, string> = {
 
   "أَطِيعُوا": '"aṭīʿū" (أَطِيعُوا)\nKök: ṭ-w-ʿ — itaat etmek\nKalıp: Emir çoğul; "itaat edin"\nKur\'an\'da: çok ayette — "Allah\'a ve Resulüne itaat edin"',
 
+  "مُتَّقِينَ": '"muttaqīn" (مُتَّقِينَ)\nKök: w-q-y — sakınmak, korumak\nKalıp: İsm-i fāil çoğul; Form VIII (iftʿāl) — "takvalılar, sakınanlar"\nKur\'an\'da: çok ayette — "Bu kitap takvalılar için hidayettir" (2:2)',
+
+  "يُقِيمُونَ": '"yuqīmūn" (يُقِيمُونَ)\nKök: q-w-m — kalkmak, dikmek\nKalıp: Müzâri çoğul; Form IV (ifʿāl) — "kılarlar, yerine getirirler"\nKur\'an\'da: çok ayette — "وَيُقِيمُونَ الصَّلَاةَ" (2:3) namaz kılarlar',
+
+  "يُنفِقُونَ": '"yunfiqūn" (يُنفِقُونَ)\nKök: n-f-q — harcamak, infak\nKalıp: Müzâri çoğul; Form IV — "infak ederler, harcarlar"\nKur\'an\'da: çok ayette — "وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ" (2:3) rızıklarından harcarlar',
+
 };

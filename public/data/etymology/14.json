@@ -206,6 +206,22 @@
     "فَلَا": "\"lā\" (لَا)\nKök: — yapısal olumsuzluk edatı\nKalıp: Muzari olumsuzluk, emir yasağı (nahiy), varlık olumsuzlaması\nKur'an'da: binden fazla kez — en temel olumsuzluk",
     "وَيُضِلُّ": "\"yuḍillu\" (يُضِلُّ)\nKök: ḍ-l-l — sapmak\nKalıp: Müzâri if'al; \"saptırır\"\nKur'an'da: çok ayette — \"Allah dilediğini saptırır\"",
     "فَمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
-    "فَإِنَّهُۥ": "\"innahu\" (إِنَّهُۥ)\nKök: — teyit edatı + zamir\nKalıp: inna + hu; \"şüphesiz O/o ki\"\nKur'an'da: 110:3, çok yaygın"
+    "فَإِنَّهُۥ": "\"innahu\" (إِنَّهُۥ)\nKök: — teyit edatı + zamir\nKalıp: inna + hu; \"şüphesiz O/o ki\"\nKur'an'da: 110:3, çok yaygın",
+    "لَهُمْ ۖ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "وَلَقَدْ": "\"qad\" (قَدْ)\nKök: — yapısal partikül\nKalıp: Mazi fiilin gerçekleştiğini teyit eder; \"gerçekten, kesinlikle\"\nKur'an'da: 2:60, yaygın",
+    "بِمَآ": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "لِيَغْفِرَ": "\"yağfiru\" (يَغْفِرُ)\nKök: ğ-f-r — örtmek, bağışlamak\nKalıp: Müzâri; \"bağışlar\"\nKur'an'da: çok ayette — \"Allah dilediğini bağışlar\"",
+    "بَشَرٌۭ": "\"sharri\" (شَرِّ)\nKök: SH-R-R — kötülük, zarar, bozukluk\nKalıp: İsim, mecrur; şiddetlendirilmiş sıfat vezni\nKur'an'da: 113:2, 114:4 — istiaze formüllerinde",
+    "لَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "لِمَنْ": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
+    "بِخَلْقٍۢ": "\"halaqa\" (خَلَقَ)\nKök: h-l-q — yaratmak, ölçmek\nKalıp: Mâzi; \"yarattı\"\nKur'an'da: çok ayette — Allah'ın yaratıcılığı",
+    "لِلَّذِينَ": "\"alladhīna\" (ٱلَّذِينَ)\nKök: — yapısal mevsul zamir\nKalıp: Çoğul eril mevsul sıfat; \"onlar ki, kimseler\"\nKur'an'da: 103:3, 107:5, çok yaygın",
+    "لَمَّا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "لِلنَّاسِ": "\"l-nāsi\" (ٱلنَّاسِ)\nKök: A-N-S veya N-W-S — insan, beşer topluluğu\nKalıp: el-nās; belirli isim, mecrur; toplumsal birliği simgeler\nKur'an'da: 114:1-6 (surenin adı); 240'tan fazla ayette",
+    "لِّعِبَادِىَ": "\"ʿibādī\" (عِبَادِى)\nKök: ʿ-b-d — kulluk, hizmet\nKalıp: Çoğul iye; \"kullarım\"\nKur'an'da: 89:29 — Allah'ın seçkin kullarına hitap",
+    "لِيَوْمٍۢ": "\"yawma\" (يَوْمَ)\nKök: Y-W-M — gün\nKalıp: Akuzatif zarf; \"gün, günde\"\nKur'an'da: 101:4, yaygın — يَوْمَ يَكُونُ gibi",
+    "بِهِمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "لِّلنَّاسِ": "\"l-nāsi\" (ٱلنَّاسِ)\nKök: A-N-S veya N-W-S — insan, beşer topluluğu\nKalıp: el-nās; belirli isim, mecrur; toplumsal birliği simgeler\nKur'an'da: 114:1-6 (surenin adı); 240'tan fazla ayette",
+    "وَلِيَذَّكَّرَ": "\"yaẕẕakkar\" (يَذَّكَّرُ)\nKök: ẕ-k-r — hatırlatmak\nKalıp: Müzâri tefa'ul; \"öğüt alır, hatırlar\"\nKur'an'da: 80:4 — Öğüt duyarsa yararlanır"
   }
 }

@@ -4,7 +4,7 @@
     "فِى": "\"fī\" (فِى)\nKök: — yapısal edat\nKalıp: Zarfiyet edatı; mekan, zaman, soyut içerik\nKur'an'da: 1732 kez — mekânsal ve mecazî kullanımlar",
     "ٱلسَّمَـٰوَٰتِ": "\"l-samāwāti\" (ٱلسَّمَـٰوَٰتِ)\nKök: S-M-W — göklerin\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:33, 2:107, 2:116, 2:117",
     "ٱلْأَرْضِ": "\"el-arḍ\" (ٱلْأَرْضُ)\nKök: e-r-ḍ — yer, zemin\nKalıp: İsim; \"yer, Dünya\"\nKur'an'da: 461 kez — Sema ile birlikte çok sık geçer",
-    "ٱلْمَلِكِ": "\"l-maliki\" (ٱلْمَلِكِ)\nKök: M-L-L — hükümdarlık (mülk)\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:247, 2:251, 2:258, 3:26",
+    "ٱلْمَلِكِ": "\"maliki\" (مَلِكِ)\nKök: M-L-K — sahip olmak, hükmetmek, yönetmek\nKalıp: İsim, fa'il vezni, mecrur (izafet); kral/hükümdar\nKur'an'da: 1:4 (māliki yawmi'd-dīn), 114:2",
     "ٱلْقُدُّوسِ": "\"l-qudūsi\" (ٱلْقُدُّوسِ)\nKök: Q-D-S — Kuddûs'tür (mukaddes)\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 59:23, 62:1",
     "ٱلْعَزِيزِ": "\"el-ʿAzīz\" (ٱلْعَزِيزُ)\nKök: ʿ-z-z — güçlü, nadir\nKalıp: Mübalağa; \"mutlak güçlü, yenilmez\"\nKur'an'da: çok ayette — Allah'ın en sık geçen isimlerinden",
     "ٱلْحَكِيمِ": "\"el-Ḥakīm\" (ٱلْحَكِيمُ)\nKök: ḥ-k-m — hikmet, hüküm\nKalıp: Mübalağa; \"en büyük hikmet sahibi\"\nKur'an'da: çok ayette — Genellikle Aziz ile birlikte geçer",
@@ -43,7 +43,7 @@
     "رَأَوْا۟": "\"ra-aw\" (رَأَوْا۟)\nKök: W-W-W — gördükleri\nKalıp: Harf/edat (mabni)\nKur'an'da: 10:54, 12:35, 19:75, 34:33",
     "أَوْ": "\"aw\" (أَوْ)\nKök: — yapısal bağlaç\nKalıp: Seçenek/şüphe bağlacı; \"ya da, veya\"\nKur'an'da: 2:19, yaygın",
     "مِّنَ": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
-    "ٱللَّهْوِ": "\"l-lahwi\" (ٱللَّهْوِ)\nKök: L-H-W — the sport\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 62:11",
+    "ٱللَّهْوِ": "\"huwa\" (هُوَ)\nKök: — kişi zamiri\nKalıp: 3. tekil eril; \"o (erkek/şey)\"\nKur'an'da: 112:1, çok yaygın",
     "ٱلتِّجَـٰرَةِ ۚ": "\"l-tijārati\" (ٱلتِّجَـٰرَةِ ۚ)\nKök: T-J-R — ticaretten\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 62:11",
     "ٱلرَّٰزِقِينَ": "\"l-rāziqīna\" (ٱلرَّٰزِقِينَ)\nKök: R-Z-Q — rızık verenlerin\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 5:114, 22:58, 23:72, 34:39",
     "لِلَّهِ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
@@ -71,6 +71,10 @@
     "وَهُوَ": "\"huwa\" (هُوَ)\nKök: — kişi zamiri\nKalıp: 3. tekil eril; \"o (erkek/şey)\"\nKur'an'da: 112:1, çok yaygın",
     "فَإِنَّهُۥ": "\"innahu\" (إِنَّهُۥ)\nKök: — teyit edatı + zamir\nKalıp: inna + hu; \"şüphesiz O/o ki\"\nKur'an'da: 110:3, çok yaygın",
     "فَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
-    "وَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın"
+    "وَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
+    "لَمَّا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "بِهِمْ ۚ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "بِمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "لِلصَّلَوٰةِ": "\"eṣ-ṣalāt\" (ٱلصَّلَوٰةَ)\nKök: ṣ-l-w — dua, ibadet\nKalıp: İsim; \"namaz, dua\"\nKur'an'an: 98:5 — Namaz İslam'ın ikinci rüknü; Kur'an'da 100+ kez geçer"
   }
 }

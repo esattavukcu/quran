@@ -20,7 +20,7 @@
     "ثُمَّ": "\"thumma\" (ثُمَّ)\nKök: — yapısal bağlaç\nKalıp: Atıf harfi; sıralama ve zaman aralığı ifadesi; \"sonra, ardından\"\nKur'an'da: 2:28, çok yaygın",
     "أَن": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç",
     "لَّمْ": "\"lam\" (لَمْ)\nKök: — yapısal partikül\nKalıp: Muzari fiilin geçmiş olumsuzunu yapar; cezm eder\nKur'an'da: 112:3 — لَمْ يَلِدْ وَلَمْ يُولَدْ",
-    "بِٱللَّهِ": "\"bil-lahi\" (بِٱللَّهِ)\nKök: L-H-H — Allaha\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:8, 2:28, 2:62, 2:67",
+    "بِٱللَّهِ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "ٱللَّهِ ۗ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "أَلِيمٌ": "\"alīmun\" (أَلِيمٌ)\nKök: L-M-N — acı\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:10, 2:104, 2:174, 2:178",
     "أَلَمْ": "\"alam\" (أَلَمْ)\nKök: — soru edatı + olumsuzluk\nKalıp: hemze-l-istifhām + lam; \"Görmedi mi? Olmadı mı?\"\nKur'an'da: 105:1, 94:1",
@@ -42,7 +42,7 @@
     "ٱللَّهِ ۚ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "ٱلْمُؤْمِنُونَ": "\"l-mu'minūna\" (ٱلْمُؤْمِنُونَ)\nKök: M-M-N — Mü'minler\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 3:28, 3:110, 3:122, 3:160",
     "ٱلْمَجَـٰلِسِ": "\"l-majālisi\" (ٱلْمَجَـٰلِسِ)\nKök: M-J-L — the assemblies\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 58:11",
-    "ٱلْعِلْمَ": "\"l-ʿil'ma\" (ٱلْعِلْمَ)\nKök: ʿ-L-M — ilim\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:120, 2:145, 2:247, 3:7",
+    "ٱلْعِلْمَ": "\"ʿil'ma\" (عِلْمَ)\nKök: ʿ-L-M — bilmek, bilim\nKalıp: Masdar/isim, mansub; \"kesin bilgi ile\"\nKur'an'da: 102:5",
     "ٱلرَّسُولَ": "\"l-rasūla\" (ٱلرَّسُولَ)\nKök: R-S-L — rasulün (de)\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:143, 2:214, 2:285, 3:53",
     "فَإِن": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç",
     "فَإِذْ": "\"idh\" (إِذْ)\nKök: — yapısal zaman edatı\nKalıp: Geçmiş zamanlı atıf; \"bir zamanlar, o vakit ki\"\nKur'an'da: 2:30, yaygın",
@@ -58,7 +58,7 @@
     "ٱلشَّيْطَـٰنِ ۚ": "\"l-shayṭāni\" (ٱلشَّيْطَـٰنِ ۚ)\nKök: SH-Y-Ṭ — şeytan\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:36, 2:168, 2:208, 2:268",
     "ٱلْخَـٰسِرُونَ": "\"l-khāsirūna\" (ٱلْخَـٰسِرُونَ)\nKök: KH-S-R — ziyana uğrayanlar\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:27, 2:121, 7:99, 7:178",
     "ٱلْأَذَلِّينَ": "\"l-adhalīna\" (ٱلْأَذَلِّينَ)\nKök: DH-L-L — en alçaklar\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 58:20",
-    "وَٱلْيَوْمِ": "\"wal-yawmi\" (وَٱلْيَوْمِ)\nKök: Y-W-M — ve gününe\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:62, 2:126, 2:177, 2:228",
+    "وَٱلْيَوْمِ": "\"yawma\" (يَوْمَ)\nKök: Y-W-M — gün\nKalıp: Akuzatif zarf; \"gün, günde\"\nKur'an'da: 101:4, yaygın — يَوْمَ يَكُونُ gibi",
     "ٱلْـَٔاخِرِ": "\"l-ākhiri\" (ٱلْـَٔاخِرِ)\nKök: KH-R-R — ahiret\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:8, 2:62, 2:126, 2:177",
     "أَوْ": "\"aw\" (أَوْ)\nKök: — yapısal bağlaç\nKalıp: Seçenek/şüphe bağlacı; \"ya da, veya\"\nKur'an'da: 2:19, yaygın",
     "ٱلْإِيمَـٰنَ": "\"l-īmāna\" (ٱلْإِيمَـٰنَ)\nKök: M-M-M — yeminlerden\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 5:89, 9:23, 16:91, 40:10",
@@ -127,6 +127,11 @@
     "فَإِنَّ": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç",
     "وَأَطِيعُوا۟": "\"aṭīʿū\" (أَطِيعُوا)\nKök: ṭ-w-ʿ — itaat etmek\nKalıp: Emir çoğul; \"itaat edin\"\nKur'an'da: çok ayette — \"Allah'a ve Resulüne itaat edin\"",
     "وَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
-    "وَلَوْ": "\"law\" (لَوْ)\nKök: — yapısal şart edatı\nKalıp: Gerçekleşmemiş şart (imkânsız/geçmiş); \"keşke, eğer olsaydı\"\nKur'an'da: 102:5, yaygın"
+    "وَلَوْ": "\"law\" (لَوْ)\nKök: — yapısal şart edatı\nKalıp: Gerçekleşmemiş şart (imkânsız/geçmiş); \"keşke, eğer olsaydı\"\nKur'an'da: 102:5, yaygın",
+    "لِمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "بِمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "لَوْلَا": "\"walā\" (وَلَآ)\nKök: — bağlaç + olumsuzluk\nKalıp: wa + lā med-i lazım; \"ve değil\"\nKur'an'da: 109:3, 109:4",
+    "لَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "فَلَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın"
   }
 }

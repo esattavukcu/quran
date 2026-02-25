@@ -12,9 +12,9 @@
     "ٱلْأَبْرَارَ": "\"el-abrār\" (ٱلْأَبْرَارَ)\nKök: b-r-r — iyilik\nKalıp: Çoğul; \"iyiler, erdemli\"\nKur'an'da: 82:13 — İyiler nimetlerle dolu cennette",
     "ٱللَّهِ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "بِٱلنَّذْرِ": "\"bil-nadhri\" (بِٱلنَّذْرِ)\nKök: N-DH-R — uyarıları\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 54:23, 54:33, 54:36, 76:7",
-    "ٱلطَّعَامَ": "\"l-ṭaʿāma\" (ٱلطَّعَامَ)\nKök: Ṭ-ʿ-M — yiyecekler\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 3:93, 5:75, 21:8, 25:7",
+    "ٱلطَّعَامَ": "\"ṭaʿāmi\" (طَعَامِ)\nKök: T-ʿ-M — yemek, yedirmek\nKalıp: Masdar/isim, mecrur; \"yemek, beslenme\"\nKur'an'da: 107:3, 80:24",
     "ٱللَّهُ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
-    "ٱلْيَوْمِ": "\"l-yawmi\" (ٱلْيَوْمِ)\nKök: Y-W-M — bugün\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:249, 5:3, 5:5, 6:93",
+    "ٱلْيَوْمِ": "\"yawma\" (يَوْمَ)\nKök: Y-W-M — gün\nKalıp: Akuzatif zarf; \"gün, günde\"\nKur'an'da: 101:4, yaygın — يَوْمَ يَكُونُ gibi",
     "ٱلْأَرَآئِكِ ۖ": "\"el-arāʾik\" (ٱلْأَرَآئِكِ)\nKök: e-r-k — gölgelik taht\nKalıp: Çoğul; \"gölgelikli tahtlar/koltuklar\"\nKur'an'da: 83:23 — Cennet tahtları; hem gölgelik hem yüksek",
     "مِّن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
     "لُؤْلُؤًۭا": "\"lu'lu-an\" (لُؤْلُؤًۭا)\nKök: N-N-N — koşarlardı\nKalıp: Harf/edat (mabni)\nKur'an'da: 9:57, 48:22, 76:19",
@@ -65,6 +65,9 @@
     "يَشَآءُ": "\"yašāʾu\" (يَشَآءُ)\nKök: ş-y-ʾ — istemek, şey\nKalıp: Müzâri; \"diler, ister\"\nKur'an'da: 148 kez — \"Allah dilediğini yapar\"",
     "وَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
     "وَكَانَ": "\"kāna\" (كَانَ)\nKök: K-W-N — olmak, var olmak\nKalıp: Nâkıs mazi fiil; isim cümlesini ta'dil eder\nKur'an'da: 110:3, çok yaygın",
-    "فَمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı"
+    "فَمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
+    "لِوَجْهِ": "\"wajh\" (وَجْهِ)\nKök: w-j-h — yüz, yön\nKalıp: İsim; \"yüz; rıza, yön\"\nKur'an'da: 92:20, 2:272 — \"Allah'ın yüzü\" = Allah'ın rızası",
+    "بِمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "لَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın"
   }
 }

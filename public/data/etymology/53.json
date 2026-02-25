@@ -48,7 +48,7 @@
     "ٱلْحَيَوٰةَ": "\"l-ḥayata\" (ٱلْحَيَوٰةَ)\nKök: Ḥ-Y-T — hayat\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:85, 2:86, 2:204, 2:212",
     "ٱلدُّنْيَا": "\"ed-dunyā\" (ٱلدُّنْيَا)\nKök: d-n-w — yakın olmak\nKalıp: Sıfat; \"en yakın, bu dünya\"\nKur'an'da: 115 kez — Geçici dünya; ahiretin karşıtı",
     "مِّنَ": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
-    "ٱلْعِلْمِ ۚ": "\"l-ʿil'mi\" (ٱلْعِلْمِ ۚ)\nKök: ʿ-L-M — ilim\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:120, 2:145, 2:247, 3:7",
+    "ٱلْعِلْمِ ۚ": "\"ʿil'ma\" (عِلْمَ)\nKök: ʿ-L-M — bilmek, bilim\nKalıp: Masdar/isim, mansub; \"kesin bilgi ile\"\nKur'an'da: 102:5",
     "ٱلْأَرْضِ": "\"el-arḍ\" (ٱلْأَرْضُ)\nKök: e-r-ḍ — yer, zemin\nKalıp: İsim; \"yer, Dünya\"\nKur'an'da: 461 kez — Sema ile birlikte çok sık geçer",
     "بِٱلْحُسْنَى": "\"bi-l-ḥusnā\" (بِٱلْحُسْنَىٰ)\nKök: ḥ-s-n — güzellik\nKalıp: Tafdîl müennes; \"en güzel şey; cennet\"\nKur'an'da: 92:6 — En güzeli, Allah'ın vaadini, cenneti doğrulamak",
     "ٱلْإِثْمِ": "\"l-ith'mi\" (ٱلْإِثْمِ)\nKök: TH-M-M — günah\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 5:2, 5:62, 5:63, 6:120",
@@ -136,6 +136,14 @@
     "فَلَا": "\"lā\" (لَا)\nKök: — yapısal olumsuzluk edatı\nKalıp: Muzari olumsuzluk, emir yasağı (nahiy), varlık olumsuzlaması\nKur'an'da: binden fazla kez — en temel olumsuzluk",
     "وَفَّىٰٓ": "\"fī\" (فِى)\nKök: — yapısal edat\nKalıp: Zarfiyet edatı; mekan, zaman, soyut içerik\nKur'an'da: 1732 kez — mekânsal ve mecazî kullanımlar",
     "فَمَآ": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
-    "وَأَنتُمْ": "\"antum\" (أَنتُمْ)\nKök: — kişi zamiri\nKalıp: 2. çoğul eril; \"siz\"\nKur'an'da: 109:3, yaygın"
+    "وَأَنتُمْ": "\"antum\" (أَنتُمْ)\nKök: — kişi zamiri\nKalıp: 2. çoğul eril; \"siz\"\nKur'an'da: 109:3, yaygın",
+    "وَلَقَدْ": "\"qad\" (قَدْ)\nKök: — yapısal partikül\nKalıp: Mazi fiilin gerçekleştiğini teyit eder; \"gerçekten, kesinlikle\"\nKur'an'da: 2:60, yaygın",
+    "لَقَدْ": "\"qad\" (قَدْ)\nKök: — yapısal partikül\nKalıp: Mazi fiilin gerçekleştiğini teyit eder; \"gerçekten, kesinlikle\"\nKur'an'da: 2:60, yaygın",
+    "لِلْإِنسَـٰنِ": "\"l-insāna\" (ٱلْإِنسَـٰنَ)\nKök: A-N-S — insan, alışmak; veya N-S-Y — unutmak\nKalıp: Belirli isim, mansub; \"insan\"\nKur'an'da: 103:2, 100:6, 96:2",
+    "لِمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
+    "لَهُم": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "بِمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
+    "بِمَنِ": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
+    "بِمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın"
   }
 }

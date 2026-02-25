@@ -15,7 +15,7 @@
     "ٱلْأَوَّلِينَ": "\"l-awalīna\" (ٱلْأَوَّلِينَ)\nKök: W-L-L — eskilerin\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 6:25, 8:31, 8:38, 15:10",
     "ٱلْـَٔاخِرِينَ": "\"l-ākhirīna\" (ٱلْـَٔاخِرِينَ)\nKök: KH-R-R — ötekileri\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 26:64, 26:66, 26:84, 26:172",
     "مِّن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
-    "ٱللُّؤْلُؤِ": "\"l-lu'lu-i\" (ٱللُّؤْلُؤِ)\nKök: ا-ل-ل — inci\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 55:22, 56:23",
+    "ٱللُّؤْلُؤِ": "\"law\" (لَوْ)\nKök: — yapısal şart edatı\nKalıp: Gerçekleşmemiş şart (imkânsız/geçmiş); \"keşke, eğer olsaydı\"\nKur'an'da: 102:5, yaygın",
     "ٱلْمَكْنُونِ": "\"l-maknūni\" (ٱلْمَكْنُونِ)\nKök: M-K-N — saklı\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 56:23",
     "ٱلْيَمِينِ": "\"l-yamīni\" (ٱلْيَمِينِ)\nKök: Y-M-N — dogru\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 16:48, 18:17, 18:18, 37:28",
     "ٱلشِّمَالِ": "\"l-shimāli\" (ٱلشِّمَالِ)\nKök: SH-M-L — the left\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 18:17, 18:18, 50:17, 56:41",
@@ -32,7 +32,7 @@
     "مِنَ": "\"mina\" (مِنَ)\nKök: — yapısal edat\nKalıp: min edatının elif-lam'dan önce gelen açık sesli biçimi\nKur'an'da: 2:19, 3:14 — çok yaygın kullanım",
     "ٱلْحَمِيمِ": "\"l-ḥamīmi\" (ٱلْحَمِيمِ)\nKök: Ḥ-M-M — kaynar su\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 22:19, 40:72, 44:46, 44:48",
     "ٱلْهِيمِ": "\"l-hīmi\" (ٱلْهِيمِ)\nKök: H-M-M — susuz develerin\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 56:55",
-    "ٱلدِّينِ": "\"l-dīni\" (ٱلدِّينِ)\nKök: D-N-N — Din\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 1:4, 2:132, 2:193, 2:256",
+    "ٱلدِّينِ": "\"dīni\" (دِينِ)\nKök: D-Y-N — din, hesap, yasa, borç\nKalıp: İsim, mecrur (izafet); \"dine, dinin\"\nKur'an'da: 109:6, 110:2 — temel kavram",
     "أَمْ": "\"am\" (أَمْ)\nKök: M-M-M — yada\nKalıp: Harf/edat (mabni)\nKur'an'da: 2:6, 2:80, 2:108, 2:133",
     "ٱلْخَـٰلِقُونَ": "\"l-khāliqūna\" (ٱلْخَـٰلِقُونَ)\nKök: KH-L-Q — yaratanlar\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 52:35, 56:59",
     "ٱلْمَوْتَ": "\"l-mawta\" (ٱلْمَوْتَ)\nKök: M-W-T — ölüm\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:19, 2:94, 2:133, 2:180",
@@ -104,6 +104,11 @@
     "كَانَ": "\"kāna\" (كَانَ)\nKök: K-W-N — olmak, var olmak\nKalıp: Nâkıs mazi fiil; isim cümlesini ta'dil eder\nKur'an'da: 110:3, çok yaygın",
     "وَأَمَّآ": "\"wa-ammā\" (وَأَمَّا)\nKök: — bağlaç + partikül\nKalıp: wa + ammā; önceki maddeyle karşıtlık ifadesi\nKur'an'da: 101:8, yaygın",
     "۞ فَلَآ": "\"lā\" (لَا)\nKök: — yapısal olumsuzluk edatı\nKalıp: Muzari olumsuzluk, emir yasağı (nahiy), varlık olumsuzlaması\nKur'an'da: binden fazla kez — en temel olumsuzluk",
-    "وَأَنتُمْ": "\"antum\" (أَنتُمْ)\nKök: — kişi zamiri\nKalıp: 2. çoğul eril; \"siz\"\nKur'an'da: 109:3, yaygın"
+    "وَأَنتُمْ": "\"antum\" (أَنتُمْ)\nKök: — kişi zamiri\nKalıp: 2. çoğul eril; \"siz\"\nKur'an'da: 109:3, yaygın",
+    "بِمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "فَلَوْلَا": "\"walā\" (وَلَآ)\nKök: — bağlaç + olumsuzluk\nKalıp: wa + lā med-i lazım; \"ve değil\"\nKur'an'da: 109:3, 109:4",
+    "وَلَقَدْ": "\"qad\" (قَدْ)\nKök: — yapısal partikül\nKalıp: Mazi fiilin gerçekleştiğini teyit eder; \"gerçekten, kesinlikle\"\nKur'an'da: 2:60, yaygın",
+    "فَلَوْلَآ": "\"walā\" (وَلَآ)\nKök: — bağlaç + olumsuzluk\nKalıp: wa + lā med-i lazım; \"ve değil\"\nKur'an'da: 109:3, 109:4",
+    "لَهُوَ": "\"huwa\" (هُوَ)\nKök: — kişi zamiri\nKalıp: 3. tekil eril; \"o (erkek/şey)\"\nKur'an'da: 112:1, çok yaygın"
   }
 }

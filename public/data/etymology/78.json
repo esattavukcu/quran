@@ -25,7 +25,7 @@
     "ٱلرُّوحُ": "\"l-rūḥu\" (ٱلرُّوحُ)\nKök: R-Ḥ-Ḥ — the ruh/nefis\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 17:85, 26:193, 40:15, 78:38",
     "وَٱلْمَلَـٰٓئِكَةُ": "\"wal-malāikatu\" (وَٱلْمَلَـٰٓئِكَةُ)\nKök: M-L-K — ve meleklerin\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:161, 2:177, 2:210, 3:18",
     "ٱلرَّحْمَـٰنُ": "\"l-raḥmānu\" (ٱلرَّحْمَـٰنُ)\nKök: R-Ḥ-M — Rahman\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 1:1, 1:3, 2:163, 17:110",
-    "ٱلْيَوْمُ": "\"l-yawmu\" (ٱلْيَوْمُ)\nKök: Y-W-M — bugün\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:249, 5:3, 5:5, 6:93",
+    "ٱلْيَوْمُ": "\"yawma\" (يَوْمَ)\nKök: Y-W-M — gün\nKalıp: Akuzatif zarf; \"gün, günde\"\nKur'an'da: 101:4, yaygın — يَوْمَ يَكُونُ gibi",
     "ٱلْحَقُّ ۖ": "\"el-ḥaqq\" (ٱلْحَقُّ)\nKök: ḥ-q-q — gerçek, hak\nKalıp: Mastar/sıfat; \"hak, gerçek, doğru\"\nKur'an'da: 287 kez — Hakikat; Allah'ın isimlerinden biri",
     "إِلَىٰ": "\"ilā\" (إِلَى)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; yön, hedef, sınır\nKur'an'da: 742 kez — hareket yönü bildiren edat",
     "ٱلْمَرْءُ": "\"l-maru\" (ٱلْمَرْءُ)\nKök: M-R-R — eşi\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:102, 8:24, 78:40, 80:34",
@@ -78,6 +78,7 @@
     "يَـٰلَيْتَنِى": "\"yā-laytanī\" (يَـٰلَيْتَنِى)\nKök: l-y-t — keşke\nKalıp: Temenni edatı; \"keşke ben!\"\nKur'an'da: 78:40 — Kâfirin pişmanlığı: \"Keşke toprak olsaydım!\"",
     "فَلَن": "\"lan\" (لَن)\nKök: — yapısal partikül\nKalıp: Gelecek olumsuzluk; muzariyi nasb eder; \"asla -meyecek\"\nKur'an'da: 2:80, yaygın",
     "وَقَالَ": "\"qāla\" (قَالَ)\nKök: q-w-l — söylemek\nKalıp: Mâzi tekil; \"dedi\"\nKur'an'da: 1722 kez — Kur'an'ın en sık geçen fiili; kıssa dilinin temeli",
-    "فَمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı"
+    "فَمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
+    "لِلْمُتَّقِينَ": "\"muttaqīn\" (مُتَّقِينَ)\nKök: w-q-y — sakınmak, korumak\nKalıp: İsm-i fāil çoğul; Form VIII (iftʿāl) — \"takvalılar, sakınanlar\"\nKur'an'da: çok ayette — \"Bu kitap takvalılar için hidayettir\" (2:2)"
   }
 }

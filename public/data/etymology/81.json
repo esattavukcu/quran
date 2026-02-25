@@ -13,7 +13,7 @@
     "ٱلسَّمَآءُ": "\"es-samāʾ\" (ٱلسَّمَاءُ)\nKök: s-m-w — yükselmek\nKalıp: İsim; \"gök, sema\"\nKur'an'da: 310 kez — \"Göklerin ve yerin yaratıcısı\"",
     "ٱلْجَحِيمُ": "\"l-jaḥīma\" (ٱلْجَحِيمَ)\nKök: J-H-M — alevlenmek, yakıcı olmak\nKalıp: Belirli isim (faʿīl), mansub; \"cehennemi\"\nKur'an'da: 102:6, yaygın",
     "ٱلْجَنَّةُ": "\"l-jinnati\" (ٱلْجِنَّةِ)\nKök: J-N-N — gizli kalmak, örtmek\nKalıp: Belirli isim, mecrur; gizli varlıklar topluluğu\nKur'an'da: 114:6 — وَٱلنَّاسِ ile birlikte",
-    "بِٱلْخُنَّسِ": "\"bil-khunasi\" (بِٱلْخُنَّسِ)\nKök: KH-N-S — geri kalıp gizlenenlere\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 81:15",
+    "بِٱلْخُنَّسِ": "\"el-hunnas\" (ٱلْخُنَّسِ)\nKök: h-n-s — geri çekilmek, saklanmak\nKalıp: Çoğul; \"geri çekilen yıldızlar (gezegenler)\"\nKur'an'da: 81:15 — Gündüzleri gizlenen yıldızlar",
     "ٱلْجَوَارِ": "\"el-jawār\" (ٱلْجَوَارِ)\nKök: j-r-y — akmak, hareket\nKalıp: Çoğul; \"hareket edenler\"\nKur'an'da: 81:16 — Hareket eden yıldızlar",
     "ٱلْكُنَّسِ": "\"el-kunnas\" (ٱلْكُنَّسِ)\nKök: k-n-s — saklanmak\nKalıp: Çoğul; \"saklananlar, inine çekilenler\"\nKur'an'da: 81:16 — Saklanan gezegenler",
     "وَٱلَّيْلِ": "\"wa-al-layli\" (وَٱلَّيْلِ)\nKök: L-Y-L — ve geceye\nKalıp: wa- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 74:33, 81:17, 84:17, 89:4",
@@ -52,6 +52,8 @@
     "يَشَآءَ": "\"yašāʾu\" (يَشَآءُ)\nKök: ş-y-ʾ — istemek, şey\nKalıp: Müzâri; \"diler, ister\"\nKur'an'da: 148 kez — \"Allah dilediğini yapar\"",
     "رَبُّ": "\"rabba\" (رَبَّ)\nKök: R-B-B — Rab, terbiye eden\nKalıp: İsim, mansub (izafet); \"Rabbine\"\nKur'an'da: 106:3, yaygın",
     "وَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
-    "فَلَآ": "\"lā\" (لَا)\nKök: — yapısal olumsuzluk edatı\nKalıp: Muzari olumsuzluk, emir yasağı (nahiy), varlık olumsuzlaması\nKur'an'da: binden fazla kez — en temel olumsuzluk"
+    "فَلَآ": "\"lā\" (لَا)\nKök: — yapısal olumsuzluk edatı\nKalıp: Muzari olumsuzluk, emir yasağı (nahiy), varlık olumsuzlaması\nKur'an'da: binden fazla kez — en temel olumsuzluk",
+    "وَلَقَدْ": "\"qad\" (قَدْ)\nKök: — yapısal partikül\nKalıp: Mazi fiilin gerçekleştiğini teyit eder; \"gerçekten, kesinlikle\"\nKur'an'da: 2:60, yaygın",
+    "لِمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı"
   }
 }

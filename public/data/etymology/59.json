@@ -73,7 +73,7 @@
     "وَٱلشَّهَـٰدَةِ ۖ": "\"wal-shahādati\" (وَٱلشَّهَـٰدَةِ ۖ)\nKök: SH-H-D — ve açığı\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 6:73, 9:94, 9:105, 13:9",
     "ٱلرَّحْمَـٰنُ": "\"l-raḥmānu\" (ٱلرَّحْمَـٰنُ)\nKök: R-Ḥ-M — Rahman\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 1:1, 1:3, 2:163, 17:110",
     "ٱلرَّحِيمُ": "\"er-Raḥīm\" (ٱلرَّحِيمُ)\nKök: r-ḥ-m — rahmet, şefkat\nKalıp: Fâil sıfat; \"sürekli merhametli\"\nKur'an'da: 1:3 — Rahmān genel, Rahīm müminine özel merhamet",
-    "ٱلْمَلِكُ": "\"l-maliku\" (ٱلْمَلِكُ)\nKök: M-L-K — hükümdarlık (mülk)\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:247, 2:251, 2:258, 3:26",
+    "ٱلْمَلِكُ": "\"maliki\" (مَلِكِ)\nKök: M-L-K — sahip olmak, hükmetmek, yönetmek\nKalıp: İsim, fa'il vezni, mecrur (izafet); kral/hükümdar\nKur'an'da: 1:4 (māliki yawmi'd-dīn), 114:2",
     "ٱلْقُدُّوسُ": "\"l-qudūsu\" (ٱلْقُدُّوسُ)\nKök: Q-D-S — Kuddûs'tür (mukaddes)\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 59:23, 62:1",
     "ٱلسَّلَـٰمُ": "\"l-salāmu\" (ٱلسَّلَـٰمُ)\nKök: S-L-M — selam\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 4:94, 5:16, 6:127, 10:25",
     "ٱلْمُؤْمِنُ": "\"l-mu'minu\" (ٱلْمُؤْمِنُ)\nKök: M-M-N — Mü'min'dir (güvenlik veren)\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 59:23",
@@ -140,6 +140,15 @@
     "وَلَوْ": "\"law\" (لَوْ)\nKök: — yapısal şart edatı\nKalıp: Gerçekleşmemiş şart (imkânsız/geçmiş); \"keşke, eğer olsaydı\"\nKur'an'da: 102:5, yaygın",
     "فَأُو۟لَـٰٓئِكَ": "\"ulāika\" (أُو۟لَـٰٓئِكَ)\nKök: — yapısal gösterme zamiri\nKalıp: Uzak gösteri, çoğul; \"onlar, işte onlar\"\nKur'an'da: 2:5, yaygın",
     "فَكَانَ": "\"kāna\" (كَانَ)\nKök: K-W-N — olmak, var olmak\nKalıp: Nâkıs mazi fiil; isim cümlesini ta'dil eder\nKur'an'da: 110:3, çok yaygın",
-    "وَذَٰلِكَ": "\"dhālika\" (ذَٰلِكَ)\nKök: — yapısal gösterme zamiri\nKalıp: Uzak gösteri, eril tekil; \"şu, o\"\nKur'an'da: 2:2 (dhālika l-kitābu), çok yaygın"
+    "وَذَٰلِكَ": "\"dhālika\" (ذَٰلِكَ)\nKök: — yapısal gösterme zamiri\nKalıp: Uzak gösteri, eril tekil; \"şu, o\"\nKur'an'da: 2:2 (dhālika l-kitābu), çok yaygın",
+    "وَلَوْلَآ": "\"walā\" (وَلَآ)\nKök: — bağlaç + olumsuzluk\nKalıp: wa + lā med-i lazım; \"ve değil\"\nKur'an'da: 109:3, 109:4",
+    "وَلَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "بِهِمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "لِّلَّذِينَ": "\"alladhīna\" (ٱلَّذِينَ)\nKök: — yapısal mevsul zamir\nKalıp: Çoğul eril mevsul sıfat; \"onlar ki, kimseler\"\nKur'an'da: 103:3, 107:5, çok yaygın",
+    "لَأَنتُمْ": "\"antum\" (أَنتُمْ)\nKök: — kişi zamiri\nKalıp: 2. çoğul eril; \"siz\"\nKur'an'da: 109:3, yaygın",
+    "لِلْإِنسَـٰنِ": "\"l-insāna\" (ٱلْإِنسَـٰنَ)\nKök: A-N-S — insan, alışmak; veya N-S-Y — unutmak\nKalıp: Belirli isim, mansub; \"insan\"\nKur'an'da: 103:2, 100:6, 96:2",
+    "فَلَمَّا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "بِمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "لِلنَّاسِ": "\"l-nāsi\" (ٱلنَّاسِ)\nKök: A-N-S veya N-W-S — insan, beşer topluluğu\nKalıp: el-nās; belirli isim, mecrur; toplumsal birliği simgeler\nKur'an'da: 114:1-6 (surenin adı); 240'tan fazla ayette"
   }
 }

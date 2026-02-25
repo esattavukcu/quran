@@ -11,8 +11,8 @@
     "ٱللَّهِ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "أَوْ": "\"aw\" (أَوْ)\nKök: — yapısal bağlaç\nKalıp: Seçenek/şüphe bağlacı; \"ya da, veya\"\nKur'an'da: 2:19, yaygın",
     "ٱلشَّهَـٰدَةَ": "\"l-shahādata\" (ٱلشَّهَـٰدَةَ)\nKök: SH-H-D — şahidliği\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:283, 65:2",
-    "بِٱللَّهِ": "\"bil-lahi\" (بِٱللَّهِ)\nKök: L-H-H — Allaha\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:8, 2:28, 2:62, 2:67",
-    "وَٱلْيَوْمِ": "\"wal-yawmi\" (وَٱلْيَوْمِ)\nKök: Y-W-M — ve gününe\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:62, 2:126, 2:177, 2:228",
+    "بِٱللَّهِ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
+    "وَٱلْيَوْمِ": "\"yawma\" (يَوْمَ)\nKök: Y-W-M — gün\nKalıp: Akuzatif zarf; \"gün, günde\"\nKur'an'da: 101:4, yaygın — يَوْمَ يَكُونُ gibi",
     "ٱلْـَٔاخِرِ ۚ": "\"l-ākhiri\" (ٱلْـَٔاخِرِ ۚ)\nKök: KH-R-R — ahiret\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:8, 2:62, 2:126, 2:177",
     "مِنْ": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
     "قَدْ": "\"qad\" (قَدْ)\nKök: — yapısal partikül\nKalıp: Mazi fiilin gerçekleştiğini teyit eder; \"gerçekten, kesinlikle\"\nKur'an'da: 2:60, yaygın",
@@ -82,6 +82,7 @@
     "فَقَدْ": "\"qad\" (قَدْ)\nKök: — yapısal partikül\nKalıp: Mazi fiilin gerçekleştiğini teyit eder; \"gerçekten, kesinlikle\"\nKur'an'da: 2:60, yaygın",
     "فَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
     "وَكَانَ": "\"kāna\" (كَانَ)\nKök: K-W-N — olmak, var olmak\nKalıp: Nâkıs mazi fiil; isim cümlesini ta'dil eder\nKur'an'da: 110:3, çok yaygın",
-    "فَٱتَّقُوا۟": "\"ittaqū\" (ٱتَّقُوا)\nKök: w-q-y — sakınmak\nKalıp: Emir çoğul; \"sakının\"\nKur'an'da: çok ayette — \"Allah'tan sakının\""
+    "فَٱتَّقُوا۟": "\"ittaqū\" (ٱتَّقُوا)\nKök: w-q-y — sakınmak\nKalıp: Emir çoğul; \"sakının\"\nKur'an'da: çok ayette — \"Allah'tan sakının\"",
+    "لَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın"
   }
 }

@@ -3,7 +3,7 @@
   "words": {
     "وَٱلسَّمَآءِ": "\"es-samāʾ\" (ٱلسَّمَاءُ)\nKök: s-m-w — yükselmek\nKalıp: İsim; \"gök, sema\"\nKur'an'da: 310 kez — \"Göklerin ve yerin yaratıcısı\"",
     "ٱلْبُرُوجِ": "\"el-burūj\" (ٱلْبُرُوجِ)\nKök: b-r-j — kule, yükselmek\nKalıp: Çoğul; \"burçlar, kaleler, takımyıldızları\"\nKur'an'da: 85:1 — Gökyüzündeki burçlara yemin",
-    "وَٱلْيَوْمِ": "\"wal-yawmi\" (وَٱلْيَوْمِ)\nKök: Y-W-M — ve gününe\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:62, 2:126, 2:177, 2:228",
+    "وَٱلْيَوْمِ": "\"yawma\" (يَوْمَ)\nKök: Y-W-M — gün\nKalıp: Akuzatif zarf; \"gün, günde\"\nKur'an'da: 101:4, yaygın — يَوْمَ يَكُونُ gibi",
     "ٱلْمَوْعُودِ": "\"el-mawʿūd\" (ٱلْمَوْعُودِ)\nKök: w-ʿ-d — söz vermek\nKalıp: İsm-i mefʿul; \"vaad edilmiş\"\nKur'an'da: 85:2 — Vaad edilmiş gün; kıyamet",
     "ٱلْأُخْدُودِ": "\"el-uhdūd\" (ٱلْأُخْدُودِ)\nKök: h-d-d — hendek kazmak\nKalıp: İsim; \"hendek, çukur\"\nKur'an'da: 85:4 — Uhdud ashabı; müminleri hendek ateşinde yakan zalimler",
     "ٱلنَّارِ": "\"en-nār\" (ٱلنَّارُ)\nKök: n-w-r — ateş, nur\nKalıp: İsim; \"ateş, cehennem\"\nKur'an'da: 145 kez — Kâfirlerin azabı; aydınlatıcı ve yakıcı",
@@ -11,7 +11,7 @@
     "إِذْ": "\"idh\" (إِذْ)\nKök: — yapısal zaman edatı\nKalıp: Geçmiş zamanlı atıf; \"bir zamanlar, o vakit ki\"\nKur'an'da: 2:30, yaygın",
     "بِٱلْمُؤْمِنِينَ": "\"bil-mu'minīna\" (بِٱلْمُؤْمِنِينَ)\nKök: M-M-N — inanıyor\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 5:43, 9:128, 24:47, 33:6",
     "أَن": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç",
-    "بِٱللَّهِ": "\"bil-lahi\" (بِٱللَّهِ)\nKök: L-H-H — Allaha\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:8, 2:28, 2:62, 2:67",
+    "بِٱللَّهِ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "ٱلْعَزِيزِ": "\"el-ʿAzīz\" (ٱلْعَزِيزُ)\nKök: ʿ-z-z — güçlü, nadir\nKalıp: Mübalağa; \"mutlak güçlü, yenilmez\"\nKur'an'da: çok ayette — Allah'ın en sık geçen isimlerinden",
     "ٱلْحَمِيدِ": "\"el-ḥamīd\" (ٱلْحَمِيدِ)\nKök: ḥ-m-d — övmek\nKalıp: Mübalağa sıfatı; \"her türlü övgüye layık\"\nKur'an'da: 85:8 — Allah el-Hamid: Övülmeye en layık olan",
     "ٱلَّذِى": "\"alladhī\" (ٱلَّذِى)\nKök: — yapısal mevsul zamir\nKalıp: Eril tekil mevsul sıfat; \"o ki, şu ki\"\nKur'an'da: 107:1, 104:2, yaygın",
@@ -66,6 +66,10 @@
     "لَوْحٍۢ": "\"lawḥ\" (لَوْحٍ)\nKök: l-w-ḥ — levha\nKalıp: İsim; \"levha, yazı tahtası\"\nKur'an'da: 85:22 — Levh-i Mahfuz: Korunan kutsal levha",
     "مَّحْفُوظٍۭ": "\"maḥfūẓ\" (مَّحْفُوظٍ)\nKök: ḥ-f-ẓ — korumak\nKalıp: İsm-i mefʿul; \"korunmuş\"\nKur'an'da: 85:22 — Levh-i Mahfuz'da korunan Kur'an",
     "وَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
-    "وَهُوَ": "\"huwa\" (هُوَ)\nKök: — kişi zamiri\nKalıp: 3. tekil eril; \"o (erkek/şey)\"\nKur'an'da: 112:1, çok yaygın"
+    "وَهُوَ": "\"huwa\" (هُوَ)\nKök: — kişi zamiri\nKalıp: 3. tekil eril; \"o (erkek/şey)\"\nKur'an'da: 112:1, çok yaygın",
+    "فَلَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "وَلَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "لَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "لِّمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın"
   }
 }

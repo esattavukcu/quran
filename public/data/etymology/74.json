@@ -9,7 +9,7 @@
     "ثُمَّ": "\"thumma\" (ثُمَّ)\nKök: — yapısal bağlaç\nKalıp: Atıf harfi; sıralama ve zaman aralığı ifadesi; \"sonra, ardından\"\nKur'an'da: 2:28, çok yaygın",
     "أَنْ": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç",
     "إِنْ": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç",
-    "ٱلْبَشَرِ": "\"l-bashari\" (ٱلْبَشَرِ)\nKök: B-SH-R — insan being\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 19:26, 74:25",
+    "ٱلْبَشَرِ": "\"sharri\" (شَرِّ)\nKök: SH-R-R — kötülük, zarar, bozukluk\nKalıp: İsim, mecrur; şiddetlendirilmiş sıfat vezni\nKur'an'da: 113:2, 114:4 — istiaze formüllerinde",
     "ٱلنَّارِ": "\"en-nār\" (ٱلنَّارُ)\nKök: n-w-r — ateş, nur\nKalıp: İsim; \"ateş, cehennem\"\nKur'an'da: 145 kez — Kâfirlerin azabı; aydınlatıcı ve yakıcı",
     "ٱلَّذِينَ": "\"alladhīna\" (ٱلَّذِينَ)\nKök: — yapısal mevsul zamir\nKalıp: Çoğul eril mevsul sıfat; \"onlar ki, kimseler\"\nKur'an'da: 103:3, 107:5, çok yaygın",
     "ٱلْكِتَـٰبَ": "\"l-kitāba\" (ٱلْكِتَـٰبَ)\nKök: K-T-B — Kitap\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:2, 2:44, 2:53, 2:78",
@@ -30,7 +30,7 @@
     "ٱلْمُصَلِّينَ": "\"l-muṣalīna\" (ٱلْمُصَلِّينَ)\nKök: M-Ṣ-L — namaz kılanlar\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 70:22, 74:43",
     "ٱلْمِسْكِينَ": "\"el-miskīn\" (ٱلْمِسْكِينِ)\nKök: s-k-n — sessiz kalmak, hareketsiz\nKalıp: İsm-i fâil; \"yoksul, muhtaç\"\nKur'an'da: 89:18, 107:3 — Yoksulun hakkını verme önemli ibadet",
     "ٱلْخَآئِضِينَ": "\"l-khāiḍīna\" (ٱلْخَآئِضِينَ)\nKök: KH-Ḍ-Ḍ — boş şeylere dalanlar\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 74:45",
-    "ٱلدِّينِ": "\"l-dīni\" (ٱلدِّينِ)\nKök: D-N-N — Din\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 1:4, 2:132, 2:193, 2:256",
+    "ٱلدِّينِ": "\"dīni\" (دِينِ)\nKök: D-Y-N — din, hesap, yasa, borç\nKalıp: İsim, mecrur (izafet); \"dine, dinin\"\nKur'an'da: 109:6, 110:2 — temel kavram",
     "ٱلْيَقِينُ": "\"l-yaqīni\" (ٱلْيَقِينِ)\nKök: Y-Q-N — kesin bilmek, şüphesiz olmak\nKalıp: Belirli masdar/isim, mecrur; \"kesinlik, yakîn\"\nKur'an'da: 102:5, 56:95",
     "ٱلشَّـٰفِعِينَ": "\"l-shāfiʿīna\" (ٱلشَّـٰفِعِينَ)\nKök: SH-F-ʿ — şefa'atçilerin\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 74:48",
     "ٱلتَّذْكِرَةِ": "\"l-tadhkirati\" (ٱلتَّذْكِرَةِ)\nKök: T-DH-K — zikir/uyari\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 74:49",
@@ -99,6 +99,14 @@
     "وَيَهْدِى": "\"yahdī\" (يَهْدِى)\nKök: h-d-y — yol göstermek\nKalıp: Müzâri; \"hidayet eder\"\nKur'an'da: çok ayette — \"Allah dilediğini doğru yola iletir\"",
     "فَمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
     "فَمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
-    "وَأَهْلُ": "\"ahl\" (أَهْلِ)\nKök: e-h-l — aile, ehil\nKalıp: İsim; \"aile, mensupları\"\nKur'an'da: 98:1 — \"Ehl-i kitap\"; Yahudi ve Hristiyanlar"
+    "وَأَهْلُ": "\"ahl\" (أَهْلِ)\nKök: e-h-l — aile, ehil\nKalıp: İsim; \"aile, mensupları\"\nKur'an'da: 98:1 — \"Ehl-i kitap\"; Yahudi ve Hristiyanlar",
+    "لِّلْبَشَرِ": "\"sharri\" (شَرِّ)\nKök: SH-R-R — kötülük, zarar, bozukluk\nKalıp: İsim, mecrur; şiddetlendirilmiş sıfat vezni\nKur'an'da: 113:2, 114:4 — istiaze formüllerinde",
+    "لِّلَّذِينَ": "\"alladhīna\" (ٱلَّذِينَ)\nKök: — yapısal mevsul zamir\nKalıp: Çoğul eril mevsul sıfat; \"onlar ki, kimseler\"\nKur'an'da: 103:3, 107:5, çok yaygın",
+    "بِهَـٰذَا": "\"hādhā\" (هَـٰذَا)\nKök: — yapısal gösterme zamiri\nKalıp: Yakın gösteri, eril tekil; \"bu\"\nKur'an'da: 106:3, yaygın",
+    "لِلْبَشَرِ": "\"sharri\" (شَرِّ)\nKök: SH-R-R — kötülük, zarar, bozukluk\nKalıp: İsim, mecrur; şiddetlendirilmiş sıfat vezni\nKur'an'da: 113:2, 114:4 — istiaze formüllerinde",
+    "لِمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
+    "بِمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "بِيَوْمِ": "\"yawma\" (يَوْمَ)\nKök: Y-W-M — gün\nKalıp: Akuzatif zarf; \"gün, günde\"\nKur'an'da: 101:4, yaygın — يَوْمَ يَكُونُ gibi",
+    "لَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın"
   }
 }

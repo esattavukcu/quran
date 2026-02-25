@@ -13,7 +13,7 @@
     "بِٱلدِّينِ": "\"bil-dīni\" (بِٱلدِّينِ)\nKök: D-Y-N — din, hesap, ceza\nKalıp: bi- + belirli isim, mecrur; \"dini, hesabı\"\nKur'an'da: 107:1",
     "ٱلْأَبْرَارَ": "\"el-abrār\" (ٱلْأَبْرَارَ)\nKök: b-r-r — iyilik\nKalıp: Çoğul; \"iyiler, erdemli\"\nKur'an'da: 82:13 — İyiler nimetlerle dolu cennette",
     "ٱلْفُجَّارَ": "\"el-fujjār\" (ٱلْفُجَّارَ)\nKök: f-j-r — günahkâr\nKalıp: Çoğul; \"günahkârlar, sapkınlar\"\nKur'an'da: 82:14 — Günahkârlar cehennemdedir",
-    "ٱلدِّينِ": "\"l-dīni\" (ٱلدِّينِ)\nKök: D-N-N — Din\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 1:4, 2:132, 2:193, 2:256",
+    "ٱلدِّينِ": "\"dīni\" (دِينِ)\nKök: D-Y-N — din, hesap, yasa, borç\nKalıp: İsim, mecrur (izafet); \"dine, dinin\"\nKur'an'da: 109:6, 110:2 — temel kavram",
     "ثُمَّ": "\"thumma\" (ثُمَّ)\nKök: — yapısal bağlaç\nKalıp: Atıf harfi; sıralama ve zaman aralığı ifadesi; \"sonra, ardından\"\nKur'an'da: 2:28, çok yaygın",
     "وَٱلْأَمْرُ": "\"wal-amru\" (وَٱلْأَمْرُ)\nKök: M-R-R — ve emir\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 7:54, 27:33, 82:19",
     "إِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
@@ -45,6 +45,7 @@
     "لِّنَفْسٍۢ": "\"en-nafs\" (ٱلنَّفْسُ)\nKök: n-f-s — nefes, can\nKalıp: İsim; \"nefs, ruh, kişi\"\nKur'an'da: 295 kez — Hem olumlu hem olumsuz anlamda",
     "يَوْمَئِذٍۢ": "\"yawma-idhin\" (يَوْمَئِذٍۢ)\nKök: Y-W-M + idh\nKalıp: yawma-idhin'in tenvinsiz yazımı\nKur'an'da: 100:11",
     "لِّلَّهِ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
-    "وَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın"
+    "وَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
+    "بِرَبِّكَ": "\"rabbika\" (رَبِّكَ)\nKök: R-B-B — terbiye etmek, sahip olmak\nKalıp: İsim + 2. tekil iyelik zamiri, mecrur; \"Rabbinin\"\nKur'an'da: 110:3, yaygın"
   }
 }

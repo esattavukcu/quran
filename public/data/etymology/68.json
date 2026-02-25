@@ -13,7 +13,7 @@
     "مِّن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
     "كَٱلصَّرِيمِ": "\"kal-ṣarīmi\" (كَٱلصَّرِيمِ)\nKök: Ṣ-R-M — simsiyah\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 68:20",
     "إِن": "\"in\" (إِن)\nKök: — yapısal şart edatı\nKalıp: Şart/koşul bağlacı; cezm eder; \"eğer\"\nKur'an'da: 2:23, yaygın",
-    "ٱلْيَوْمَ": "\"l-yawma\" (ٱلْيَوْمَ)\nKök: Y-W-M — bugün\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:249, 5:3, 5:5, 6:93",
+    "ٱلْيَوْمَ": "\"yawma\" (يَوْمَ)\nKök: Y-W-M — gün\nKalıp: Akuzatif zarf; \"gün, günde\"\nKur'an'da: 101:4, yaygın — يَوْمَ يَكُونُ gibi",
     "بَلْ": "\"bal\" (بَلْ)\nKök: B-L-L — bilakis\nKalıp: Harf/edat (mabni)\nKur'an'da: 2:88, 2:100, 2:116, 2:135",
     "أَلَمْ": "\"alam\" (أَلَمْ)\nKök: — soru edatı + olumsuzluk\nKalıp: hemze-l-istifhām + lam; \"Görmedi mi? Olmadı mı?\"\nKur'an'da: 105:1, 94:1",
     "إِلَىٰ": "\"ilā\" (إِلَى)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; yön, hedef, sınır\nKur'an'da: 742 kez — hareket yönü bildiren edat",
@@ -86,6 +86,19 @@
     "وَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
     "وَقَدْ": "\"qad\" (قَدْ)\nKök: — yapısal partikül\nKalıp: Mazi fiilin gerçekleştiğini teyit eder; \"gerçekten, kesinlikle\"\nKur'an'da: 2:60, yaygın",
     "فَهُم": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
-    "فَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın"
+    "فَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "لَعَلَىٰ": "\"ʿalā\" (عَلَى)\nKök: ʿ-L-W — yükselmek, üstte olmak\nKalıp: Harfü'l-cerr; üstünde, hakkında, aleyhine\nKur'an'da: 1375 kez — çok yaygın",
+    "بِمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
+    "لِّلْخَيْرِ": "\"l-khayri\" (ٱلْخَيْرِ)\nKök: KH-Y-R — hayır, iyilik, zenginlik\nKalıp: Belirli isim, mecrur; \"mala, hayra\"\nKur'an'da: 100:8, 2:54",
+    "فَلَمَّا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "لَوْلَا": "\"walā\" (وَلَآ)\nKök: — bağlaç + olumsuzluk\nKalıp: wa + lā med-i lazım; \"ve değil\"\nKur'an'da: 109:3, 109:4",
+    "لِلْمُتَّقِينَ": "\"muttaqīn\" (مُتَّقِينَ)\nKök: w-q-y — sakınmak, korumak\nKalıp: İsm-i fāil çoğul; Form VIII (iftʿāl) — \"takvalılar, sakınanlar\"\nKur'an'da: çok ayette — \"Bu kitap takvalılar için hidayettir\" (2:2)",
+    "لَمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "بِذَٰلِكَ": "\"dhālika\" (ذَٰلِكَ)\nKök: — yapısal gösterme zamiri\nKalıp: Uzak gösteri, eril tekil; \"şu, o\"\nKur'an'da: 2:2 (dhālika l-kitābu), çok yaygın",
+    "لَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "بِهَـٰذَا": "\"hādhā\" (هَـٰذَا)\nKök: — yapısal gösterme zamiri\nKalıp: Yakın gösteri, eril tekil; \"bu\"\nKur'an'da: 106:3, yaygın",
+    "لَهُمْ ۚ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "لَّوْلَآ": "\"walā\" (وَلَآ)\nKök: — bağlaç + olumsuzluk\nKalıp: wa + lā med-i lazım; \"ve değil\"\nKur'an'da: 109:3, 109:4",
+    "لَمَّا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın"
   }
 }

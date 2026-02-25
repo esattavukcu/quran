@@ -18,7 +18,7 @@
     "ٱلَّتِى": "\"allatī\" (ٱلَّتِى)\nKök: — yapısal mevsul zamir\nKalıp: Dişil tekil mevsul sıfat; \"o ki (dişil)\"\nKur'an'da: 104:7, yaygın",
     "أَمْ": "\"am\" (أَمْ)\nKök: M-M-M — yada\nKalıp: Harf/edat (mabni)\nKur'an'da: 2:6, 2:80, 2:108, 2:133",
     "أَوْ": "\"aw\" (أَوْ)\nKök: — yapısal bağlaç\nKalıp: Seçenek/şüphe bağlacı; \"ya da, veya\"\nKur'an'da: 2:19, yaygın",
-    "ٱلْمُتَّقِينَ": "\"l-mutaqīna\" (ٱلْمُتَّقِينَ)\nKök: M-T-Q — muttakiler\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:180, 2:194, 2:241, 3:76",
+    "ٱلْمُتَّقِينَ": "\"muttaqīn\" (مُتَّقِينَ)\nKök: w-q-y — sakınmak, korumak\nKalıp: İsm-i fāil çoğul; Form VIII (iftʿāl) — \"takvalılar, sakınanlar\"\nKur'an'da: çok ayette — \"Bu kitap takvalılar için hidayettir\" (2:2)",
     "ٱلْجَحِيمِ": "\"l-jaḥīma\" (ٱلْجَحِيمَ)\nKök: J-H-M — alevlenmek, yakıcı olmak\nKalıp: Belirli isim (faʿīl), mansub; \"cehennemi\"\nKur'an'da: 102:6, yaygın",
     "وَٱلَّذِينَ": "\"alladhīna\" (ٱلَّذِينَ)\nKök: — yapısal mevsul zamir\nKalıp: Çoğul eril mevsul sıfat; \"onlar ki, kimseler\"\nKur'an'da: 103:3, 107:5, çok yaygın",
     "أَلْحَقْنَا": "\"alḥaqnā\" (أَلْحَقْنَا)\nKök: L-Ḥ-Q — kattık\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 52:21",
@@ -108,6 +108,14 @@
     "وَلَكُمُ": "\"lakum\" (لَكُمْ)\nKök: — lam edatı + 2. çoğul zamir\nKalıp: li + kum; \"size ait, sizin için\"\nKur'an'da: 109:6, yaygın",
     "فَهُم": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
     "فَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
-    "وَسَبِّحْ": "\"sabbiḥ\" (سَبِّحِ)\nKök: s-b-ḥ — yüzmek, tesbih\nKalıp: Emir tef'il; \"tesbih et, tenzih et\"\nKur'an'da: 87:1 — Yüce Rabbinin adını tesbih et"
+    "وَسَبِّحْ": "\"sabbiḥ\" (سَبِّحِ)\nKök: s-b-ḥ — yüzmek, tesbih\nKalıp: Emir tef'il; \"tesbih et, tenzih et\"\nKur'an'da: 87:1 — Yüce Rabbinin adını tesbih et",
+    "بِمَآ": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "بِمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "بِهِمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "لَّهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "لُؤْلُؤٌۭ": "\"law\" (لَوْ)\nKök: — yapısal şart edatı\nKalıp: Gerçekleşmemiş şart (imkânsız/geçmiş); \"keşke, eğer olsaydı\"\nKur'an'da: 102:5, yaygın",
+    "بِهَـٰذَآ ۚ": "\"hādhā\" (هَـٰذَا)\nKök: — yapısal gösterme zamiri\nKalıp: Yakın gösteri, eril tekil; \"bu\"\nKur'an'da: 106:3, yaygın",
+    "لَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "لِلَّذِينَ": "\"alladhīna\" (ٱلَّذِينَ)\nKök: — yapısal mevsul zamir\nKalıp: Çoğul eril mevsul sıfat; \"onlar ki, kimseler\"\nKur'an'da: 103:3, 107:5, çok yaygın"
   }
 }

@@ -25,7 +25,7 @@
     "ٱلتُّرَاثَ": "\"et-turāṯ\" (ٱلْتُّرَاثَ)\nKök: w-r-ṯ — miras\nKalıp: İsim; \"miras, kalıt\"\nKur'an'da: 89:19 — İnsanın mirası hızlıca yemesi kınanır",
     "ٱلْمَالَ": "\"el-māl\" (ٱلْمَالُ)\nKök: m-y-l — eğilmek, mal\nKalıp: İsim; \"mal, mülk\"\nKur'an'da: 86 kez — Sınav aracı; zenginliğin tehlikesi",
     "ٱلْأَرْضُ": "\"el-arḍ\" (ٱلْأَرْضُ)\nKök: e-r-ḍ — yer, zemin\nKalıp: İsim; \"yer, Dünya\"\nKur'an'da: 461 kez — Sema ile birlikte çok sık geçer",
-    "وَٱلْمَلَكُ": "\"wal-malaku\" (وَٱلْمَلَكُ)\nKök: M-L-K — vre melekler de\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 69:17, 89:22",
+    "وَٱلْمَلَكُ": "\"maliki\" (مَلِكِ)\nKök: M-L-K — sahip olmak, hükmetmek, yönetmek\nKalıp: İsim, fa'il vezni, mecrur (izafet); kral/hükümdar\nKur'an'da: 1:4 (māliki yawmi'd-dīn), 114:2",
     "ٱلذِّكْرَىٰ": "\"l-dhik'rā\" (ٱلذِّكْرَىٰ)\nKök: DH-K-R — hatırladıktan\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 6:68, 44:13, 51:55, 80:4",
     "ٱلنَّفْسُ": "\"en-nafs\" (ٱلنَّفْسُ)\nKök: n-f-s — nefes, can\nKalıp: İsim; \"nefs, ruh, kişi\"\nKur'an'da: 295 kez — Hem olumlu hem olumsuz anlamda",
     "ٱلْمُطْمَئِنَّةُ": "\"el-muṭmainna\" (ٱلْمُطْمَئِنَّةُ)\nKök: ṭ-m-n — yatışmak, güvende olmak\nKalıp: İsm-i fâil; \"güvenli, huzur içinde olan\"\nKur'an'da: 89:27 — Allah'a güvenen, huzura kavuşan nefs",
@@ -76,6 +76,8 @@
     "فَٱدْخُلِى": "\"fa-dhulī\" (فَٱدْخُلِى)\nKök: d-h-l — girmek\nKalıp: Emir müennes; \"gir, içeri gir\"\nKur'an'da: 89:29-30 — Cennete girme daveti",
     "فَقَدَرَ": "\"qaddara\" (قَدَّرَ)\nKök: q-d-r — ölçmek, takdir\nKalıp: Mâzi tef'il; \"takdir etti, ölçülü kıldı\"\nKur'an'da: 87:3 — Her şeyi takdir edip ölçüyle yarattı",
     "وَجَآءَ": "\"jāʾa\" (جَآءَ)\nKök: J-Y-A veya J-W-A — gelmek, varmak\nKalıp: Mazi, 3. tekil eril; med-i lazım yazımı\nKur'an'da: 110:1, yaygın",
-    "فَيَوْمَئِذٍۢ": "\"yawma-idhin\" (يَوْمَئِذٍ)\nKök: Y-W-M + idh (zaman)\nKalıp: Bileşik zaman zarfı; \"o gün\"\nKur'an'da: 100:11, 102:8"
+    "فَيَوْمَئِذٍۢ": "\"yawma-idhin\" (يَوْمَئِذٍ)\nKök: Y-W-M + idh (zaman)\nKalıp: Bileşik zaman zarfı; \"o gün\"\nKur'an'da: 100:11, 102:8",
+    "لَّمًّۭا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "بِجَهَنَّمَ ۚ": "\"jahannamu\" (جَهَنَّمُ)\nKök: İbranice \"ge-hinnom\" — cehennem vadisi\nKalıp: Özel isim; \"cehennem\"\nKur'an'da: 77 kez — Kâfirlerin yurdu"
   }
 }

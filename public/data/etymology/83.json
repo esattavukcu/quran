@@ -8,7 +8,7 @@
     "ٱلنَّاسُ": "\"l-nāsi\" (ٱلنَّاسِ)\nKök: A-N-S veya N-W-S — insan, beşer topluluğu\nKalıp: el-nās; belirli isim, mecrur; toplumsal birliği simgeler\nKur'an'da: 114:1-6 (surenin adı); 240'tan fazla ayette",
     "ٱلْعَـٰلَمِينَ": "\"l-ʿālamīna\" (ٱلْعَـٰلَمِينَ)\nKök: ʿ-L-M — Alemlerin\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 1:2, 2:47, 2:122, 2:131",
     "ٱلْفُجَّارِ": "\"el-fujjār\" (ٱلْفُجَّارَ)\nKök: f-j-r — günahkâr\nKalıp: Çoğul; \"günahkârlar, sapkınlar\"\nKur'an'da: 82:14 — Günahkârlar cehennemdedir",
-    "ٱلدِّينِ": "\"l-dīni\" (ٱلدِّينِ)\nKök: D-N-N — Din\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 1:4, 2:132, 2:193, 2:256",
+    "ٱلدِّينِ": "\"dīni\" (دِينِ)\nKök: D-Y-N — din, hesap, yasa, borç\nKalıp: İsim, mecrur (izafet); \"dine, dinin\"\nKur'an'da: 109:6, 110:2 — temel kavram",
     "ٱلْأَوَّلِينَ": "\"l-awalīna\" (ٱلْأَوَّلِينَ)\nKök: W-L-L — eskilerin\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 6:25, 8:31, 8:38, 15:10",
     "بَلْ ۜ": "\"bal\" (بَلْ ۜ)\nKök: B-L-L — bilakis\nKalıp: Harf/edat (mabni)\nKur'an'da: 2:88, 2:100, 2:116, 2:135",
     "ثُمَّ": "\"thumma\" (ثُمَّ)\nKök: — yapısal bağlaç\nKalıp: Atıf harfi; sıralama ve zaman aralığı ifadesi; \"sonra, ardından\"\nKur'an'da: 2:28, çok yaygın",
@@ -24,7 +24,7 @@
     "ٱلْمُتَنَـٰفِسُونَ": "\"l-mutanāfisūna\" (ٱلْمُتَنَـٰفِسُونَ)\nKök: M-T-N — yarışanlar\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 83:26",
     "مِنَ": "\"mina\" (مِنَ)\nKök: — yapısal edat\nKalıp: min edatının elif-lam'dan önce gelen açık sesli biçimi\nKur'an'da: 2:19, 3:14 — çok yaygın kullanım",
     "إِلَىٰٓ": "\"ilā\" (إِلَى)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; yön, hedef, sınır\nKur'an'da: 742 kez — hareket yönü bildiren edat",
-    "فَٱلْيَوْمَ": "\"fal-yawma\" (فَٱلْيَوْمَ)\nKök: Y-W-M — bugün\nKalıp: fal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 7:51, 10:92, 34:42, 36:54",
+    "فَٱلْيَوْمَ": "\"yawma\" (يَوْمَ)\nKök: Y-W-M — gün\nKalıp: Akuzatif zarf; \"gün, günde\"\nKur'an'da: 101:4, yaygın — يَوْمَ يَكُونُ gibi",
     "ٱلْكُفَّارِ": "\"l-kufāri\" (ٱلْكُفَّارِ)\nKök: K-F-R — kafirlerle\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 9:73, 9:120, 9:123, 48:29",
     "هَلْ": "\"hal\" (هَلْ)\nKök: H-L-L — mı?\nKalıp: Harf/edat (mabni)\nKur'an'da: 2:210, 2:246, 3:154, 5:59",
     "ٱلْكُفَّارُ": "\"l-kufāru\" (ٱلْكُفَّارُ)\nKök: K-F-R — kafirlerle\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 9:73, 9:120, 9:123, 48:29",
@@ -76,6 +76,9 @@
     "عَلَيْهِمْ": "\"ʿalayhim\" (عَلَيْهِمْ)\nKök: ʿ-L-W + 3. çoğul zamir\nKalıp: ʿalay + him; \"onların üzerine\"\nKur'an'da: 105:3, yaygın",
     "ثُوِّبَ": "\"ṯuwwiba\" (ثُوِّبَ)\nKök: ṯ-w-b — mükâfat, dönmek\nKalıp: Mâzi meçhul; \"mükâfatlandırıldı\"\nKur'an'da: 83:36 — Kâfirler bugün mükâfatlandırıldı mı?",
     "وَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
-    "وَفِى": "\"fī\" (فِى)\nKök: — yapısal edat\nKalıp: Zarfiyet edatı; mekan, zaman, soyut içerik\nKur'an'da: 1732 kez — mekânsal ve mecazî kullanımlar"
+    "وَفِى": "\"fī\" (فِى)\nKök: — yapısal edat\nKalıp: Zarfiyet edatı; mekan, zaman, soyut içerik\nKur'an'da: 1732 kez — mekânsal ve mecazî kullanımlar",
+    "لِيَوْمٍ": "\"yawma\" (يَوْمَ)\nKök: Y-W-M — gün\nKalıp: Akuzatif zarf; \"gün, günde\"\nKur'an'da: 101:4, yaygın — يَوْمَ يَكُونُ gibi",
+    "بِيَوْمِ": "\"yawma\" (يَوْمَ)\nKök: Y-W-M — gün\nKalıp: Akuzatif zarf; \"gün, günde\"\nKur'an'da: 101:4, yaygın — يَوْمَ يَكُونُ gibi",
+    "بِهِمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın"
   }
 }

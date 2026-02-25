@@ -77,12 +77,13 @@ async function main() {
           const norm = normalizeArabic(arabic);
           if (norm) entry = dictByNorm.get(norm);
 
-          // 3. Ön ek soyarak eşleşme: و (ve) veya ف (then) ön ekini soy
+          // 3. Ön ek soyarak eşleşme: و، ف، ل، ب ön eklerini soy
           if (!entry && norm) {
             let stripped = norm;
-            // Birden fazla ön ek olabilir (وَفَ gibi) — en fazla 2 kez soy
-            for (let i = 0; i < 2; i++) {
-              if (stripped.startsWith('و') || stripped.startsWith('ف')) {
+            // Birden fazla ön ek olabilir (وَلِلـ gibi) — en fazla 3 kez soy
+            for (let i = 0; i < 3; i++) {
+              if (stripped.startsWith('و') || stripped.startsWith('ف') ||
+                  stripped.startsWith('ل') || stripped.startsWith('ب')) {
                 stripped = stripped.slice(1);
                 const found = dictByNorm.get(stripped);
                 if (found) { entry = found; break; }

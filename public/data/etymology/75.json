@@ -2,7 +2,7 @@
   "surahNumber": 75,
   "words": {
     "ٱلْقِيَـٰمَةِ": "\"l-qiyāmati\" (ٱلْقِيَـٰمَةِ)\nKök: Q-Y-M — kıyamet\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:85, 2:113, 2:174, 2:212",
-    "بِٱلنَّفْسِ": "\"bil-nafsi\" (بِٱلنَّفْسِ)\nKök: N-F-S — can\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 5:45, 75:2",
+    "بِٱلنَّفْسِ": "\"en-nafs\" (ٱلنَّفْسُ)\nKök: n-f-s — nefes, can\nKalıp: İsim; \"nefs, ruh, kişi\"\nKur'an'da: 295 kez — Hem olumlu hem olumsuz anlamda",
     "ٱللَّوَّامَةِ": "\"l-lawāmati\" (ٱللَّوَّامَةِ)\nKök: L-W-M — daima kendini kınayan\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 75:2",
     "ٱلْإِنسَـٰنُ": "\"l-insāna\" (ٱلْإِنسَـٰنَ)\nKök: A-N-S — insan, alışmak; veya N-S-Y — unutmak\nKalıp: Belirli isim, mansub; \"insan\"\nKur'an'da: 103:2, 100:6, 96:2",
     "أَلَّن": "\"allan\" (أَلَّن)\nKök: L-L-N — size yetmez mi?\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 3:124, 18:48, 75:3",
@@ -58,6 +58,8 @@
     "وَجُمِعَ": "\"jamaʿa\" (جَمَعَ)\nKök: J-M-ʿ — toplamak, birleştirmek\nKalıp: Mazi, 3. tekil eril (I. bab); \"biriktirdi\"\nKur'an'da: 104:2",
     "وَلَوْ": "\"law\" (لَوْ)\nKök: — yapısal şart edatı\nKalıp: Gerçekleşmemiş şart (imkânsız/geçmiş); \"keşke, eğer olsaydı\"\nKur'an'da: 102:5, yaygın",
     "فَلَا": "\"lā\" (لَا)\nKök: — yapısal olumsuzluk edatı\nKalıp: Muzari olumsuzluk, emir yasağı (nahiy), varlık olumsuzlaması\nKur'an'da: binden fazla kez — en temel olumsuzluk",
-    "فَخَلَقَ": "\"halaqa\" (خَلَقَ)\nKök: h-l-q — yaratmak, ölçmek\nKalıp: Mâzi; \"yarattı\"\nKur'an'da: çok ayette — Allah'ın yaratıcılığı"
+    "فَخَلَقَ": "\"halaqa\" (خَلَقَ)\nKök: h-l-q — yaratmak, ölçmek\nKalıp: Mâzi; \"yarattı\"\nKur'an'da: çok ayette — Allah'ın yaratıcılığı",
+    "بِيَوْمِ": "\"yawma\" (يَوْمَ)\nKök: Y-W-M — gün\nKalıp: Akuzatif zarf; \"gün, günde\"\nKur'an'da: 101:4, yaygın — يَوْمَ يَكُونُ gibi",
+    "بِمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın"
   }
 }
