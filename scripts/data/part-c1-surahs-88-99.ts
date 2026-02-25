@@ -222,6 +222,7 @@ export const PART_C1: Record<string, string> = {
   "عَآئِلًا": '"ʿāʾilan" (عَآئِلًا)\nKök: ʿ-y-l — muhtaç olmak, fakir\nKalıp: İsm-i fâil; "fakir, muhtaç"\nKur\'an\'da: 93:8 — Allah Peygamberi fakir buldu; zenginlik verdi',
 
   "فَأَغْنَىٰ": '"fa-ağnā" (فَأَغْنَىٰ)\nKök: ğ-n-y — zenginlik, ihtiyaçsızlık\nKalıp: Mâzi if\'al; "zengin etti, ihtiyaçsız kıldı"\nKur\'an\'da: 93:8 — Allah maddi ve manevi zenginlik verdi',
+  "ٱسْتَغْنَىٰٓ": '"is\'taghnā" (ٱسْتَغْنَىٰٓ)\nKök: Ğ-N-Y — zenginlik, ihtiyaçsızlık\nKalıp: Mâzi, 3. tekil eril; Form X (istif\'āl) — "kendini müstağni/zengin saydı"\nKur\'an\'da: 96:7 — insanın azgınlaşma sebebi; servet kibri',
 
   "تَقْهَرْ": '"taqhar" (تَقْهَرْ)\nKök: q-h-r — galip gelme, zorbalık\nKalıp: Müzâri; "ezme, zorbalık yapma"\nKur\'an\'da: 93:9 — Yetime zorbalık yapma; onuruna dokunma',
 
