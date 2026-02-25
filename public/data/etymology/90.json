@@ -18,7 +18,7 @@
     "بِٱلصَّبْرِ": "\"bi-ṣ-ṣabr\" (بِٱلصَّبْرِ)\nKök: ṣ-b-r — sabretmek, dayanmak\nKalıp: Mastar; \"sabırla, sabır üzerine\"\nKur'an'da: 90:17 — Sabır tavsiyesi; Kur'an'ın en temel erdemlerinden",
     "بِٱلْمَرْحَمَةِ": "\"bi-l-marḥame\" (بِٱلْمَرْحَمَةِ)\nKök: r-ḥ-m — merhamet, acıma\nKalıp: Mastar; \"merhamet üzere, şefkatle\"\nKur'an'da: 90:17 — Merhamet tavsiyesi; toplumsal dayanışmanın temeli",
     "ٱلْمَيْمَنَةِ": "\"el-maymane\" (ٱلْمَيْمَنَةِ)\nKök: y-m-n — sağ, uğur\nKalıp: İsim; \"sağ taraf, uğurlular\"\nKur'an'da: 90:18 — Sağ tarafın adamları = cennet ehli; hayır ehlinin sembolü",
-    "وَٱلَّذِينَ": "\"wa-alladhīna\" (وَٱلَّذِينَ)\nKök: L-L-DH — ve onlar ki\nKalıp: wa- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:4, 2:9, 2:21, 2:39",
+    "وَٱلَّذِينَ": "\"alladhīna\" (ٱلَّذِينَ)\nKök: — yapısal mevsul zamir\nKalıp: Çoğul eril mevsul sıfat; \"onlar ki, kimseler\"\nKur'an'da: 103:3, 107:5, çok yaygın",
     "ٱلْمَشْـَٔمَةِ": "\"el-maşame\" (ٱلْمَشْـَٔمَةِ)\nKök: ş-e-m — sol, uğursuzluk\nKalıp: İsim; \"sol taraf, uğursuzluk tarafı\"\nKur'an'da: 90:19 — Sol tarafın adamları = cehennem ehli",
     "لَآ": "\"lā\" (لَا)\nKök: — yapısal olumsuzluk edatı\nKalıp: Muzari olumsuzluk, emir yasağı (nahiy), varlık olumsuzlaması\nKur'an'da: binden fazla kez — en temel olumsuzluk",
     "حِلٌّۢ": "\"ḥill\" (حِلٌّ)\nKök: ḥ-l-l — serbest, helal, çözülmüş\nKalıp: Mastar/isim; \"serbest, helal olan\"\nKur'an'da: 90:2 — \"Sen bu şehirde serbestsiniz\" — peygambere işaret",
@@ -47,6 +47,8 @@
     "هُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
     "عَلَيْهِمْ": "\"ʿalayhim\" (عَلَيْهِمْ)\nKök: ʿ-L-W + 3. çoğul zamir\nKalıp: ʿalay + him; \"onların üzerine\"\nKur'an'da: 105:3, yaygın",
     "نَارٌۭ": "\"nāru\" (نَارُ)\nKök: N-W-R — ışık, ateş (nar kökü aydınlık-ateş çifti)\nKalıp: İsim, merfu (izafet başı); \"ateş, cehennem\"\nKur'an'da: 104:6, 101:11",
-    "مُّؤْصَدَةٌۢ": "\"muʾṣadatun\" (مُّؤْصَدَةٌۭ)\nKök: A-S-D — kapatmak, kapıyı kapamak\nKalıp: İsm-i mefʿūl dişil (IV. bab), refa tenvini; \"kilitlenmiş, kapatılmış\"\nKur'an'da: 104:8"
+    "مُّؤْصَدَةٌۢ": "\"muʾṣadatun\" (مُّؤْصَدَةٌۭ)\nKök: A-S-D — kapatmak, kapıyı kapamak\nKalıp: İsm-i mefʿūl dişil (IV. bab), refa tenvini; \"kilitlenmiş, kapatılmış\"\nKur'an'da: 104:8",
+    "وَأَنتَ": "\"anta\" (أَنتَ)\nKök: — kişi zamiri\nKalıp: 2. tekil eril; \"sen\"\nKur'an'da: 109:4, yaygın",
+    "فَلَا": "\"lā\" (لَا)\nKök: — yapısal olumsuzluk edatı\nKalıp: Muzari olumsuzluk, emir yasağı (nahiy), varlık olumsuzlaması\nKur'an'da: binden fazla kez — en temel olumsuzluk"
   }
 }

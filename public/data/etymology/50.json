@@ -13,7 +13,7 @@
     "إِلَى": "\"ilā\" (إِلَى)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; yön, hedef, sınır\nKur'an'da: 742 kez — hareket yönü bildiren edat",
     "ٱلسَّمَآءِ": "\"es-samāʾ\" (ٱلسَّمَاءُ)\nKök: s-m-w — yükselmek\nKalıp: İsim; \"gök, sema\"\nKur'an'da: 310 kez — \"Göklerin ve yerin yaratıcısı\"",
     "مِن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
-    "وَٱلْأَرْضَ": "\"wal-arḍa\" (وَٱلْأَرْضَ)\nKök: R-Ḍ-Ḍ — ve yerin\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:33, 2:107, 2:116, 2:117",
+    "وَٱلْأَرْضَ": "\"el-arḍ\" (ٱلْأَرْضُ)\nKök: e-r-ḍ — yer, zemin\nKalıp: İsim; \"yer, Dünya\"\nKur'an'da: 461 kez — Sema ile birlikte çok sık geçer",
     "وَأَلْقَيْنَا": "\"wa-alqaynā\" (وَأَلْقَيْنَا)\nKök: L-Q-Y — biz atmışızdır\nKalıp: wa- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 5:64, 15:19, 38:34, 50:7",
     "مِنَ": "\"mina\" (مِنَ)\nKök: — yapısal edat\nKalıp: min edatının elif-lam'dan önce gelen açık sesli biçimi\nKur'an'da: 2:19, 3:14 — çok yaygın kullanım",
     "ٱلْحَصِيدِ": "\"l-ḥaṣīdi\" (ٱلْحَصِيدِ)\nKök: Ḥ-Ṣ-D — biçilecek\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 50:9",
@@ -109,6 +109,17 @@
     "أَنتَ": "\"anta\" (أَنتَ)\nKök: — kişi zamiri\nKalıp: 2. tekil eril; \"sen\"\nKur'an'da: 109:4, yaygın",
     "عَلَيْهِم": "\"ʿalayhim\" (عَلَيْهِمْ)\nKök: ʿ-L-W + 3. çoğul zamir\nKalıp: ʿalay + him; \"onların üzerine\"\nKur'an'da: 105:3, yaygın",
     "فَذَكِّرْ": "\"faẕakkir\" (فَذَكِّرْ)\nKök: ẕ-k-r — hatırlatmak\nKalıp: Emir tef'il; \"hatırlat, öğüt ver\"\nKur'an'da: 87:9 — Eğer fayda verirse hatırlat",
-    "مَن": "\"man\" (مَن)\nKök: — yapısal soru/mevsul zamiri\nKalıp: Şahıs sorusu \"kim?\"; mevsul olarak \"kim ki\"\nKur'an'da: 101:6, 101:8, yaygın"
+    "مَن": "\"man\" (مَن)\nKök: — yapısal soru/mevsul zamiri\nKalıp: Şahıs sorusu \"kim?\"; mevsul olarak \"kim ki\"\nKur'an'da: 101:6, 101:8, yaygın",
+    "فَقَالَ": "\"qāla\" (قَالَ)\nKök: q-w-l — söylemek\nKalıp: Mâzi tekil; \"dedi\"\nKur'an'da: 1722 kez — Kur'an'ın en sık geçen fiili; kıssa dilinin temeli",
+    "فَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "وَعَنِ": "\"ʿan\" (عَن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; uzaklık, hakkında, bundan dolayı\nKur'an'da: çok yaygın — عَنِ ٱلْمُؤْمِنِينَ gibi",
+    "وَشَهِيدٌۭ": "\"šahīd\" (شَهِيدٌ)\nKök: ş-h-d — tanıklık\nKalıp: Mübalağa; \"her şeyin tanığı\"\nKur'an'da: 85:9 — Allah her şeye tanıktır",
+    "وَقَالَ": "\"qāla\" (قَالَ)\nKök: q-w-l — söylemek\nKalıp: Mâzi tekil; \"dedi\"\nKur'an'da: 1722 kez — Kur'an'ın en sık geçen fiili; kıssa dilinin temeli",
+    "وَقَدْ": "\"qad\" (قَدْ)\nKök: — yapısal partikül\nKalıp: Mazi fiilin gerçekleştiğini teyit eder; \"gerçekten, kesinlikle\"\nKur'an'da: 2:60, yaygın",
+    "وَأُزْلِفَتِ": "\"uzlifat\" (أُزْلِفَتْ)\nKök: z-l-f — yaklaştırmak\nKalıp: Mâzi meçhul; \"yaklaştırıldı\"\nKur'an'da: 81:13 — Cennet takvalılara yaklaştırılır",
+    "وَجَآءَ": "\"jāʾa\" (جَآءَ)\nKök: J-Y-A veya J-W-A — gelmek, varmak\nKalıp: Mazi, 3. tekil eril; med-i lazım yazımı\nKur'an'da: 110:1, yaygın",
+    "وَهُوَ": "\"huwa\" (هُوَ)\nKök: — kişi zamiri\nKalıp: 3. tekil eril; \"o (erkek/şey)\"\nKur'an'da: 112:1, çok yaygın",
+    "وَسَبِّحْ": "\"sabbiḥ\" (سَبِّحِ)\nKök: s-b-ḥ — yüzmek, tesbih\nKalıp: Emir tef'il; \"tesbih et, tenzih et\"\nKur'an'da: 87:1 — Yüce Rabbinin adını tesbih et",
+    "وَقَبْلَ": "\"qabli\" (قَبْلِ)\nKök: Q-B-L — önde olmak, kabul etmek\nKalıp: İsim-edat; genetif; \"önce\"\nKur'an'da: 2:25, yaygın"
   }
 }

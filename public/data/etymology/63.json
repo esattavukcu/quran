@@ -3,7 +3,7 @@
   "words": {
     "ٱلْمُنَـٰفِقُونَ": "\"l-munāfiqūna\" (ٱلْمُنَـٰفِقُونَ)\nKök: M-N-F — Münafıklar\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 8:49, 9:64, 9:67, 33:12",
     "ٱللَّهِ ۗ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
-    "وَٱللَّهُ": "\"wal-lahu\" (وَٱللَّهُ)\nKök: L-H-H — oysa Allah\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:19, 2:72, 2:95, 2:96",
+    "وَٱللَّهُ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "ٱلْمُنَـٰفِقِينَ": "\"l-munāfiqīna\" (ٱلْمُنَـٰفِقِينَ)\nKök: M-N-F — o ikiyüzlülerin\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 4:61, 4:88, 4:138, 4:140",
     "ٱللَّهِ ۚ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "ثُمَّ": "\"thumma\" (ثُمَّ)\nKök: — yapısal bağlaç\nKalıp: Atıf harfi; sıralama ve zaman aralığı ifadesi; \"sonra, ardından\"\nKur'an'da: 2:28, çok yaygın",
@@ -20,7 +20,7 @@
     "ٱلْفَـٰسِقِينَ": "\"l-fāsiqīna\" (ٱلْفَـٰسِقِينَ)\nKök: F-S-Q — fasıklardan\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:26, 5:25, 5:26, 5:108",
     "ٱلَّذِينَ": "\"alladhīna\" (ٱلَّذِينَ)\nKök: — yapısal mevsul zamir\nKalıp: Çoğul eril mevsul sıfat; \"onlar ki, kimseler\"\nKur'an'da: 103:3, 107:5, çok yaygın",
     "ٱلسَّمَـٰوَٰتِ": "\"l-samāwāti\" (ٱلسَّمَـٰوَٰتِ)\nKök: S-M-W — göklerin\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:33, 2:107, 2:116, 2:117",
-    "وَٱلْأَرْضِ": "\"wal-arḍi\" (وَٱلْأَرْضِ)\nKök: R-Ḍ-Ḍ — ve yerin\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:33, 2:107, 2:116, 2:117",
+    "وَٱلْأَرْضِ": "\"el-arḍ\" (ٱلْأَرْضُ)\nKök: e-r-ḍ — yer, zemin\nKalıp: İsim; \"yer, Dünya\"\nKur'an'da: 461 kez — Sema ile birlikte çok sık geçer",
     "لَئِن": "\"la-in\" (لَئِن)\nKök: N-N-N — eğer\nKalıp: la- öneki + Harf/edat (mabni)\nKur'an'da: 5:12, 5:28, 6:63, 6:77",
     "إِلَى": "\"ilā\" (إِلَى)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; yön, hedef, sınır\nKur'an'da: 742 kez — hareket yönü bildiren edat",
     "ٱلْمَدِينَةِ": "\"l-madīnati\" (ٱلْمَدِينَةِ)\nKök: M-D-N — sehir\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 7:123, 9:101, 9:120, 12:30",
@@ -61,6 +61,13 @@
     "مَّا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
     "قَبْلِ": "\"qabli\" (قَبْلِ)\nKök: Q-B-L — önde olmak, kabul etmek\nKalıp: İsim-edat; genetif; \"önce\"\nKur'an'da: 2:25, yaygın",
     "رَبِّ": "\"rabba\" (رَبَّ)\nKök: R-B-B — Rab, terbiye eden\nKalıp: İsim, mansub (izafet); \"Rabbine\"\nKur'an'da: 106:3, yaygın",
-    "جَآءَ": "\"jāʾa\" (جَآءَ)\nKök: J-Y-A veya J-W-A — gelmek, varmak\nKalıp: Mazi, 3. tekil eril; med-i lazım yazımı\nKur'an'da: 110:1, yaygın"
+    "جَآءَ": "\"jāʾa\" (جَآءَ)\nKök: J-Y-A veya J-W-A — gelmek, varmak\nKalıp: Mazi, 3. tekil eril; med-i lazım yazımı\nKur'an'da: 110:1, yaygın",
+    "فَهُمْ": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "۞ وَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
+    "وَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
+    "وَهُم": "\"hum\" (هُمْ)\nKök: — kişi zamiri\nKalıp: 3. çoğul eril; \"onlar\"\nKur'an'da: 107:5, çok yaygın",
+    "وَلِلَّهِ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
+    "فَأُو۟لَـٰٓئِكَ": "\"ulāika\" (أُو۟لَـٰٓئِكَ)\nKök: — yapısal gösterme zamiri\nKalıp: Uzak gösteri, çoğul; \"onlar, işte onlar\"\nKur'an'da: 2:5, yaygın",
+    "وَلَن": "\"lan\" (لَن)\nKök: — yapısal partikül\nKalıp: Gelecek olumsuzluk; muzariyi nasb eder; \"asla -meyecek\"\nKur'an'da: 2:80, yaygın"
   }
 }

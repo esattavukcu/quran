@@ -14,7 +14,7 @@
     "ٱلنَّعْمَةِ": "\"en-niʿma\" (ٱلنِّعْمَةُ)\nKök: n-ʿ-m — nimet, yumuşaklık\nKalıp: İsim; \"nimet, iyilik\"\nKur'an'da: çok ayette — \"Allah'ın nimetini sayamazsınız\"",
     "أَلِيمًۭا": "\"alīman\" (أَلِيمًۭا)\nKök: L-M-N — acı\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 4:18, 4:138, 4:161, 4:173",
     "ٱلْأَرْضُ": "\"el-arḍ\" (ٱلْأَرْضُ)\nKök: e-r-ḍ — yer, zemin\nKalıp: İsim; \"yer, Dünya\"\nKur'an'da: 461 kez — Sema ile birlikte çok sık geçer",
-    "وَٱلْجِبَالُ": "\"wal-jibālu\" (وَٱلْجِبَالُ)\nKök: J-B-L — ve dağlar\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 22:18, 33:72, 69:14, 73:14",
+    "وَٱلْجِبَالُ": "\"l-jibālu\" (ٱلْجِبَالُ)\nKök: J-B-L — dağ, doğa, fıtrat\nKalıp: Çoğul isim, merfu; \"dağlar\"\nKur'an'da: 101:5, 20:105",
     "ٱلْجِبَالُ": "\"l-jibālu\" (ٱلْجِبَالُ)\nKök: J-B-L — dağ, doğa, fıtrat\nKalıp: Çoğul isim, merfu; \"dağlar\"\nKur'an'da: 101:5, 20:105",
     "إِلَىٰ": "\"ilā\" (إِلَى)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; yön, hedef, sınır\nKur'an'da: 742 kez — hareket yönü bildiren edat",
     "ٱلرَّسُولَ": "\"l-rasūla\" (ٱلرَّسُولَ)\nKök: R-S-L — rasulün (de)\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:143, 2:214, 2:285, 3:53",
@@ -24,7 +24,7 @@
     "مِن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
     "مِّنَ": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
     "ٱلَّذِينَ": "\"alladhīna\" (ٱلَّذِينَ)\nKök: — yapısal mevsul zamir\nKalıp: Çoğul eril mevsul sıfat; \"onlar ki, kimseler\"\nKur'an'da: 103:3, 107:5, çok yaygın",
-    "وَٱللَّهُ": "\"wal-lahu\" (وَٱللَّهُ)\nKök: L-H-H — oysa Allah\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:19, 2:72, 2:95, 2:96",
+    "وَٱللَّهُ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "وَٱلنَّهَارَ ۚ": "\"wal-nahāra\" (وَٱلنَّهَارَ ۚ)\nKök: N-H-R — ve gündüzün\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:164, 2:274, 3:190, 6:13",
     "أَن": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç",
     "لَّن": "\"lan\" (لَن)\nKök: — yapısal partikül\nKalıp: Gelecek olumsuzluk; muzariyi nasb eder; \"asla -meyecek\"\nKur'an'da: 2:80, yaygın",
@@ -66,6 +66,9 @@
     "يَعْلَمُ": "\"yaʿlamu\" (يَعْلَمُ)\nKök: ʿ-l-m — bilmek\nKalıp: Müzâri; \"bilir\"\nKur'an'da: çok ayette — \"Allah bilendir\"",
     "عَلِمَ": "\"ʿil'ma\" (عِلْمَ)\nKök: ʿ-L-M — bilmek, bilim\nKalıp: Masdar/isim, mansub; \"kesin bilgi ile\"\nKur'an'da: 102:5",
     "عَلَيْكُمْ ۖ": "\"ʿalaykum\" (عَلَيْكُمْ)\nKök: ʿ-L-W + 2. çoğul zamir\nKalıp: ʿalay + kum; \"sizin üzerinize\"\nKur'an'da: 2:183, 4:1 — yaygın hitap formu",
-    "وَمَا": "\"wamā\" (وَمَا)\nKök: — bağlaç + olumsuzluk\nKalıp: wa + mā; olumsuzluk \"ve ... kazanmadı\"\nKur'an'da: 111:2, Bakara'da 41 kez"
+    "وَمَا": "\"wamā\" (وَمَا)\nKök: — bağlaç + olumsuzluk\nKalıp: wa + mā; olumsuzluk \"ve ... kazanmadı\"\nKur'an'da: 111:2, Bakara'da 41 kez",
+    "فَكَيْفَ": "\"kayfa\" (كَيْفَ)\nKök: — yapısal soru\nKalıp: Hal sorusu; \"nasıl?\"\nKur'an'da: 105:1, 2:28",
+    "فَمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
+    "وَٱسْتَغْفِرُوا۟": "\"istaġfirū\" (ٱسْتَغْفِرُوا)\nKök: ğ-f-r — bağışlanma istemek\nKalıp: Emir istiğfal; \"istiğfar edin\"\nKur'an'da: çok ayette — Bağışlanma duası"
   }
 }

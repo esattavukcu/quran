@@ -7,7 +7,7 @@
     "ثُمَّ": "\"thumma\" (ثُمَّ)\nKök: — yapısal bağlaç\nKalıp: Atıf harfi; sıralama ve zaman aralığı ifadesi; \"sonra, ardından\"\nKur'an'da: 2:28, çok yaygın",
     "أَلَمْ": "\"alam\" (أَلَمْ)\nKök: — soru edatı + olumsuzluk\nKalıp: hemze-l-istifhām + lam; \"Görmedi mi? Olmadı mı?\"\nKur'an'da: 105:1, 94:1",
     "ٱلْأَرْضَ": "\"el-arḍ\" (ٱلْأَرْضُ)\nKök: e-r-ḍ — yer, zemin\nKalıp: İsim; \"yer, Dünya\"\nKur'an'da: 461 kez — Sema ile birlikte çok sık geçer",
-    "وَٱلْجِبَالَ": "\"wal-jibāla\" (وَٱلْجِبَالَ)\nKök: J-B-L — ve dağlar\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 22:18, 33:72, 69:14, 73:14",
+    "وَٱلْجِبَالَ": "\"l-jibālu\" (ٱلْجِبَالُ)\nKök: J-B-L — dağ, doğa, fıtrat\nKalıp: Çoğul isim, merfu; \"dağlar\"\nKur'an'da: 101:5, 20:105",
     "ٱلَّيْلَ": "\"al-layla\" (ٱلَّيْلَ)\nKök: L-Y-L — gece\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:164, 2:187, 3:27, 3:113",
     "ٱلنَّهَارَ": "\"l-nahāra\" (ٱلنَّهَارَ)\nKök: N-H-R — gunduz\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 3:27, 3:72, 7:54, 10:45",
     "مِنَ": "\"mina\" (مِنَ)\nKök: — yapısal edat\nKalıp: min edatının elif-lam'dan önce gelen açık sesli biçimi\nKur'an'da: 2:19, 3:14 — çok yaygın kullanım",
@@ -20,7 +20,7 @@
     "ٱلْجِبَالُ": "\"l-jibālu\" (ٱلْجِبَالُ)\nKök: J-B-L — dağ, doğa, fıtrat\nKalıp: Çoğul isim, merfu; \"dağlar\"\nKur'an'da: 101:5, 20:105",
     "مِّن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
     "ٱلسَّمَـٰوَٰتِ": "\"l-samāwāti\" (ٱلسَّمَـٰوَٰتِ)\nKök: S-M-W — göklerin\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:33, 2:107, 2:116, 2:117",
-    "وَٱلْأَرْضِ": "\"wal-arḍi\" (وَٱلْأَرْضِ)\nKök: R-Ḍ-Ḍ — ve yerin\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:33, 2:107, 2:116, 2:117",
+    "وَٱلْأَرْضِ": "\"el-arḍ\" (ٱلْأَرْضُ)\nKök: e-r-ḍ — yer, zemin\nKalıp: İsim; \"yer, Dünya\"\nKur'an'da: 461 kez — Sema ile birlikte çok sık geçer",
     "ٱلرَّحْمَـٰنِ ۖ": "\"l-raḥmāni\" (ٱلرَّحْمَـٰنِ ۖ)\nKök: R-Ḥ-M — Rahman\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 1:1, 1:3, 2:163, 17:110",
     "ٱلرُّوحُ": "\"l-rūḥu\" (ٱلرُّوحُ)\nKök: R-Ḥ-Ḥ — the ruh/nefis\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 17:85, 26:193, 40:15, 78:38",
     "وَٱلْمَلَـٰٓئِكَةُ": "\"wal-malāikatu\" (وَٱلْمَلَـٰٓئِكَةُ)\nKök: M-L-K — ve meleklerin\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:161, 2:177, 2:210, 3:18",
@@ -75,6 +75,9 @@
     "ذَٰلِكَ": "\"dhālika\" (ذَٰلِكَ)\nKök: — yapısal gösterme zamiri\nKalıp: Uzak gösteri, eril tekil; \"şu, o\"\nKur'an'da: 2:2 (dhālika l-kitābu), çok yaygın",
     "إِنَّآ": "\"innā\" (إِنَّآ)\nKök: — teyit edatı + 1. çoğul zamir\nKalıp: inna + nā (biz); ilahi bildiri formülü\nKur'an'da: 108:1, yaygın",
     "مَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
-    "يَـٰلَيْتَنِى": "\"yā-laytanī\" (يَـٰلَيْتَنِى)\nKök: l-y-t — keşke\nKalıp: Temenni edatı; \"keşke ben!\"\nKur'an'da: 78:40 — Kâfirin pişmanlığı: \"Keşke toprak olsaydım!\""
+    "يَـٰلَيْتَنِى": "\"yā-laytanī\" (يَـٰلَيْتَنِى)\nKök: l-y-t — keşke\nKalıp: Temenni edatı; \"keşke ben!\"\nKur'an'da: 78:40 — Kâfirin pişmanlığı: \"Keşke toprak olsaydım!\"",
+    "فَلَن": "\"lan\" (لَن)\nKök: — yapısal partikül\nKalıp: Gelecek olumsuzluk; muzariyi nasb eder; \"asla -meyecek\"\nKur'an'da: 2:80, yaygın",
+    "وَقَالَ": "\"qāla\" (قَالَ)\nKök: q-w-l — söylemek\nKalıp: Mâzi tekil; \"dedi\"\nKur'an'da: 1722 kez — Kur'an'ın en sık geçen fiili; kıssa dilinin temeli",
+    "فَمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı"
   }
 }

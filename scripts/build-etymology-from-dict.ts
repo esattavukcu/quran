@@ -76,6 +76,21 @@ async function main() {
         if (!entry) {
           const norm = normalizeArabic(arabic);
           if (norm) entry = dictByNorm.get(norm);
+
+          // 3. Ön ek soyarak eşleşme: و (ve) veya ف (then) ön ekini soy
+          if (!entry && norm) {
+            let stripped = norm;
+            // Birden fazla ön ek olabilir (وَفَ gibi) — en fazla 2 kez soy
+            for (let i = 0; i < 2; i++) {
+              if (stripped.startsWith('و') || stripped.startsWith('ف')) {
+                stripped = stripped.slice(1);
+                const found = dictByNorm.get(stripped);
+                if (found) { entry = found; break; }
+              } else {
+                break;
+              }
+            }
+          }
         }
 
         if (entry && entry !== existing.words[arabic]) {

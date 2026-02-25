@@ -27,8 +27,8 @@
     "ٱلْـَٔاخِرَةِ": "\"l-ākhirati\" (ٱلْـَٔاخِرَةِ)\nKök: KH-R-T — ahiret\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:94, 2:102, 2:114, 2:130",
     "وَٱلْأُولَىٰٓ": "\"wal-ūlā\" (وَٱلْأُولَىٰٓ)\nKök: L-L-L — ve ilk (dünya)\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 53:25, 79:25, 92:13",
     "ٱلسَّمَآءُ ۚ": "\"es-samāʾ\" (ٱلسَّمَاءُ)\nKök: s-m-w — yükselmek\nKalıp: İsim; \"gök, sema\"\nKur'an'da: 310 kez — \"Göklerin ve yerin yaratıcısı\"",
-    "وَٱلْأَرْضَ": "\"wal-arḍa\" (وَٱلْأَرْضَ)\nKök: R-Ḍ-Ḍ — ve yerin\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:33, 2:107, 2:116, 2:117",
-    "وَٱلْجِبَالَ": "\"wal-jibāla\" (وَٱلْجِبَالَ)\nKök: J-B-L — ve dağlar\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 22:18, 33:72, 69:14, 73:14",
+    "وَٱلْأَرْضَ": "\"el-arḍ\" (ٱلْأَرْضُ)\nKök: e-r-ḍ — yer, zemin\nKalıp: İsim; \"yer, Dünya\"\nKur'an'da: 461 kez — Sema ile birlikte çok sık geçer",
+    "وَٱلْجِبَالَ": "\"l-jibālu\" (ٱلْجِبَالُ)\nKök: J-B-L — dağ, doğa, fıtrat\nKalıp: Çoğul isim, merfu; \"dağlar\"\nKur'an'da: 101:5, 20:105",
     "ٱلطَّآمَّةُ": "\"eṭ-ṭāmme\" (ٱلطَّامَّةُ)\nKök: ṭ-m-m — doldurmak, kaplamak\nKalıp: İsm-i fâil; \"her şeyi kaplayan, büyük felaket\"\nKur'an'da: 79:34 — Kıyametin çok büyük sarsıntısı",
     "ٱلْإِنسَـٰنُ": "\"l-insāna\" (ٱلْإِنسَـٰنَ)\nKök: A-N-S — insan, alışmak; veya N-S-Y — unutmak\nKalıp: Belirli isim, mansub; \"insan\"\nKur'an'da: 103:2, 100:6, 96:2",
     "ٱلْجَحِيمُ": "\"l-jaḥīma\" (ٱلْجَحِيمَ)\nKök: J-H-M — alevlenmek, yakıcı olmak\nKalıp: Belirli isim (faʿīl), mansub; \"cehennemi\"\nKur'an'da: 102:6, yaygın",
@@ -74,6 +74,10 @@
     "مَنْ": "\"man\" (مَنْ)\nKök: — yapısal soru/mevsul zamiri\nKalıp: man edatının sükun ile yazımı\nKur'an'da: yaygın variant",
     "عَنِ": "\"ʿani\" (عَنِ)\nKök: — yapısal edat\nKalıp: ʿan edatının elif-lam'dan önce gelen biçimi\nKur'an'da: 9:67, 102:8 — لَتُسْـَٔلُنَّ عَنِ ٱلنَّعِيمِ",
     "أَنتَ": "\"anta\" (أَنتَ)\nKök: — kişi zamiri\nKalıp: 2. tekil eril; \"sen\"\nKur'an'da: 109:4, yaygın",
-    "إِلَّا": "\"illā\" (إِلَّا)\nKök: — yapısal istisna edatı\nKalıp: İstisna (hariç); \"... dışında, ancak, yalnızca\"\nKur'an'da: 2:9, çok yaygın — tevhid cümleleri dahil"
+    "إِلَّا": "\"illā\" (إِلَّا)\nKök: — yapısal istisna edatı\nKalıp: İstisna (hariç); \"... dışında, ancak, yalnızca\"\nKur'an'da: 2:9, çok yaygın — tevhid cümleleri dahil",
+    "فَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
+    "فَقُلْ": "\"qul\" (قُلْ)\nKök: Q-W-L — söylemek, demek\nKalıp: Emir fiil, 2. tekil eril (I. bab: qāla/yaqūlu)\nKur'an'da: 109:1, 112:1, 113:1, 114:1 — peygambere hitap; 332 kez",
+    "فَقَالَ": "\"qāla\" (قَالَ)\nKök: q-w-l — söylemek\nKalıp: Mâzi tekil; \"dedi\"\nKur'an'da: 1722 kez — Kur'an'ın en sık geçen fiili; kıssa dilinin temeli",
+    "فَإِنَّ": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç"
   }
 }

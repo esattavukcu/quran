@@ -13,7 +13,7 @@
     "ٱلْجَارِيَةِ": "\"l-jāriyati\" (ٱلْجَارِيَةِ)\nKök: J-R-Y — the sailing (ship)\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 69:11",
     "ٱلصُّورِ": "\"eṣ-ṣūr\" (ٱلصُّورِ)\nKök: ṣ-w-r — şekil, boru\nKalıp: İsim; \"sur, boru\"\nKur'an'da: 78:18, 36:51 — Kıyamette üflenecek İsrafil'in suru",
     "ٱلْأَرْضُ": "\"el-arḍ\" (ٱلْأَرْضُ)\nKök: e-r-ḍ — yer, zemin\nKalıp: İsim; \"yer, Dünya\"\nKur'an'da: 461 kez — Sema ile birlikte çok sık geçer",
-    "وَٱلْجِبَالُ": "\"wal-jibālu\" (وَٱلْجِبَالُ)\nKök: J-B-L — ve dağlar\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 22:18, 33:72, 69:14, 73:14",
+    "وَٱلْجِبَالُ": "\"l-jibālu\" (ٱلْجِبَالُ)\nKök: J-B-L — dağ, doğa, fıtrat\nKalıp: Çoğul isim, merfu; \"dağlar\"\nKur'an'da: 101:5, 20:105",
     "ٱلْوَاقِعَةُ": "\"l-wāqiʿatu\" (ٱلْوَاقِعَةُ)\nKök: W-Q-ʿ — olacak vak'a\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 56:1, 69:15",
     "ٱلسَّمَآءُ": "\"es-samāʾ\" (ٱلسَّمَاءُ)\nKök: s-m-w — yükselmek\nKalıp: İsim; \"gök, sema\"\nKur'an'da: 310 kez — \"Göklerin ve yerin yaratıcısı\"",
     "وَٱلْمَلَكُ": "\"wal-malaku\" (وَٱلْمَلَكُ)\nKök: M-L-K — vre melekler de\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 69:17, 89:22",
@@ -82,6 +82,15 @@
     "أَنَّ": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç",
     "عَلَى": "\"ʿalā\" (عَلَى)\nKök: ʿ-L-W — yükselmek, üstte olmak\nKalıp: Harfü'l-cerr; üstünde, hakkında, aleyhine\nKur'an'da: 1375 kez — çok yaygın",
     "لَحَقُّ": "\"el-ḥaqq\" (ٱلْحَقُّ)\nKök: ḥ-q-q — gerçek, hak\nKalıp: Mastar/sıfat; \"hak, gerçek, doğru\"\nKur'an'da: 287 kez — Hakikat; Allah'ın isimlerinden biri",
-    "فَسَبِّحْ": "\"fasabbiḥ\" (فَسَبِّحْ)\nKök: S-B-H — yüzmek, tesbih etmek, yüceltmek\nKalıp: fa + emir, 2. tekil (II. bab: sabbaha); \"o hâlde tesbih et\"\nKur'an'da: 110:3"
+    "فَسَبِّحْ": "\"fasabbiḥ\" (فَسَبِّحْ)\nKök: S-B-H — yüzmek, tesbih etmek, yüceltmek\nKalıp: fa + emir, 2. tekil (II. bab: sabbaha); \"o hâlde tesbih et\"\nKur'an'da: 110:3",
+    "وَجَآءَ": "\"jāʾa\" (جَآءَ)\nKök: J-Y-A veya J-W-A — gelmek, varmak\nKalıp: Mazi, 3. tekil eril; med-i lazım yazımı\nKur'an'da: 110:1, yaygın",
+    "فَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
+    "فَيَوْمَئِذٍۢ": "\"yawma-idhin\" (يَوْمَئِذٍ)\nKök: Y-W-M + idh (zaman)\nKalıp: Bileşik zaman zarfı; \"o gün\"\nKur'an'da: 100:11, 102:8",
+    "وَٱنشَقَّتِ": "\"inšaqqat\" (ٱنشَقَّتْ)\nKök: ş-q-q — yarılmak\nKalıp: Mâzi infiʿāl; \"yarıldı, ikiye ayrıldı\"\nKur'an'da: 84:1 — Gök yarıldığında",
+    "فَهِىَ": "\"hiya\" (هِىَ)\nKök: — kişi zamiri\nKalıp: 3. tekil dişil; \"o (dişi/şey)\"\nKur'an'da: yaygın",
+    "فَلَآ": "\"lā\" (لَا)\nKök: — yapısal olumsuzluk edatı\nKalıp: Muzari olumsuzluk, emir yasağı (nahiy), varlık olumsuzlaması\nKur'an'da: binden fazla kez — en temel olumsuzluk",
+    "وَلَوْ": "\"law\" (لَوْ)\nKök: — yapısal şart edatı\nKalıp: Gerçekleşmemiş şart (imkânsız/geçmiş); \"keşke, eğer olsaydı\"\nKur'an'da: 102:5, yaygın",
+    "فَمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "وَإِنَّا": "\"innā\" (إِنَّآ)\nKök: — teyit edatı + 1. çoğul zamir\nKalıp: inna + nā (biz); ilahi bildiri formülü\nKur'an'da: 108:1, yaygın"
   }
 }

@@ -14,7 +14,7 @@
     "ٱلَّذِينَ": "\"alladhīna\" (ٱلَّذِينَ)\nKök: — yapısal mevsul zamir\nKalıp: Çoğul eril mevsul sıfat; \"onlar ki, kimseler\"\nKur'an'da: 103:3, 107:5, çok yaygın",
     "ٱلْكِتَـٰبَ": "\"l-kitāba\" (ٱلْكِتَـٰبَ)\nKök: K-T-B — Kitap\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:2, 2:44, 2:53, 2:78",
     "وَٱلْمُؤْمِنُونَ ۙ": "\"wal-mu'minūna\" (وَٱلْمُؤْمِنُونَ ۙ)\nKök: M-M-N — ve mü'minler (de)\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:285, 4:162, 9:71, 9:105",
-    "وَٱلْكَـٰفِرُونَ": "\"wal-kāfirūna\" (وَٱلْكَـٰفِرُونَ)\nKök: K-F-R — ve kafirler\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:254, 42:26, 74:31",
+    "وَٱلْكَـٰفِرُونَ": "\"l-kāfirūna\" (ٱلْكَـٰفِرُونَ)\nKök: K-F-R — örtmek, inkâr etmek, nankörlük\nKalıp: İsm-i fail, çoğul eril, merfu; \"inkârcılar\"\nKur'an'da: 109:1 — surenin adı; temel teolojik kavram",
     "ٱللَّهُ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "وَٱلْقَمَرِ": "\"wa-l-qamar\" (وَٱلْقَمَرِ)\nKök: q-m-r — ay\nKalıp: İsim; \"ay\"\nKur'an'da: 91:2, çok ayette — Kur'an'da 27 kez geçer; kozmik yemin",
     "وَٱلَّيْلِ": "\"wa-al-layli\" (وَٱلَّيْلِ)\nKök: L-Y-L — ve geceye\nKalıp: wa- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 74:33, 81:17, 84:17, 89:4",
@@ -90,6 +90,15 @@
     "كَلَّآ": "\"kallā\" (كَلَّا)\nKök: — güçlü red/uyarı edatı\nKalıp: Red/pekiştirme; \"asla hayır, kesinlikle olmaz\"\nKur'an'da: 102:3, 102:4, 104:4",
     "يَشَآءَ": "\"yašāʾu\" (يَشَآءُ)\nKök: ş-y-ʾ — istemek, şey\nKalıp: Müzâri; \"diler, ister\"\nKur'an'da: 148 kez — \"Allah dilediğini yapar\"",
     "هُوَ": "\"huwa\" (هُوَ)\nKök: — kişi zamiri\nKalıp: 3. tekil eril; \"o (erkek/şey)\"\nKur'an'da: 112:1, çok yaygın",
-    "أَهْلُ": "\"ahl\" (أَهْلِ)\nKök: e-h-l — aile, ehil\nKalıp: İsim; \"aile, mensupları\"\nKur'an'da: 98:1 — \"Ehl-i kitap\"; Yahudi ve Hristiyanlar"
+    "أَهْلُ": "\"ahl\" (أَهْلِ)\nKök: e-h-l — aile, ehil\nKalıp: İsim; \"aile, mensupları\"\nKur'an'da: 98:1 — \"Ehl-i kitap\"; Yahudi ve Hristiyanlar",
+    "وَرَبَّكَ": "\"rabbika\" (رَبِّكَ)\nKök: R-B-B — terbiye etmek, sahip olmak\nKalıp: İsim + 2. tekil iyelik zamiri, mecrur; \"Rabbinin\"\nKur'an'da: 110:3, yaygın",
+    "وَلِرَبِّكَ": "\"lirabbika\" (لِرَبِّكَ)\nKök: R-B-B — terbiye etmek, Rab\nKalıp: li- + rabb + iyelik; \"Rabbin için\"\nKur'an'da: 108:2",
+    "فَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
+    "وَقَدَّرَ": "\"qaddara\" (قَدَّرَ)\nKök: q-d-r — ölçmek, takdir\nKalıp: Mâzi tef'il; \"takdir etti, ölçülü kıldı\"\nKur'an'da: 87:3 — Her şeyi takdir edip ölçüyle yarattı",
+    "فَقَالَ": "\"qāla\" (قَالَ)\nKök: q-w-l — söylemek\nKalıp: Mâzi tekil; \"dedi\"\nKur'an'da: 1722 kez — Kur'an'ın en sık geçen fiili; kıssa dilinin temeli",
+    "وَيَهْدِى": "\"yahdī\" (يَهْدِى)\nKök: h-d-y — yol göstermek\nKalıp: Müzâri; \"hidayet eder\"\nKur'an'da: çok ayette — \"Allah dilediğini doğru yola iletir\"",
+    "فَمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın",
+    "فَمَن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
+    "وَأَهْلُ": "\"ahl\" (أَهْلِ)\nKök: e-h-l — aile, ehil\nKalıp: İsim; \"aile, mensupları\"\nKur'an'da: 98:1 — \"Ehl-i kitap\"; Yahudi ve Hristiyanlar"
   }
 }

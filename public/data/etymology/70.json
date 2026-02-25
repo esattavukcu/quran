@@ -23,7 +23,7 @@
     "ٱلْخَيْرُ": "\"l-khayri\" (ٱلْخَيْرِ)\nKök: KH-Y-R — hayır, iyilik, zenginlik\nKalıp: Belirli isim, mecrur; \"mala, hayra\"\nKur'an'da: 100:8, 2:54",
     "ٱلْمُصَلِّينَ": "\"l-muṣalīna\" (ٱلْمُصَلِّينَ)\nKök: M-Ṣ-L — namaz kılanlar\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 70:22, 74:43",
     "ٱلَّذِينَ": "\"alladhīna\" (ٱلَّذِينَ)\nKök: — yapısal mevsul zamir\nKalıp: Çoğul eril mevsul sıfat; \"onlar ki, kimseler\"\nKur'an'da: 103:3, 107:5, çok yaygın",
-    "وَٱلَّذِينَ": "\"wa-alladhīna\" (وَٱلَّذِينَ)\nKök: L-L-DH — ve onlar ki\nKalıp: wa- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:4, 2:9, 2:21, 2:39",
+    "وَٱلَّذِينَ": "\"alladhīna\" (ٱلَّذِينَ)\nKök: — yapısal mevsul zamir\nKalıp: Çoğul eril mevsul sıfat; \"onlar ki, kimseler\"\nKur'an'da: 103:3, 107:5, çok yaygın",
     "فِىٓ": "\"fī\" (فِى)\nKök: — yapısal edat\nKalıp: Zarfiyet edatı; mekan, zaman, soyut içerik\nKur'an'da: 1732 kez — mekânsal ve mecazî kullanımlar",
     "وَٱلْمَحْرُومِ": "\"wal-maḥrūmi\" (وَٱلْمَحْرُومِ)\nKök: M-Ḥ-R — ve yoksul için\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 51:19, 70:25",
     "ٱلدِّينِ": "\"l-dīni\" (ٱلدِّينِ)\nKök: D-N-N — Din\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 1:4, 2:132, 2:193, 2:256",
@@ -77,6 +77,12 @@
     "بِرَبِّ": "\"birabbi\" (بِرَبِّ)\nKök: R-B-B — terbiye etmek, sahip olmak, beslemek\nKalıp: bi- harf-i cerr + rabb ismi, mecrur (izafet)\nKur'an'da: 1:2, 113:1, 114:1 — Allah'ın temel isimlerinden",
     "وَمَا": "\"wamā\" (وَمَا)\nKök: — bağlaç + olumsuzluk\nKalıp: wa + mā; olumsuzluk \"ve ... kazanmadı\"\nKur'an'da: 111:2, Bakara'da 41 kez",
     "حَتَّىٰ": "\"ḥattā\" (حَتَّىٰ)\nKök: — yapısal edat\nKalıp: nihayete kadar, sonunda; edat ve bağlaç işlevi\nKur'an'da: 2:187, yaygın — sınır/varış ifadesi",
-    "خَـٰشِعَةً": "\"hāşiʿa\" (خَـٰشِعَةٌ)\nKök: h-ş-ʿ — alçalmak, boyun eğmek\nKalıp: İsm-i fâil müennes; \"boyun eğmiş, zelil\"\nKur'an'da: 88:2 — Kâfirlerin yüzü boyun eğmiş ve aşağılık"
+    "خَـٰشِعَةً": "\"hāşiʿa\" (خَـٰشِعَةٌ)\nKök: h-ş-ʿ — alçalmak, boyun eğmek\nKalıp: İsm-i fâil müennes; \"boyun eğmiş, zelil\"\nKur'an'da: 88:2 — Kâfirlerin yüzü boyun eğmiş ve aşağılık",
+    "وَجَمَعَ": "\"jamaʿa\" (جَمَعَ)\nKök: J-M-ʿ — toplamak, birleştirmek\nKalıp: Mazi, 3. tekil eril (I. bab); \"biriktirdi\"\nKur'an'da: 104:2",
+    "وَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
+    "فَمَنِ": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
+    "فَأُو۟لَـٰٓئِكَ": "\"ulāika\" (أُو۟لَـٰٓئِكَ)\nKök: — yapısal gösterme zamiri\nKalıp: Uzak gösteri, çoğul; \"onlar, işte onlar\"\nKur'an'da: 2:5, yaygın",
+    "وَعَنِ": "\"ʿan\" (عَن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; uzaklık, hakkında, bundan dolayı\nKur'an'da: çok yaygın — عَنِ ٱلْمُؤْمِنِينَ gibi",
+    "فَلَآ": "\"lā\" (لَا)\nKök: — yapısal olumsuzluk edatı\nKalıp: Muzari olumsuzluk, emir yasağı (nahiy), varlık olumsuzlaması\nKur'an'da: binden fazla kez — en temel olumsuzluk"
   }
 }

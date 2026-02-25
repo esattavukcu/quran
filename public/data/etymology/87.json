@@ -3,8 +3,8 @@
   "words": {
     "ٱلْأَعْلَى": "\"l-aʿlā\" (ٱلْأَعْلَى)\nKök: ʿ-L-L — en yüce\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 16:60, 20:68, 30:27, 37:8",
     "ٱلَّذِى": "\"alladhī\" (ٱلَّذِى)\nKök: — yapısal mevsul zamir\nKalıp: Eril tekil mevsul sıfat; \"o ki, şu ki\"\nKur'an'da: 107:1, 104:2, yaygın",
-    "وَٱلَّذِى": "\"wa-alladhī\" (وَٱلَّذِى)\nKök: L-L-DH — olandan ise\nKalıp: wa- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 7:58, 13:1, 20:72, 24:11",
-    "وَٱلَّذِىٓ": "\"wa-alladhī\" (وَٱلَّذِىٓ)\nKök: L-L-DH — olandan ise\nKalıp: wa- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 7:58, 13:1, 20:72, 24:11",
+    "وَٱلَّذِى": "\"alladhī\" (ٱلَّذِى)\nKök: — yapısal mevsul zamir\nKalıp: Eril tekil mevsul sıfat; \"o ki, şu ki\"\nKur'an'da: 107:1, 104:2, yaygın",
+    "وَٱلَّذِىٓ": "\"alladhī\" (ٱلَّذِى)\nKök: — yapısal mevsul zamir\nKalıp: Eril tekil mevsul sıfat; \"o ki, şu ki\"\nKur'an'da: 107:1, 104:2, yaygın",
     "ٱلْمَرْعَىٰ": "\"el-marʿā\" (ٱلْمَرْعَىٰ)\nKök: r-ʿ-y — otlatmak\nKalıp: İsm-i mekân; \"otlak, otlatılan yer\"\nKur'an'da: 87:4 — Otlağı yeşil çıkardı",
     "ٱللَّهُ ۚ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "ٱلْجَهْرَ": "\"el-jahr\" (ٱلْجَهْرَ)\nKök: j-h-r — açık, yüksek sesle\nKalıp: Mastar; \"aşikâr, aleni\"\nKur'an'da: 87:7 — Allah gizleni ve açığı bilir",
@@ -52,6 +52,7 @@
     "إِنَّ": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç",
     "هَـٰذَا": "\"hādhā\" (هَـٰذَا)\nKök: — yapısal gösterme zamiri\nKalıp: Yakın gösteri, eril tekil; \"bu\"\nKur'an'da: 106:3, yaygın",
     "لَفِى": "\"lafī\" (لَفِى)\nKök: — lam-i te'kid + fī\nKalıp: Pekiştirme lamlı iç edat; \"gerçekten içindedir\"\nKur'an'da: 103:2",
-    "وَمُوسَىٰ": "\"wa-Mūsā\" (وَمُوسَىٰ)\nKök: Mısırlıca kökenli — mo = su + ses = çocuk\nKalıp: Özel isim; \"Musa\"\nKur'an'da: 87:19 — Kur'an'da 136 kez; en çok anılan peygamber"
+    "وَمُوسَىٰ": "\"wa-Mūsā\" (وَمُوسَىٰ)\nKök: Mısırlıca kökenli — mo = su + ses = çocuk\nKalıp: Özel isim; \"Musa\"\nKur'an'da: 87:19 — Kur'an'da 136 kez; en çok anılan peygamber",
+    "فَلَا": "\"lā\" (لَا)\nKök: — yapısal olumsuzluk edatı\nKalıp: Muzari olumsuzluk, emir yasağı (nahiy), varlık olumsuzlaması\nKur'an'da: binden fazla kez — en temel olumsuzluk"
   }
 }

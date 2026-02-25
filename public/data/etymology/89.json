@@ -2,7 +2,7 @@
   "surahNumber": 89,
   "words": {
     "وَٱلْفَجْرِ": "\"wa-l-fajr\" (وَٱلْفَجْرِ)\nKök: f-j-r — yarılmak, şafak\nKalıp: Mastar; \"sabahın ilk ışığı, şafak\"\nKur'an'da: 89:1 — Yemin konusu olarak şafak vakti; 97:5'te geçer",
-    "وَٱلشَّفْعِ": "\"wal-shafʿi\" (وَٱلشَّفْعِ)\nKök: SH-F-ʿ — ve çift'e\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 89:3",
+    "وَٱلشَّفْعِ": "\"eş-şafʿ\" (ٱلشَّفْعِ)\nKök: ş-f-ʿ — çift, eşli\nKalıp: Mastar; \"çift sayı\"\nKur'an'da: 89:3 — Allah çift ve tek üzerine yemin etti; varlığın çift yapısına işaret",
     "وَٱلْوَتْرِ": "\"wa-l-watr\" (وَٱلْوَتْرِ)\nKök: w-t-r — tek, yalnız\nKalıp: Mastar; \"tek sayı\"\nKur'an'da: 89:3 — Allah tektir; vitir namazı bundan alır adını",
     "وَٱلَّيْلِ": "\"wa-al-layli\" (وَٱلَّيْلِ)\nKök: L-Y-L — ve geceye\nKalıp: wa- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 74:33, 81:17, 84:17, 89:4",
     "هَلْ": "\"hal\" (هَلْ)\nKök: H-L-L — mı?\nKalıp: Harf/edat (mabni)\nKur'an'da: 2:210, 2:246, 3:154, 5:59",
@@ -73,6 +73,9 @@
     "رَبِّكِ": "\"rabbika\" (رَبِّكَ)\nKök: R-B-B — terbiye etmek, sahip olmak\nKalıp: İsim + 2. tekil iyelik zamiri, mecrur; \"Rabbinin\"\nKur'an'da: 110:3, yaygın",
     "رَاضِيَةًۭ": "\"rāḍiyatin\" (رَّاضِيَةٍۢ)\nKök: R-D-W — razı olmak, memnun kalmak\nKalıp: İsm-i fail dişil, tenvinsiz mecrur; \"hoşnut edici, memnun\"\nKur'an'da: 101:7",
     "مَّرْضِيَّةًۭ": "\"marḍiyye\" (مَّرْضِيَّةً)\nKök: r-ḍ-y — razı olmak\nKalıp: İsm-i mefʿul müennes; \"Allah'ın razı olduğu\"\nKur'an'da: 89:28 — Nefs hem razı hem razı olunmuş hâldedir",
-    "فَٱدْخُلِى": "\"fa-dhulī\" (فَٱدْخُلِى)\nKök: d-h-l — girmek\nKalıp: Emir müennes; \"gir, içeri gir\"\nKur'an'da: 89:29-30 — Cennete girme daveti"
+    "فَٱدْخُلِى": "\"fa-dhulī\" (فَٱدْخُلِى)\nKök: d-h-l — girmek\nKalıp: Emir müennes; \"gir, içeri gir\"\nKur'an'da: 89:29-30 — Cennete girme daveti",
+    "فَقَدَرَ": "\"qaddara\" (قَدَّرَ)\nKök: q-d-r — ölçmek, takdir\nKalıp: Mâzi tef'il; \"takdir etti, ölçülü kıldı\"\nKur'an'da: 87:3 — Her şeyi takdir edip ölçüyle yarattı",
+    "وَجَآءَ": "\"jāʾa\" (جَآءَ)\nKök: J-Y-A veya J-W-A — gelmek, varmak\nKalıp: Mazi, 3. tekil eril; med-i lazım yazımı\nKur'an'da: 110:1, yaygın",
+    "فَيَوْمَئِذٍۢ": "\"yawma-idhin\" (يَوْمَئِذٍ)\nKök: Y-W-M + idh (zaman)\nKalıp: Bileşik zaman zarfı; \"o gün\"\nKur'an'da: 100:11, 102:8"
   }
 }

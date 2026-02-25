@@ -10,9 +10,9 @@
     "ٱللَّهِ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "أَن": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç",
     "ٱللَّهَ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
-    "وَإِذْ": "\"wa-idh\" (وَإِذْ)\nKök: DH-DH-DH — bir zamanlar\nKalıp: wa- öneki + Harf/edat (mabni)\nKur'an'da: 2:30, 2:34, 2:49, 2:50",
+    "وَإِذْ": "\"idh\" (إِذْ)\nKök: — yapısal zaman edatı\nKalıp: Geçmiş zamanlı atıf; \"bir zamanlar, o vakit ki\"\nKur'an'da: 2:30, yaygın",
     "ٱللَّهُ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
-    "وَٱللَّهُ": "\"wal-lahu\" (وَٱللَّهُ)\nKök: L-H-H — oysa Allah\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:19, 2:72, 2:95, 2:96",
+    "وَٱللَّهُ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "ٱلْقَوْمَ": "\"l-qawma\" (ٱلْقَوْمَ)\nKök: Q-W-M — topluluğuna\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:250, 2:258, 2:264, 2:286",
     "ٱلْفَـٰسِقِينَ": "\"l-fāsiqīna\" (ٱلْفَـٰسِقِينَ)\nKök: F-S-Q — fasıklardan\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:26, 5:25, 5:26, 5:108",
     "مِنَ": "\"mina\" (مِنَ)\nKök: — yapısal edat\nKalıp: min edatının elif-lam'dan önce gelen açık sesli biçimi\nKur'an'da: 2:19, 3:14 — çok yaygın kullanım",
@@ -70,6 +70,10 @@
     "عَدْنٍۢ ۚ": "\"ʿadn\" (عَدْنٍ)\nKök: ʿ-d-n — yerleşmek, devamlı kalmak\nKalıp: Mastar/isim; \"kalıcı ikamet, adn\"\nKur'an'da: 98:8 — Cennet-i Adn; ebedî oturulan cennet",
     "ذَٰلِكَ": "\"dhālika\" (ذَٰلِكَ)\nKök: — yapısal gösterme zamiri\nKalıp: Uzak gösteri, eril tekil; \"şu, o\"\nKur'an'da: 2:2 (dhālika l-kitābu), çok yaygın",
     "نَصْرٌۭ": "\"naṣru\" (نَصْرُ)\nKök: N-S-R — yardım etmek, zafer kazandırmak\nKalıp: Masdar/isim, merfu; \"yardım, zafer\"\nKur'an'da: 110:1 — surenin konusu",
-    "مَنْ": "\"man\" (مَنْ)\nKök: — yapısal soru/mevsul zamiri\nKalıp: man edatının sükun ile yazımı\nKur'an'da: yaygın variant"
+    "مَنْ": "\"man\" (مَنْ)\nKök: — yapısal soru/mevsul zamiri\nKalıp: man edatının sükun ile yazımı\nKur'an'da: yaygın variant",
+    "وَهُوَ": "\"huwa\" (هُوَ)\nKök: — kişi zamiri\nKalıp: 3. tekil eril; \"o (erkek/şey)\"\nKur'an'da: 112:1, çok yaygın",
+    "وَقَد": "\"qad\" (قَدْ)\nKök: — yapısal partikül\nKalıp: Mazi fiilin gerçekleştiğini teyit eder; \"gerçekten, kesinlikle\"\nKur'an'da: 2:60, yaygın",
+    "وَلَوْ": "\"law\" (لَوْ)\nKök: — yapısal şart edatı\nKalıp: Gerçekleşmemiş şart (imkânsız/geçmiş); \"keşke, eğer olsaydı\"\nKur'an'da: 102:5, yaygın",
+    "وَدِينِ": "\"dīni\" (دِينِ)\nKök: D-Y-N — din, hesap, yasa, borç\nKalıp: İsim, mecrur (izafet); \"dine, dinin\"\nKur'an'da: 109:6, 110:2 — temel kavram"
   }
 }

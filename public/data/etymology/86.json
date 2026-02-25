@@ -1,7 +1,7 @@
 {
   "surahNumber": 86,
   "words": {
-    "وَٱلسَّمَآءِ": "\"wal-samāi\" (وَٱلسَّمَآءِ)\nKök: S-M-M — ve göğü\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:22, 40:64, 51:7, 51:47",
+    "وَٱلسَّمَآءِ": "\"es-samāʾ\" (ٱلسَّمَاءُ)\nKök: s-m-w — yükselmek\nKalıp: İsim; \"gök, sema\"\nKur'an'da: 310 kez — \"Göklerin ve yerin yaratıcısı\"",
     "وَٱلطَّارِقِ": "\"wa-ṭ-ṭāriq\" (وَٱلطَّارِقِ)\nKök: ṭ-r-q — çalmak, geceye gelen\nKalıp: İsm-i fâil; \"geceye gelen, geceleri gelen\"\nKur'an'da: 86:1 — Sabah yıldızı ya da meteorlar",
     "ٱلطَّارِقُ": "\"l-ṭāriqu\" (ٱلطَّارِقُ)\nKök: Ṭ-R-Q — tarık\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 86:2",
     "ٱلنَّجْمُ": "\"en-najm\" (ٱلنَّجْمُ)\nKök: n-j-m — yıldız, çıkmak\nKalıp: İsim; \"yıldız\"\nKur'an'da: 86:3 — Tarık'ın açıklaması: Sabah yıldızı",
@@ -14,7 +14,7 @@
     "وَٱلتَّرَآئِبِ": "\"wa-t-tarāʾib\" (وَٱلتَّرَآئِبِ)\nKök: r-ʾ-b — köprücük kemiği\nKalıp: Çoğul; \"göğüs kemikleri, kaburga\"\nKur'an'da: 86:7 — İnsan bu iki bölge arasından çıktı",
     "ٱلسَّرَآئِرُ": "\"es-sarāʾir\" (ٱلسَّرَآئِرُ)\nKök: s-r-r — gizli\nKalıp: Çoğul; \"sırlar, gizli şeyler\"\nKur'an'da: 86:9 — Gizli şeyler kıyamette ortaya çıkar",
     "ٱلرَّجْعِ": "\"l-rajʿi\" (ٱلرَّجْعِ)\nKök: R-J-ʿ — doner\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 86:11",
-    "وَٱلْأَرْضِ": "\"wal-arḍi\" (وَٱلْأَرْضِ)\nKök: R-Ḍ-Ḍ — ve yerin\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:33, 2:107, 2:116, 2:117",
+    "وَٱلْأَرْضِ": "\"el-arḍ\" (ٱلْأَرْضُ)\nKök: e-r-ḍ — yer, zemin\nKalıp: İsim; \"yer, Dünya\"\nKur'an'da: 461 kez — Sema ile birlikte çok sık geçer",
     "ٱلصَّدْعِ": "\"eṣ-ṣadʿ\" (ٱلصَّدْعِ)\nKök: ṣ-d-ʿ — yarılmak, çatlamak\nKalıp: Mastar; \"çatlak, yarık\"\nKur'an'da: 86:12 — Bitkileri yararak çıkaran yer",
     "بِٱلْهَزْلِ": "\"bi-l-hazl\" (بِٱلْهَزْلِ)\nKök: h-z-l — şaka, boş söz\nKalıp: İsim; \"şaka ile, boş olarak\"\nKur'an'da: 86:14 — Kur'an şaka değil; ciddi hüküm",
     "ٱلْكَـٰفِرِينَ": "\"l-kāfirīna\" (ٱلْكَـٰفِرِينَ)\nKök: K-F-R — kafirler\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:34, 2:89, 2:191, 2:250",
@@ -38,6 +38,7 @@
     "يَكِيدُونَ": "\"yakīdūn\" (يَكِيدُونَ)\nKök: k-y-d — tuzak, düzen\nKalıp: Müzâri çoğul; \"tuzak kuruyorlar\"\nKur'an'da: 86:15 — Kâfirler tuzak kuruyor",
     "كَيْدًۭا": "\"kaydan\" (كَيْدًا)\nKök: k-y-d — tuzak\nKalıp: Mastar; \"tuzak, hile\"\nKur'an'da: 86:15-16 — Onlar tuzak, Allah da tuzak kurar",
     "فَمَهِّلِ": "\"fa-mahhil\" (فَمَهِّلِ)\nKök: m-h-l — yavaşlık, süre\nKalıp: Emir tef'il; \"mühlet ver, beklet\"\nKur'an'da: 86:17 — Kâfirlere biraz zaman tanı",
-    "رُوَيْدًۢا": "\"ruwaydān\" (رُوَيْدًا)\nKök: r-w-d — yavaş, hafif\nKalıp: Teksir; \"yavaşça, azıcık\"\nKur'an'da: 86:17 — Biraz mühlet, pek az bekletme; yakında hesap"
+    "رُوَيْدًۢا": "\"ruwaydān\" (رُوَيْدًا)\nKök: r-w-d — yavaş, hafif\nKalıp: Teksir; \"yavaşça, azıcık\"\nKur'an'da: 86:17 — Biraz mühlet, pek az bekletme; yakında hesap",
+    "فَمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın"
   }
 }

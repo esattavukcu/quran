@@ -5,8 +5,8 @@
     "وَٱلْقَمَرِ": "\"wa-l-qamar\" (وَٱلْقَمَرِ)\nKök: q-m-r — ay\nKalıp: İsim; \"ay\"\nKur'an'da: 91:2, çok ayette — Kur'an'da 27 kez geçer; kozmik yemin",
     "وَٱلنَّهَارِ": "\"wal-nahāri\" (وَٱلنَّهَارِ)\nKök: N-H-R — ve gündüzün\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:164, 2:274, 3:190, 6:13",
     "وَٱلَّيْلِ": "\"wa-al-layli\" (وَٱلَّيْلِ)\nKök: L-Y-L — ve geceye\nKalıp: wa- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 74:33, 81:17, 84:17, 89:4",
-    "وَٱلسَّمَآءِ": "\"wal-samāi\" (وَٱلسَّمَآءِ)\nKök: S-M-M — ve göğü\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:22, 40:64, 51:7, 51:47",
-    "وَٱلْأَرْضِ": "\"wal-arḍi\" (وَٱلْأَرْضِ)\nKök: R-Ḍ-Ḍ — ve yerin\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:33, 2:107, 2:116, 2:117",
+    "وَٱلسَّمَآءِ": "\"es-samāʾ\" (ٱلسَّمَاءُ)\nKök: s-m-w — yükselmek\nKalıp: İsim; \"gök, sema\"\nKur'an'da: 310 kez — \"Göklerin ve yerin yaratıcısı\"",
+    "وَٱلْأَرْضِ": "\"el-arḍ\" (ٱلْأَرْضُ)\nKök: e-r-ḍ — yer, zemin\nKalıp: İsim; \"yer, Dünya\"\nKur'an'da: 461 kez — Sema ile birlikte çok sık geçer",
     "فَأَلْهَمَهَا": "\"fa-alhamahā\" (فَأَلْهَمَهَا)\nKök: L-H-M — ona ilham edene andolsun\nKalıp: fa- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 91:8",
     "قَدْ": "\"qad\" (قَدْ)\nKök: — yapısal partikül\nKalıp: Mazi fiilin gerçekleştiğini teyit eder; \"gerçekten, kesinlikle\"\nKur'an'da: 2:60, yaygın",
     "ٱللَّهِ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
@@ -29,6 +29,8 @@
     "فَعَقَرُوهَا": "\"fa-ʿaqarūhā\" (فَعَقَرُوهَا)\nKök: ʿ-q-r — kesmek, yavaşlatmak\nKalıp: Mâzi çoğul + iye; \"onu kestiler, boğazladılar\"\nKur'an'da: 91:14 — Semud'un devesi kesmesi helaklerini getirdi",
     "فَدَمْدَمَ": "\"fa-damdama\" (فَدَمْدَمَ)\nKök: d-m-d-m — sert ses çıkarmak, mahvetmek\nKalıp: Mâzi; \"ezip mahvetti\"\nKur'an'da: 91:14 — Allah günahları nedeniyle Semud'u helak etti",
     "عَلَيْهِمْ": "\"ʿalayhim\" (عَلَيْهِمْ)\nKök: ʿ-L-W + 3. çoğul zamir\nKalıp: ʿalay + him; \"onların üzerine\"\nKur'an'da: 105:3, yaygın",
-    "وَلَا": "\"walā\" (وَلَا)\nKök: — bağlaç + olumsuzluk\nKalıp: wa + lā; birleşik yazım\nKur'an'da: Bakara'da 82 kez — en sık kombinasyon"
+    "وَلَا": "\"walā\" (وَلَا)\nKök: — bağlaç + olumsuzluk\nKalıp: wa + lā; birleşik yazım\nKur'an'da: Bakara'da 82 kez — en sık kombinasyon",
+    "وَقَدْ": "\"qad\" (قَدْ)\nKök: — yapısal partikül\nKalıp: Mazi fiilin gerçekleştiğini teyit eder; \"gerçekten, kesinlikle\"\nKur'an'da: 2:60, yaygın",
+    "فَقَالَ": "\"qāla\" (قَالَ)\nKök: q-w-l — söylemek\nKalıp: Mâzi tekil; \"dedi\"\nKur'an'da: 1722 kez — Kur'an'ın en sık geçen fiili; kıssa dilinin temeli"
   }
 }

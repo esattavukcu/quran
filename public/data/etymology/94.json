@@ -4,7 +4,7 @@
     "أَلَمْ": "\"alam\" (أَلَمْ)\nKök: — soru edatı + olumsuzluk\nKalıp: hemze-l-istifhām + lam; \"Görmedi mi? Olmadı mı?\"\nKur'an'da: 105:1, 94:1",
     "ٱلَّذِىٓ": "\"alladhī\" (ٱلَّذِى)\nKök: — yapısal mevsul zamir\nKalıp: Eril tekil mevsul sıfat; \"o ki, şu ki\"\nKur'an'da: 107:1, 104:2, yaygın",
     "ٱلْعُسْرِ": "\"el-ʿusr\" (ٱلْعُسْرِ)\nKök: ʿ-s-r — güçlük, darlık\nKalıp: Mastar; \"güçlük, zorluk\"\nKur'an'da: 94:5-6 — Güçlükle beraber kolaylık; aynı güçlük, iki kolaylık",
-    "وَإِلَىٰ": "\"wa-ilā\" (وَإِلَىٰ)\nKök: L-L-L — (halbuki)\nKalıp: wa- öneki + Harf/edat (mabni)\nKur'an'da: 2:210, 3:28, 3:109, 4:61",
+    "وَإِلَىٰ": "\"ilā\" (إِلَى)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; yön, hedef, sınır\nKur'an'da: 742 kez — hareket yönü bildiren edat",
     "نَشْرَحْ": "\"našraḥ\" (نَشْرَحْ)\nKök: ş-r-ḥ — açmak, genişletmek\nKalıp: Müzâri; \"açmadık mı, genişletmedik mi\"\nKur'an'da: 94:1 — Allah göğsünü açmak = anlayış, huzur ve genişlik vermek",
     "صَدْرَكَ": "\"ṣadraka\" (صَدْرَكَ)\nKök: ṣ-d-r — göğüs, yön\nKalıp: İsim + iye; \"göğsünü\"\nKur'an'da: 94:1 — Göğüs: Kur'an'da imanın ve aklın merkezi",
     "وِزْرَكَ": "\"wizraka\" (وِزْرَكَ)\nKök: w-z-r — ağır yük, günah\nKalıp: İsim + iye; \"yükünü, günahını\"\nKur'an'da: 94:2 — Allah ağır yükü kaldırdı; peygambere rahatlama verdi",
@@ -17,6 +17,8 @@
     "فَرَغْتَ": "\"faraghta\" (فَرَغْتَ)\nKök: f-r-ğ — boşalmak, bitirmek\nKalıp: Mâzi; \"bitirince, tamamlayınca\"\nKur'an'da: 94:7 — İş bitince başka işe koyul; sürekli çalışma emri",
     "فَٱنصَبْ": "\"fa-nṣab\" (فَٱنصَبْ)\nKök: n-ṣ-b — dikmek, yorulmak\nKalıp: Emir; \"çalış, yorulana dek çabayla\"\nKur'an'da: 94:7 — İş bitince dinlenme, yeni çabaya geç",
     "رَبِّكَ": "\"rabbika\" (رَبِّكَ)\nKök: R-B-B — terbiye etmek, sahip olmak\nKalıp: İsim + 2. tekil iyelik zamiri, mecrur; \"Rabbinin\"\nKur'an'da: 110:3, yaygın",
-    "فَٱرْغَب": "\"fa-rğab\" (فَٱرْغَب)\nKök: r-ğ-b — arzu etmek, yönelmek\nKalıp: Emir; \"yönel, arzu et\"\nKur'an'da: 94:8 — Rabbine yönel; dua ve tevekkül"
+    "فَٱرْغَب": "\"fa-rğab\" (فَٱرْغَب)\nKök: r-ğ-b — arzu etmek, yönelmek\nKalıp: Emir; \"yönel, arzu et\"\nKur'an'da: 94:8 — Rabbine yönel; dua ve tevekkül",
+    "فَإِنَّ": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç",
+    "فَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın"
   }
 }

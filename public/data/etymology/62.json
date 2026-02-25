@@ -17,7 +17,7 @@
     "ٱلْعَزِيزُ": "\"el-ʿAzīz\" (ٱلْعَزِيزُ)\nKök: ʿ-z-z — güçlü, nadir\nKalıp: Mübalağa; \"mutlak güçlü, yenilmez\"\nKur'an'da: çok ayette — Allah'ın en sık geçen isimlerinden",
     "ٱلْحَكِيمُ": "\"el-Ḥakīm\" (ٱلْحَكِيمُ)\nKök: ḥ-k-m — hikmet, hüküm\nKalıp: Mübalağa; \"en büyük hikmet sahibi\"\nKur'an'da: çok ayette — Genellikle Aziz ile birlikte geçer",
     "ٱللَّهِ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
-    "وَٱللَّهُ": "\"wal-lahu\" (وَٱللَّهُ)\nKök: L-H-H — oysa Allah\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:19, 2:72, 2:95, 2:96",
+    "وَٱللَّهُ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "ٱلْفَضْلِ": "\"l-faḍli\" (ٱلْفَضْلِ)\nKök: F-Ḍ-L — lutuf\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:105, 2:237, 3:73, 3:74",
     "ٱلْعَظِيمِ": "\"l-ʿaẓīmi\" (ٱلْعَظِيمِ)\nKök: ʿ-Ẓ-M — büyük\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:105, 2:255, 3:74, 4:13",
     "ٱلَّذِينَ": "\"alladhīna\" (ٱلَّذِينَ)\nKök: — yapısal mevsul zamir\nKalıp: Çoğul eril mevsul sıfat; \"onlar ki, kimseler\"\nKur'an'da: 103:3, 107:5, çok yaygın",
@@ -67,6 +67,10 @@
     "يَوْمِ": "\"yawma\" (يَوْمَ)\nKök: Y-W-M — gün\nKalıp: Akuzatif zarf; \"gün, günde\"\nKur'an'da: 101:4, yaygın — يَوْمَ يَكُونُ gibi",
     "لَّكُمْ": "\"lakum\" (لَكُمْ)\nKök: — lam edatı + 2. çoğul zamir\nKalıp: li + kum; \"size ait, sizin için\"\nKur'an'da: 109:6, yaygın",
     "تَعْلَمُونَ": "\"taʿlamūna\" (تَعْلَمُونَ)\nKök: ʿ-L-M — bilmek, öğrenmek\nKalıp: Muzari, 2. çoğul eril; \"bileceksiniz\"\nKur'an'da: 102:3, 102:4",
-    "وَمِنَ": "\"wamin\" (وَمِن)\nKök: — bağlaç + edat\nKalıp: wa + min; \"ve ... -den, ve ... -in şerrinden\"\nKur'an'da: 113:3, yaygın"
+    "وَمِنَ": "\"wamin\" (وَمِن)\nKök: — bağlaç + edat\nKalıp: wa + min; \"ve ... -den, ve ... -in şerrinden\"\nKur'an'da: 113:3, yaygın",
+    "وَهُوَ": "\"huwa\" (هُوَ)\nKök: — kişi zamiri\nKalıp: 3. tekil eril; \"o (erkek/şey)\"\nKur'an'da: 112:1, çok yaygın",
+    "فَإِنَّهُۥ": "\"innahu\" (إِنَّهُۥ)\nKök: — teyit edatı + zamir\nKalıp: inna + hu; \"şüphesiz O/o ki\"\nKur'an'da: 110:3, çok yaygın",
+    "فَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
+    "وَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın"
   }
 }

@@ -15,7 +15,7 @@
     "وَٱلْقَمَرِ": "\"wa-l-qamar\" (وَٱلْقَمَرِ)\nKök: q-m-r — ay\nKalıp: İsim; \"ay\"\nKur'an'da: 91:2, çok ayette — Kur'an'da 27 kez geçer; kozmik yemin",
     "ٱلْقُرْءَانُ": "\"l-qur'ānu\" (ٱلْقُرْءَانُ)\nKök: Q-R-N — Kur'an\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:185, 4:82, 5:101, 6:19",
     "ٱلَّذِينَ": "\"alladhīna\" (ٱلَّذِينَ)\nKök: — yapısal mevsul zamir\nKalıp: Çoğul eril mevsul sıfat; \"onlar ki, kimseler\"\nKur'an'da: 103:3, 107:5, çok yaygın",
-    "وَٱللَّهُ": "\"wal-lahu\" (وَٱللَّهُ)\nKök: L-H-H — oysa Allah\nKalıp: wal- öneki + Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:19, 2:72, 2:95, 2:96",
+    "وَٱللَّهُ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "أَلِيمٍ": "\"alīmin\" (أَلِيمٍ)\nKök: L-M-N — acı\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:10, 2:104, 2:174, 2:178",
     "ٱلصَّـٰلِحَـٰتِ": "\"l-ṣāliḥāti\" (ٱلصَّـٰلِحَـٰتِ)\nKök: S-L-H — düzelti, iyilik, barış\nKalıp: Dişil çoğul sıfat, mecrur; \"iyi işler, sâlih ameller\"\nKur'an'da: 103:3, yaygın",
     "إِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
@@ -53,6 +53,11 @@
     "إِلَّا": "\"illā\" (إِلَّا)\nKök: — yapısal istisna edatı\nKalıp: İstisna (hariç); \"... dışında, ancak, yalnızca\"\nKur'an'da: 2:9, çok yaygın — tevhid cümleleri dahil",
     "ءَامَنُوا۟": "\"āmanū\" (ءَامَنُوا۟)\nKök: A-M-N — güvenmek, iman etmek\nKalıp: Mazi (IV. bab: āmana), 3. çoğul; \"iman edenler\"\nKur'an'da: 103:3, yaygın",
     "وَعَمِلُوا۟": "\"waʿamilū\" (وَعَمِلُوا۟)\nKök: ʿ-M-L — çalışmak, yapmak, eylemek\nKalıp: wa + mazi, 3. çoğul; \"ve çalışanlar\"\nKur'an'da: 103:3",
-    "مَمْنُونٍۭ": "\"mamnūn\" (مَمْنُونٍ)\nKök: m-n-n — nimet, kesmek\nKalıp: İsm-i mefʿul; \"kesilmeyen, eksilmeyen\"\nKur'an'da: 84:25 — Sonsuz ve kesilmeyen ecir"
+    "مَمْنُونٍۭ": "\"mamnūn\" (مَمْنُونٍ)\nKök: m-n-n — nimet, kesmek\nKalıp: İsm-i mefʿul; \"kesilmeyen, eksilmeyen\"\nKur'an'da: 84:25 — Sonsuz ve kesilmeyen ecir",
+    "وَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
+    "فَسَوْفَ": "\"sawfa\" (سَوْفَ)\nKök: — yapısal gelecek edatı\nKalıp: Muzari fiilin geleceğini teyit eder; \"yakında, ileride\"\nKur'an'da: 102:3",
+    "وَيَصْلَىٰ": "\"yaṣlā\" (يَصْلَى)\nKök: ṣ-l-y — yanmak\nKalıp: Müzâri; \"yanacak\"\nKur'an'da: 87:12 — En büyük ateşe girecek",
+    "فَلَآ": "\"lā\" (لَا)\nKök: — yapısal olumsuzluk edatı\nKalıp: Muzari olumsuzluk, emir yasağı (nahiy), varlık olumsuzlaması\nKur'an'da: binden fazla kez — en temel olumsuzluk",
+    "فَمَا": "\"mā\" (مَا)\nKök: — yapısal partikül\nKalıp: Mevsul zamiri, olumsuzluk veya soru; \"ne ki, ne zaman\"\nKur'an'da: 113:2, yaygın"
   }
 }

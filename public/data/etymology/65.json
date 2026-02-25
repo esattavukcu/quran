@@ -25,7 +25,7 @@
     "ٱلْأَحْمَالِ": "\"l-aḥmāli\" (ٱلْأَحْمَالِ)\nKök: Ḥ-M-L — gebe\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 65:4",
     "مِّن": "\"min\" (مِن)\nKök: — yapısal edat\nKalıp: Harfü'l-cerr; menşe, parça, nedensellik anlamı\nKur'an'da: 3226 kez — Kuran'ın en sık edatı",
     "وَإِن": "\"wa-inna\" (وَإِنَّ)\nKök: — bağlaç + teyit\nKalıp: wa + inna; \"ve gerçekten ki\"\nKur'an'da: yaygın",
-    "فَإِنْ": "\"fa-in\" (فَإِنْ)\nKök: N-N-N — yok eğer\nKalıp: fa- öneki + Harf/edat (mabni)\nKur'an'da: 2:24, 2:61, 2:98, 2:137",
+    "فَإِنْ": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç",
     "ٱللَّهُ ۚ": "\"Allāh\" (ٱللَّهُ)\nKök: İ-L-H — ilah, tapılan\nKalıp: Özel isim; yalnızca Allah için\nKur'an'da: 2:255 (Ayetü'l-kürsî) — Kur'an'ın en sık kelimesi, 2698 kez",
     "ٱلْأَلْبَـٰبِ": "\"l-albābi\" (ٱلْأَلْبَـٰبِ)\nKök: L-B-B — akıl\nKalıp: Belirli isim yapısı (el- takılı / izafet olası)\nKur'an'da: 2:179, 2:197, 2:269, 3:7",
     "ٱلَّذِينَ": "\"alladhīna\" (ٱلَّذِينَ)\nKök: — yapısal mevsul zamir\nKalıp: Çoğul eril mevsul sıfat; \"onlar ki, kimseler\"\nKur'an'da: 103:3, 107:5, çok yaygın",
@@ -77,6 +77,11 @@
     "وَمِنَ": "\"wamin\" (وَمِن)\nKök: — bağlaç + edat\nKalıp: wa + min; \"ve ... -den, ve ... -in şerrinden\"\nKur'an'da: 113:3, yaygın",
     "أَنَّ": "\"inna\" (إِنَّ)\nKök: — yapısal teyit edatı\nKalıp: İsim cümlesini nasb eder; \"gerçekten, şüphesiz ki\"\nKur'an'da: 742 kez — teolojik teyit için temel araç",
     "عَلَىٰ": "\"ʿalā\" (عَلَى)\nKök: ʿ-L-W — yükselmek, üstte olmak\nKalıp: Harfü'l-cerr; üstünde, hakkında, aleyhine\nKur'an'da: 1375 kez — çok yaygın",
-    "وَأَنَّ": "\"wa-inna\" (وَإِنَّ)\nKök: — bağlaç + teyit\nKalıp: wa + inna; \"ve gerçekten ki\"\nKur'an'da: yaygın"
+    "وَأَنَّ": "\"wa-inna\" (وَإِنَّ)\nKök: — bağlaç + teyit\nKalıp: wa + inna; \"ve gerçekten ki\"\nKur'an'da: yaygın",
+    "وَٱتَّقُوا۟": "\"ittaqū\" (ٱتَّقُوا)\nKök: w-q-y — sakınmak\nKalıp: Emir çoğul; \"sakının\"\nKur'an'da: çok ayette — \"Allah'tan sakının\"",
+    "فَقَدْ": "\"qad\" (قَدْ)\nKök: — yapısal partikül\nKalıp: Mazi fiilin gerçekleştiğini teyit eder; \"gerçekten, kesinlikle\"\nKur'an'da: 2:60, yaygın",
+    "فَإِذَا": "\"idhā\" (إِذَا)\nKök: — yapısal şart/zaman edatı\nKalıp: Zamansal bağlaç; \"ne zaman ki, -dığında\"\nKur'an'da: 110:1, yaygın",
+    "وَكَانَ": "\"kāna\" (كَانَ)\nKök: K-W-N — olmak, var olmak\nKalıp: Nâkıs mazi fiil; isim cümlesini ta'dil eder\nKur'an'da: 110:3, çok yaygın",
+    "فَٱتَّقُوا۟": "\"ittaqū\" (ٱتَّقُوا)\nKök: w-q-y — sakınmak\nKalıp: Emir çoğul; \"sakının\"\nKur'an'da: çok ayette — \"Allah'tan sakının\""
   }
 }
