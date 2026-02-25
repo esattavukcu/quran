@@ -2,39 +2,77 @@
 
 import { useState, useCallback } from 'react';
 
-let nuzulData: Record<string, string> | null = null;
+interface NuzulData {
+  surah: string;
+  verses: Record<string, string>;
+}
 
-async function loadNuzulData(): Promise<Record<string, string>> {
-  if (nuzulData) return nuzulData;
-  const res = await fetch('/quran/data/nuzul.json');
+const nuzulCache = new Map<number, NuzulData>();
+
+async function loadSurahNuzul(surahNumber: number): Promise<NuzulData> {
+  if (nuzulCache.has(surahNumber)) return nuzulCache.get(surahNumber)!;
+  const res = await fetch(`/quran/data/nuzul/${surahNumber}.json`);
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  nuzulData = await res.json();
-  return nuzulData!;
+  const data: NuzulData = await res.json();
+  nuzulCache.set(surahNumber, data);
+  return data;
+}
+
+/**
+ * Ayet numarasina gore nuzul bilgisi arar.
+ * Oncelik sirasi:
+ * 1. Tam eslesme: "5"
+ * 2. Aralik eslesme: "1-5" (ayet 3 icin "1-5" eslenir)
+ * 3. Bulunamazsa null doner
+ */
+function findVerseNuzul(verses: Record<string, string>, verseNumber: number): string | null {
+  // Tam eslesme
+  const exact = verses[String(verseNumber)];
+  if (exact) return exact;
+
+  // Aralik eslesme
+  for (const key of Object.keys(verses)) {
+    if (key.includes('-')) {
+      const [start, end] = key.split('-').map(Number);
+      if (verseNumber >= start && verseNumber <= end) {
+        return verses[key];
+      }
+    }
+  }
+
+  return null;
 }
 
 export function useNuzul() {
   const [loading, setLoading] = useState(false);
-  const [result, setResult] = useState<string | null>(null);
+  const [surahResult, setSurahResult] = useState<string | null>(null);
+  const [verseResult, setVerseResult] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
 
   const fetchNuzul = useCallback(
     async (params: {
       surahNumber: number;
       surahName: string;
-      verseStart: number;
-      verseEnd: number;
-      verseText: string;
+      verseNumber: number;
     }) => {
       setLoading(true);
       setError(null);
 
       try {
-        const data = await loadNuzulData();
-        const content = data[String(params.surahNumber)];
-        if (content) {
-          setResult(content);
+        const data = await loadSurahNuzul(params.surahNumber);
+
+        // Ayet bazli nuzul ara
+        const verseContent = findVerseNuzul(data.verses, params.verseNumber);
+        setVerseResult(verseContent);
+
+        // Sure bazli nuzul
+        if (data.surah) {
+          setSurahResult(data.surah);
         } else {
-          setError('Bu sure icin nuzul bilgisi bulunamadi');
+          setSurahResult(null);
+          if (!verseContent) {
+            setError('Bu ayet icin nuzul bilgisi bulunamadi');
+          }
         }
       } catch (err) {
         setError(err instanceof Error ? err.message : 'Bir hata olustu');
@@ -46,9 +84,10 @@ export function useNuzul() {
   );
 
   const reset = useCallback(() => {
-    setResult(null);
+    setSurahResult(null);
+    setVerseResult(null);
     setError(null);
   }, []);
 
-  return { fetchNuzul, loading, result, error, reset };
+  return { fetchNuzul, loading, surahResult, verseResult, error, reset };
 }

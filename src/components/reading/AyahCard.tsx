@@ -60,9 +60,7 @@ export default function AyahCard({ ayah, wordData, surahNumber, surahName }: Aya
       <NuzulPanel
         surahNumber={surahNumber}
         surahName={surahName}
-        verseStart={ayah.numberInSurah}
-        verseEnd={ayah.numberInSurah}
-        verseText={ayah.transliteration}
+        verseNumber={ayah.numberInSurah}
         isOpen={nuzulOpen}
         onToggle={() => setNuzulOpen(!nuzulOpen)}
       />
