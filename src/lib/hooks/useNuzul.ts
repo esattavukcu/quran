@@ -6,7 +6,7 @@ let nuzulData: Record<string, string> | null = null;
 
 async function loadNuzulData(): Promise<Record<string, string>> {
   if (nuzulData) return nuzulData;
-  const res = await fetch('/data/nuzul.json');
+  const res = await fetch('/quran/data/nuzul.json');
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   nuzulData = await res.json();
   return nuzulData!;

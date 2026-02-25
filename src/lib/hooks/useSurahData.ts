@@ -21,7 +21,7 @@ export function useSurahData(surahNumber: number) {
     setLoading(true);
     setError(null);
 
-    fetch(`/data/surahs/${surahNumber}.json`)
+    fetch(`/quran/data/surahs/${surahNumber}.json`)
       .then((res) => {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         return res.json();

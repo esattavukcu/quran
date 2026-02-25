@@ -8,7 +8,7 @@ async function loadSurahEtymology(surahNumber: number): Promise<Record<string, s
   if (etymologyCache.has(surahNumber)) return etymologyCache.get(surahNumber)!;
 
   try {
-    const res = await fetch(`/data/etymology/${surahNumber}.json`);
+    const res = await fetch(`/quran/data/etymology/${surahNumber}.json`);
     if (!res.ok) return {};
     const data = await res.json();
     const words = data.words || {};

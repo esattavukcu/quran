@@ -19,7 +19,7 @@ export function useWordData(surahNumber: number) {
     let cancelled = false;
     setLoading(true);
 
-    fetch(`/data/words/${surahNumber}.json`)
+    fetch(`/quran/data/words/${surahNumber}.json`)
       .then((res) => {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         return res.json();
