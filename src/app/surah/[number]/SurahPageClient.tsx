@@ -85,13 +85,9 @@ export default function SurahPage({ params }: { params: Promise<{ number: string
           <div className="flex-1 min-w-0">
             <h1
               className="text-xl font-bold text-white truncate leading-tight"
-              style={{ fontFamily: "'Crimson Pro', Georgia, serif" }}
             >
               {surah.turkishName}
-              <span
-                className="text-white/50 font-normal text-base ml-1.5"
-                style={{ fontFamily: "'Plus Jakarta Sans', system-ui, sans-serif" }}
-              >
+              <span className="text-white/50 font-normal text-base ml-1.5">
                 ({surah.englishName})
               </span>
             </h1>

@@ -42,10 +42,7 @@ export default function TranslationPair({ ayah }: TranslationPairProps) {
               <span className="text-[10px] font-bold text-accent/70 uppercase tracking-wider block mb-1.5">
                 {opt.label}
               </span>
-              <p
-                className="text-foreground/80 leading-relaxed"
-                style={{ fontFamily: "'Crimson Pro', Georgia, serif", fontSize: '0.9rem', lineHeight: '1.65' }}
-              >
+              <p className="text-sm text-foreground/80 leading-relaxed">
                 {text}
               </p>
               {!opt.isDefault && (

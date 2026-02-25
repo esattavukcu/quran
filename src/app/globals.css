@@ -31,7 +31,7 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: 'Plus Jakarta Sans', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -49,10 +49,9 @@ html {
 
 /* Transliteration text styling */
 .transliteration-text {
-  font-size: 1.2rem;
+  font-size: 1.25rem;
   line-height: 2;
   letter-spacing: 0.01em;
-  font-family: 'Crimson Pro', 'Georgia', serif;
 }
 
 /* Clickable word styling */

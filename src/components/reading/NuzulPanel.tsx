@@ -51,8 +51,7 @@ export default function NuzulPanel({ verseNumber, nuzulText }: NuzulPanelProps) 
       {isOpen && (
         <div className="border-t border-emerald-200 p-3 bg-white/50">
           <div
-            className="text-foreground/80 leading-relaxed whitespace-pre-wrap"
-            style={{ fontFamily: "'Crimson Pro', Georgia, serif", fontSize: '0.9rem', lineHeight: '1.75' }}
+            className="text-sm text-foreground/80 leading-relaxed whitespace-pre-wrap"
           >
             {nuzulText}
           </div>

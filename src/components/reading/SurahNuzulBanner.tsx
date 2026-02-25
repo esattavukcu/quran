@@ -79,8 +79,7 @@ export default function SurahNuzulBanner({ surahName, nuzulText, loading }: Sura
           ) : nuzulText ? (
             <div className="p-4 bg-white/50">
               <div
-                className="text-foreground/80 leading-relaxed whitespace-pre-wrap"
-                style={{ fontFamily: "'Crimson Pro', Georgia, serif", fontSize: '0.95rem', lineHeight: '1.8' }}
+                className="text-sm text-foreground/80 leading-relaxed whitespace-pre-wrap"
               >
                 {nuzulText}
               </div>

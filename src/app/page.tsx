@@ -52,10 +52,7 @@ export default function HomePage() {
         >
           <div className="flex items-end justify-between">
             <div>
-              <h1
-                className="text-3xl font-bold text-white tracking-tight"
-                style={{ fontFamily: "'Crimson Pro', Georgia, serif" }}
-              >
+              <h1 className="text-3xl font-bold text-white tracking-tight">
                 Kuran
               </h1>
               <p className="text-white/50 text-[11px] tracking-widest uppercase mt-0.5">
@@ -130,10 +127,7 @@ export default function HomePage() {
             {/* Info */}
             <div className="flex-1 py-3 min-w-0">
               <div className="flex items-baseline gap-1.5">
-                <span
-                  className="font-semibold text-foreground group-hover:text-accent transition-colors truncate"
-                  style={{ fontFamily: "'Crimson Pro', Georgia, serif", fontSize: '1.05rem' }}
-                >
+                <span className="font-semibold text-foreground group-hover:text-accent transition-colors truncate">
                   {surah.turkishName}
                 </span>
                 <span className="text-xs text-muted shrink-0 truncate">({surah.englishName})</span>
